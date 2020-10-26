@@ -12,10 +12,23 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import plotly.graph_objs as go
+import plotly.express as px
+import shapely.geometry
 from dash.dependencies import Input, Output, State
 
 amenities = ['medical_clinic', 'primary_school','supermarket']
 amenity_names = {'medical_clinic':'Medical Clinic', 'primary_school':'Primary School','supermarket':'Supermarket'}
+
+distance_column_names = ['base_supermarket','base_medical_clinic','base_primary_school','mean_supermarket','mean_medical_clinic','mean_primary_school','95_supermarket','95_medical_clinic','95_primary_school','5_supermarket','5_medical_clinic','5_primary_school']
+
+cities = ['ch', 'wa', 'tx']
+city_names = {'ch':'Christchurch, New Zealand', 'wa':'Seattle, USA', 'tx':'Houston, USA'}
+
+hazards = ['tsunami', 'liquefaction', 'multi', 'hurricane']
+hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami', 'hurricane':'Hurricane Inundation'}
+
+demographics = ['total_pop', 'white', 'indigenous',	'asian', 'polynesian', 'latino', 'african_american']
+demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Indigenous',	'asian':'Asain', 'polynesian':'Polynesian', 'latino':'Latino', 'african_american':'African American'}
 
 # app initialize
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -39,10 +52,13 @@ mapbox_access_token = open(".mapbox_token").read()
 # Load data
 df_dist = pd.read_csv('./data/ch_nearest_dist.csv')
 df_dist[amenities] = df_dist[amenities]/1000
+dff_dist = df_dist
+
+df_dist_sim = pd.read_csv('./data/results_ch_tsunami.csv')
+df_dist_sim[distance_column_names] = df_dist_sim[distance_column_names]/1000
 
 destinations = pd.read_csv('./data/ch_destinations.csv')
 
-df_ecdf = pd.read_csv('./data/ch_ecdf.csv')
 
 
 # Assign color to legend
@@ -69,10 +85,7 @@ def build_banner():
         id="banner",
         className="banner",
         children=[
-            html.A([
-                html.Img(src=app.get_asset_url("urutau-logo.png")),
-            ], href='https://apps.urutau.co.nz'),
-            html.H6("Proximity to urban amenities"),
+            html.H6("Access Resilience"),
         ],
     )
 
@@ -89,12 +102,32 @@ def brush(trace, points, state):
                                       # we have 0 at the position of unselected
                                       # points and 1 in the position of selected points
 
-def generate_ecdf_plot(amenity_select, dff_dist, x_range=None):
+####################################################################################################################################################################################
+''' ECDF '''
+####################################################################################################################################################################################
+
+def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_select, demographic_compare, city_select, btn_recent, x_range=None):
     """
     :param amenity_select: the amenity of interest.
     :return: Figure object
     """
     amenity = amenity_select
+    hazard = hazard_select
+    demograph = demographic_select
+    state = city_select
+
+    if state =='ch' and hazard != None:
+        df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, hazard))
+    if state =='ch' and hazard == None:
+        df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, 'tsunami'))
+    elif state == 'wa':
+        df_dist_sim = pd.read_csv('./data/results_wa_liquefaction.csv')
+    elif state == 'tx':
+        df_dist_sim = pd.read_csv('./data/results_tx_hurricane.csv')
+
+
+    df_dist_sim[distance_column_names] = df_dist_sim[distance_column_names]/1000
+
     if x_range is None:
         x_range = [dff_dist[amenity].min(), dff_dist[amenity].max()]
 
@@ -110,52 +143,187 @@ def generate_ecdf_plot(amenity_select, dff_dist, x_range=None):
             fixedrange=True,
             ),
         font=dict(size=13),
+        legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=0.1,
+        xanchor="right",
+        x=1,
+        bgcolor='rgba(0,0,0,0)'
+    ),
         dragmode="select",
         paper_bgcolor = 'rgba(255,255,255,1)',
 		plot_bgcolor = 'rgba(0,0,0,0)',
         bargap=0.05,
-        showlegend=False,
+        showlegend=True,
         margin={'t': 10},
         transition = {'duration': 500},
 
     )
     data = []
-    # add the cdf for that amenity
-    counts, bin_edges = np.histogram(dff_dist[amenity], bins=100, density = True, weights=dff_dist.population)
-    dx = bin_edges[1] - bin_edges[0]
-    new_trace = go.Scatter(
-            x=bin_edges, y=np.cumsum(counts)*dx*100,
-            opacity=1,
-            line=dict(color=colormap[amenity],),
-            text=np.repeat(amenity,len(dff_dist[amenity])),
-            hovertemplate = "%{y:.1f}% of residents live within %{x:.1f}km of a %{text} <br>" + "<extra></extra>",
-            hoverlabel = dict(font_size=20),
-            )
+    if (demographic_compare == None and btn_recent == 'reset') or (demographic_compare == None and btn_recent == 'hazard') or (demographic_compare != None and btn_recent == 'reset'):
+        # add the cdf for that amenity
+        counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['base_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demograph])
+        dx = bin_edges[1] - bin_edges[0]
+        new_trace = go.Scatter(
+                x=bin_edges, y=np.cumsum(counts)*dx*100,
+                opacity=1,
+                line_color='rgba(224, 145, 0, 1)',
+                text=np.repeat(amenity,len(dff_dist[amenity])),
+                hovertemplate = "%{y:.1f}% of residents live within %{x:.1f}km of a %{text} <br>" + "<extra></extra>",
+                hoverlabel = dict(font_size=20),
+                name='Pre Hazard' if demographic_compare == None else 'Pre Hazard: {}'.format(demographic_names[demograph]),
+                showlegend=True
+                )
+        data.append(new_trace)
 
-    data.append(new_trace)
+    if btn_recent == 'hazard':
+        counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['mean_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demograph])
+        dx = bin_edges[1] - bin_edges[0]
+        mean_trace = go.Scatter(
+                x=bin_edges, y=np.cumsum(counts)*dx*100,
+                opacity=1,
+                line_color='rgba(224, 145, 0, 1)',
+                hovertemplate = "After a hazard %{y:.1f}% of residents live within %{x:.1f}km of a %{text} <br>" + "<extra></extra>",
+                hoverlabel = dict(font_size=20),
+                name='Post Hazard' if demographic_compare == None else 'Post Hazard: {}'.format(demographic_names[demograph]),
+                showlegend=True
+                )
+        data.append(mean_trace)
 
-    # histogram
-    multiplier = 300 if amenity=='supermarket' else 150
-    counts, bin_edges = np.histogram(dff_dist[amenity], bins=25, density=True, weights=dff_dist.population)
-    opacity = []
-    for i in bin_edges:
-        if i >= x_range[0] and i <= x_range[1]:
-            opacity.append(0.6)
-        else:
-            opacity.append(0.1)
-    new_trace = go.Bar(
-            x=bin_edges, y=counts*multiplier,
-            marker_opacity=opacity,
-            marker_color=colormap[amenity],
-            hoverinfo="skip", hovertemplate="",)
-    data.append(new_trace)
+        counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['5_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demograph])
+        dx = bin_edges[1] - bin_edges[0]
+        lower_trace = go.Scatter(
+                x=bin_edges, y=np.cumsum(counts)*dx*100,
+                name='',
+                #fill='tonexty',
+                #fillcolor='rgba(255, 0, 0, 0.5)',
+                mode='lines',
+                line_color='rgba(255, 0, 0, 0.3)' if demographic_compare == None else 'rgba(224, 145, 0, 0)',
+                hoverinfo='skip',
+                showlegend=False
+                )
+        data.append(lower_trace)
+
+        counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['95_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demograph])
+        dx = bin_edges[1] - bin_edges[0]
+        upper_trace = go.Scatter(
+                x=bin_edges, y=np.cumsum(counts)*dx*100,
+                fill='tonexty',
+                fillcolor='rgba(255, 0, 0, 0.45)' if demographic_compare == None else 'rgba(224, 145, 0, 0.15)',
+                mode='lines',
+                line_color='rgba(255, 0, 0, 0.5)' if demographic_compare == None else 'rgba(39, 25, 168, 0.0)',
+                hoverinfo='skip',
+                name='90% Confidence Interval',
+                showlegend=True
+                )
+        data.append(upper_trace)
+
+        if demographic_compare == None:
+            # histogram
+            multiplier = 300 if amenity=='supermarket' else 150
+            counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['mean_{}'.format(amenity)], bins=25, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demograph])
+            opacity = []
+            for i in bin_edges:
+                if i >= x_range[0] and i <= x_range[1]:
+                    opacity.append(0.6)
+                else:
+                    opacity.append(0.1)
+            new_trace = go.Bar(
+                    x=bin_edges, y=counts*multiplier,
+                    marker_opacity=opacity,
+                    marker_color=colormap[amenity],
+                    hoverinfo="skip", hovertemplate="",
+                    showlegend=False)
+            data.append(new_trace)
+
+    if btn_recent == 'reset' and demographic_compare == None:
+        # histogram
+        multiplier = 300 if amenity=='supermarket' else 150
+        counts, bin_edges = np.histogram(dff_dist[amenity], bins=25, density=True, weights=dff_dist.population)
+        opacity = []
+        for i in bin_edges:
+            if i >= x_range[0] and i <= x_range[1]:
+                opacity.append(0.6)
+            else:
+                opacity.append(0.1)
+        new_trace = go.Bar(
+                x=bin_edges, y=counts*multiplier,
+                marker_opacity=opacity,
+                marker_color=colormap[amenity],
+                hoverinfo="skip", hovertemplate="",
+                showlegend=False)
+        data.append(new_trace)
+
+    if demographic_compare != None:
+        if btn_recent == 'reset':
+            # add the cdf for that amenity
+            counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['base_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demographic_compare])
+            dx = bin_edges[1] - bin_edges[0]
+            new_trace = go.Scatter(
+                    x=bin_edges, y=np.cumsum(counts)*dx*100,
+                    opacity=1,
+                    line_color= 'rgba(39, 25, 168, 1)',
+                    text=np.repeat(amenity,len(dff_dist[amenity])),
+                    hovertemplate = "%{y:.1f}% of residents live within %{x:.1f}km of a %{text} <br>" + "<extra></extra>",
+                    hoverlabel = dict(font_size=20),
+                    name='Pre Hazard' if demographic_compare == None else 'Pre Hazard: {}'.format(demographic_names[demographic_compare]),
+                    showlegend=True
+                    )
+            data.append(new_trace)
+
+        if btn_recent == 'hazard':
+            counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['mean_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demographic_compare])
+            dx = bin_edges[1] - bin_edges[0]
+            mean_trace = go.Scatter(
+                    x=bin_edges, y=np.cumsum(counts)*dx*100,
+                    opacity=1,
+                    line_color= 'rgba(39, 25, 168, 1)',
+                    hovertemplate = "After a hazard %{y:.1f}% of residents live within %{x:.1f}km of a %{text} <br>" + "<extra></extra>",
+                    hoverlabel = dict(font_size=20),
+                    name='Post Hazard: {}'.format(demographic_names[demographic_compare]),
+                    showlegend=True
+                    )
+            data.append(mean_trace)
+
+            counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['5_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demographic_compare])
+            dx = bin_edges[1] - bin_edges[0]
+            lower_trace = go.Scatter(
+                    x=bin_edges, y=np.cumsum(counts)*dx*100,
+                    name='',
+                    #fill='tonexty',
+                    #fillcolor='rgba(255, 0, 0, 0.5)',
+                    mode='lines',
+                    line_color='rgba(39, 25, 168, 0.3)' if demographic_compare == None else 'rgba(39, 25, 168, 0.0)',
+                    hoverinfo='skip',
+                    showlegend=False
+                    )
+            data.append(lower_trace)
+
+            counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['95_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demographic_compare])
+            dx = bin_edges[1] - bin_edges[0]
+            upper_trace = go.Scatter(
+                    x=bin_edges, y=np.cumsum(counts)*dx*100,
+                    fill='tonexty',
+                    fillcolor='rgba(255, 0, 0, 0.45)' if demographic_compare == None else 'rgba(39, 25, 168, 0.15)',
+                    mode='lines',
+                    line_color='rgba(255, 0, 0, 0.5)' if demographic_compare == None else 'rgba(39, 25, 168, 0.0)',
+                    hoverinfo='skip',
+                    name='90% Confidence Interval',
+                    showlegend=True
+                    )
+            data.append(upper_trace)
 
 
     return {"data": data, "layout": layout}
 
 
+####################################################################################################################################################################################
+''' Map Data '''
+####################################################################################################################################################################################
+# generate base map for diff cities
 
-def generate_map(amenity, dff_dest, x_range=None):
+def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_select, btn_recent, x_range=None):
     """
     Generate map showing the distance to services and the locations of them
     :param amenity: the service of interest.
@@ -164,10 +332,37 @@ def generate_map(amenity, dff_dest, x_range=None):
     :return: Plotly figure object.
     """
 
+    hazard = hazard_select
+    demograph = demographic_select
+    state = city_select
+
+    if state =='ch' and hazard != None:
+        df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, hazard))
+    if state =='ch' and hazard == None:
+        df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, 'tsunami'))
+    elif state == 'wa':
+        df_dist_sim = pd.read_csv('./data/results_wa_liquefaction.csv')
+    elif state == 'tx':
+        df_dist_sim = pd.read_csv('./data/results_tx_hurricane.csv')
+
+    df_dist_sim[distance_column_names] = df_dist_sim[distance_column_names]/1000
+
+    destinations = pd.read_csv('./data/{}_destinations.csv'.format(state))
+    dff_dest = destinations[destinations.dest_type == amenity]
+
+    if state == 'wa':
+        lat = 47.612608
+        lon = -122.331748
+    elif state == 'tx':
+        lat = 29.754603
+        lon = -95.363616
+    elif state == 'ch':
+        lat = -43.530918
+        lon = 172.636744
+
     layout = go.Layout(
         clickmode="none",
         dragmode="zoom",
-
         showlegend=True,
         autosize=True,
         hovermode="closest",
@@ -175,7 +370,7 @@ def generate_map(amenity, dff_dest, x_range=None):
         mapbox=go.layout.Mapbox(
             accesstoken=mapbox_access_token,
             bearing=0,
-            center=go.layout.mapbox.Center(lat = 39.292126, lon = -76.613632),
+            center=go.layout.mapbox.Center(lat = lat, lon = lon),
             pitch=0,
             zoom=10.5,
             style="basic", #"dark", #
@@ -187,42 +382,61 @@ def generate_map(amenity, dff_dest, x_range=None):
             x=0,
             y=0,
             yanchor="bottom",
+            #bgcolor='rgba(0,0,0,0)'
         ),
     )
 
     if x_range:
         # get the indices of the values within the specified range
-        idx = df_dist.index[df_dist[amenity].between(x_range[0],x_range[1], inclusive=True)].tolist()
+        idx = df_dist_sim.index[df_dist_sim['mean_{}'.format(amenity)].between(x_range[0],x_range[1], inclusive=True)].tolist()
     else:
-        idx = df_dist.index.tolist()
+        idx = df_dist_sim.index.tolist()
 
     data = []
-    # choropleth map showing the distance at the block level
-    data.append(go.Choroplethmapbox(
-        geojson = 'https://raw.githubusercontent.com/urutau-nz/dash-evaluating-proximity/master/data/block.geojson',
-        locations = df_dist['geoid10'].tolist(),
-        z = df_dist[amenity].tolist(),
-        colorscale = pl_deep,
-        colorbar = dict(thickness=20, ticklen=3), zmin=0, zmax=5,
-        marker_line_width=0, marker_opacity=0.7,
-        visible=True,
-        hovertemplate="Distance: %{z:.2f}km<br>" +
-                        "<extra></extra>",
-        selectedpoints=idx,
-    ))
 
     # scatterplot of the amenity locations
     data.append(go.Scattermapbox(
         lat=dff_dest["lat"],
         lon=dff_dest["lon"],
         mode="markers",
-        marker={"color": colormap[amenity], "size": 9},
+        marker={"color": colormap[amenity], "size": 7.5},
         name=amenity_names[amenity],
         hoverinfo="skip", hovertemplate="",
+        opacity=0.75
     ))
+
+    if state == 'ch':
+        with urlopen('https://raw.githubusercontent.com/urutau-nz/dash-x-minute-city/master/data/block_chc.geojson') as response:
+            blocks = json.load(response)
+    # else:
+    #     with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/ch_block.geojson') as response:
+    #         blocks = json.load(response)
+    if btn_recent == 'reset':
+        df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
+    elif btn_recent == 'hazard':
+        df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
+
+    data.append(go.Choroplethmapbox(
+        geojson=blocks,
+        featureidkey='properties.sa12018_v1',
+        locations=df_dist_sim['id_orig'].tolist(),
+        z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
+        colorscale = pl_deep,
+        colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
+        marker_line_width=0, marker_opacity=0.6,
+        visible=True,
+        hovertemplate="Distance: %{z:.2f}km<br>" +
+                        "<extra></extra>",
+        #selectedpoints=idx,
+    ))
+
 
     return {"data": data, "layout": layout}
 
+
+####################################################################################################################################################################################
+''' App Layout '''
+####################################################################################################################################################################################
 
 app.layout = html.Div(
     children=[
@@ -240,14 +454,25 @@ app.layout = html.Div(
                                 html.P(
                                     id="instructions",
                                     children=dcc.Markdown('''
-                                    Access, and equitable access, to urban amenities is essential
-                                    for community cohesion and resilience. Explore access to several amenities
-                                    in Baltimore, MD. Zoom into the areas and discover the distance the residents
-                                    have to travel to get to these day-to-day facilities. Select a range on the
-                                    graph to highlight the areas with that distance on the map. Where should
-                                    more amenities be provided?
-                                    Work based on [Logan et. al (2019).](http://journals.sagepub.com/doi/10.1177/2399808317736528)
+                                    Reliable access is extremely important for urban resilience,
+                                    especially in the face of a disaster. Use this tool to explore just how
+                                    resilient your access to essential services is under a hazardous event.
                                     '''),
+                                ),
+                                build_graph_title("Select City"),
+                                dcc.Dropdown(
+                                    id="city-select",
+                                    options=[
+                                        {"label": city_names[i].upper(), "value": i}
+                                        for i in cities
+                                    ],
+                                    value=cities[0],
+                                ),
+                                build_graph_title("Select Hazard"),
+                                dcc.Dropdown(
+                                    id="hazard-select",
+                                    options=[{"label": hazard_names[i].upper(), "value": i} for i in hazards],
+                                    value=hazards[0],
                                 ),
                                 build_graph_title("Select Amenity"),
                                 dcc.Dropdown(
@@ -258,6 +483,30 @@ app.layout = html.Div(
                                     ],
                                     value=amenities[0],
                                 ),
+                                build_graph_title("Compare Demographics"),
+                                dcc.Dropdown(
+                                    id="demographic-select",
+                                    options=[
+                                        {"label": demographic_names[i].upper(), "value": i}
+                                        for i in demographics
+                                    ],
+                                    value=demographics[0],
+                                    style={'float': 'left','margin': 'auto'}
+                                ),
+                                dcc.Dropdown(
+                                    id="demographic-select1",
+                                    options=[
+                                        {"label": demographic_names[i].upper(), "value": i}
+                                        for i in demographics
+                                    ],
+                                    value=None,
+                                    style={'float': 'left','margin': 'auto'}
+                                ),
+                                html.Div([
+                                    html.Button('Run Hazard Event', id='btn-hazard', n_clicks_timestamp=1),
+                                    html.Button('Reset Hazard', id='btn-reset', n_clicks_timestamp=1),
+                                    html.Div(id='container-button-timestamp')
+                                ])
                             ],
                         )
                     ],
@@ -298,7 +547,6 @@ app.layout = html.Div(
                                             "paper_bgcolor": "#192444",
                                             "plot_bgcolor": "#192444",
                                             'mode': 'markers+lines',
-
                                         }
                                     },
                                     config={"scrollZoom": True, "displayModeBar": True,
@@ -327,6 +575,9 @@ app.layout = html.Div(
     ]
 )
 
+#################################################################################
+''' UPDATES '''
+#################################################################################
 
 # Update access map
 @app.callback(
@@ -335,11 +586,22 @@ app.layout = html.Div(
         Input("amenity-select", "value"),
         # Input("ecdf", "relayoutData"),
         Input("ecdf", "selectedData"),
+        Input("hazard-select", "value"),
+        Input("demographic-select", "value"),
+        Input("city-select", "value"),
+        Input("btn-hazard", "n_clicks_timestamp"),
+        Input("btn-reset", "n_clicks_timestamp")
     ],
 )
-def update_map(
-    amenity_select, ecdf_selectedData
-):
+def update_map(amenity_select, ecdf_selectedData, hazard_select, demographic_select, city_select, hazard_clicks, reset_clicks):
+
+    btn_recent = 'reset'
+    changed_id = [p['prop_id'] for p in dash.callback_context.triggered][0]
+    if 'btn-hazard' in changed_id:
+        btn_recent = 'hazard'
+    elif 'btn-reset' in changed_id:
+        btn_recent = 'reset'
+
     x_range = None
     # subset the desination df
     dff_dest = destinations[destinations.dest_type == amenity_select]
@@ -361,7 +623,7 @@ def update_map(
             else:
                 x_range = [ecdf_selectedData['points'][0]['x']]*2
 
-    return generate_map(amenity_select, dff_dest, x_range=x_range)
+    return generate_map(amenity_select, dff_dest, hazard_select, demographic_select, city_select, btn_recent, x_range=x_range)
 
 
 # Update ecdf
@@ -370,11 +632,23 @@ def update_map(
     [
         Input("amenity-select", "value"),
         Input("ecdf", "selectedData"),
+        Input("hazard-select", "value"),
+        Input("demographic-select", "value"),
+        Input("demographic-select1", "value"),
+        Input("city-select", "value"),
+        Input("btn-hazard", "n_clicks_timestamp"),
+        Input("btn-reset", "n_clicks_timestamp")
     ],
 )
 def update_ecdf(
-    amenity_select, ecdf_selectedData
+    amenity_select, ecdf_selectedData, hazard_select, demographic_select, demographic_compare, city_select, hazard_clicks, reset_clicks
     ):
+    btn_recent = 'reset'
+    changed_id = [p['prop_id'] for p in dash.callback_context.triggered][0]
+    if 'btn-hazard' in changed_id:
+        btn_recent = 'hazard'
+    elif 'btn-reset' in changed_id:
+        btn_recent = 'reset'
     x_range = None
     # day = int(day)
 
@@ -397,11 +671,41 @@ def update_ecdf(
                 x_range = ecdf_selectedData['range']['x']
             else:
                 x_range = [ecdf_selectedData['points'][0]['x']]*2
+    return generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_select, demographic_compare, city_select, btn_recent, x_range)
 
-    return generate_ecdf_plot(amenity_select, dff_dist, x_range)
+
+@app.callback(Output('hazard-select', 'options'),
+              [Input('city-select', 'value')])
+def change_hazards(city_select):
+    if city_select == 'ch':
+        hazards = ['tsunami', 'liquefaction', 'multi']
+        hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami'}
+    if city_select == 'wa':
+        hazards = ['liquefaction']
+        hazard_names = {'liquefaction':'Liquefaction'}
+    if city_select == 'tx':
+        hazards = ['hurricane']
+        hazard_names = {'hurricane':'Hurricane Inundation'}
+    return [{"label": hazard_names[i].upper(), "value": i} for i in hazards]
+
+@app.callback(Output('hazard-select', 'value'),
+              [Input('city-select', 'value')])
+def change_hazard_value(city_select):
+    if city_select == 'ch':
+        hazards = ['tsunami', 'liquefaction', 'multi']
+        hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami'}
+    if city_select == 'wa':
+        hazards = ['liquefaction']
+        hazard_names = {'liquefaction':'Liquefaction'}
+    if city_select == 'tx':
+        hazards = ['hurricane']
+        hazard_names = {'hurricane':'Hurricane Inundation'}
+    return hazards[0]
+
+
 
 
 # Running the server
 if __name__ == "__main__":
-    # app.run_server(debug=True, port=8051)
-    app.run_server(port=9004)
+    app.run_server(debug=True, port=8051)
+    #app.run_server(port=9004)
