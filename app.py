@@ -395,41 +395,68 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
     data = []
 
     # scatterplot of the amenity locations
-    data.append(go.Scattermapbox(
-        lat=dff_dest["lat"],
-        lon=dff_dest["lon"],
-        mode="markers",
-        marker={"color": colormap[amenity], "size": 7.5},
-        name=amenity_names[amenity],
-        hoverinfo="skip", hovertemplate="",
-        opacity=0.75
-    ))
+    # data.append(go.Scattermapbox(
+    #     lat=dff_dest["lat"],
+    #     lon=dff_dest["lon"],
+    #     mode="markers",
+    #     marker={"color": colormap[amenity], "size": 7.5},
+    #     name=amenity_names[amenity],
+    #     hoverinfo="skip", hovertemplate="",
+    #     opacity=0.75
+    # ))
+    #
+    # if state == 'ch':
+    #     with urlopen('https://raw.githubusercontent.com/urutau-nz/dash-x-minute-city/master/data/block_chc.geojson') as response:
+    #         blocks = json.load(response)
+    #         featureid = 'sa12018_v1'
+    # else:
+    #     with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/{}_block.geojson'.format(state)) as response:
+    #         blocks = json.load(response)
+    #         featureid = 'geoid10'
+    #
+    # if btn_recent == 'reset':
+    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
+    # elif btn_recent == 'hazard':
+    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
+    #
+    # data.append(go.Choroplethmapbox(
+    #     geojson=blocks,
+    #     featureidkey='properties.{}'.format(featureid),
+    #     locations=df_dist_sim['id_orig'].tolist(),
+    #     z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
+    #     colorscale = pl_deep,
+    #     colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
+    #     marker_line_width=0, marker_opacity=0.6,
+    #     visible=True,
+    #     hovertemplate="Distance: %{z:.2f}km<br>" +
+    #                     "<extra></extra>",
+    #     #selectedpoints=idx,
+    # ))
 
-    if state == 'ch':
-        with urlopen('https://raw.githubusercontent.com/urutau-nz/dash-x-minute-city/master/data/block_chc.geojson') as response:
-            blocks = json.load(response)
-            featureid = 'sa12018_v1'
-    else:
-        with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/{}_block.geojson'.format(state)) as response:
-            blocks = json.load(response)
-            featureid = 'geoid10'
 
-    if btn_recent == 'reset':
-        df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
-    elif btn_recent == 'hazard':
-        df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
+
+    with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/{}_edges.geojson'.format(state)) as response:
+        edges = json.load(response)
+        featureid = 'osmid'
+    edgess = gpd.read_file(r'data/{}_edges.shp'.format(state))
+
+    # if btn_recent == 'reset':
+    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
+    # elif btn_recent == 'hazard':
+    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
 
     data.append(go.Choroplethmapbox(
-        geojson=blocks,
+        geojson=edges,
         featureidkey='properties.{}'.format(featureid),
         locations=df_dist_sim['id_orig'].tolist(),
-        z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
-        colorscale = pl_deep,
-        colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
-        marker_line_width=0, marker_opacity=0.6,
-        visible=True,
-        hovertemplate="Distance: %{z:.2f}km<br>" +
-                        "<extra></extra>",
+        line_opacity=1,
+        line_color='black',
+        # #z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
+        # colorscale = 'blackbody',
+        # #colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
+        # marker_line_width=0, marker_opacity=0.6,
+        # visible=True,
+        # hovertemplate="Distance: %{z:.2f}km<br>" + "<extra></extra>",
         #selectedpoints=idx,
     ))
 
