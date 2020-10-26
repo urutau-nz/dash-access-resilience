@@ -131,6 +131,22 @@
     padding: 1rem;
 }
 
+#city-select .Select-control {
+    padding: 1rem;
+}
+
+#hazard-select .Select-control {
+    padding: 1rem;
+}
+
+#demographic-select .Select-control {
+    padding: 1rem;
+}
+
+#demographic-select1 .Select-control {
+    padding: 1rem;
+}
+
 @media only screen and (max-width: 750px) {
     #banner h6 {
         font-size: 3rem;
@@ -310,7 +326,7 @@
 
 @media (min-width: 1001px) and (max-width: 1400px) {
     #top-row-graphs {
-        padding: 5rem 0;
+        padding: 0rem 0;
         flex-direction: row;
         align-items: stretch;
     }
@@ -319,7 +335,7 @@
 @media (min-width: 1401px) {
     #top-row-graphs {
         display: flex;
-        padding: 15rem 0 5rem 0;
+        padding: 6rem 0 5rem 0;
         flex-direction: row;
         align-items: stretch;
     }

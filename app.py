@@ -135,7 +135,7 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
     layout = dict(
         xaxis=dict(
             title="distance to nearest {} (km)".format(amenity).upper(),
-            # range=(0,15),
+            range=(0,15),
             ),
         yaxis=dict(
             title="% of residents".upper(),
@@ -408,9 +408,12 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
     if state == 'ch':
         with urlopen('https://raw.githubusercontent.com/urutau-nz/dash-x-minute-city/master/data/block_chc.geojson') as response:
             blocks = json.load(response)
-    # else:
-    #     with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/ch_block.geojson') as response:
-    #         blocks = json.load(response)
+            featureid = 'sa12018_v1'
+    else:
+        with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/{}_block.geojson'.format(state)) as response:
+            blocks = json.load(response)
+            featureid = 'geoid10'
+
     if btn_recent == 'reset':
         df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
     elif btn_recent == 'hazard':
@@ -418,7 +421,7 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
 
     data.append(go.Choroplethmapbox(
         geojson=blocks,
-        featureidkey='properties.sa12018_v1',
+        featureidkey='properties.{}'.format(featureid),
         locations=df_dist_sim['id_orig'].tolist(),
         z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
         colorscale = pl_deep,
@@ -532,13 +535,6 @@ app.layout = html.Div(
                                             "modeBarButtonsToRemove":["lasso2d","select2d"],
                                     },
                                 ),
-                            ],
-                        ),
-                        # ECDF
-                        html.Div(
-                            id="ecdf-container",
-                            className="six columns",
-                            children=[
                                 build_graph_title("Select a distance range"),
                                 dcc.Graph(id="ecdf",
                                     figure={
@@ -555,6 +551,27 @@ app.layout = html.Div(
                                 ),
                             ],
                         ),
+                        # ECDF
+                        # html.Div(
+                        #     id="ecdf-container",
+                        #     className="six columns",
+                        #     children=[
+                        #         build_graph_title("Select a distance range"),
+                        #         dcc.Graph(id="ecdf",
+                        #             figure={
+                        #                 "layout": {
+                        #                     'clickmode': 'event+select',
+                        #                     "paper_bgcolor": "#192444",
+                        #                     "plot_bgcolor": "#192444",
+                        #                     'mode': 'markers+lines',
+                        #                 }
+                        #             },
+                        #             config={"scrollZoom": True, "displayModeBar": True,
+                        #                     "modeBarButtonsToRemove":['toggleSpikelines','hoverCompareCartesian'],
+                        #             },
+                        #         ),
+                        #     ],
+                        # ),
                     ],
                 ),
             ],
