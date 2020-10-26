@@ -130,6 +130,22 @@
     padding: 1rem;
 }
 
+#city-select .Select-control {
+    padding: 1rem;
+}
+
+#hazard-select .Select-control {
+    padding: 1rem;
+}
+
+#demographic-select .Select-control {
+    padding: 1rem;
+}
+
+#demographic-select1 .Select-control {
+    padding: 1rem;
+}
+
 @media only screen and (max-width: 750px) {
     #banner h6 {
         font-size: 3rem;
@@ -207,7 +223,7 @@
     }
 
     #amenity-select {
-        width: 35rem;
+        width: 50rem;
     }
 }
 

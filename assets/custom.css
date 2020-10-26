@@ -43,7 +43,7 @@
 
 .banner h6 {
     font-family: 'Open Sans', sans-serif;
-    font-size: 4rem;
+    font-size: 3.6rem;
     font-weight: 800;
     text-transform: uppercase;
     line-height: normal;
@@ -60,6 +60,7 @@
     text-transform: uppercase;
     font-weight: 800;
     color: white;
+    margin: 1.5rem 0 1rem 0;
 }
 
 #instructions {
@@ -203,11 +204,27 @@
     }
 
     #instructions {
-        width: 30rem;
+        width: 35rem;
+    }
+
+    #city-select {
+        width: 35rem;
+    }
+
+    #hazard-select {
+        width: 35rem;
     }
 
     #amenity-select {
         width: 35rem;
+    }
+
+    #demographic-select {
+        width: 20rem;
+    }
+
+    #demographic-select1 {
+        width: 20rem;
     }
 }
 
