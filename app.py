@@ -28,7 +28,7 @@ hazards = ['tsunami', 'liquefaction', 'multi', 'hurricane']
 hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami', 'hurricane':'Hurricane Inundation'}
 
 demographics = ['total_pop', 'white', 'indigenous',	'asian', 'polynesian', 'latino', 'african_american']
-demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Indigenous',	'asian':'Asain', 'polynesian':'Polynesian', 'latino':'Latino', 'african_american':'African American'}
+demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Indigenous',	'asian':'Asian', 'polynesian':'Polynesian', 'latino':'Latino', 'african_american':'African American'}
 
 # app initialize
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -116,6 +116,8 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
     demograph = demographic_select
     state = city_select
 
+    edes = pd.read_csv(r'data/ede_results.csv')
+
     if state =='ch' and hazard != None:
         df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, hazard))
     if state =='ch' and hazard == None:
@@ -176,6 +178,19 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                 showlegend=True
                 )
         data.append(new_trace)
+        ede_trace = go.Scatter(
+                x=[float(edes[(edes['dest_type']==amenity) & (edes['state']==state) & (edes['hazard']==hazard) & (edes['population_group']==demograph)]['base_ede'])/1000]*100, y=np.arange(0,100),
+                opacity=1,
+                line_color='rgba(224, 145, 0, 1)',
+                text=np.repeat(amenity,len(dff_dist[amenity])),
+                hovertemplate = "skip",
+                hoverlabel = dict(font_size=20),
+                name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demograph]),
+                showlegend=True,
+                line={'dash':'dash', 'width':2}
+                )
+        data.append(ede_trace)
+
 
     if btn_recent == 'hazard':
         counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['mean_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demograph])
@@ -190,6 +205,18 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                 showlegend=True
                 )
         data.append(mean_trace)
+        ede_trace = go.Scatter(
+                x=[float(edes[(edes['dest_type']==amenity) & (edes['state']==state) & (edes['hazard']==hazard) & (edes['population_group']==demograph)]['sim_ede'])/1000]*100, y=np.arange(0,100),
+                opacity=1,
+                line_color='rgba(255, 0, 0, 0.5)',
+                text=np.repeat(amenity,len(dff_dist[amenity])),
+                hovertemplate = "skip",
+                hoverlabel = dict(font_size=20),
+                name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demograph]),
+                showlegend=True,
+                line={'dash':'dash', 'width':2}
+                )
+        data.append(ede_trace)
 
         counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['5_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demograph])
         dx = bin_edges[1] - bin_edges[0]
@@ -271,6 +298,18 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                     showlegend=True
                     )
             data.append(new_trace)
+            ede_trace = go.Scatter(
+                    x=[float(edes[(edes['dest_type']==amenity) & (edes['state']==state) & (edes['hazard']==hazard) & (edes['population_group']==demographic_compare)]['base_ede'])/1000]*100, y=np.arange(0,100),
+                    opacity=1,
+                    line_color='rgba(39, 25, 168, 1)',
+                    text=np.repeat(amenity,len(dff_dist[amenity])),
+                    hovertemplate = "skip",
+                    hoverlabel = dict(font_size=20),
+                    name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demographic_compare]),
+                    showlegend=True,
+                    line={'dash':'dash', 'width':2}
+                    )
+            data.append(ede_trace)
 
         if btn_recent == 'hazard':
             counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['mean_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demographic_compare])
@@ -285,6 +324,18 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                     showlegend=True
                     )
             data.append(mean_trace)
+            ede_trace = go.Scatter(
+                    x=[float(edes[(edes['dest_type']==amenity) & (edes['state']==state) & (edes['hazard']==hazard) & (edes['population_group']==demographic_compare)]['sim_ede'])/1000]*100, y=np.arange(0,100),
+                    opacity=1,
+                    line_color='rgba(39, 25, 168, 1)',
+                    text=np.repeat(amenity,len(dff_dist[amenity])),
+                    hovertemplate = "skip",
+                    hoverlabel = dict(font_size=20),
+                    name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demographic_compare]),
+                    showlegend=True,
+                    line={'dash':'dash', 'width':2}
+                    )
+            data.append(ede_trace)
 
             counts, bin_edges = np.histogram(df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False]['5_{}'.format(amenity)], bins=100, density = True, weights=df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][demographic_compare])
             dx = bin_edges[1] - bin_edges[0]
@@ -376,10 +427,10 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
             style="basic", #"dark", #
         ),
         legend=dict(
-            bgcolor="#1f2c56",
+            bgcolor='rgba(0,0,0,0)',
             orientation="h",
-            font=dict(color="white"),
-            x=0,
+            font=dict(color="black"),
+            x=0.025,
             y=0,
             yanchor="bottom",
             #bgcolor='rgba(0,0,0,0)'
@@ -394,72 +445,83 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
 
     data = []
 
-    # scatterplot of the amenity locations
-    # data.append(go.Scattermapbox(
-    #     lat=dff_dest["lat"],
-    #     lon=dff_dest["lon"],
-    #     mode="markers",
-    #     marker={"color": colormap[amenity], "size": 7.5},
-    #     name=amenity_names[amenity],
-    #     hoverinfo="skip", hovertemplate="",
-    #     opacity=0.75
-    # ))
-    #
-    # if state == 'ch':
-    #     with urlopen('https://raw.githubusercontent.com/urutau-nz/dash-x-minute-city/master/data/block_chc.geojson') as response:
-    #         blocks = json.load(response)
-    #         featureid = 'sa12018_v1'
-    # else:
-    #     with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/{}_block.geojson'.format(state)) as response:
-    #         blocks = json.load(response)
-    #         featureid = 'geoid10'
-    #
-    # if btn_recent == 'reset':
-    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
-    # elif btn_recent == 'hazard':
-    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
-    #
-    # data.append(go.Choroplethmapbox(
-    #     geojson=blocks,
-    #     featureidkey='properties.{}'.format(featureid),
-    #     locations=df_dist_sim['id_orig'].tolist(),
-    #     z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
-    #     colorscale = pl_deep,
-    #     colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
-    #     marker_line_width=0, marker_opacity=0.6,
-    #     visible=True,
-    #     hovertemplate="Distance: %{z:.2f}km<br>" +
-    #                     "<extra></extra>",
-    #     #selectedpoints=idx,
-    # ))
-
-
-
-    with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/{}_edges.geojson'.format(state)) as response:
-        edges = json.load(response)
-        featureid = 'osmid'
-    edgess = gpd.read_file(r'data/{}_edges.shp'.format(state))
-
-    # if btn_recent == 'reset':
-    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
-    # elif btn_recent == 'hazard':
-    #     df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
-
-    data.append(go.Choroplethmapbox(
-        geojson=edges,
-        featureidkey='properties.{}'.format(featureid),
-        locations=df_dist_sim['id_orig'].tolist(),
-        line_opacity=1,
-        line_color='black',
-        # #z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
-        # colorscale = 'blackbody',
-        # #colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
-        # marker_line_width=0, marker_opacity=0.6,
-        # visible=True,
-        # hovertemplate="Distance: %{z:.2f}km<br>" + "<extra></extra>",
-        #selectedpoints=idx,
+    # #Plot edges
+    # lats = np.load(r'data/{}_{}_lat_edges.npy'.format(state, hazard), allow_pickle=True)
+    # lons = np.load(r'data/{}_{}_lon_edges.npy'.format(state, hazard), allow_pickle=True)
+    # if btn_recent == 'hazard':
+    #     data.append(go.Scattermapbox(lat=lats, lon=lons,
+    #                                 visible=True,
+    #                                 mode="lines",
+    #                                 hoverinfo="skip", hovertemplate="",
+    #                                 line={'color':'red','width':1},
+    #                                 name='Closed Roads',
+    #                                 showlegend=True
+    #                                 ))
+    #scatterplot of the amenity locations
+    data.append(go.Scattermapbox(
+        lat=dff_dest["lat"],
+        lon=dff_dest["lon"],
+        mode="markers",
+        marker={"color": colormap[amenity], "size": 7.5},
+        name=amenity_names[amenity],
+        hoverinfo="skip", hovertemplate="",
+        opacity=0.75,
+        visible=True,
+        showlegend=True
     ))
 
+    #Plot edges
+    lats = np.load(r'data/{}_{}_lat_edges.npy'.format(state, hazard), allow_pickle=True)
+    lons = np.load(r'data/{}_{}_lon_edges.npy'.format(state, hazard), allow_pickle=True)
+    if btn_recent == 'hazard':
+        #scatterplot of the amenity locations
+        data.append(go.Scattermapbox(
+            lat=dff_dest["lat"],
+            lon=dff_dest["lon"],
+            mode="markers",
+            marker={"color": colormap[amenity], "size": 7.5},
+            name=amenity_names[amenity],
+            hoverinfo="skip", hovertemplate="",
+            opacity=0.75,
+            visible=True,
+            showlegend=False
+        ))
+        data.append(go.Scattermapbox(lat=lats, lon=lons,
+                                    visible=True,
+                                    mode="lines",
+                                    hoverinfo="skip", hovertemplate="",
+                                    line={'color':'red','width':1},
+                                    name='Closed Roads',
+                                    showlegend=True
+                                    ))
+
+    if state == 'ch':
+        with urlopen('https://raw.githubusercontent.com/urutau-nz/dash-x-minute-city/master/data/block_chc.geojson') as response:
+            blocks = json.load(response)
+            featureid = 'sa12018_v1'
+    else:
+        with urlopen('https://github.com/urutau-nz/dash-access-resilience/raw/main/data/{}_block.geojson'.format(state)) as response:
+            blocks = json.load(response)
+            featureid = 'geoid10'
+
+    if btn_recent == 'reset':
+        df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
+    elif btn_recent == 'hazard':
+        df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
+
+    data.append(go.Choroplethmapbox(
+        geojson=blocks,
+        featureidkey='properties.{}'.format(featureid),
+        locations=df_dist_sim['id_orig'].tolist(),
+        z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
+        colorscale = pl_deep,
+        colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
+        marker_line_width=0, marker_opacity=0.6,
+        visible=True,
+        hovertemplate="Distance: %{z:.2f}km<br>" +
+                        "<extra></extra>",
+        #selectedpoints=idx,
+    ))
 
     return {"data": data, "layout": layout}
 
