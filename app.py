@@ -39,7 +39,7 @@ app = dash.Dash(
         {"name": "viewport", "content": "width=device-width, initial-scale=1.0"}
     ],
     external_stylesheets=external_stylesheets,
-    url_base_pathname='/access-resilience/',
+    url_base_pathname='/access_resilience/',
 )
 server = app.server
 app.config["suppress_callback_exceptions"] = True
