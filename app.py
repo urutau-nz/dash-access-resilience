@@ -28,7 +28,7 @@ hazards = ['tsunami', 'liquefaction', 'multi', 'hurricane']
 hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami', 'hurricane':'Hurricane Inundation'}
 
 demographics = ['total_pop', 'white', 'indigenous',	'asian', 'polynesian', 'latino', 'african_american']
-demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Indigenous',	'asian':'Asian', 'polynesian':'Polynesian', 'latino':'Latino', 'african_american':'African American'}
+demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Maori',	'asian':'Asian', 'polynesian':'Polynesian', 'latino':'Latino', 'african_american':'African American'}
 
 # app initialize
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -44,7 +44,7 @@ app = dash.Dash(
 server = app.server
 app.config["suppress_callback_exceptions"] = True
 
-app.title = 'Evaluating proximity'
+app.title = 'Resilience Simulation'
 
 # mapbox token
 mapbox_access_token = open(".mapbox_token").read()
@@ -136,22 +136,23 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
 
     layout = dict(
         xaxis=dict(
-            title="distance to nearest {} (km)".format(amenity).upper(),
-            range=(0,15),
+            title="distance to nearest {} (km)".format(amenity_names[amenity]).upper(),
+            range=(0,10),
             ),
         yaxis=dict(
             title="% of residents".upper(),
             range=(0,100),
             fixedrange=True,
             ),
-        font=dict(size=13),
+        font=dict(size=15),
         legend=dict(
-        orientation="h",
+        orientation="v",
         yanchor="bottom",
-        y=0.1,
+        y=0.01,
         xanchor="right",
         x=1,
-        bgcolor='rgba(0,0,0,0)'
+        bgcolor='rgba(0,0,0,0)',
+        font_size=15,
     ),
         dragmode="select",
         paper_bgcolor = 'rgba(255,255,255,1)',
@@ -828,5 +829,5 @@ def change_hazard_value(city_select):
 
 # Running the server
 if __name__ == "__main__":
-    app.run_server(debug=True, port=8051)
-    #app.run_server(port=9004)
+    #app.run_server(debug=True, port=8051)
+    app.run_server(port=9009)
