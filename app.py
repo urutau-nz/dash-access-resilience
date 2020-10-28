@@ -212,7 +212,7 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                 text=np.repeat(amenity,len(dff_dist[amenity])),
                 hovertemplate = "skip",
                 hoverlabel = dict(font_size=20),
-                name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demograph]),
+                name='Post Hazard EDE' if demographic_compare == None else 'Post Hazard EDE: {}'.format(demographic_names[demograph]),
                 showlegend=True,
                 line={'dash':'dash', 'width':2}
                 )
@@ -331,7 +331,7 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                     text=np.repeat(amenity,len(dff_dist[amenity])),
                     hovertemplate = "skip",
                     hoverlabel = dict(font_size=20),
-                    name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demographic_compare]),
+                    name='Post Hazard EDE' if demographic_compare == None else 'Post Hazard EDE: {}'.format(demographic_names[demographic_compare]),
                     showlegend=True,
                     line={'dash':'dash', 'width':2}
                     )
@@ -445,19 +445,6 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
 
     data = []
 
-    # #Plot edges
-    # lats = np.load(r'data/{}_{}_lat_edges.npy'.format(state, hazard), allow_pickle=True)
-    # lons = np.load(r'data/{}_{}_lon_edges.npy'.format(state, hazard), allow_pickle=True)
-    # if btn_recent == 'hazard':
-    #     data.append(go.Scattermapbox(lat=lats, lon=lons,
-    #                                 visible=True,
-    #                                 mode="lines",
-    #                                 hoverinfo="skip", hovertemplate="",
-    #                                 line={'color':'red','width':1},
-    #                                 name='Closed Roads',
-    #                                 showlegend=True
-    #                                 ))
-    #scatterplot of the amenity locations
     data.append(go.Scattermapbox(
         lat=dff_dest["lat"],
         lon=dff_dest["lon"],
@@ -504,24 +491,52 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
             blocks = json.load(response)
             featureid = 'geoid10'
 
-    if btn_recent == 'reset':
-        df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['base_{}'.format(amenity)]]
-    elif btn_recent == 'hazard':
+    if btn_recent == 'hazard':
         df_temp = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['mean_{}'.format(amenity)]]
-
-    data.append(go.Choroplethmapbox(
-        geojson=blocks,
-        featureidkey='properties.{}'.format(featureid),
-        locations=df_dist_sim['id_orig'].tolist(),
-        z = df_temp['base_{}'.format(amenity)].tolist() if btn_recent=='reset' else df_temp['mean_{}'.format(amenity)].tolist(),
-        colorscale = pl_deep,
-        colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
-        marker_line_width=0, marker_opacity=0.6,
-        visible=True,
-        hovertemplate="Distance: %{z:.2f}km<br>" +
-                        "<extra></extra>",
-        #selectedpoints=idx,
-    ))
+        df_iso_origins = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==True][['id_orig']]
+        df_origins = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==False][['id_orig']]
+        df_temp_iso = df_dist_sim.loc[df_dist_sim['isolated_{}'.format(amenity)]==True][['mean_{}'.format(amenity)]]
+        df_temp_iso['mean_{}'.format(amenity)] = 100
+        data.append(go.Choroplethmapbox(
+            geojson=blocks,
+            featureidkey='properties.{}'.format(featureid),
+            locations= df_iso_origins['id_orig'].tolist(),
+            z = df_temp_iso['mean_{}'.format(amenity)].tolist(),
+            colorscale = 'Bluered',
+            colorbar = dict(thickness=0, ticklen=0, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
+            marker_line_width=0, marker_opacity=0.6,
+            visible=True,
+            hovertemplate="Isolated" +
+                            "<extra></extra>",
+            #selectedpoints=idx,
+        ))
+        data.append(go.Choroplethmapbox(
+            geojson=blocks,
+            featureidkey='properties.{}'.format(featureid),
+            locations= df_origins['id_orig'].tolist(),
+            z = df_temp['mean_{}'.format(amenity)].tolist(),
+            colorscale = pl_deep,
+            colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
+            marker_line_width=0, marker_opacity=0.6,
+            visible=True,
+            hovertemplate="Distance: %{z:.2f}km<br>" +
+                            "<extra></extra>",
+            #selectedpoints=idx,
+        ))
+    elif btn_recent == 'reset':
+        data.append(go.Choroplethmapbox(
+            geojson=blocks,
+            featureidkey='properties.{}'.format(featureid),
+            locations=df_dist_sim['id_orig'].tolist(),
+            z = df_dist_sim['base_{}'.format(amenity)].tolist(),
+            colorscale = pl_deep,
+            colorbar = dict(thickness=15, ticklen=3, bgcolor='rgba(0,0,0,0)'), zmin=0, zmax=7,
+            marker_line_width=0, marker_opacity=0.6,
+            visible=True,
+            hovertemplate="Distance: %{z:.2f}km<br>" +
+                            "<extra></extra>",
+            #selectedpoints=idx,
+        ))
 
     return {"data": data, "layout": layout}
 
