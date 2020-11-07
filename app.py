@@ -393,7 +393,7 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
     destinations = pd.read_csv('./data/{}_destinations.csv'.format(state))
     dff_dest = destinations[destinations.dest_type == amenity]
 
-    elif state == 'ch':
+    if state == 'ch':
         lat = -43.530918
         lon = 172.636744
 
