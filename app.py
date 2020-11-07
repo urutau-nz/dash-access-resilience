@@ -21,14 +21,14 @@ amenity_names = {'medical_clinic':'Medical Clinic', 'primary_school':'Primary Sc
 
 distance_column_names = ['base_supermarket','base_medical_clinic','base_primary_school','mean_supermarket','mean_medical_clinic','mean_primary_school','95_supermarket','95_medical_clinic','95_primary_school','5_supermarket','5_medical_clinic','5_primary_school']
 
-cities = ['ch', 'wa']
-city_names = {'ch':'Christchurch, New Zealand', 'wa':'Seattle, USA'}
+cities = ['ch']
+city_names = {'ch':'Christchurch, New Zealand'}
 
 hazards = ['tsunami', 'liquefaction', 'multi']
 hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami'}
 
-demographics = ['total_pop', 'white', 'indigenous',	'asian', 'polynesian', 'african_american']
-demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Indigenous(Māori/Native-American)',	'asian':'Asian', 'polynesian':'Polynesian', 'african_american':'African American'}
+demographics = ['total_pop', 'white', 'indigenous',	'asian', 'polynesian']
+demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Māori',	'asian':'Asian', 'polynesian':'Polynesian'}
 
 # app initialize
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -122,8 +122,6 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
         df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, hazard))
     if state =='ch' and hazard == None:
         df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, 'tsunami'))
-    elif state == 'wa':
-        df_dist_sim = pd.read_csv('./data/results_wa_liquefaction.csv')
 
 
     df_dist_sim[distance_column_names] = df_dist_sim[distance_column_names]/1000
@@ -389,17 +387,12 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
         df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, hazard))
     if state =='ch' and hazard == None:
         df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, 'tsunami'))
-    elif state == 'wa':
-        df_dist_sim = pd.read_csv('./data/results_wa_liquefaction.csv')
 
     df_dist_sim[distance_column_names] = df_dist_sim[distance_column_names]/1000
 
     destinations = pd.read_csv('./data/{}_destinations.csv'.format(state))
     dff_dest = destinations[destinations.dest_type == amenity]
 
-    if state == 'wa':
-        lat = 47.612608
-        lon = -122.331748
     elif state == 'ch':
         lat = -43.530918
         lon = 172.636744
@@ -794,9 +787,6 @@ def change_hazards(city_select):
     if city_select == 'ch':
         hazards = ['tsunami', 'liquefaction', 'multi']
         hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami'}
-    if city_select == 'wa':
-        hazards = ['liquefaction']
-        hazard_names = {'liquefaction':'Liquefaction'}
     return [{"label": hazard_names[i].upper(), "value": i} for i in hazards]
 
 @app.callback(Output('hazard-select', 'value'),
@@ -805,9 +795,6 @@ def change_hazard_value(city_select):
     if city_select == 'ch':
         hazards = ['tsunami', 'liquefaction', 'multi']
         hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami'}
-    if city_select == 'wa':
-        hazards = ['liquefaction']
-        hazard_names = {'liquefaction':'Liquefaction'}
     return hazards[0]
 
 
