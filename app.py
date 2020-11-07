@@ -21,14 +21,14 @@ amenity_names = {'medical_clinic':'Medical Clinic', 'primary_school':'Primary Sc
 
 distance_column_names = ['base_supermarket','base_medical_clinic','base_primary_school','mean_supermarket','mean_medical_clinic','mean_primary_school','95_supermarket','95_medical_clinic','95_primary_school','5_supermarket','5_medical_clinic','5_primary_school']
 
-cities = ['ch', 'wa', 'tx']
-city_names = {'ch':'Christchurch, New Zealand', 'wa':'Seattle, USA', 'tx':'Houston, USA'}
+cities = ['ch', 'wa']
+city_names = {'ch':'Christchurch, New Zealand', 'wa':'Seattle, USA'}
 
-hazards = ['tsunami', 'liquefaction', 'multi', 'hurricane']
-hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami', 'hurricane':'Hurricane Inundation'}
+hazards = ['tsunami', 'liquefaction', 'multi']
+hazard_names = {'tsunami':'Tsunami', 'liquefaction':'Liquefaction', 'multi':'Earthquake induced tsunami'}
 
-demographics = ['total_pop', 'white', 'indigenous',	'asian', 'polynesian', 'latino', 'african_american']
-demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Maori',	'asian':'Asian', 'polynesian':'Polynesian', 'latino':'Latino', 'african_american':'African American'}
+demographics = ['total_pop', 'white', 'indigenous',	'asian', 'polynesian', 'african_american']
+demographic_names = {'total_pop':'All', 'white':'White', 'indigenous':'Indigenous(Māori/Native-American)',	'asian':'Asian', 'polynesian':'Polynesian', 'african_american':'African American'}
 
 # app initialize
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -124,8 +124,6 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
         df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, 'tsunami'))
     elif state == 'wa':
         df_dist_sim = pd.read_csv('./data/results_wa_liquefaction.csv')
-    elif state == 'tx':
-        df_dist_sim = pd.read_csv('./data/results_tx_hurricane.csv')
 
 
     df_dist_sim[distance_column_names] = df_dist_sim[distance_column_names]/1000
@@ -183,10 +181,9 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                 x=[float(edes[(edes['dest_type']==amenity) & (edes['state']==state) & (edes['hazard']==hazard) & (edes['population_group']==demograph)]['base_ede'])/1000]*100, y=np.arange(0,100),
                 opacity=1,
                 line_color='rgba(224, 145, 0, 1)',
-                text=np.repeat(amenity,len(dff_dist[amenity])),
-                hovertemplate = "skip",
-                hoverlabel = dict(font_size=20),
-                name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demograph]),
+                hovertemplate='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demograph]),
+                hoverlabel = dict(font_size=10),
+                name = '',
                 showlegend=True,
                 line={'dash':'dash', 'width':2}
                 )
@@ -211,9 +208,9 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                 opacity=1,
                 line_color='rgba(255, 0, 0, 0.5)',
                 text=np.repeat(amenity,len(dff_dist[amenity])),
-                hovertemplate = "skip",
-                hoverlabel = dict(font_size=20),
-                name='Post Hazard EDE' if demographic_compare == None else 'Post Hazard EDE: {}'.format(demographic_names[demograph]),
+                hovertemplate = 'Post Hazard EDE' if demographic_compare == None else 'Post Hazard EDE: {}'.format(demographic_names[demograph]),
+                hoverlabel = dict(font_size=10),
+                name='',
                 showlegend=True,
                 line={'dash':'dash', 'width':2}
                 )
@@ -304,9 +301,9 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                     opacity=1,
                     line_color='rgba(39, 25, 168, 1)',
                     text=np.repeat(amenity,len(dff_dist[amenity])),
-                    hovertemplate = "skip",
-                    hoverlabel = dict(font_size=20),
-                    name='Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demographic_compare]),
+                    hovertemplate = 'Pre Hazard EDE' if demographic_compare == None else 'Pre Hazard EDE: {}'.format(demographic_names[demographic_compare]),
+                    hoverlabel = dict(font_size=10),
+                    name='',
                     showlegend=True,
                     line={'dash':'dash', 'width':2}
                     )
@@ -330,9 +327,9 @@ def generate_ecdf_plot(amenity_select, dff_dist, hazard_select, demographic_sele
                     opacity=1,
                     line_color='rgba(39, 25, 168, 1)',
                     text=np.repeat(amenity,len(dff_dist[amenity])),
-                    hovertemplate = "skip",
-                    hoverlabel = dict(font_size=20),
-                    name='Post Hazard EDE' if demographic_compare == None else 'Post Hazard EDE: {}'.format(demographic_names[demographic_compare]),
+                    hovertemplate = 'Post Hazard EDE' if demographic_compare == None else 'Post Hazard EDE: {}'.format(demographic_names[demographic_compare]),
+                    hoverlabel = dict(font_size=10),
+                    name='',
                     showlegend=True,
                     line={'dash':'dash', 'width':2}
                     )
@@ -394,8 +391,6 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
         df_dist_sim = pd.read_csv('./data/results_{}_{}.csv'.format(state, 'tsunami'))
     elif state == 'wa':
         df_dist_sim = pd.read_csv('./data/results_wa_liquefaction.csv')
-    elif state == 'tx':
-        df_dist_sim = pd.read_csv('./data/results_tx_hurricane.csv')
 
     df_dist_sim[distance_column_names] = df_dist_sim[distance_column_names]/1000
 
@@ -405,9 +400,6 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
     if state == 'wa':
         lat = 47.612608
         lon = -122.331748
-    elif state == 'tx':
-        lat = 29.754603
-        lon = -95.363616
     elif state == 'ch':
         lat = -43.530918
         lon = 172.636744
@@ -478,7 +470,7 @@ def generate_map(amenity, dff_dest, hazard_select, demographic_select, city_sele
                                     visible=True,
                                     mode="lines",
                                     hoverinfo="skip", hovertemplate="",
-                                    line={'color':'red','width':1},
+                                    line={'color':'orange','width':1},
                                     name='Closed Roads',
                                     showlegend=True
                                     ))
@@ -805,9 +797,6 @@ def change_hazards(city_select):
     if city_select == 'wa':
         hazards = ['liquefaction']
         hazard_names = {'liquefaction':'Liquefaction'}
-    if city_select == 'tx':
-        hazards = ['hurricane']
-        hazard_names = {'hurricane':'Hurricane Inundation'}
     return [{"label": hazard_names[i].upper(), "value": i} for i in hazards]
 
 @app.callback(Output('hazard-select', 'value'),
@@ -819,9 +808,6 @@ def change_hazard_value(city_select):
     if city_select == 'wa':
         hazards = ['liquefaction']
         hazard_names = {'liquefaction':'Liquefaction'}
-    if city_select == 'tx':
-        hazards = ['hurricane']
-        hazard_names = {'hurricane':'Hurricane Inundation'}
     return hazards[0]
 
 
