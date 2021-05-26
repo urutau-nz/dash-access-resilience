@@ -1,4 +1,4 @@
-﻿city,lat,lon
-seattle,47.612608,-122.331748
-houston,29.754603,-95.363616
-christchurch,-43.530918,172.636744
+﻿city,lat,lon,hazard
+seattle,47.612608,-122.331748,[liquefaction]
+houston,29.754603,-95.363616,[hurricane]
+christchurch,-43.530918,172.636744,[liquefaction, tsunami, multi]
