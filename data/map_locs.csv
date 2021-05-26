@@ -1,10 +1,4 @@
 ﻿city,lat,lon,hazard
-<<<<<<< HEAD
-seattle,47.612608,-122.331748,liquefaction
-houston,29.754603,-95.363616,hurricane
-christchurch,-43.530918,172.636744,"liquefaction, tsunami, multi"
-=======
-seattle,47.612608,-122.331748,[liquefaction]
-houston,29.754603,-95.363616,[hurricane]
-christchurch,-43.530918,172.636744,[liquefaction, tsunami, multi]
->>>>>>> 8890cb46b62e3c47868afa5c491bf527790c33e6
+seattle,47.612608,-122.331748,"Select from dropdown, liquefaction"
+houston,29.754603,-95.363616,"Select from dropdown, hurricane"
+christchurch,-43.530918,172.636744,"Select from dropdown, liquefaction, tsunami, multi"
