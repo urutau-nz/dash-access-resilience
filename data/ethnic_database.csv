@@ -5,8 +5,8 @@ christchurch,asian,Asian
 christchurch,maori,Maori
 christchurch,polynesian,Polynesian
 christchurch,meela,MEELA
-seattle,all,All
-seattle,african_american,African aAerican
+seattle,all,\sAll\s
+seattle,african_american,African American
 seattle,american_indian,American Indian
 seattle,asian,Asian
 seattle,native_hawaiian,Native Hawaiian
