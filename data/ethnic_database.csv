@@ -1,21 +1,21 @@
 city,ethnic,abbrev
-christchurch,all,all
-christchurch,white,white
-christchurch,asian,asian
-christchurch,maori,maori
-christchurch,polynesian,polynesian
-christchurch,meela,meela
-seattle,all,all
-seattle,african_american,african_american
-seattle,american_indian,american_indian
-seattle,asian,asian
-seattle,native_hawaiian,native_hawaiian
-seattle,white,white
-seattle,latino,latino
-houston,all,all
-houston,african_american,african_american
-houston,american_indian,american_indian
-houston,asian,asian
-houston,native_hawaiian,native_hawaiian
-houston,white,white
-houston,latino,latino
+christchurch,all,All
+christchurch,white,White
+christchurch,asian,Asian
+christchurch,maori,Maori
+christchurch,polynesian,Polynesian
+christchurch,meela,MEELA
+seattle,all,All
+seattle,african_american,African aAerican
+seattle,american_indian,American Indian
+seattle,asian,Asian
+seattle,native_hawaiian,Native Hawaiian
+seattle,white,White
+seattle,latino,Latino
+houston,all,All
+houston,african_american,African American
+houston,american_indian,American Indian
+houston,asian,Asian
+houston,native_hawaiian,Native Hawaiian
+houston,white,White
+houston,latino,Latino
