@@ -60,5 +60,6 @@ for file in tqdm(files):
                 citys = citys + [city]*50
 
 cdf_df = pd.DataFrame(list(zip(citys, hazards, dest_types, ethnics, distances, pop_perc_cum, pop_percs)), columns = ['city', 'hazard', 'service', 'ethnicity', 'distance', 'pop_perc_cum', 'pop_perc'])
+cdf_df['distance'] = cdf_df['distance']/1000
 cdf_df.to_csv(r'data/d3_cdf_data.csv')
 
