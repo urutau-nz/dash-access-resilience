@@ -1,4 +1,4 @@
-city,hazard1,hazard2,hazard3,hazard4
-christchurch,Select from dropdown,liquefaction,tsunami,multi
-seattle,Select from dropdown,liquefaction,,
-houston,Select from dropdown,hurricane,,
+city,hazard1,hazard2,hazard3
+christchurch,liquefaction,tsunami,multi
+seattle,liquefaction,,
+houston,hurricane,,
