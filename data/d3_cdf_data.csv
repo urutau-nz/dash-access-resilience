@@ -6749,7 +6749,7 @@
 6747,seattle,base,medical_clinic,african_american,5.669766,99.9979618,0
 6748,seattle,base,medical_clinic,african_american,5.790344,99.9979618,0
 6749,seattle,base,medical_clinic,african_american,5.910922,100,0.002038196
-6750,seattle,liquefaction,supermarket,all,0.2,33.79765348,33.79765348
+6750,seattle,liquefaction,supermarket,all,0,0,33.79765348
 6751,seattle,liquefaction,supermarket,all,0.773433624,76.55838669,42.76073321
 6752,seattle,liquefaction,supermarket,all,1.546967248,92.35480516,15.79641847
 6753,seattle,liquefaction,supermarket,all,2.320500872,98.0134226,5.65861744
@@ -6799,7 +6799,7 @@
 6797,seattle,liquefaction,supermarket,all,36.35598033,99.99219994,0
 6798,seattle,liquefaction,supermarket,all,37.12951395,99.99219994,0
 6799,seattle,liquefaction,supermarket,all,37.90304758,100,0.007800059
-6800,seattle,liquefaction,supermarket,white,0.2,35.40032059,35.40032059
+6800,seattle,liquefaction,supermarket,white,0,0,35.40032059
 6801,seattle,liquefaction,supermarket,white,0.773433624,77.12206005,41.72173946
 6802,seattle,liquefaction,supermarket,white,1.546967248,92.20638001,15.08431996
 6803,seattle,liquefaction,supermarket,white,2.320500872,98.04034609,5.833966085
@@ -6849,7 +6849,7 @@
 6847,seattle,liquefaction,supermarket,white,36.35598033,99.99179767,0
 6848,seattle,liquefaction,supermarket,white,37.12951395,99.99179767,0
 6849,seattle,liquefaction,supermarket,white,37.90304758,100,0.00820233
-6850,seattle,liquefaction,supermarket,american_indian,0.2,34.3717975,34.3717975
+6850,seattle,liquefaction,supermarket,american_indian,0,0,34.3717975
 6851,seattle,liquefaction,supermarket,american_indian,0.773433624,77.26993236,42.89813486
 6852,seattle,liquefaction,supermarket,american_indian,1.546967248,92.74441484,15.47448248
 6853,seattle,liquefaction,supermarket,american_indian,2.320500872,97.39700758,4.652592744
@@ -6899,7 +6899,7 @@
 6897,seattle,liquefaction,supermarket,american_indian,36.35598033,100,0
 6898,seattle,liquefaction,supermarket,american_indian,37.12951395,100,0
 6899,seattle,liquefaction,supermarket,american_indian,37.90304758,100,0
-6900,seattle,liquefaction,supermarket,asian,0.2,30.72256058,30.72256058
+6900,seattle,liquefaction,supermarket,asian,0,0,30.72256058
 6901,seattle,liquefaction,supermarket,asian,0.773433624,76.53577733,45.81321674
 6902,seattle,liquefaction,supermarket,asian,1.546967248,92.80829524,16.27251791
 6903,seattle,liquefaction,supermarket,asian,2.320500872,97.93437219,5.126076944
@@ -6949,7 +6949,7 @@
 6947,seattle,liquefaction,supermarket,asian,36.35598033,99.99064798,0
 6948,seattle,liquefaction,supermarket,asian,37.12951395,99.99064798,0
 6949,seattle,liquefaction,supermarket,asian,37.90304758,100,0.009352022
-6950,seattle,liquefaction,supermarket,native_hawaiian,0.2,26.06713634,26.06713634
+6950,seattle,liquefaction,supermarket,native_hawaiian,0,0,26.06713634
 6951,seattle,liquefaction,supermarket,native_hawaiian,0.773433624,67.79941981,41.73228346
 6952,seattle,liquefaction,supermarket,native_hawaiian,1.546967248,86.94571073,19.14629092
 6953,seattle,liquefaction,supermarket,native_hawaiian,2.320500872,95.98010775,9.034397016
@@ -6999,7 +6999,7 @@
 6997,seattle,liquefaction,supermarket,native_hawaiian,36.35598033,100,0
 6998,seattle,liquefaction,supermarket,native_hawaiian,37.12951395,100,0
 6999,seattle,liquefaction,supermarket,native_hawaiian,37.90304758,100,0
-7000,seattle,liquefaction,supermarket,latino,0.2,32.21782855,32.21782855
+7000,seattle,liquefaction,supermarket,latino,0,0,32.21782855
 7001,seattle,liquefaction,supermarket,latino,0.773433624,75.33196641,43.11413786
 7002,seattle,liquefaction,supermarket,latino,1.546967248,92.24760789,16.91564148
 7003,seattle,liquefaction,supermarket,latino,2.320500872,98.21812146,5.970513572
@@ -7049,7 +7049,7 @@
 7047,seattle,liquefaction,supermarket,latino,36.35598033,100,0
 7048,seattle,liquefaction,supermarket,latino,37.12951395,100,0
 7049,seattle,liquefaction,supermarket,latino,37.90304758,100,0
-7050,seattle,liquefaction,supermarket,african_american,0.2,26.91845179,26.91845179
+7050,seattle,liquefaction,supermarket,african_american,0,0,26.91845179
 7051,seattle,liquefaction,supermarket,african_american,0.773433624,72.96129466,46.04284288
 7052,seattle,liquefaction,supermarket,african_american,1.546967248,93.17000591,20.20871125
 7053,seattle,liquefaction,supermarket,african_american,2.320500872,98.07798137,4.90797546
@@ -7099,7 +7099,7 @@
 7097,seattle,liquefaction,supermarket,african_american,36.35598033,99.99388541,0
 7098,seattle,liquefaction,supermarket,african_american,37.12951395,99.99388541,0
 7099,seattle,liquefaction,supermarket,african_american,37.90304758,100,0.006114587
-7100,seattle,liquefaction,primary_school,all,0.2,35.99044493,35.99044493
+7100,seattle,liquefaction,primary_school,all,0,0,35.99044493
 7101,seattle,liquefaction,primary_school,all,0.88727718,85.66560499,49.67516006
 7102,seattle,liquefaction,primary_school,all,1.77495436,97.34229257,11.67668758
 7103,seattle,liquefaction,primary_school,all,2.66263154,98.91432936,1.57203679
@@ -7149,7 +7149,7 @@
 7147,seattle,liquefaction,primary_school,all,41.72042746,99.99219994,0
 7148,seattle,liquefaction,primary_school,all,42.60810464,99.99219994,0
 7149,seattle,liquefaction,primary_school,all,43.49578182,100,0.007800059
-7150,seattle,liquefaction,primary_school,white,0.2,36.76097003,36.76097003
+7150,seattle,liquefaction,primary_school,white,0,0,36.76097003
 7151,seattle,liquefaction,primary_school,white,0.88727718,85.71130609,48.95033606
 7152,seattle,liquefaction,primary_school,white,1.77495436,97.34736635,11.63606026
 7153,seattle,liquefaction,primary_school,white,2.66263154,98.96814684,1.620780487
@@ -7199,7 +7199,7 @@
 7197,seattle,liquefaction,primary_school,white,41.72042746,99.99179767,0
 7198,seattle,liquefaction,primary_school,white,42.60810464,99.99179767,0
 7199,seattle,liquefaction,primary_school,white,43.49578182,100,0.00820233
-7200,seattle,liquefaction,primary_school,american_indian,0.2,29.06333265,29.06333265
+7200,seattle,liquefaction,primary_school,american_indian,0,0,29.06333265
 7201,seattle,liquefaction,primary_school,american_indian,0.88727718,82.12748514,53.06415249
 7202,seattle,liquefaction,primary_school,american_indian,1.77495436,95.75732732,13.62984218
 7203,seattle,liquefaction,primary_school,american_indian,2.66263154,98.19635171,2.43902439
@@ -7249,7 +7249,7 @@
 7247,seattle,liquefaction,primary_school,american_indian,41.72042746,100,0
 7248,seattle,liquefaction,primary_school,american_indian,42.60810464,100,0
 7249,seattle,liquefaction,primary_school,american_indian,43.49578182,100,0
-7250,seattle,liquefaction,primary_school,asian,0.2,33.6894895,33.6894895
+7250,seattle,liquefaction,primary_school,asian,0,0,33.6894895
 7251,seattle,liquefaction,primary_school,asian,0.88727718,85.9661223,52.2766328
 7252,seattle,liquefaction,primary_school,asian,1.77495436,97.57782636,11.61170406
 7253,seattle,liquefaction,primary_school,asian,2.66263154,98.80995523,1.232128871
@@ -7299,7 +7299,7 @@
 7297,seattle,liquefaction,primary_school,asian,41.72042746,99.99064798,0
 7298,seattle,liquefaction,primary_school,asian,42.60810464,99.99064798,0
 7299,seattle,liquefaction,primary_school,asian,43.49578182,100,0.009352022
-7300,seattle,liquefaction,primary_school,native_hawaiian,0.2,31.04019892,31.04019892
+7300,seattle,liquefaction,primary_school,native_hawaiian,0,0,31.04019892
 7301,seattle,liquefaction,primary_school,native_hawaiian,0.88727718,81.97264816,50.93244923
 7302,seattle,liquefaction,primary_school,native_hawaiian,1.77495436,96.47741401,14.50476585
 7303,seattle,liquefaction,primary_school,native_hawaiian,2.66263154,98.79817654,2.320762536
@@ -7349,7 +7349,7 @@
 7347,seattle,liquefaction,primary_school,native_hawaiian,41.72042746,100,0
 7348,seattle,liquefaction,primary_school,native_hawaiian,42.60810464,100,0
 7349,seattle,liquefaction,primary_school,native_hawaiian,43.49578182,100,0
-7350,seattle,liquefaction,primary_school,latino,0.2,32.33743409,32.33743409
+7350,seattle,liquefaction,primary_school,latino,0,0,32.33743409
 7351,seattle,liquefaction,primary_school,latino,0.88727718,82.92325718,50.58582308
 7352,seattle,liquefaction,primary_school,latino,1.77495436,96.90734232,13.98408514
 7353,seattle,liquefaction,primary_school,latino,2.66263154,98.98457333,2.07723101
@@ -7399,7 +7399,7 @@
 7397,seattle,liquefaction,primary_school,latino,41.72042746,100,0
 7398,seattle,liquefaction,primary_school,latino,42.60810464,100,0
 7399,seattle,liquefaction,primary_school,latino,43.49578182,100,0
-7400,seattle,liquefaction,primary_school,african_american,0.2,35.99046124,35.99046124
+7400,seattle,liquefaction,primary_school,african_american,0,0,35.99046124
 7401,seattle,liquefaction,primary_school,african_american,0.88727718,86.42561604,50.4351548
 7402,seattle,liquefaction,primary_school,african_american,1.77495436,97.15060229,10.72498624
 7403,seattle,liquefaction,primary_school,african_american,2.66263154,98.71593665,1.565334366
@@ -7449,7 +7449,7 @@
 7447,seattle,liquefaction,primary_school,african_american,41.72042746,99.99388541,0
 7448,seattle,liquefaction,primary_school,african_american,42.60810464,99.99388541,0
 7449,seattle,liquefaction,primary_school,african_american,43.49578182,100,0.006114587
-7450,seattle,liquefaction,medical_clinic,all,0.2,22.11560337,22.11560337
+7450,seattle,liquefaction,medical_clinic,all,0,0,22.11560337
 7451,seattle,liquefaction,medical_clinic,all,0.602548,47.91413436,25.79853099
 7452,seattle,liquefaction,medical_clinic,all,1.202496,66.3471351,18.43300075
 7453,seattle,liquefaction,medical_clinic,all,1.802444,79.13484351,12.78770841
@@ -7499,7 +7499,7 @@
 7497,seattle,liquefaction,medical_clinic,all,28.200156,99.13646852,0
 7498,seattle,liquefaction,medical_clinic,all,28.800104,99.13646852,0
 7499,seattle,liquefaction,medical_clinic,all,29.400052,100,0.863531476
-7500,seattle,liquefaction,medical_clinic,white,0.2,22.13035612,22.13035612
+7500,seattle,liquefaction,medical_clinic,white,0,0,22.13035612
 7501,seattle,liquefaction,medical_clinic,white,0.602548,48.72113951,26.59078339
 7502,seattle,liquefaction,medical_clinic,white,1.202496,67.5321297,18.81099019
 7503,seattle,liquefaction,medical_clinic,white,1.802444,79.42972712,11.89759742
@@ -7549,7 +7549,7 @@
 7547,seattle,liquefaction,medical_clinic,white,28.200156,99.18562577,0
 7548,seattle,liquefaction,medical_clinic,white,28.800104,99.18562577,0
 7549,seattle,liquefaction,medical_clinic,white,29.400052,100,0.814374232
-7550,seattle,liquefaction,medical_clinic,american_indian,0.2,27.64910842,27.64910842
+7550,seattle,liquefaction,medical_clinic,american_indian,0,0,27.64910842
 7551,seattle,liquefaction,medical_clinic,american_indian,0.602548,52.90018446,25.25107604
 7552,seattle,liquefaction,medical_clinic,american_indian,1.202496,71.01865136,18.1184669
 7553,seattle,liquefaction,medical_clinic,american_indian,1.802444,82.14798114,11.12932978
@@ -7599,7 +7599,7 @@
 7597,seattle,liquefaction,medical_clinic,american_indian,28.200156,98.58577577,0
 7598,seattle,liquefaction,medical_clinic,american_indian,28.800104,98.58577577,0
 7599,seattle,liquefaction,medical_clinic,american_indian,29.400052,100,1.414224226
-7600,seattle,liquefaction,medical_clinic,asian,0.2,21.99361725,21.99361725
+7600,seattle,liquefaction,medical_clinic,asian,0,0,21.99361725
 7601,seattle,liquefaction,medical_clinic,asian,0.602548,43.9930795,21.99946226
 7602,seattle,liquefaction,medical_clinic,asian,1.202496,59.9978958,16.00481629
 7603,seattle,liquefaction,medical_clinic,asian,1.802444,76.0529792,16.05508341
@@ -7649,7 +7649,7 @@
 7647,seattle,liquefaction,medical_clinic,asian,28.200156,99.03791076,0
 7648,seattle,liquefaction,medical_clinic,asian,28.800104,99.03791076,0
 7649,seattle,liquefaction,medical_clinic,asian,29.400052,100,0.962089242
-7650,seattle,liquefaction,medical_clinic,native_hawaiian,0.2,18.48321591,18.48321591
+7650,seattle,liquefaction,medical_clinic,native_hawaiian,0,0,18.48321591
 7651,seattle,liquefaction,medical_clinic,native_hawaiian,0.602548,43.22420224,24.74098632
 7652,seattle,liquefaction,medical_clinic,native_hawaiian,1.202496,60.75424782,17.53004559
 7653,seattle,liquefaction,medical_clinic,native_hawaiian,1.802444,73.89142147,13.13717364
@@ -7699,7 +7699,7 @@
 7697,seattle,liquefaction,medical_clinic,native_hawaiian,28.200156,98.88106092,0
 7698,seattle,liquefaction,medical_clinic,native_hawaiian,28.800104,98.88106092,0
 7699,seattle,liquefaction,medical_clinic,native_hawaiian,29.400052,100,1.11893908
-7700,seattle,liquefaction,medical_clinic,latino,0.2,23.2376489,23.2376489
+7700,seattle,liquefaction,medical_clinic,latino,0,0,23.2376489
 7701,seattle,liquefaction,medical_clinic,latino,0.602548,49.50205038,26.26440148
 7702,seattle,liquefaction,medical_clinic,latino,1.202496,68.1336653,18.63161492
 7703,seattle,liquefaction,medical_clinic,latino,1.802444,79.34973638,11.21607108
@@ -7749,7 +7749,7 @@
 7747,seattle,liquefaction,medical_clinic,latino,28.200156,99.25063464,0
 7748,seattle,liquefaction,medical_clinic,latino,28.800104,99.25063464,0
 7749,seattle,liquefaction,medical_clinic,latino,29.400052,100,0.749365358
-7750,seattle,liquefaction,medical_clinic,african_american,0.2,21.73939629,21.73939629
+7750,seattle,liquefaction,medical_clinic,african_american,0,0,21.73939629
 7751,seattle,liquefaction,medical_clinic,african_american,0.602548,47.10270469,25.3633084
 7752,seattle,liquefaction,medical_clinic,african_american,1.202496,66.41460979,19.3119051
 7753,seattle,liquefaction,medical_clinic,african_american,1.802444,81.53394615,15.11933636
