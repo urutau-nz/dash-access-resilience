@@ -1,97 +1,97 @@
-city	amenity	hazard	ethnicity	count
-christchurch	medical_clinic	liquefaction	asian	6300
-christchurch	supermarket	liquefaction	asian	6378
-christchurch	primary_school	liquefaction	asian	6282
-christchurch	medical_clinic	liquefaction	maori	4599
-christchurch	primary_school	liquefaction	maori	4554
-christchurch	supermarket	liquefaction	maori	4704
-christchurch	medical_clinic	liquefaction	melaa	699
-christchurch	primary_school	liquefaction	melaa	693
-christchurch	supermarket	liquefaction	melaa	711
-christchurch	medical_clinic	liquefaction	polynesian	1779
-christchurch	primary_school	liquefaction	polynesian	1728
-christchurch	supermarket	liquefaction	polynesian	1800
-christchurch	medical_clinic	liquefaction	total_pop	45531
-christchurch	primary_school	liquefaction	total_pop	45540
-christchurch	supermarket	liquefaction	total_pop	46365
-christchurch	primary_school	liquefaction	white	36117
-christchurch	supermarket	liquefaction	white	36732
-christchurch	medical_clinic	liquefaction	white	36054
-christchurch	medical_clinic	multi	asian	7356
-christchurch	primary_school	multi	asian	7116
-christchurch	supermarket	multi	asian	7611
-christchurch	medical_clinic	multi	maori	4920
-christchurch	primary_school	multi	maori	4506
-christchurch	supermarket	multi	maori	5235
-christchurch	medical_clinic	multi	melaa	855
-christchurch	primary_school	multi	melaa	804
-christchurch	supermarket	multi	melaa	885
-christchurch	medical_clinic	multi	polynesian	1836
-christchurch	primary_school	multi	polynesian	1674
-christchurch	supermarket	multi	polynesian	1965
-christchurch	primary_school	multi	total_pop	48024
-christchurch	medical_clinic	multi	total_pop	51249
-christchurch	supermarket	multi	total_pop	53955
-christchurch	primary_school	multi	white	37644
-christchurch	supermarket	multi	white	42561
-christchurch	medical_clinic	multi	white	40338
-christchurch	medical_clinic	tsunami	asian	615
-christchurch	primary_school	tsunami	asian	591
-christchurch	supermarket	tsunami	asian	624
-christchurch	medical_clinic	tsunami	maori	1824
-christchurch	primary_school	tsunami	maori	1737
-christchurch	supermarket	tsunami	maori	1884
-christchurch	medical_clinic	tsunami	melaa	123
-christchurch	primary_school	tsunami	melaa	108
-christchurch	supermarket	tsunami	melaa	126
-christchurch	medical_clinic	tsunami	polynesian	501
-christchurch	primary_school	tsunami	polynesian	477
-christchurch	supermarket	tsunami	polynesian	516
-christchurch	medical_clinic	tsunami	total_pop	16779
-christchurch	primary_school	tsunami	total_pop	16158
-christchurch	supermarket	tsunami	total_pop	17100
-christchurch	medical_clinic	tsunami	white	15237
-christchurch	primary_school	tsunami	white	14682
-christchurch	supermarket	tsunami	white	15513
-houston	medical_clinic	hurricane	african_american	38384
-houston	supermarket	hurricane	african_american	38196
-houston	primary_school	hurricane	african_american	37048
-houston	medical_clinic	hurricane	american_indian_or_alaska	1498
-houston	supermarket	hurricane	american_indian_or_alaska	1506
-houston	primary_school	hurricane	american_indian_or_alaska	1455
-houston	medical_clinic	hurricane	asian	13473
-houston	supermarket	hurricane	asian	13524
-houston	primary_school	hurricane	asian	13462
-houston	medical_clinic	hurricane	latino	87321
-houston	supermarket	hurricane	latino	87276
-houston	primary_school	hurricane	latino	84766
-houston	medical_clinic	hurricane	native_hawaiian_or_pi	167
-houston	primary_school	hurricane	native_hawaiian_or_pi	167
-houston	supermarket	hurricane	native_hawaiian_or_pi	169
-houston	supermarket	hurricane	total_pop	226395
-houston	medical_clinic	hurricane	total_pop	226005
-houston	primary_school	hurricane	total_pop	221446
-houston	supermarket	hurricane	white	137374
-houston	primary_school	hurricane	white	134684
-houston	medical_clinic	hurricane	white	136834
-seattle	medical_clinic	liquefaction	african_american	528
-seattle	supermarket	liquefaction	african_american	528
-seattle	primary_school	liquefaction	african_american	528
-seattle	medical_clinic	liquefaction	american_indian_or_alaska	69
-seattle	supermarket	liquefaction	american_indian_or_alaska	69
-seattle	primary_school	liquefaction	american_indian_or_alaska	69
-seattle	medical_clinic	liquefaction	asian	823
-seattle	supermarket	liquefaction	asian	823
-seattle	primary_school	liquefaction	asian	823
-seattle	medical_clinic	liquefaction	latino	307
-seattle	supermarket	liquefaction	latino	307
-seattle	primary_school	liquefaction	latino	307
-seattle	medical_clinic	liquefaction	native_hawaiian_or_pi	27
-seattle	supermarket	liquefaction	native_hawaiian_or_pi	27
-seattle	primary_school	liquefaction	native_hawaiian_or_pi	27
-seattle	supermarket	liquefaction	total_pop	5314
-seattle	primary_school	liquefaction	total_pop	5314
-seattle	medical_clinic	liquefaction	total_pop	5314
-seattle	supermarket	liquefaction	white	3475
-seattle	primary_school	liquefaction	white	3475
-seattle	medical_clinic	liquefaction	white	3475
+city,amenity,hazard,ethnicity,count
+christchurch,medical_clinic,liquefaction,asian,6300
+christchurch,supermarket,liquefaction,asian,6378
+christchurch,primary_school,liquefaction,asian,6282
+christchurch,medical_clinic,liquefaction,maori,4599
+christchurch,primary_school,liquefaction,maori,4554
+christchurch,supermarket,liquefaction,maori,4704
+christchurch,medical_clinic,liquefaction,melaa,699
+christchurch,primary_school,liquefaction,melaa,693
+christchurch,supermarket,liquefaction,melaa,711
+christchurch,medical_clinic,liquefaction,polynesian,1779
+christchurch,primary_school,liquefaction,polynesian,1728
+christchurch,supermarket,liquefaction,polynesian,1800
+christchurch,medical_clinic,liquefaction,total_pop,45531
+christchurch,primary_school,liquefaction,total_pop,45540
+christchurch,supermarket,liquefaction,total_pop,46365
+christchurch,primary_school,liquefaction,white,36117
+christchurch,supermarket,liquefaction,white,36732
+christchurch,medical_clinic,liquefaction,white,36054
+christchurch,medical_clinic,multi,asian,7356
+christchurch,primary_school,multi,asian,7116
+christchurch,supermarket,multi,asian,7611
+christchurch,medical_clinic,multi,maori,4920
+christchurch,primary_school,multi,maori,4506
+christchurch,supermarket,multi,maori,5235
+christchurch,medical_clinic,multi,melaa,855
+christchurch,primary_school,multi,melaa,804
+christchurch,supermarket,multi,melaa,885
+christchurch,medical_clinic,multi,polynesian,1836
+christchurch,primary_school,multi,polynesian,1674
+christchurch,supermarket,multi,polynesian,1965
+christchurch,primary_school,multi,total_pop,48024
+christchurch,medical_clinic,multi,total_pop,51249
+christchurch,supermarket,multi,total_pop,53955
+christchurch,primary_school,multi,white,37644
+christchurch,supermarket,multi,white,42561
+christchurch,medical_clinic,multi,white,40338
+christchurch,medical_clinic,tsunami,asian,615
+christchurch,primary_school,tsunami,asian,591
+christchurch,supermarket,tsunami,asian,624
+christchurch,medical_clinic,tsunami,maori,1824
+christchurch,primary_school,tsunami,maori,1737
+christchurch,supermarket,tsunami,maori,1884
+christchurch,medical_clinic,tsunami,melaa,123
+christchurch,primary_school,tsunami,melaa,108
+christchurch,supermarket,tsunami,melaa,126
+christchurch,medical_clinic,tsunami,polynesian,501
+christchurch,primary_school,tsunami,polynesian,477
+christchurch,supermarket,tsunami,polynesian,516
+christchurch,medical_clinic,tsunami,total_pop,16779
+christchurch,primary_school,tsunami,total_pop,16158
+christchurch,supermarket,tsunami,total_pop,17100
+christchurch,medical_clinic,tsunami,white,15237
+christchurch,primary_school,tsunami,white,14682
+christchurch,supermarket,tsunami,white,15513
+houston,medical_clinic,hurricane,african_american,38384
+houston,supermarket,hurricane,african_american,38196
+houston,primary_school,hurricane,african_american,37048
+houston,medical_clinic,hurricane,american_indian_or_alaska,1498
+houston,supermarket,hurricane,american_indian_or_alaska,1506
+houston,primary_school,hurricane,american_indian_or_alaska,1455
+houston,medical_clinic,hurricane,asian,13473
+houston,supermarket,hurricane,asian,13524
+houston,primary_school,hurricane,asian,13462
+houston,medical_clinic,hurricane,latino,87321
+houston,supermarket,hurricane,latino,87276
+houston,primary_school,hurricane,latino,84766
+houston,medical_clinic,hurricane,native_hawaiian_or_pi,167
+houston,primary_school,hurricane,native_hawaiian_or_pi,167
+houston,supermarket,hurricane,native_hawaiian_or_pi,169
+houston,supermarket,hurricane,total_pop,226395
+houston,medical_clinic,hurricane,total_pop,226005
+houston,primary_school,hurricane,total_pop,221446
+houston,supermarket,hurricane,white,137374
+houston,primary_school,hurricane,white,134684
+houston,medical_clinic,hurricane,white,136834
+seattle,medical_clinic,liquefaction,african_american,528
+seattle,supermarket,liquefaction,african_american,528
+seattle,primary_school,liquefaction,african_american,528
+seattle,medical_clinic,liquefaction,american_indian_or_alaska,69
+seattle,supermarket,liquefaction,american_indian_or_alaska,69
+seattle,primary_school,liquefaction,american_indian_or_alaska,69
+seattle,medical_clinic,liquefaction,asian,823
+seattle,supermarket,liquefaction,asian,823
+seattle,primary_school,liquefaction,asian,823
+seattle,medical_clinic,liquefaction,latino,307
+seattle,supermarket,liquefaction,latino,307
+seattle,primary_school,liquefaction,latino,307
+seattle,medical_clinic,liquefaction,native_hawaiian_or_pi,27
+seattle,supermarket,liquefaction,native_hawaiian_or_pi,27
+seattle,primary_school,liquefaction,native_hawaiian_or_pi,27
+seattle,supermarket,liquefaction,total_pop,5314
+seattle,primary_school,liquefaction,total_pop,5314
+seattle,medical_clinic,liquefaction,total_pop,5314
+seattle,supermarket,liquefaction,white,3475
+seattle,primary_school,liquefaction,white,3475
+seattle,medical_clinic,liquefaction,white,3475
