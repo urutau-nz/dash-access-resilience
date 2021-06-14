@@ -1,0 +1,16 @@
+﻿city,amenity,hazard,count
+christchurch,medical_clinic,tsunami,7
+christchurch,medical_clinic,multi,34
+christchurch,medical_clinic,liquefaction,40
+christchurch,primary_school,tsunami,9
+christchurch,primary_school,multi,13
+christchurch,primary_school,liquefaction,22
+christchurch,supermarket,tsunami,4
+christchurch,supermarket,multi,29
+christchurch,supermarket,liquefaction,32
+seattle,supermarket,liquefaction,0
+seattle,primary_school,liquefaction,0
+seattle,medical_clinic,liquefaction,0
+houston,supermarket,hurricane,0
+houston,primary_school,hurricane,0
+houston,medical_clinic,hurricane,0
