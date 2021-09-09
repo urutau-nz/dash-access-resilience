@@ -1,1561 +1,862 @@
-id,dest_type,lat,lon,hazard,operational
-0,downtown,-43.53296,172.633386,multi,FALSE
-1,fire_station,-43.5126336,172.6909776,multi,FALSE
-2,fire_station,-43.3996132,172.6960113,multi,TRUE
-3,fire_station,-43.526785,172.6441684,multi,FALSE
-4,fire_station,-43.6281526,172.7305453,multi,TRUE
-5,fire_station,-43.6269266,172.6464425,multi,TRUE
-6,fire_station,-43.4888915,172.5657746,multi,FALSE
-7,fire_station,-43.3820055,172.6542083,multi,FALSE
-8,fire_station,-43.4988985,172.2125161,multi,TRUE
-9,fire_station,-43.6390595,172.4866046,multi,TRUE
-10,fire_station,-43.6019467,172.7187286,multi,TRUE
-11,fire_station,-43.3049935,172.594508,multi,TRUE
-12,fire_station,-43.4675686,172.6024123,multi,FALSE
-13,fire_station,-43.5922697,172.3770423,multi,TRUE
-14,fire_station,-43.5534692,172.6198742,multi,FALSE
-15,fire_station,-43.5725232,172.7614099,multi,TRUE
-16,fire_station,-43.5601565,172.5312794,multi,FALSE
-17,fire_station,-43.3234224,172.6759292,multi,TRUE
-18,fire_station,-43.5540299,172.6913042,multi,TRUE
-19,hospital,-43.48031835,172.6849384,multi,FALSE
-20,hospital,-43.5342631,172.625237,multi,TRUE
-21,hospital,-43.5512624,172.5964978,multi,TRUE
-22,hospital,-43.2897332,172.592271,multi,TRUE
-23,hospital,-43.5209353,172.6452759,multi,FALSE
-24,hospital,-43.5107722,172.61816,multi,FALSE
-25,library,-43.51222183,172.6977519,multi,FALSE
-26,library,-43.56294214,172.6452408,multi,FALSE
-27,library,-43.57058612,172.6307794,multi,TRUE
-28,library,-43.62637988,172.7404967,multi,TRUE
-29,library,-43.51465283,172.6363017,multi,FALSE
-30,library,-43.51395175,172.5913263,multi,TRUE
-31,library,-43.52855034,172.6221848,multi,TRUE
-32,library,-43.58092989,172.708514,multi,FALSE
-33,library,-43.55937918,172.6022678,multi,FALSE
-34,library,-43.54471317,172.5226435,multi,FALSE
-35,library,-43.53243578,172.6754026,multi,FALSE
-36,library,-43.60266563,172.7206943,multi,TRUE
-37,library,-43.50085582,172.6419531,multi,FALSE
-38,library,-43.56913989,172.7588933,multi,TRUE
-39,library,-43.50710403,172.7314042,multi,FALSE
-40,library,-43.5552055,172.6667621,multi,TRUE
-41,library,-43.5537897,172.6660876,multi,FALSE
-42,library,-43.4941987,172.607153,multi,TRUE
-43,library,-43.48185158,172.7071599,multi,TRUE
-44,library,-43.56186105,172.7392226,multi,TRUE
-45,library,-43.47744843,172.6165014,multi,FALSE
-46,library,-43.53104461,172.6017599,multi,FALSE
-47,library,-43.50513224,172.6631248,multi,FALSE
-48,library,-43.53210506,172.5723361,multi,FALSE
-49,library,-43.56148841,172.6375327,multi,FALSE
-50,library,-43.55642404,172.6182814,multi,FALSE
-51,library,-43.55732388,172.653707,multi,TRUE
-52,library,-43.58139541,172.5688214,multi,FALSE
-53,library,-43.53013177,172.637202,multi,FALSE
-54,library,-43.53500258,172.5630853,multi,TRUE
-55,library,-43.53149323,172.5736219,multi,TRUE
-56,library,-43.5492237,172.6828517,multi,FALSE
-57,library,-43.48988867,172.5857295,multi,FALSE
-58,medical_clinic,-43.52070256,172.6303589,multi,TRUE
-59,medical_clinic,-43.54557559,172.5258579,multi,FALSE
-60,medical_clinic,-43.55709556,172.620348,multi,FALSE
-61,medical_clinic,-43.44520355,172.6333859,multi,FALSE
-62,medical_clinic,-43.44470655,172.6329439,multi,FALSE
-63,medical_clinic,-43.49018057,172.5880899,multi,FALSE
-64,medical_clinic,-43.50908257,172.5904849,multi,FALSE
-65,medical_clinic,-43.49651957,172.5787619,multi,FALSE
-66,medical_clinic,-43.48045856,172.6032359,multi,FALSE
-67,medical_clinic,-43.56681956,172.646938,multi,FALSE
-68,medical_clinic,-43.56699856,172.629422,multi,FALSE
-69,medical_clinic,-43.55626656,172.636678,multi,TRUE
-70,medical_clinic,-43.50501855,172.6347199,multi,FALSE
-71,medical_clinic,-43.62646953,172.739929,multi,TRUE
-72,medical_clinic,-43.53301756,172.6283289,multi,FALSE
-73,medical_clinic,-43.53046757,172.5928159,multi,FALSE
-74,medical_clinic,-43.51292058,172.5551999,multi,TRUE
-75,medical_clinic,-43.51292058,172.5551999,multi,FALSE
-76,medical_clinic,-43.51656953,172.701178,multi,FALSE
-77,medical_clinic,-43.51775557,172.5871119,multi,FALSE
-78,medical_clinic,-43.54090255,172.660402,multi,FALSE
-79,medical_clinic,-43.55618954,172.697494,multi,TRUE
-80,medical_clinic,-43.50771957,172.5698549,multi,FALSE
-81,medical_clinic,-43.49870857,172.5867099,multi,FALSE
-82,medical_clinic,-43.57433758,172.5682579,multi,FALSE
-83,medical_clinic,-43.49117857,172.5952169,multi,FALSE
-84,medical_clinic,-43.53825755,172.642922,multi,FALSE
-85,medical_clinic,-43.53660756,172.6364479,multi,FALSE
-86,medical_clinic,-43.53581859,172.5214049,multi,TRUE
-87,medical_clinic,-43.55982355,172.657957,multi,FALSE
-88,medical_clinic,-43.52922357,172.6052069,multi,FALSE
-89,medical_clinic,-43.55412657,172.5942419,multi,FALSE
-90,medical_clinic,-43.56601557,172.604239,multi,FALSE
-91,medical_clinic,-43.54441759,172.5287619,multi,TRUE
-92,medical_clinic,-43.51225957,172.5806319,multi,TRUE
-93,medical_clinic,-43.50211655,172.6333769,multi,FALSE
-94,medical_clinic,-43.51569257,172.5717529,multi,FALSE
-95,medical_clinic,-43.49784757,172.5727439,multi,FALSE
-96,medical_clinic,-43.53295855,172.655534,multi,FALSE
-97,medical_clinic,-43.53321054,172.674028,multi,FALSE
-98,medical_clinic,-43.57815959,172.5462929,multi,FALSE
-99,medical_clinic,-43.60346954,172.722625,multi,TRUE
-100,medical_clinic,-43.49133856,172.6130309,multi,FALSE
-101,medical_clinic,-43.49846755,172.6408549,multi,FALSE
-102,medical_clinic,-43.51151956,172.6214979,multi,FALSE
-103,medical_clinic,-43.47488754,172.6592859,multi,TRUE
-104,medical_clinic,-43.52137956,172.6368109,multi,FALSE
-105,medical_clinic,-43.51014756,172.6202329,multi,FALSE
-106,medical_clinic,-43.54073156,172.63974,multi,FALSE
-107,medical_clinic,-43.55795353,172.722312,multi,FALSE
-108,medical_clinic,-43.50905653,172.727617,multi,TRUE
-109,medical_clinic,-43.50980456,172.6067429,multi,FALSE
-110,medical_clinic,-43.51776955,172.6541109,multi,FALSE
-111,medical_clinic,-43.47507056,172.6173119,multi,FALSE
-112,medical_clinic,-43.53841556,172.6304619,multi,FALSE
-113,medical_clinic,-43.50030656,172.6111929,multi,FALSE
-114,medical_clinic,-43.51534355,172.6378859,multi,FALSE
-115,medical_clinic,-43.49499353,172.7111989,multi,TRUE
-116,medical_clinic,-43.47786153,172.6959789,multi,FALSE
-117,medical_clinic,-43.56187953,172.738582,multi,TRUE
-118,medical_clinic,-43.47920956,172.6170389,multi,FALSE
-119,medical_clinic,-43.53172358,172.5717639,multi,FALSE
-120,medical_clinic,-43.53291957,172.5990099,multi,FALSE
-121,medical_clinic,-43.54828056,172.622099,multi,FALSE
-122,medical_clinic,-43.50711055,172.6625929,multi,FALSE
-123,medical_clinic,-43.50956856,172.6304629,multi,FALSE
-124,medical_clinic,-43.55915655,172.654557,multi,FALSE
-125,medical_clinic,-43.52859257,172.6022669,multi,TRUE
-126,medical_clinic,-43.56891552,172.75837,multi,TRUE
-127,medical_clinic,-43.51058453,172.701306,multi,FALSE
-128,medical_clinic,-43.55337561,172.4731009,multi,TRUE
-129,medical_clinic,-43.53216456,172.6374769,multi,FALSE
-130,medical_clinic,-43.49494453,172.7096289,multi,TRUE
-131,medical_clinic,-43.53217655,172.671399,multi,FALSE
-132,medical_clinic,-43.52384857,172.5795009,multi,TRUE
-133,medical_clinic,-43.53133157,172.5778409,multi,FALSE
-134,medical_clinic,-43.55282957,172.5966139,multi,FALSE
-135,medical_clinic,-43.51569257,172.5717529,multi,FALSE
-136,medical_clinic,-43.55069855,172.646537,multi,FALSE
-137,medical_clinic,-43.55198158,172.5569569,multi,FALSE
-138,medical_clinic,-43.52537255,172.662356,multi,FALSE
-139,medical_clinic,-43.52775358,172.5575659,multi,TRUE
-140,petrol_station,-43.5118722,172.6921195,multi,FALSE
-141,petrol_station,-43.51583756,172.5722009,multi,FALSE
-142,petrol_station,-43.47466626,172.6599272,multi,FALSE
-143,petrol_station,-43.47927771,172.5552512,multi,FALSE
-144,petrol_station,-43.4953417,172.7103702,multi,TRUE
-145,petrol_station,-43.4976706,172.6423819,multi,FALSE
-146,petrol_station,-43.4995288,172.6098874,multi,FALSE
-147,petrol_station,-43.5131211,172.6376837,multi,FALSE
-148,petrol_station,-43.56444801,172.6083515,multi,FALSE
-149,petrol_station,-43.5313608,172.5761964,multi,FALSE
-150,petrol_station,-43.5255398,172.67343,multi,FALSE
-151,petrol_station,-43.5187113,172.5898077,multi,FALSE
-152,petrol_station,-43.5419858,172.6875437,multi,TRUE
-153,petrol_station,-43.5718258,172.5709601,multi,FALSE
-154,petrol_station,-43.4812281,172.5928073,multi,FALSE
-155,petrol_station,-43.5648638,172.6858461,multi,FALSE
-156,petrol_station,-43.56151295,172.7377584,multi,TRUE
-157,petrol_station,-43.5045609,172.6021506,multi,TRUE
-158,petrol_station,-43.4902606,172.6212144,multi,FALSE
-159,petrol_station,-43.5116885,172.5561192,multi,TRUE
-160,petrol_station,-43.487676,172.5878824,multi,TRUE
-161,petrol_station,-43.5291401,172.6043366,multi,FALSE
-162,petrol_station,-43.5439459,172.5229628,multi,TRUE
-163,petrol_station,-43.4789024,172.6164203,multi,FALSE
-164,petrol_station,-43.5378398,172.5957122,multi,FALSE
-165,petrol_station,-43.55368285,172.6272509,multi,FALSE
-166,petrol_station,-43.53516696,172.645871,multi,FALSE
-167,petrol_station,-43.5823444,172.5692397,multi,TRUE
-168,petrol_station,-43.518375,172.6519068,multi,FALSE
-169,petrol_station,-43.54719503,172.6543581,multi,FALSE
-170,petrol_station,-43.55010577,172.6372298,multi,FALSE
-171,petrol_station,-43.5292831,172.6090734,multi,FALSE
-172,petrol_station,-43.47332165,172.6176304,multi,FALSE
-173,petrol_station,-43.5630383,172.6577284,multi,FALSE
-174,petrol_station,-43.52125794,172.6452293,multi,FALSE
-175,petrol_station,-43.5356197,172.6423202,multi,FALSE
-176,petrol_station,-43.4956428,172.6082268,multi,TRUE
-177,petrol_station,-43.5176852,172.7016575,multi,FALSE
-178,petrol_station,-43.51935323,172.5796962,multi,FALSE
-179,petrol_station,-43.5435011,172.5464036,multi,FALSE
-180,petrol_station,-43.5471963,172.6795717,multi,FALSE
-181,petrol_station,-43.5226733,172.6568473,multi,FALSE
-182,petrol_station,-43.51831134,172.5257461,multi,TRUE
-183,petrol_station,-43.4637453,172.5828089,multi,FALSE
-184,petrol_station,-43.5506926,172.5994083,multi,FALSE
-185,petrol_station,-43.5572748,172.5241309,multi,TRUE
-186,petrol_station,-43.5487317,172.4906678,multi,TRUE
-187,petrol_station,-43.57000295,172.6855716,multi,FALSE
-188,petrol_station,-43.6288737,172.7244761,multi,TRUE
-189,petrol_station,-43.5124812,172.6925703,multi,FALSE
-190,petrol_station,-43.5394936,172.6392449,multi,FALSE
-191,petrol_station,-43.5446944,172.5674282,multi,FALSE
-192,petrol_station,-43.549038,172.5115648,multi,FALSE
-193,petrol_station,-43.48475121,172.5498467,multi,FALSE
-194,petrol_station,-43.54669053,172.5613789,multi,FALSE
-195,petrol_station,-43.47491908,172.6598983,multi,TRUE
-196,petrol_station,-43.4709799,172.5702591,multi,TRUE
-197,petrol_station,-43.54297113,172.5461111,multi,FALSE
-198,petrol_station,-43.56337118,172.6768153,multi,TRUE
-199,petrol_station,-43.523239,172.7320484,multi,FALSE
-200,petrol_station,-43.5126915,172.5083744,multi,FALSE
-201,petrol_station,-43.4898107,172.5930428,multi,FALSE
-202,petrol_station,-43.55733454,172.6186518,multi,TRUE
-203,petrol_station,-43.4517228,172.6277422,multi,FALSE
-204,petrol_station,-43.50761965,172.6624703,multi,FALSE
-205,petrol_station,-43.5381532,172.5286455,multi,TRUE
-206,petrol_station,-43.5105435,172.6076296,multi,FALSE
-207,petrol_station,-43.52009023,172.6270781,multi,FALSE
-208,petrol_station,-43.53855501,172.5678166,multi,FALSE
-209,petrol_station,-43.5199871,172.5347836,multi,FALSE
-210,petrol_station,-43.5327396,172.6713352,multi,TRUE
-211,petrol_station,-43.56528673,172.6366193,multi,FALSE
-212,petrol_station,-43.5435267,172.6679941,multi,FALSE
-213,petrol_station,-43.54819835,172.6572462,multi,FALSE
-214,petrol_station,-43.5458225,172.6085758,multi,FALSE
-215,petrol_station,-43.54047573,172.6221627,multi,FALSE
-216,petrol_station,-43.491833,172.5729002,multi,FALSE
-217,petrol_station,-43.5062509,172.7279285,multi,TRUE
-218,petrol_station,-43.54948737,172.4882577,multi,FALSE
-219,petrol_station,-43.5387832,172.5274556,multi,TRUE
-220,petrol_station,-43.5218711,172.6561234,multi,FALSE
-221,petrol_station,-43.54033429,172.6419337,multi,FALSE
-222,pharmacy,-43.51202456,172.6219149,multi,FALSE
-223,pharmacy,-43.51131758,172.5572519,multi,TRUE
-224,pharmacy,-43.52995057,172.5994619,multi,FALSE
-225,pharmacy,-43.46073355,172.6232089,multi,TRUE
-226,pharmacy,-43.49357855,172.6611599,multi,TRUE
-227,pharmacy,-43.49009357,172.5692129,multi,FALSE
-228,pharmacy,-43.53287856,172.6326599,multi,FALSE
-229,pharmacy,-43.55709556,172.620348,multi,FALSE
-230,pharmacy,-43.50201456,172.6324749,multi,FALSE
-231,pharmacy,-43.49540254,172.6884849,multi,FALSE
-232,pharmacy,-43.48041356,172.6032609,multi,FALSE
-233,pharmacy,-43.56681956,172.646938,multi,FALSE
-234,pharmacy,-43.53216456,172.6374769,multi,TRUE
-235,pharmacy,-43.53461156,172.6257089,multi,TRUE
-236,pharmacy,-43.53217655,172.671399,multi,FALSE
-237,pharmacy,-43.53376356,172.6365019,multi,FALSE
-238,pharmacy,-43.53204258,172.5730109,multi,FALSE
-239,pharmacy,-43.53321054,172.674028,multi,FALSE
-240,pharmacy,-43.55720854,172.701635,multi,TRUE
-241,pharmacy,-43.49362456,172.6103089,multi,FALSE
-242,pharmacy,-43.51534355,172.6378859,multi,FALSE
-243,pharmacy,-43.51729153,172.702127,multi,FALSE
-244,pharmacy,-43.50902257,172.5888159,multi,TRUE
-245,pharmacy,-43.51781457,172.5883359,multi,FALSE
-246,pharmacy,-43.54040155,172.658561,multi,FALSE
-247,pharmacy,-43.57449858,172.5677739,multi,FALSE
-248,pharmacy,-43.50883455,172.6519109,multi,FALSE
-249,pharmacy,-43.52922357,172.6052069,multi,FALSE
-250,pharmacy,-43.55788656,172.636656,multi,FALSE
-251,pharmacy,-43.55612256,172.636666,multi,FALSE
-252,pharmacy,-43.51208757,172.5803859,multi,FALSE
-253,pharmacy,-43.53564459,172.5208379,multi,TRUE
-254,pharmacy,-43.54943057,172.5898549,multi,FALSE
-255,pharmacy,-43.55424257,172.5940429,multi,FALSE
-256,pharmacy,-43.56596157,172.604449,multi,FALSE
-257,pharmacy,-43.49782957,172.5728179,multi,TRUE
-258,pharmacy,-43.55707256,172.618925,multi,FALSE
-259,pharmacy,-43.54259459,172.5253609,multi,TRUE
-260,pharmacy,-43.51229456,172.6217029,multi,FALSE
-261,pharmacy,-43.49432456,172.6096369,multi,FALSE
-262,pharmacy,-43.50637255,172.6625099,multi,FALSE
-263,pharmacy,-43.53406754,172.675112,multi,FALSE
-264,pharmacy,-43.53437554,172.675568,multi,FALSE
-265,pharmacy,-43.53108955,172.656745,multi,FALSE
-266,pharmacy,-43.57815959,172.5462929,multi,FALSE
-267,pharmacy,-43.60278254,172.721402,multi,TRUE
-268,pharmacy,-43.49846955,172.6416959,multi,FALSE
-269,pharmacy,-43.47488754,172.6592859,multi,TRUE
-270,pharmacy,-43.51014756,172.6202329,multi,FALSE
-271,pharmacy,-43.54359655,172.667464,multi,FALSE
-272,pharmacy,-43.51776655,172.6561399,multi,FALSE
-273,pharmacy,-43.49757056,172.6086389,multi,FALSE
-274,pharmacy,-43.55671354,172.705078,multi,TRUE
-275,pharmacy,-43.53869655,172.642474,multi,FALSE
-276,pharmacy,-43.57149456,172.619615,multi,FALSE
-277,pharmacy,-43.49501853,172.7106059,multi,TRUE
-278,pharmacy,-43.53727556,172.6093239,multi,FALSE
-279,pharmacy,-43.56177253,172.738917,multi,TRUE
-280,pharmacy,-43.47807556,172.6171069,multi,TRUE
-281,pharmacy,-43.53095357,172.5927379,multi,TRUE
-282,pharmacy,-43.50956856,172.6304629,multi,FALSE
-283,pharmacy,-43.50985656,172.6194179,multi,FALSE
-284,pharmacy,-43.50985656,172.6194179,multi,FALSE
-285,pharmacy,-43.53488456,172.6295299,multi,FALSE
-286,pharmacy,-43.54813656,172.622062,multi,TRUE
-287,pharmacy,-43.49133656,172.6124619,multi,FALSE
-288,pharmacy,-43.50693955,172.6625819,multi,FALSE
-289,pharmacy,-43.53810856,172.635524,multi,FALSE
-290,pharmacy,-43.51360155,172.6364249,multi,FALSE
-291,pharmacy,-43.55802155,172.654205,multi,FALSE
-292,pharmacy,-43.54598359,172.5242949,multi,TRUE
-293,pharmacy,-43.56920552,172.75926,multi,TRUE
-294,pharmacy,-43.54622956,172.636391,multi,FALSE
-295,pharmacy,-43.55348361,172.4732609,multi,TRUE
-296,pharmacy,-43.54249356,172.6141039,multi,FALSE
-297,pharmacy,-43.55301955,172.664319,multi,FALSE
-298,pharmacy,-43.54088355,172.660191,multi,FALSE
-299,pharmacy,-43.52384857,172.5795009,multi,FALSE
-300,pharmacy,-43.52109755,172.6416619,multi,FALSE
-301,pharmacy,-43.44470655,172.6329439,multi,TRUE
-302,pharmacy,-43.48880057,172.5873949,multi,FALSE
-303,pharmacy,-43.50728153,172.726673,multi,TRUE
-304,pharmacy,-43.48188754,172.6836349,multi,FALSE
-305,pharmacy,-43.53154658,172.5752039,multi,FALSE
-306,pharmacy,-43.53300556,172.6359009,multi,FALSE
-307,pharmacy,-43.49959557,172.5856899,multi,FALSE
-308,pharmacy,-43.53344254,172.673717,multi,FALSE
-309,pharmacy,-43.50980456,172.6067429,multi,FALSE
-310,pharmacy,-43.55620054,172.698187,multi,TRUE
-311,pharmacy,-43.52647056,172.6383639,multi,FALSE
-312,pharmacy,-43.51627757,172.5717859,multi,FALSE
-313,pharmacy,-43.55282957,172.5966139,multi,FALSE
-314,pharmacy,-43.54073156,172.63974,multi,FALSE
-315,pharmacy,-43.47931853,172.6922019,multi,FALSE
-316,pharmacy,-43.48165053,172.7060219,multi,TRUE
-317,pharmacy,-43.53461156,172.6257089,multi,FALSE
-318,pharmacy,-43.47555454,172.6597889,multi,TRUE
-319,pharmacy,-43.53172358,172.5717639,multi,FALSE
-320,pharmacy,-43.49057958,172.5480939,multi,TRUE
-321,pharmacy,-43.58045158,172.566556,multi,FALSE
-322,pharmacy,-43.53832457,172.6055189,multi,TRUE
-323,pharmacy,-43.55282858,172.5571489,multi,TRUE
-324,pharmacy,-43.50891253,172.727556,multi,FALSE
-325,pharmacy,-43.52049656,172.6364579,multi,FALSE
-326,pharmacy,-43.55045555,172.646538,multi,TRUE
-327,pharmacy,-43.55672956,172.618606,multi,FALSE
-328,pharmacy,-43.52532954,172.67219,multi,FALSE
-329,pharmacy,-43.54906654,172.682841,multi,FALSE
-330,police_station,-43.5579633,172.6436643,multi,FALSE
-331,police_station,-43.4816393,172.7060013,multi,TRUE
-332,police_station,-43.4985849,172.5422197,multi,FALSE
-333,police_station,-43.5344345,172.6348646,multi,FALSE
-334,police_station,-43.5444915,172.5268065,multi,FALSE
-335,police_station,-43.3815752,172.6588209,multi,FALSE
-336,police_station,-43.6030864,172.7234411,multi,TRUE
-337,police_station,-43.508626,172.7241578,multi,TRUE
-338,police_station,-43.4952129,172.6093154,multi,FALSE
-339,police_station,-43.304272,172.5899178,multi,TRUE
-340,police_station,-43.556896,172.6371284,multi,TRUE
-341,police_station,-43.5444915,172.5268065,multi,TRUE
-342,primary_school,-43.547853,172.618232,multi,FALSE
-343,primary_school,-43.524097,172.559489,multi,FALSE
-344,primary_school,-43.554154,172.687446,multi,TRUE
-345,primary_school,-43.513246,172.668103,multi,TRUE
-346,primary_school,-43.562872,172.64548,multi,TRUE
-347,primary_school,-43.453613,172.627294,multi,FALSE
-348,primary_school,-43.486644,172.59624,multi,FALSE
-349,primary_school,-43.536552,172.687047,multi,FALSE
-350,primary_school,-43.512733,172.581774,multi,FALSE
-351,primary_school,-43.576413,172.632538,multi,FALSE
-352,primary_school,-43.509149,172.576628,multi,TRUE
-353,primary_school,-43.529642,172.64835,multi,FALSE
-354,primary_school,-43.482453,172.58717,multi,FALSE
-355,primary_school,-43.629957,172.726697,multi,TRUE
-356,primary_school,-43.749666,172.932037,multi,TRUE
-357,primary_school,-43.513809,172.614747,multi,TRUE
-358,primary_school,-43.517076,172.59114,multi,FALSE
-359,primary_school,-43.529733,172.521336,multi,TRUE
-360,primary_school,-43.623981,172.649982,multi,TRUE
-361,primary_school,-43.59065,172.569373,multi,FALSE
-362,primary_school,-43.479767,172.559438,multi,TRUE
-363,primary_school,-43.579871,172.70887,multi,FALSE
-364,primary_school,-43.564861,172.606589,multi,FALSE
-365,primary_school,-43.538702,172.522624,multi,FALSE
-366,primary_school,-43.526408,172.579687,multi,FALSE
-367,primary_school,-43.493102,172.582115,multi,TRUE
-368,primary_school,-43.520217,172.654818,multi,FALSE
-369,primary_school,-43.570857,172.537925,multi,FALSE
-370,primary_school,-43.535279,172.674872,multi,FALSE
-371,primary_school,-43.763792,172.795478,multi,TRUE
-372,primary_school,-43.602339,172.72316,multi,TRUE
-373,primary_school,-43.498705,172.641407,multi,FALSE
-374,primary_school,-43.472023,172.66474,multi,TRUE
-375,primary_school,-43.521884,172.589106,multi,FALSE
-376,primary_school,-43.510492,172.55857,multi,TRUE
-377,primary_school,-43.562443,172.715918,multi,FALSE
-378,primary_school,-43.505937,172.723715,multi,TRUE
-379,primary_school,-43.47936,172.614001,multi,FALSE
-380,primary_school,-43.510655,172.724985,multi,TRUE
-381,primary_school,-43.571578,172.564642,multi,FALSE
-382,primary_school,-43.708867,173.042728,multi,TRUE
-383,primary_school,-43.555657,172.664481,multi,TRUE
-384,primary_school,-43.574863,172.762534,multi,TRUE
-385,primary_school,-43.53621,172.559117,multi,TRUE
-386,primary_school,-43.564783,172.607072,multi,FALSE
-387,primary_school,-43.444592,172.660379,multi,FALSE
-388,primary_school,-43.48802,172.619719,multi,FALSE
-389,primary_school,-43.49965,172.619578,multi,TRUE
-390,primary_school,-43.480595,172.705623,multi,TRUE
-391,primary_school,-43.473153,172.695976,multi,FALSE
-392,primary_school,-43.4961,172.7177,multi,FALSE
-393,primary_school,-43.579766,172.758806,multi,TRUE
-394,primary_school,-43.473601,172.621946,multi,FALSE
-395,primary_school,-43.533358,172.564135,multi,TRUE
-396,primary_school,-43.517891,172.544696,multi,TRUE
-397,primary_school,-43.546061,172.612749,multi,FALSE
-398,primary_school,-43.516638,172.623003,multi,FALSE
-399,primary_school,-43.582665,172.54845,multi,FALSE
-400,primary_school,-43.507883,172.653144,multi,FALSE
-401,primary_school,-43.56164,172.628529,multi,FALSE
-402,primary_school,-43.547117,172.529039,multi,TRUE
-403,primary_school,-43.526215,172.733519,multi,FALSE
-404,primary_school,-43.55757,172.597919,multi,FALSE
-405,primary_school,-43.507126,172.629087,multi,FALSE
-406,primary_school,-43.50877,172.63438,multi,FALSE
-407,primary_school,-43.550378,172.685572,multi,FALSE
-408,primary_school,-43.533479,172.525337,multi,TRUE
-409,primary_school,-43.499787,172.639385,multi,FALSE
-410,primary_school,-43.511725,172.704852,multi,FALSE
-411,primary_school,-43.488669,172.614436,multi,FALSE
-412,primary_school,-43.552882,172.659298,multi,FALSE
-413,primary_school,-43.565427,172.657224,multi,FALSE
-414,primary_school,-43.523222,172.639253,multi,TRUE
-415,primary_school,-43.53477,172.633057,multi,FALSE
-416,primary_school,-43.511234,172.604041,multi,FALSE
-417,primary_school,-43.559761,172.63769,multi,TRUE
-418,primary_school,-43.529753,172.592132,multi,FALSE
-419,primary_school,-43.573093,172.75962,multi,TRUE
-420,primary_school,-43.546474,172.68923,multi,TRUE
-421,primary_school,-43.559629,172.611289,multi,FALSE
-422,primary_school,-43.49448,172.56314,multi,FALSE
-423,primary_school,-43.562247,172.58776,multi,FALSE
-424,primary_school,-43.545666,172.672631,multi,FALSE
-425,primary_school,-43.550157,172.472353,multi,TRUE
-426,primary_school,-43.528053,172.628547,multi,FALSE
-427,primary_school,-43.5663,172.63656,multi,FALSE
-428,primary_school,-43.504209,172.605274,multi,FALSE
-429,primary_school,-43.500162,172.588274,multi,FALSE
-430,primary_school,-43.488839,172.683836,multi,FALSE
-431,primary_school,-43.548984,172.648604,multi,TRUE
-432,primary_school,-43.512142,172.570879,multi,FALSE
-433,primary_school,-43.524843,172.675784,multi,FALSE
-434,primary_school,-43.536306,172.596734,multi,FALSE
-435,primary_school,-43.55422,172.551909,multi,FALSE
-436,primary_school,-43.510189,172.502181,multi,TRUE
-437,secondary_school,-43.563766,172.570992,multi,TRUE
-438,secondary_school,-43.811174,172.962425,multi,TRUE
-439,secondary_school,-43.523012,172.568049,multi,FALSE
-440,secondary_school,-43.524028,172.661514,multi,FALSE
-441,secondary_school,-43.507315,172.577702,multi,FALSE
-442,secondary_school,-43.564565,172.623852,multi,FALSE
-443,secondary_school,-43.537655,172.646591,multi,FALSE
-444,secondary_school,-43.529716,172.627114,multi,FALSE
-445,secondary_school,-43.499018,172.611428,multi,TRUE
-446,secondary_school,-43.524806,172.598411,multi,TRUE
-447,secondary_school,-43.524293,172.611366,multi,FALSE
-448,secondary_school,-43.478663,172.588271,multi,FALSE
-449,secondary_school,-43.514756,172.696684,multi,FALSE
-450,secondary_school,-43.537238,172.623,multi,FALSE
-451,secondary_school,-43.557675,172.592774,multi,FALSE
-452,secondary_school,-43.555736,172.652793,multi,TRUE
-453,secondary_school,-43.538174,172.527627,multi,FALSE
-454,secondary_school,-43.538762,172.667655,multi,FALSE
-455,secondary_school,-43.494016,172.648476,multi,FALSE
-456,secondary_school,-43.539039,172.646135,multi,TRUE
-457,secondary_school,-43.536245,172.576512,multi,FALSE
-458,secondary_school,-43.491037,172.606707,multi,FALSE
-459,secondary_school,-43.518898,172.617779,multi,TRUE
-460,secondary_school,-43.53589,172.566357,multi,FALSE
-461,secondary_school,-43.560082,172.659127,multi,FALSE
-462,secondary_school,-43.583346,172.549805,multi,FALSE
-463,secondary_school,-43.512343,172.660827,multi,FALSE
-464,secondary_school,-43.506363,172.615865,multi,FALSE
-465,secondary_school,-43.48405,172.616864,multi,FALSE
-466,secondary_school,-43.519091,172.622151,multi,FALSE
-467,secondary_school,-43.533607,172.556203,multi,TRUE
-468,secondary_school,-43.564583,172.614584,multi,FALSE
-469,secondary_school,-43.551176,172.656323,multi,FALSE
-470,secondary_school,-43.529305,172.672453,multi,FALSE
-471,secondary_school,-43.528304,172.567561,multi,FALSE
-472,supermarket,-43.5351605,172.5802564,multi,FALSE
-473,supermarket,-43.53274003,172.5730475,multi,FALSE
-474,supermarket,-43.55682685,172.7025114,multi,TRUE
-475,supermarket,-43.5387413,172.6417417,multi,TRUE
-476,supermarket,-43.50676606,172.7299485,multi,FALSE
-477,supermarket,-43.45900317,172.6250142,multi,FALSE
-478,supermarket,-43.49152959,172.6117041,multi,FALSE
-479,supermarket,-43.59418266,172.3866759,multi,TRUE
-480,supermarket,-43.54274886,172.5269712,multi,TRUE
-481,supermarket,-43.48986069,172.5477124,multi,TRUE
-482,supermarket,-43.5056571,172.6645278,multi,FALSE
-483,supermarket,-43.5111866,172.5572106,multi,TRUE
-484,supermarket,-43.5324507,172.6755846,multi,FALSE
-485,supermarket,-43.55331378,172.6355983,multi,FALSE
-486,supermarket,-43.51316108,172.6367287,multi,FALSE
-487,supermarket,-43.5232351,172.3704124,multi,TRUE
-488,supermarket,-43.48134612,172.7060947,multi,TRUE
-489,supermarket,-43.5557083,172.6205318,multi,FALSE
-490,supermarket,-43.5340843,172.6378384,multi,FALSE
-491,supermarket,-43.5128454,172.6213802,multi,FALSE
-492,supermarket,-43.5132962,172.6365852,multi,TRUE
-493,supermarket,-43.58063686,172.5659203,multi,FALSE
-494,supermarket,-43.45963502,172.6223904,multi,FALSE
-495,supermarket,-43.48845188,172.5872137,multi,FALSE
-496,supermarket,-43.55753906,172.6547893,multi,FALSE
-497,supermarket,-43.56242398,172.7390075,multi,TRUE
-498,supermarket,-43.47515958,172.6620094,multi,TRUE
-499,supermarket,-43.53870921,172.6331341,multi,FALSE
-500,supermarket,-43.5179319,172.588375,multi,FALSE
-501,supermarket,-43.5526955,172.5575428,multi,TRUE
-502,supermarket,-43.5258837,172.5701643,multi,FALSE
-503,supermarket,-43.4885645,172.5874903,multi,FALSE
-504,supermarket,-43.5490378,172.6840966,multi,FALSE
-505,supermarket,-43.52595041,172.5700589,multi,FALSE
-506,supermarket,-43.64225792,172.4737121,multi,TRUE
-507,supermarket,-43.5967627,172.3824238,multi,TRUE
-508,supermarket,-43.52016129,172.6569832,multi,FALSE
-509,supermarket,-43.5426435,172.5233262,multi,TRUE
-510,supermarket,-43.49285848,172.6089146,multi,FALSE
-511,supermarket,-43.51282276,172.6932267,multi,FALSE
-512,supermarket,-43.5310944,172.5961987,multi,FALSE
-513,supermarket,-43.53900827,172.6383239,multi,FALSE
-514,supermarket,-43.5401055,172.6053454,multi,FALSE
-515,supermarket,-43.4777997,172.5552277,multi,TRUE
-516,supermarket,-43.5694327,172.7599984,multi,TRUE
-517,supermarket,-43.60288087,172.7215154,multi,TRUE
-518,supermarket,-43.509513,172.5902803,multi,TRUE
-519,supermarket,-43.53041974,172.6574869,multi,FALSE
-0,downtown,-43.53296,172.633386,liquefaction,FALSE
-1,fire_station,-43.5126336,172.6909776,liquefaction,TRUE
-2,fire_station,-43.3996132,172.6960113,liquefaction,FALSE
-3,fire_station,-43.526785,172.6441684,liquefaction,FALSE
-4,fire_station,-43.6281526,172.7305453,liquefaction,TRUE
-5,fire_station,-43.6269266,172.6464425,liquefaction,TRUE
-6,fire_station,-43.4888915,172.5657746,liquefaction,FALSE
-7,fire_station,-43.3820055,172.6542083,liquefaction,TRUE
-8,fire_station,-43.4988985,172.2125161,liquefaction,TRUE
-9,fire_station,-43.6390595,172.4866046,liquefaction,TRUE
-10,fire_station,-43.6019467,172.7187286,liquefaction,TRUE
-11,fire_station,-43.3049935,172.594508,liquefaction,TRUE
-12,fire_station,-43.4675686,172.6024123,liquefaction,TRUE
-13,fire_station,-43.5922697,172.3770423,liquefaction,TRUE
-14,fire_station,-43.5534692,172.6198742,liquefaction,TRUE
-15,fire_station,-43.5725232,172.7614099,liquefaction,TRUE
-16,fire_station,-43.5601565,172.5312794,liquefaction,TRUE
-17,fire_station,-43.3234224,172.6759292,liquefaction,TRUE
-18,fire_station,-43.5540299,172.6913042,liquefaction,TRUE
-19,hospital,-43.48031835,172.6849384,liquefaction,FALSE
-20,hospital,-43.5342631,172.625237,liquefaction,TRUE
-21,hospital,-43.5512624,172.5964978,liquefaction,FALSE
-22,hospital,-43.2897332,172.592271,liquefaction,TRUE
-23,hospital,-43.5209353,172.6452759,liquefaction,TRUE
-24,hospital,-43.5107722,172.61816,liquefaction,TRUE
-25,library,-43.51222183,172.6977519,liquefaction,FALSE
-26,library,-43.56294214,172.6452408,liquefaction,FALSE
-27,library,-43.57058612,172.6307794,liquefaction,TRUE
-28,library,-43.62637988,172.7404967,liquefaction,TRUE
-29,library,-43.51465283,172.6363017,liquefaction,FALSE
-30,library,-43.51395175,172.5913263,liquefaction,TRUE
-31,library,-43.52855034,172.6221848,liquefaction,TRUE
-32,library,-43.58092989,172.708514,liquefaction,FALSE
-33,library,-43.55937918,172.6022678,liquefaction,TRUE
-34,library,-43.54471317,172.5226435,liquefaction,FALSE
-35,library,-43.53243578,172.6754026,liquefaction,TRUE
-36,library,-43.60266563,172.7206943,liquefaction,TRUE
-37,library,-43.50085582,172.6419531,liquefaction,TRUE
-38,library,-43.56913989,172.7588933,liquefaction,TRUE
-39,library,-43.50710403,172.7314042,liquefaction,TRUE
-40,library,-43.5552055,172.6667621,liquefaction,FALSE
-41,library,-43.5537897,172.6660876,liquefaction,TRUE
-42,library,-43.4941987,172.607153,liquefaction,FALSE
-43,library,-43.48185158,172.7071599,liquefaction,FALSE
-44,library,-43.56186105,172.7392226,liquefaction,TRUE
-45,library,-43.47744843,172.6165014,liquefaction,TRUE
-46,library,-43.53104461,172.6017599,liquefaction,TRUE
-47,library,-43.50513224,172.6631248,liquefaction,TRUE
-48,library,-43.53210506,172.5723361,liquefaction,FALSE
-49,library,-43.56148841,172.6375327,liquefaction,FALSE
-50,library,-43.55642404,172.6182814,liquefaction,FALSE
-51,library,-43.55732388,172.653707,liquefaction,FALSE
-52,library,-43.58139541,172.5688214,liquefaction,TRUE
-53,library,-43.53013177,172.637202,liquefaction,TRUE
-54,library,-43.53500258,172.5630853,liquefaction,TRUE
-55,library,-43.53149323,172.5736219,liquefaction,TRUE
-56,library,-43.5492237,172.6828517,liquefaction,TRUE
-57,library,-43.48988867,172.5857295,liquefaction,FALSE
-58,medical_clinic,-43.52070256,172.6303589,liquefaction,FALSE
-59,medical_clinic,-43.54557559,172.5258579,liquefaction,FALSE
-60,medical_clinic,-43.55709556,172.620348,liquefaction,TRUE
-61,medical_clinic,-43.44520355,172.6333859,liquefaction,TRUE
-62,medical_clinic,-43.44470655,172.6329439,liquefaction,TRUE
-63,medical_clinic,-43.49018057,172.5880899,liquefaction,TRUE
-64,medical_clinic,-43.50908257,172.5904849,liquefaction,FALSE
-65,medical_clinic,-43.49651957,172.5787619,liquefaction,TRUE
-66,medical_clinic,-43.48045856,172.6032359,liquefaction,TRUE
-67,medical_clinic,-43.56681956,172.646938,liquefaction,FALSE
-68,medical_clinic,-43.56699856,172.629422,liquefaction,TRUE
-69,medical_clinic,-43.55626656,172.636678,liquefaction,FALSE
-70,medical_clinic,-43.50501855,172.6347199,liquefaction,TRUE
-71,medical_clinic,-43.62646953,172.739929,liquefaction,TRUE
-72,medical_clinic,-43.53301756,172.6283289,liquefaction,TRUE
-73,medical_clinic,-43.53046757,172.5928159,liquefaction,TRUE
-74,medical_clinic,-43.51292058,172.5551999,liquefaction,TRUE
-75,medical_clinic,-43.51292058,172.5551999,liquefaction,TRUE
-76,medical_clinic,-43.51656953,172.701178,liquefaction,TRUE
-77,medical_clinic,-43.51775557,172.5871119,liquefaction,FALSE
-78,medical_clinic,-43.54090255,172.660402,liquefaction,FALSE
-79,medical_clinic,-43.55618954,172.697494,liquefaction,FALSE
-80,medical_clinic,-43.50771957,172.5698549,liquefaction,TRUE
-81,medical_clinic,-43.49870857,172.5867099,liquefaction,TRUE
-82,medical_clinic,-43.57433758,172.5682579,liquefaction,TRUE
-83,medical_clinic,-43.49117857,172.5952169,liquefaction,TRUE
-84,medical_clinic,-43.53825755,172.642922,liquefaction,TRUE
-85,medical_clinic,-43.53660756,172.6364479,liquefaction,TRUE
-86,medical_clinic,-43.53581859,172.5214049,liquefaction,TRUE
-87,medical_clinic,-43.55982355,172.657957,liquefaction,FALSE
-88,medical_clinic,-43.52922357,172.6052069,liquefaction,TRUE
-89,medical_clinic,-43.55412657,172.5942419,liquefaction,TRUE
-90,medical_clinic,-43.56601557,172.604239,liquefaction,TRUE
-91,medical_clinic,-43.54441759,172.5287619,liquefaction,FALSE
-92,medical_clinic,-43.51225957,172.5806319,liquefaction,TRUE
-93,medical_clinic,-43.50211655,172.6333769,liquefaction,TRUE
-94,medical_clinic,-43.51569257,172.5717529,liquefaction,FALSE
-95,medical_clinic,-43.49784757,172.5727439,liquefaction,FALSE
-96,medical_clinic,-43.53295855,172.655534,liquefaction,TRUE
-97,medical_clinic,-43.53321054,172.674028,liquefaction,TRUE
-98,medical_clinic,-43.57815959,172.5462929,liquefaction,FALSE
-99,medical_clinic,-43.60346954,172.722625,liquefaction,TRUE
-100,medical_clinic,-43.49133856,172.6130309,liquefaction,TRUE
-101,medical_clinic,-43.49846755,172.6408549,liquefaction,TRUE
-102,medical_clinic,-43.51151956,172.6214979,liquefaction,TRUE
-103,medical_clinic,-43.47488754,172.6592859,liquefaction,TRUE
-104,medical_clinic,-43.52137956,172.6368109,liquefaction,FALSE
-105,medical_clinic,-43.51014756,172.6202329,liquefaction,FALSE
-106,medical_clinic,-43.54073156,172.63974,liquefaction,TRUE
-107,medical_clinic,-43.55795353,172.722312,liquefaction,FALSE
-108,medical_clinic,-43.50905653,172.727617,liquefaction,FALSE
-109,medical_clinic,-43.50980456,172.6067429,liquefaction,FALSE
-110,medical_clinic,-43.51776955,172.6541109,liquefaction,FALSE
-111,medical_clinic,-43.47507056,172.6173119,liquefaction,TRUE
-112,medical_clinic,-43.53841556,172.6304619,liquefaction,FALSE
-113,medical_clinic,-43.50030656,172.6111929,liquefaction,FALSE
-114,medical_clinic,-43.51534355,172.6378859,liquefaction,TRUE
-115,medical_clinic,-43.49499353,172.7111989,liquefaction,TRUE
-116,medical_clinic,-43.47786153,172.6959789,liquefaction,FALSE
-117,medical_clinic,-43.56187953,172.738582,liquefaction,FALSE
-118,medical_clinic,-43.47920956,172.6170389,liquefaction,FALSE
-119,medical_clinic,-43.53172358,172.5717639,liquefaction,TRUE
-120,medical_clinic,-43.53291957,172.5990099,liquefaction,FALSE
-121,medical_clinic,-43.54828056,172.622099,liquefaction,FALSE
-122,medical_clinic,-43.50711055,172.6625929,liquefaction,TRUE
-123,medical_clinic,-43.50956856,172.6304629,liquefaction,FALSE
-124,medical_clinic,-43.55915655,172.654557,liquefaction,FALSE
-125,medical_clinic,-43.52859257,172.6022669,liquefaction,TRUE
-126,medical_clinic,-43.56891552,172.75837,liquefaction,TRUE
-127,medical_clinic,-43.51058453,172.701306,liquefaction,FALSE
-128,medical_clinic,-43.55337561,172.4731009,liquefaction,FALSE
-129,medical_clinic,-43.53216456,172.6374769,liquefaction,FALSE
-130,medical_clinic,-43.49494453,172.7096289,liquefaction,FALSE
-131,medical_clinic,-43.53217655,172.671399,liquefaction,FALSE
-132,medical_clinic,-43.52384857,172.5795009,liquefaction,TRUE
-133,medical_clinic,-43.53133157,172.5778409,liquefaction,FALSE
-134,medical_clinic,-43.55282957,172.5966139,liquefaction,TRUE
-135,medical_clinic,-43.51569257,172.5717529,liquefaction,TRUE
-136,medical_clinic,-43.55069855,172.646537,liquefaction,TRUE
-137,medical_clinic,-43.55198158,172.5569569,liquefaction,TRUE
-138,medical_clinic,-43.52537255,172.662356,liquefaction,TRUE
-139,medical_clinic,-43.52775358,172.5575659,liquefaction,TRUE
-140,petrol_station,-43.5118722,172.6921195,liquefaction,FALSE
-141,petrol_station,-43.51583756,172.5722009,liquefaction,TRUE
-142,petrol_station,-43.47466626,172.6599272,liquefaction,TRUE
-143,petrol_station,-43.47927771,172.5552512,liquefaction,TRUE
-144,petrol_station,-43.4953417,172.7103702,liquefaction,FALSE
-145,petrol_station,-43.4976706,172.6423819,liquefaction,FALSE
-146,petrol_station,-43.4995288,172.6098874,liquefaction,FALSE
-147,petrol_station,-43.5131211,172.6376837,liquefaction,FALSE
-148,petrol_station,-43.56444801,172.6083515,liquefaction,FALSE
-149,petrol_station,-43.5313608,172.5761964,liquefaction,FALSE
-150,petrol_station,-43.5255398,172.67343,liquefaction,TRUE
-151,petrol_station,-43.5187113,172.5898077,liquefaction,FALSE
-152,petrol_station,-43.5419858,172.6875437,liquefaction,FALSE
-153,petrol_station,-43.5718258,172.5709601,liquefaction,FALSE
-154,petrol_station,-43.4812281,172.5928073,liquefaction,TRUE
-155,petrol_station,-43.5648638,172.6858461,liquefaction,TRUE
-156,petrol_station,-43.56151295,172.7377584,liquefaction,TRUE
-157,petrol_station,-43.5045609,172.6021506,liquefaction,TRUE
-158,petrol_station,-43.4902606,172.6212144,liquefaction,FALSE
-159,petrol_station,-43.5116885,172.5561192,liquefaction,TRUE
-160,petrol_station,-43.487676,172.5878824,liquefaction,TRUE
-161,petrol_station,-43.5291401,172.6043366,liquefaction,TRUE
-162,petrol_station,-43.5439459,172.5229628,liquefaction,TRUE
-163,petrol_station,-43.4789024,172.6164203,liquefaction,TRUE
-164,petrol_station,-43.5378398,172.5957122,liquefaction,TRUE
-165,petrol_station,-43.55368285,172.6272509,liquefaction,TRUE
-166,petrol_station,-43.53516696,172.645871,liquefaction,FALSE
-167,petrol_station,-43.5823444,172.5692397,liquefaction,TRUE
-168,petrol_station,-43.518375,172.6519068,liquefaction,FALSE
-169,petrol_station,-43.54719503,172.6543581,liquefaction,FALSE
-170,petrol_station,-43.55010577,172.6372298,liquefaction,TRUE
-171,petrol_station,-43.5292831,172.6090734,liquefaction,TRUE
-172,petrol_station,-43.47332165,172.6176304,liquefaction,FALSE
-173,petrol_station,-43.5630383,172.6577284,liquefaction,TRUE
-174,petrol_station,-43.52125794,172.6452293,liquefaction,FALSE
-175,petrol_station,-43.5356197,172.6423202,liquefaction,TRUE
-176,petrol_station,-43.4956428,172.6082268,liquefaction,FALSE
-177,petrol_station,-43.5176852,172.7016575,liquefaction,TRUE
-178,petrol_station,-43.51935323,172.5796962,liquefaction,TRUE
-179,petrol_station,-43.5435011,172.5464036,liquefaction,TRUE
-180,petrol_station,-43.5471963,172.6795717,liquefaction,FALSE
-181,petrol_station,-43.5226733,172.6568473,liquefaction,FALSE
-182,petrol_station,-43.51831134,172.5257461,liquefaction,FALSE
-183,petrol_station,-43.4637453,172.5828089,liquefaction,TRUE
-184,petrol_station,-43.5506926,172.5994083,liquefaction,FALSE
-185,petrol_station,-43.5572748,172.5241309,liquefaction,TRUE
-186,petrol_station,-43.5487317,172.4906678,liquefaction,TRUE
-187,petrol_station,-43.57000295,172.6855716,liquefaction,FALSE
-188,petrol_station,-43.6288737,172.7244761,liquefaction,TRUE
-189,petrol_station,-43.5124812,172.6925703,liquefaction,TRUE
-190,petrol_station,-43.5394936,172.6392449,liquefaction,TRUE
-191,petrol_station,-43.5446944,172.5674282,liquefaction,FALSE
-192,petrol_station,-43.549038,172.5115648,liquefaction,TRUE
-193,petrol_station,-43.48475121,172.5498467,liquefaction,TRUE
-194,petrol_station,-43.54669053,172.5613789,liquefaction,FALSE
-195,petrol_station,-43.47491908,172.6598983,liquefaction,TRUE
-196,petrol_station,-43.4709799,172.5702591,liquefaction,TRUE
-197,petrol_station,-43.54297113,172.5461111,liquefaction,TRUE
-198,petrol_station,-43.56337118,172.6768153,liquefaction,TRUE
-199,petrol_station,-43.523239,172.7320484,liquefaction,TRUE
-200,petrol_station,-43.5126915,172.5083744,liquefaction,FALSE
-201,petrol_station,-43.4898107,172.5930428,liquefaction,TRUE
-202,petrol_station,-43.55733454,172.6186518,liquefaction,FALSE
-203,petrol_station,-43.4517228,172.6277422,liquefaction,FALSE
-204,petrol_station,-43.50761965,172.6624703,liquefaction,TRUE
-205,petrol_station,-43.5381532,172.5286455,liquefaction,FALSE
-206,petrol_station,-43.5105435,172.6076296,liquefaction,FALSE
-207,petrol_station,-43.52009023,172.6270781,liquefaction,TRUE
-208,petrol_station,-43.53855501,172.5678166,liquefaction,FALSE
-209,petrol_station,-43.5199871,172.5347836,liquefaction,TRUE
-210,petrol_station,-43.5327396,172.6713352,liquefaction,TRUE
-211,petrol_station,-43.56528673,172.6366193,liquefaction,TRUE
-212,petrol_station,-43.5435267,172.6679941,liquefaction,TRUE
-213,petrol_station,-43.54819835,172.6572462,liquefaction,TRUE
-214,petrol_station,-43.5458225,172.6085758,liquefaction,FALSE
-215,petrol_station,-43.54047573,172.6221627,liquefaction,FALSE
-216,petrol_station,-43.491833,172.5729002,liquefaction,TRUE
-217,petrol_station,-43.5062509,172.7279285,liquefaction,TRUE
-218,petrol_station,-43.54948737,172.4882577,liquefaction,TRUE
-219,petrol_station,-43.5387832,172.5274556,liquefaction,FALSE
-220,petrol_station,-43.5218711,172.6561234,liquefaction,TRUE
-221,petrol_station,-43.54033429,172.6419337,liquefaction,TRUE
-222,pharmacy,-43.51202456,172.6219149,liquefaction,FALSE
-223,pharmacy,-43.51131758,172.5572519,liquefaction,TRUE
-224,pharmacy,-43.52995057,172.5994619,liquefaction,TRUE
-225,pharmacy,-43.46073355,172.6232089,liquefaction,TRUE
-226,pharmacy,-43.49357855,172.6611599,liquefaction,TRUE
-227,pharmacy,-43.49009357,172.5692129,liquefaction,TRUE
-228,pharmacy,-43.53287856,172.6326599,liquefaction,FALSE
-229,pharmacy,-43.55709556,172.620348,liquefaction,TRUE
-230,pharmacy,-43.50201456,172.6324749,liquefaction,FALSE
-231,pharmacy,-43.49540254,172.6884849,liquefaction,FALSE
-232,pharmacy,-43.48041356,172.6032609,liquefaction,TRUE
-233,pharmacy,-43.56681956,172.646938,liquefaction,FALSE
-234,pharmacy,-43.53216456,172.6374769,liquefaction,TRUE
-235,pharmacy,-43.53461156,172.6257089,liquefaction,TRUE
-236,pharmacy,-43.53217655,172.671399,liquefaction,TRUE
-237,pharmacy,-43.53376356,172.6365019,liquefaction,TRUE
-238,pharmacy,-43.53204258,172.5730109,liquefaction,TRUE
-239,pharmacy,-43.53321054,172.674028,liquefaction,TRUE
-240,pharmacy,-43.55720854,172.701635,liquefaction,FALSE
-241,pharmacy,-43.49362456,172.6103089,liquefaction,TRUE
-242,pharmacy,-43.51534355,172.6378859,liquefaction,TRUE
-243,pharmacy,-43.51729153,172.702127,liquefaction,TRUE
-244,pharmacy,-43.50902257,172.5888159,liquefaction,TRUE
-245,pharmacy,-43.51781457,172.5883359,liquefaction,TRUE
-246,pharmacy,-43.54040155,172.658561,liquefaction,FALSE
-247,pharmacy,-43.57449858,172.5677739,liquefaction,FALSE
-248,pharmacy,-43.50883455,172.6519109,liquefaction,FALSE
-249,pharmacy,-43.52922357,172.6052069,liquefaction,TRUE
-250,pharmacy,-43.55788656,172.636656,liquefaction,TRUE
-251,pharmacy,-43.55612256,172.636666,liquefaction,TRUE
-252,pharmacy,-43.51208757,172.5803859,liquefaction,TRUE
-253,pharmacy,-43.53564459,172.5208379,liquefaction,TRUE
-254,pharmacy,-43.54943057,172.5898549,liquefaction,FALSE
-255,pharmacy,-43.55424257,172.5940429,liquefaction,TRUE
-256,pharmacy,-43.56596157,172.604449,liquefaction,TRUE
-257,pharmacy,-43.49782957,172.5728179,liquefaction,TRUE
-258,pharmacy,-43.55707256,172.618925,liquefaction,TRUE
-259,pharmacy,-43.54259459,172.5253609,liquefaction,FALSE
-260,pharmacy,-43.51229456,172.6217029,liquefaction,FALSE
-261,pharmacy,-43.49432456,172.6096369,liquefaction,TRUE
-262,pharmacy,-43.50637255,172.6625099,liquefaction,TRUE
-263,pharmacy,-43.53406754,172.675112,liquefaction,FALSE
-264,pharmacy,-43.53437554,172.675568,liquefaction,TRUE
-265,pharmacy,-43.53108955,172.656745,liquefaction,TRUE
-266,pharmacy,-43.57815959,172.5462929,liquefaction,TRUE
-267,pharmacy,-43.60278254,172.721402,liquefaction,TRUE
-268,pharmacy,-43.49846955,172.6416959,liquefaction,FALSE
-269,pharmacy,-43.47488754,172.6592859,liquefaction,TRUE
-270,pharmacy,-43.51014756,172.6202329,liquefaction,FALSE
-271,pharmacy,-43.54359655,172.667464,liquefaction,TRUE
-272,pharmacy,-43.51776655,172.6561399,liquefaction,TRUE
-273,pharmacy,-43.49757056,172.6086389,liquefaction,TRUE
-274,pharmacy,-43.55671354,172.705078,liquefaction,FALSE
-275,pharmacy,-43.53869655,172.642474,liquefaction,TRUE
-276,pharmacy,-43.57149456,172.619615,liquefaction,TRUE
-277,pharmacy,-43.49501853,172.7106059,liquefaction,FALSE
-278,pharmacy,-43.53727556,172.6093239,liquefaction,FALSE
-279,pharmacy,-43.56177253,172.738917,liquefaction,TRUE
-280,pharmacy,-43.47807556,172.6171069,liquefaction,TRUE
-281,pharmacy,-43.53095357,172.5927379,liquefaction,FALSE
-282,pharmacy,-43.50956856,172.6304629,liquefaction,TRUE
-283,pharmacy,-43.50985656,172.6194179,liquefaction,TRUE
-284,pharmacy,-43.50985656,172.6194179,liquefaction,TRUE
-285,pharmacy,-43.53488456,172.6295299,liquefaction,FALSE
-286,pharmacy,-43.54813656,172.622062,liquefaction,TRUE
-287,pharmacy,-43.49133656,172.6124619,liquefaction,TRUE
-288,pharmacy,-43.50693955,172.6625819,liquefaction,TRUE
-289,pharmacy,-43.53810856,172.635524,liquefaction,TRUE
-290,pharmacy,-43.51360155,172.6364249,liquefaction,TRUE
-291,pharmacy,-43.55802155,172.654205,liquefaction,FALSE
-292,pharmacy,-43.54598359,172.5242949,liquefaction,TRUE
-293,pharmacy,-43.56920552,172.75926,liquefaction,TRUE
-294,pharmacy,-43.54622956,172.636391,liquefaction,FALSE
-295,pharmacy,-43.55348361,172.4732609,liquefaction,TRUE
-296,pharmacy,-43.54249356,172.6141039,liquefaction,TRUE
-297,pharmacy,-43.55301955,172.664319,liquefaction,TRUE
-298,pharmacy,-43.54088355,172.660191,liquefaction,FALSE
-299,pharmacy,-43.52384857,172.5795009,liquefaction,TRUE
-300,pharmacy,-43.52109755,172.6416619,liquefaction,TRUE
-301,pharmacy,-43.44470655,172.6329439,liquefaction,FALSE
-302,pharmacy,-43.48880057,172.5873949,liquefaction,FALSE
-303,pharmacy,-43.50728153,172.726673,liquefaction,FALSE
-304,pharmacy,-43.48188754,172.6836349,liquefaction,FALSE
-305,pharmacy,-43.53154658,172.5752039,liquefaction,FALSE
-306,pharmacy,-43.53300556,172.6359009,liquefaction,TRUE
-307,pharmacy,-43.49959557,172.5856899,liquefaction,TRUE
-308,pharmacy,-43.53344254,172.673717,liquefaction,TRUE
-309,pharmacy,-43.50980456,172.6067429,liquefaction,FALSE
-310,pharmacy,-43.55620054,172.698187,liquefaction,TRUE
-311,pharmacy,-43.52647056,172.6383639,liquefaction,FALSE
-312,pharmacy,-43.51627757,172.5717859,liquefaction,TRUE
-313,pharmacy,-43.55282957,172.5966139,liquefaction,FALSE
-314,pharmacy,-43.54073156,172.63974,liquefaction,TRUE
-315,pharmacy,-43.47931853,172.6922019,liquefaction,FALSE
-316,pharmacy,-43.48165053,172.7060219,liquefaction,FALSE
-317,pharmacy,-43.53461156,172.6257089,liquefaction,TRUE
-318,pharmacy,-43.47555454,172.6597889,liquefaction,TRUE
-319,pharmacy,-43.53172358,172.5717639,liquefaction,TRUE
-320,pharmacy,-43.49057958,172.5480939,liquefaction,TRUE
-321,pharmacy,-43.58045158,172.566556,liquefaction,TRUE
-322,pharmacy,-43.53832457,172.6055189,liquefaction,TRUE
-323,pharmacy,-43.55282858,172.5571489,liquefaction,TRUE
-324,pharmacy,-43.50891253,172.727556,liquefaction,TRUE
-325,pharmacy,-43.52049656,172.6364579,liquefaction,TRUE
-326,pharmacy,-43.55045555,172.646538,liquefaction,TRUE
-327,pharmacy,-43.55672956,172.618606,liquefaction,FALSE
-328,pharmacy,-43.52532954,172.67219,liquefaction,FALSE
-329,pharmacy,-43.54906654,172.682841,liquefaction,TRUE
-330,police_station,-43.5579633,172.6436643,liquefaction,FALSE
-331,police_station,-43.4816393,172.7060013,liquefaction,FALSE
-332,police_station,-43.4985849,172.5422197,liquefaction,TRUE
-333,police_station,-43.5344345,172.6348646,liquefaction,TRUE
-334,police_station,-43.5444915,172.5268065,liquefaction,TRUE
-335,police_station,-43.3815752,172.6588209,liquefaction,TRUE
-336,police_station,-43.6030864,172.7234411,liquefaction,TRUE
-337,police_station,-43.508626,172.7241578,liquefaction,TRUE
-338,police_station,-43.4952129,172.6093154,liquefaction,FALSE
-339,police_station,-43.304272,172.5899178,liquefaction,TRUE
-340,police_station,-43.556896,172.6371284,liquefaction,TRUE
-341,police_station,-43.5444915,172.5268065,liquefaction,TRUE
-342,primary_school,-43.547853,172.618232,liquefaction,FALSE
-343,primary_school,-43.524097,172.559489,liquefaction,TRUE
-344,primary_school,-43.554154,172.687446,liquefaction,TRUE
-345,primary_school,-43.513246,172.668103,liquefaction,FALSE
-346,primary_school,-43.562872,172.64548,liquefaction,TRUE
-347,primary_school,-43.453613,172.627294,liquefaction,FALSE
-348,primary_school,-43.486644,172.59624,liquefaction,FALSE
-349,primary_school,-43.536552,172.687047,liquefaction,TRUE
-350,primary_school,-43.512733,172.581774,liquefaction,TRUE
-351,primary_school,-43.576413,172.632538,liquefaction,TRUE
-352,primary_school,-43.509149,172.576628,liquefaction,TRUE
-353,primary_school,-43.529642,172.64835,liquefaction,TRUE
-354,primary_school,-43.482453,172.58717,liquefaction,TRUE
-355,primary_school,-43.629957,172.726697,liquefaction,TRUE
-356,primary_school,-43.749666,172.932037,liquefaction,TRUE
-357,primary_school,-43.513809,172.614747,liquefaction,TRUE
-358,primary_school,-43.517076,172.59114,liquefaction,FALSE
-359,primary_school,-43.529733,172.521336,liquefaction,FALSE
-360,primary_school,-43.623981,172.649982,liquefaction,TRUE
-361,primary_school,-43.59065,172.569373,liquefaction,TRUE
-362,primary_school,-43.479767,172.559438,liquefaction,TRUE
-363,primary_school,-43.579871,172.70887,liquefaction,TRUE
-364,primary_school,-43.564861,172.606589,liquefaction,TRUE
-365,primary_school,-43.538702,172.522624,liquefaction,TRUE
-366,primary_school,-43.526408,172.579687,liquefaction,TRUE
-367,primary_school,-43.493102,172.582115,liquefaction,TRUE
-368,primary_school,-43.520217,172.654818,liquefaction,TRUE
-369,primary_school,-43.570857,172.537925,liquefaction,TRUE
-370,primary_school,-43.535279,172.674872,liquefaction,TRUE
-371,primary_school,-43.763792,172.795478,liquefaction,TRUE
-372,primary_school,-43.602339,172.72316,liquefaction,TRUE
-373,primary_school,-43.498705,172.641407,liquefaction,FALSE
-374,primary_school,-43.472023,172.66474,liquefaction,TRUE
-375,primary_school,-43.521884,172.589106,liquefaction,FALSE
-376,primary_school,-43.510492,172.55857,liquefaction,FALSE
-377,primary_school,-43.562443,172.715918,liquefaction,TRUE
-378,primary_school,-43.505937,172.723715,liquefaction,TRUE
-379,primary_school,-43.47936,172.614001,liquefaction,TRUE
-380,primary_school,-43.510655,172.724985,liquefaction,FALSE
-381,primary_school,-43.571578,172.564642,liquefaction,TRUE
-382,primary_school,-43.708867,173.042728,liquefaction,TRUE
-383,primary_school,-43.555657,172.664481,liquefaction,FALSE
-384,primary_school,-43.574863,172.762534,liquefaction,TRUE
-385,primary_school,-43.53621,172.559117,liquefaction,TRUE
-386,primary_school,-43.564783,172.607072,liquefaction,FALSE
-387,primary_school,-43.444592,172.660379,liquefaction,FALSE
-388,primary_school,-43.48802,172.619719,liquefaction,TRUE
-389,primary_school,-43.49965,172.619578,liquefaction,TRUE
-390,primary_school,-43.480595,172.705623,liquefaction,FALSE
-391,primary_school,-43.473153,172.695976,liquefaction,TRUE
-392,primary_school,-43.4961,172.7177,liquefaction,TRUE
-393,primary_school,-43.579766,172.758806,liquefaction,TRUE
-394,primary_school,-43.473601,172.621946,liquefaction,TRUE
-395,primary_school,-43.533358,172.564135,liquefaction,FALSE
-396,primary_school,-43.517891,172.544696,liquefaction,TRUE
-397,primary_school,-43.546061,172.612749,liquefaction,TRUE
-398,primary_school,-43.516638,172.623003,liquefaction,FALSE
-399,primary_school,-43.582665,172.54845,liquefaction,TRUE
-400,primary_school,-43.507883,172.653144,liquefaction,FALSE
-401,primary_school,-43.56164,172.628529,liquefaction,FALSE
-402,primary_school,-43.547117,172.529039,liquefaction,TRUE
-403,primary_school,-43.526215,172.733519,liquefaction,TRUE
-404,primary_school,-43.55757,172.597919,liquefaction,TRUE
-405,primary_school,-43.507126,172.629087,liquefaction,TRUE
-406,primary_school,-43.50877,172.63438,liquefaction,FALSE
-407,primary_school,-43.550378,172.685572,liquefaction,FALSE
-408,primary_school,-43.533479,172.525337,liquefaction,TRUE
-409,primary_school,-43.499787,172.639385,liquefaction,TRUE
-410,primary_school,-43.511725,172.704852,liquefaction,TRUE
-411,primary_school,-43.488669,172.614436,liquefaction,FALSE
-412,primary_school,-43.552882,172.659298,liquefaction,FALSE
-413,primary_school,-43.565427,172.657224,liquefaction,TRUE
-414,primary_school,-43.523222,172.639253,liquefaction,TRUE
-415,primary_school,-43.53477,172.633057,liquefaction,FALSE
-416,primary_school,-43.511234,172.604041,liquefaction,TRUE
-417,primary_school,-43.559761,172.63769,liquefaction,FALSE
-418,primary_school,-43.529753,172.592132,liquefaction,TRUE
-419,primary_school,-43.573093,172.75962,liquefaction,TRUE
-420,primary_school,-43.546474,172.68923,liquefaction,FALSE
-421,primary_school,-43.559629,172.611289,liquefaction,TRUE
-422,primary_school,-43.49448,172.56314,liquefaction,FALSE
-423,primary_school,-43.562247,172.58776,liquefaction,TRUE
-424,primary_school,-43.545666,172.672631,liquefaction,TRUE
-425,primary_school,-43.550157,172.472353,liquefaction,TRUE
-426,primary_school,-43.528053,172.628547,liquefaction,TRUE
-427,primary_school,-43.5663,172.63656,liquefaction,FALSE
-428,primary_school,-43.504209,172.605274,liquefaction,TRUE
-429,primary_school,-43.500162,172.588274,liquefaction,FALSE
-430,primary_school,-43.488839,172.683836,liquefaction,TRUE
-431,primary_school,-43.548984,172.648604,liquefaction,TRUE
-432,primary_school,-43.512142,172.570879,liquefaction,TRUE
-433,primary_school,-43.524843,172.675784,liquefaction,FALSE
-434,primary_school,-43.536306,172.596734,liquefaction,TRUE
-435,primary_school,-43.55422,172.551909,liquefaction,FALSE
-436,primary_school,-43.510189,172.502181,liquefaction,TRUE
-437,secondary_school,-43.563766,172.570992,liquefaction,TRUE
-438,secondary_school,-43.811174,172.962425,liquefaction,TRUE
-439,secondary_school,-43.523012,172.568049,liquefaction,FALSE
-440,secondary_school,-43.524028,172.661514,liquefaction,FALSE
-441,secondary_school,-43.507315,172.577702,liquefaction,FALSE
-442,secondary_school,-43.564565,172.623852,liquefaction,TRUE
-443,secondary_school,-43.537655,172.646591,liquefaction,TRUE
-444,secondary_school,-43.529716,172.627114,liquefaction,FALSE
-445,secondary_school,-43.499018,172.611428,liquefaction,FALSE
-446,secondary_school,-43.524806,172.598411,liquefaction,TRUE
-447,secondary_school,-43.524293,172.611366,liquefaction,FALSE
-448,secondary_school,-43.478663,172.588271,liquefaction,TRUE
-449,secondary_school,-43.514756,172.696684,liquefaction,FALSE
-450,secondary_school,-43.537238,172.623,liquefaction,TRUE
-451,secondary_school,-43.557675,172.592774,liquefaction,TRUE
-452,secondary_school,-43.555736,172.652793,liquefaction,TRUE
-453,secondary_school,-43.538174,172.527627,liquefaction,TRUE
-454,secondary_school,-43.538762,172.667655,liquefaction,TRUE
-455,secondary_school,-43.494016,172.648476,liquefaction,TRUE
-456,secondary_school,-43.539039,172.646135,liquefaction,TRUE
-457,secondary_school,-43.536245,172.576512,liquefaction,TRUE
-458,secondary_school,-43.491037,172.606707,liquefaction,TRUE
-459,secondary_school,-43.518898,172.617779,liquefaction,FALSE
-460,secondary_school,-43.53589,172.566357,liquefaction,TRUE
-461,secondary_school,-43.560082,172.659127,liquefaction,TRUE
-462,secondary_school,-43.583346,172.549805,liquefaction,FALSE
-463,secondary_school,-43.512343,172.660827,liquefaction,FALSE
-464,secondary_school,-43.506363,172.615865,liquefaction,FALSE
-465,secondary_school,-43.48405,172.616864,liquefaction,FALSE
-466,secondary_school,-43.519091,172.622151,liquefaction,TRUE
-467,secondary_school,-43.533607,172.556203,liquefaction,TRUE
-468,secondary_school,-43.564583,172.614584,liquefaction,TRUE
-469,secondary_school,-43.551176,172.656323,liquefaction,FALSE
-470,secondary_school,-43.529305,172.672453,liquefaction,TRUE
-471,secondary_school,-43.528304,172.567561,liquefaction,TRUE
-472,supermarket,-43.5351605,172.5802564,liquefaction,FALSE
-473,supermarket,-43.53274003,172.5730475,liquefaction,TRUE
-474,supermarket,-43.55682685,172.7025114,liquefaction,FALSE
-475,supermarket,-43.5387413,172.6417417,liquefaction,TRUE
-476,supermarket,-43.50676606,172.7299485,liquefaction,TRUE
-477,supermarket,-43.45900317,172.6250142,liquefaction,FALSE
-478,supermarket,-43.49152959,172.6117041,liquefaction,TRUE
-479,supermarket,-43.59418266,172.3866759,liquefaction,TRUE
-480,supermarket,-43.54274886,172.5269712,liquefaction,TRUE
-481,supermarket,-43.48986069,172.5477124,liquefaction,TRUE
-482,supermarket,-43.5056571,172.6645278,liquefaction,FALSE
-483,supermarket,-43.5111866,172.5572106,liquefaction,TRUE
-484,supermarket,-43.5324507,172.6755846,liquefaction,TRUE
-485,supermarket,-43.55331378,172.6355983,liquefaction,TRUE
-486,supermarket,-43.51316108,172.6367287,liquefaction,TRUE
-487,supermarket,-43.5232351,172.3704124,liquefaction,TRUE
-488,supermarket,-43.48134612,172.7060947,liquefaction,FALSE
-489,supermarket,-43.5557083,172.6205318,liquefaction,TRUE
-490,supermarket,-43.5340843,172.6378384,liquefaction,TRUE
-491,supermarket,-43.5128454,172.6213802,liquefaction,FALSE
-492,supermarket,-43.5132962,172.6365852,liquefaction,FALSE
-493,supermarket,-43.58063686,172.5659203,liquefaction,FALSE
-494,supermarket,-43.45963502,172.6223904,liquefaction,FALSE
-495,supermarket,-43.48845188,172.5872137,liquefaction,TRUE
-496,supermarket,-43.55753906,172.6547893,liquefaction,FALSE
-497,supermarket,-43.56242398,172.7390075,liquefaction,FALSE
-498,supermarket,-43.47515958,172.6620094,liquefaction,TRUE
-499,supermarket,-43.53870921,172.6331341,liquefaction,TRUE
-500,supermarket,-43.5179319,172.588375,liquefaction,TRUE
-501,supermarket,-43.5526955,172.5575428,liquefaction,TRUE
-502,supermarket,-43.5258837,172.5701643,liquefaction,TRUE
-503,supermarket,-43.4885645,172.5874903,liquefaction,TRUE
-504,supermarket,-43.5490378,172.6840966,liquefaction,FALSE
-505,supermarket,-43.52595041,172.5700589,liquefaction,TRUE
-506,supermarket,-43.64225792,172.4737121,liquefaction,TRUE
-507,supermarket,-43.5967627,172.3824238,liquefaction,TRUE
-508,supermarket,-43.52016129,172.6569832,liquefaction,FALSE
-509,supermarket,-43.5426435,172.5233262,liquefaction,TRUE
-510,supermarket,-43.49285848,172.6089146,liquefaction,FALSE
-511,supermarket,-43.51282276,172.6932267,liquefaction,FALSE
-512,supermarket,-43.5310944,172.5961987,liquefaction,TRUE
-513,supermarket,-43.53900827,172.6383239,liquefaction,TRUE
-514,supermarket,-43.5401055,172.6053454,liquefaction,TRUE
-515,supermarket,-43.4777997,172.5552277,liquefaction,TRUE
-516,supermarket,-43.5694327,172.7599984,liquefaction,FALSE
-517,supermarket,-43.60288087,172.7215154,liquefaction,TRUE
-518,supermarket,-43.509513,172.5902803,liquefaction,TRUE
-519,supermarket,-43.53041974,172.6574869,liquefaction,TRUE
-0,downtown,-43.53296,172.633386,tsunami,FALSE
-1,fire_station,-43.5126336,172.6909776,tsunami,FALSE
-2,fire_station,-43.3996132,172.6960113,tsunami,FALSE
-3,fire_station,-43.526785,172.6441684,tsunami,TRUE
-4,fire_station,-43.6281526,172.7305453,tsunami,TRUE
-5,fire_station,-43.6269266,172.6464425,tsunami,TRUE
-6,fire_station,-43.4888915,172.5657746,tsunami,TRUE
-7,fire_station,-43.3820055,172.6542083,tsunami,FALSE
-8,fire_station,-43.4988985,172.2125161,tsunami,TRUE
-9,fire_station,-43.6390595,172.4866046,tsunami,TRUE
-10,fire_station,-43.6019467,172.7187286,tsunami,TRUE
-11,fire_station,-43.3049935,172.594508,tsunami,TRUE
-12,fire_station,-43.4675686,172.6024123,tsunami,TRUE
-13,fire_station,-43.5922697,172.3770423,tsunami,TRUE
-14,fire_station,-43.5534692,172.6198742,tsunami,TRUE
-15,fire_station,-43.5725232,172.7614099,tsunami,FALSE
-16,fire_station,-43.5601565,172.5312794,tsunami,TRUE
-17,fire_station,-43.3234224,172.6759292,tsunami,TRUE
-18,fire_station,-43.5540299,172.6913042,tsunami,FALSE
-19,hospital,-43.48031835,172.6849384,tsunami,TRUE
-20,hospital,-43.5342631,172.625237,tsunami,TRUE
-21,hospital,-43.5512624,172.5964978,tsunami,TRUE
-22,hospital,-43.2897332,172.592271,tsunami,TRUE
-23,hospital,-43.5209353,172.6452759,tsunami,TRUE
-24,hospital,-43.5107722,172.61816,tsunami,TRUE
-25,library,-43.51222183,172.6977519,tsunami,TRUE
-26,library,-43.56294214,172.6452408,tsunami,TRUE
-27,library,-43.57058612,172.6307794,tsunami,TRUE
-28,library,-43.62637988,172.7404967,tsunami,TRUE
-29,library,-43.51465283,172.6363017,tsunami,TRUE
-30,library,-43.51395175,172.5913263,tsunami,TRUE
-31,library,-43.52855034,172.6221848,tsunami,TRUE
-32,library,-43.58092989,172.708514,tsunami,TRUE
-33,library,-43.55937918,172.6022678,tsunami,TRUE
-34,library,-43.54471317,172.5226435,tsunami,TRUE
-35,library,-43.53243578,172.6754026,tsunami,TRUE
-36,library,-43.60266563,172.7206943,tsunami,TRUE
-37,library,-43.50085582,172.6419531,tsunami,TRUE
-38,library,-43.56913989,172.7588933,tsunami,FALSE
-39,library,-43.50710403,172.7314042,tsunami,FALSE
-40,library,-43.5552055,172.6667621,tsunami,FALSE
-41,library,-43.5537897,172.6660876,tsunami,FALSE
-42,library,-43.4941987,172.607153,tsunami,TRUE
-43,library,-43.48185158,172.7071599,tsunami,FALSE
-44,library,-43.56186105,172.7392226,tsunami,FALSE
-45,library,-43.47744843,172.6165014,tsunami,TRUE
-46,library,-43.53104461,172.6017599,tsunami,TRUE
-47,library,-43.50513224,172.6631248,tsunami,TRUE
-48,library,-43.53210506,172.5723361,tsunami,TRUE
-49,library,-43.56148841,172.6375327,tsunami,TRUE
-50,library,-43.55642404,172.6182814,tsunami,TRUE
-51,library,-43.55732388,172.653707,tsunami,TRUE
-52,library,-43.58139541,172.5688214,tsunami,TRUE
-53,library,-43.53013177,172.637202,tsunami,TRUE
-54,library,-43.53500258,172.5630853,tsunami,TRUE
-55,library,-43.53149323,172.5736219,tsunami,TRUE
-56,library,-43.5492237,172.6828517,tsunami,TRUE
-57,library,-43.48988867,172.5857295,tsunami,TRUE
-58,medical_clinic,-43.52070256,172.6303589,tsunami,TRUE
-59,medical_clinic,-43.54557559,172.5258579,tsunami,TRUE
-60,medical_clinic,-43.55709556,172.620348,tsunami,TRUE
-61,medical_clinic,-43.44520355,172.6333859,tsunami,TRUE
-62,medical_clinic,-43.44470655,172.6329439,tsunami,TRUE
-63,medical_clinic,-43.49018057,172.5880899,tsunami,TRUE
-64,medical_clinic,-43.50908257,172.5904849,tsunami,TRUE
-65,medical_clinic,-43.49651957,172.5787619,tsunami,TRUE
-66,medical_clinic,-43.48045856,172.6032359,tsunami,TRUE
-67,medical_clinic,-43.56681956,172.646938,tsunami,TRUE
-68,medical_clinic,-43.56699856,172.629422,tsunami,TRUE
-69,medical_clinic,-43.55626656,172.636678,tsunami,TRUE
-70,medical_clinic,-43.50501855,172.6347199,tsunami,TRUE
-71,medical_clinic,-43.62646953,172.739929,tsunami,TRUE
-72,medical_clinic,-43.53301756,172.6283289,tsunami,TRUE
-73,medical_clinic,-43.53046757,172.5928159,tsunami,TRUE
-74,medical_clinic,-43.51292058,172.5551999,tsunami,TRUE
-75,medical_clinic,-43.51292058,172.5551999,tsunami,TRUE
-76,medical_clinic,-43.51656953,172.701178,tsunami,TRUE
-77,medical_clinic,-43.51775557,172.5871119,tsunami,TRUE
-78,medical_clinic,-43.54090255,172.660402,tsunami,TRUE
-79,medical_clinic,-43.55618954,172.697494,tsunami,FALSE
-80,medical_clinic,-43.50771957,172.5698549,tsunami,TRUE
-81,medical_clinic,-43.49870857,172.5867099,tsunami,TRUE
-82,medical_clinic,-43.57433758,172.5682579,tsunami,TRUE
-83,medical_clinic,-43.49117857,172.5952169,tsunami,TRUE
-84,medical_clinic,-43.53825755,172.642922,tsunami,TRUE
-85,medical_clinic,-43.53660756,172.6364479,tsunami,TRUE
-86,medical_clinic,-43.53581859,172.5214049,tsunami,TRUE
-87,medical_clinic,-43.55982355,172.657957,tsunami,TRUE
-88,medical_clinic,-43.52922357,172.6052069,tsunami,TRUE
-89,medical_clinic,-43.55412657,172.5942419,tsunami,TRUE
-90,medical_clinic,-43.56601557,172.604239,tsunami,TRUE
-91,medical_clinic,-43.54441759,172.5287619,tsunami,TRUE
-92,medical_clinic,-43.51225957,172.5806319,tsunami,TRUE
-93,medical_clinic,-43.50211655,172.6333769,tsunami,TRUE
-94,medical_clinic,-43.51569257,172.5717529,tsunami,TRUE
-95,medical_clinic,-43.49784757,172.5727439,tsunami,TRUE
-96,medical_clinic,-43.53295855,172.655534,tsunami,TRUE
-97,medical_clinic,-43.53321054,172.674028,tsunami,TRUE
-98,medical_clinic,-43.57815959,172.5462929,tsunami,TRUE
-99,medical_clinic,-43.60346954,172.722625,tsunami,TRUE
-100,medical_clinic,-43.49133856,172.6130309,tsunami,TRUE
-101,medical_clinic,-43.49846755,172.6408549,tsunami,TRUE
-102,medical_clinic,-43.51151956,172.6214979,tsunami,TRUE
-103,medical_clinic,-43.47488754,172.6592859,tsunami,TRUE
-104,medical_clinic,-43.52137956,172.6368109,tsunami,TRUE
-105,medical_clinic,-43.51014756,172.6202329,tsunami,TRUE
-106,medical_clinic,-43.54073156,172.63974,tsunami,TRUE
-107,medical_clinic,-43.55795353,172.722312,tsunami,FALSE
-108,medical_clinic,-43.50905653,172.727617,tsunami,FALSE
-109,medical_clinic,-43.50980456,172.6067429,tsunami,TRUE
-110,medical_clinic,-43.51776955,172.6541109,tsunami,TRUE
-111,medical_clinic,-43.47507056,172.6173119,tsunami,TRUE
-112,medical_clinic,-43.53841556,172.6304619,tsunami,TRUE
-113,medical_clinic,-43.50030656,172.6111929,tsunami,TRUE
-114,medical_clinic,-43.51534355,172.6378859,tsunami,TRUE
-115,medical_clinic,-43.49499353,172.7111989,tsunami,TRUE
-116,medical_clinic,-43.47786153,172.6959789,tsunami,FALSE
-117,medical_clinic,-43.56187953,172.738582,tsunami,FALSE
-118,medical_clinic,-43.47920956,172.6170389,tsunami,TRUE
-119,medical_clinic,-43.53172358,172.5717639,tsunami,TRUE
-120,medical_clinic,-43.53291957,172.5990099,tsunami,TRUE
-121,medical_clinic,-43.54828056,172.622099,tsunami,TRUE
-122,medical_clinic,-43.50711055,172.6625929,tsunami,TRUE
-123,medical_clinic,-43.50956856,172.6304629,tsunami,TRUE
-124,medical_clinic,-43.55915655,172.654557,tsunami,TRUE
-125,medical_clinic,-43.52859257,172.6022669,tsunami,TRUE
-126,medical_clinic,-43.56891552,172.75837,tsunami,FALSE
-127,medical_clinic,-43.51058453,172.701306,tsunami,TRUE
-128,medical_clinic,-43.55337561,172.4731009,tsunami,TRUE
-129,medical_clinic,-43.53216456,172.6374769,tsunami,TRUE
-130,medical_clinic,-43.49494453,172.7096289,tsunami,FALSE
-131,medical_clinic,-43.53217655,172.671399,tsunami,TRUE
-132,medical_clinic,-43.52384857,172.5795009,tsunami,TRUE
-133,medical_clinic,-43.53133157,172.5778409,tsunami,TRUE
-134,medical_clinic,-43.55282957,172.5966139,tsunami,TRUE
-135,medical_clinic,-43.51569257,172.5717529,tsunami,TRUE
-136,medical_clinic,-43.55069855,172.646537,tsunami,TRUE
-137,medical_clinic,-43.55198158,172.5569569,tsunami,TRUE
-138,medical_clinic,-43.52537255,172.662356,tsunami,TRUE
-139,medical_clinic,-43.52775358,172.5575659,tsunami,TRUE
-140,petrol_station,-43.5118722,172.6921195,tsunami,TRUE
-141,petrol_station,-43.51583756,172.5722009,tsunami,TRUE
-142,petrol_station,-43.47466626,172.6599272,tsunami,TRUE
-143,petrol_station,-43.47927771,172.5552512,tsunami,TRUE
-144,petrol_station,-43.4953417,172.7103702,tsunami,TRUE
-145,petrol_station,-43.4976706,172.6423819,tsunami,TRUE
-146,petrol_station,-43.4995288,172.6098874,tsunami,TRUE
-147,petrol_station,-43.5131211,172.6376837,tsunami,TRUE
-148,petrol_station,-43.56444801,172.6083515,tsunami,TRUE
-149,petrol_station,-43.5313608,172.5761964,tsunami,TRUE
-150,petrol_station,-43.5255398,172.67343,tsunami,TRUE
-151,petrol_station,-43.5187113,172.5898077,tsunami,TRUE
-152,petrol_station,-43.5419858,172.6875437,tsunami,TRUE
-153,petrol_station,-43.5718258,172.5709601,tsunami,TRUE
-154,petrol_station,-43.4812281,172.5928073,tsunami,TRUE
-155,petrol_station,-43.5648638,172.6858461,tsunami,FALSE
-156,petrol_station,-43.56151295,172.7377584,tsunami,FALSE
-157,petrol_station,-43.5045609,172.6021506,tsunami,TRUE
-158,petrol_station,-43.4902606,172.6212144,tsunami,TRUE
-159,petrol_station,-43.5116885,172.5561192,tsunami,TRUE
-160,petrol_station,-43.487676,172.5878824,tsunami,TRUE
-161,petrol_station,-43.5291401,172.6043366,tsunami,TRUE
-162,petrol_station,-43.5439459,172.5229628,tsunami,TRUE
-163,petrol_station,-43.4789024,172.6164203,tsunami,TRUE
-164,petrol_station,-43.5378398,172.5957122,tsunami,TRUE
-165,petrol_station,-43.55368285,172.6272509,tsunami,TRUE
-166,petrol_station,-43.53516696,172.645871,tsunami,TRUE
-167,petrol_station,-43.5823444,172.5692397,tsunami,TRUE
-168,petrol_station,-43.518375,172.6519068,tsunami,TRUE
-169,petrol_station,-43.54719503,172.6543581,tsunami,TRUE
-170,petrol_station,-43.55010577,172.6372298,tsunami,TRUE
-171,petrol_station,-43.5292831,172.6090734,tsunami,TRUE
-172,petrol_station,-43.47332165,172.6176304,tsunami,TRUE
-173,petrol_station,-43.5630383,172.6577284,tsunami,TRUE
-174,petrol_station,-43.52125794,172.6452293,tsunami,TRUE
-175,petrol_station,-43.5356197,172.6423202,tsunami,TRUE
-176,petrol_station,-43.4956428,172.6082268,tsunami,TRUE
-177,petrol_station,-43.5176852,172.7016575,tsunami,TRUE
-178,petrol_station,-43.51935323,172.5796962,tsunami,TRUE
-179,petrol_station,-43.5435011,172.5464036,tsunami,TRUE
-180,petrol_station,-43.5471963,172.6795717,tsunami,TRUE
-181,petrol_station,-43.5226733,172.6568473,tsunami,TRUE
-182,petrol_station,-43.51831134,172.5257461,tsunami,TRUE
-183,petrol_station,-43.4637453,172.5828089,tsunami,TRUE
-184,petrol_station,-43.5506926,172.5994083,tsunami,TRUE
-185,petrol_station,-43.5572748,172.5241309,tsunami,TRUE
-186,petrol_station,-43.5487317,172.4906678,tsunami,TRUE
-187,petrol_station,-43.57000295,172.6855716,tsunami,TRUE
-188,petrol_station,-43.6288737,172.7244761,tsunami,TRUE
-189,petrol_station,-43.5124812,172.6925703,tsunami,TRUE
-190,petrol_station,-43.5394936,172.6392449,tsunami,TRUE
-191,petrol_station,-43.5446944,172.5674282,tsunami,TRUE
-192,petrol_station,-43.549038,172.5115648,tsunami,TRUE
-193,petrol_station,-43.48475121,172.5498467,tsunami,TRUE
-194,petrol_station,-43.54669053,172.5613789,tsunami,TRUE
-195,petrol_station,-43.47491908,172.6598983,tsunami,TRUE
-196,petrol_station,-43.4709799,172.5702591,tsunami,TRUE
-197,petrol_station,-43.54297113,172.5461111,tsunami,TRUE
-198,petrol_station,-43.56337118,172.6768153,tsunami,TRUE
-199,petrol_station,-43.523239,172.7320484,tsunami,FALSE
-200,petrol_station,-43.5126915,172.5083744,tsunami,TRUE
-201,petrol_station,-43.4898107,172.5930428,tsunami,TRUE
-202,petrol_station,-43.55733454,172.6186518,tsunami,TRUE
-203,petrol_station,-43.4517228,172.6277422,tsunami,TRUE
-204,petrol_station,-43.50761965,172.6624703,tsunami,TRUE
-205,petrol_station,-43.5381532,172.5286455,tsunami,TRUE
-206,petrol_station,-43.5105435,172.6076296,tsunami,TRUE
-207,petrol_station,-43.52009023,172.6270781,tsunami,TRUE
-208,petrol_station,-43.53855501,172.5678166,tsunami,TRUE
-209,petrol_station,-43.5199871,172.5347836,tsunami,TRUE
-210,petrol_station,-43.5327396,172.6713352,tsunami,TRUE
-211,petrol_station,-43.56528673,172.6366193,tsunami,TRUE
-212,petrol_station,-43.5435267,172.6679941,tsunami,TRUE
-213,petrol_station,-43.54819835,172.6572462,tsunami,TRUE
-214,petrol_station,-43.5458225,172.6085758,tsunami,TRUE
-215,petrol_station,-43.54047573,172.6221627,tsunami,TRUE
-216,petrol_station,-43.491833,172.5729002,tsunami,TRUE
-217,petrol_station,-43.5062509,172.7279285,tsunami,FALSE
-218,petrol_station,-43.54948737,172.4882577,tsunami,TRUE
-219,petrol_station,-43.5387832,172.5274556,tsunami,TRUE
-220,petrol_station,-43.5218711,172.6561234,tsunami,TRUE
-221,petrol_station,-43.54033429,172.6419337,tsunami,TRUE
-222,pharmacy,-43.51202456,172.6219149,tsunami,TRUE
-223,pharmacy,-43.51131758,172.5572519,tsunami,TRUE
-224,pharmacy,-43.52995057,172.5994619,tsunami,TRUE
-225,pharmacy,-43.46073355,172.6232089,tsunami,TRUE
-226,pharmacy,-43.49357855,172.6611599,tsunami,TRUE
-227,pharmacy,-43.49009357,172.5692129,tsunami,TRUE
-228,pharmacy,-43.53287856,172.6326599,tsunami,TRUE
-229,pharmacy,-43.55709556,172.620348,tsunami,TRUE
-230,pharmacy,-43.50201456,172.6324749,tsunami,TRUE
-231,pharmacy,-43.49540254,172.6884849,tsunami,TRUE
-232,pharmacy,-43.48041356,172.6032609,tsunami,TRUE
-233,pharmacy,-43.56681956,172.646938,tsunami,TRUE
-234,pharmacy,-43.53216456,172.6374769,tsunami,TRUE
-235,pharmacy,-43.53461156,172.6257089,tsunami,TRUE
-236,pharmacy,-43.53217655,172.671399,tsunami,TRUE
-237,pharmacy,-43.53376356,172.6365019,tsunami,TRUE
-238,pharmacy,-43.53204258,172.5730109,tsunami,TRUE
-239,pharmacy,-43.53321054,172.674028,tsunami,TRUE
-240,pharmacy,-43.55720854,172.701635,tsunami,FALSE
-241,pharmacy,-43.49362456,172.6103089,tsunami,TRUE
-242,pharmacy,-43.51534355,172.6378859,tsunami,TRUE
-243,pharmacy,-43.51729153,172.702127,tsunami,TRUE
-244,pharmacy,-43.50902257,172.5888159,tsunami,TRUE
-245,pharmacy,-43.51781457,172.5883359,tsunami,TRUE
-246,pharmacy,-43.54040155,172.658561,tsunami,TRUE
-247,pharmacy,-43.57449858,172.5677739,tsunami,TRUE
-248,pharmacy,-43.50883455,172.6519109,tsunami,TRUE
-249,pharmacy,-43.52922357,172.6052069,tsunami,TRUE
-250,pharmacy,-43.55788656,172.636656,tsunami,TRUE
-251,pharmacy,-43.55612256,172.636666,tsunami,TRUE
-252,pharmacy,-43.51208757,172.5803859,tsunami,TRUE
-253,pharmacy,-43.53564459,172.5208379,tsunami,TRUE
-254,pharmacy,-43.54943057,172.5898549,tsunami,TRUE
-255,pharmacy,-43.55424257,172.5940429,tsunami,TRUE
-256,pharmacy,-43.56596157,172.604449,tsunami,TRUE
-257,pharmacy,-43.49782957,172.5728179,tsunami,TRUE
-258,pharmacy,-43.55707256,172.618925,tsunami,TRUE
-259,pharmacy,-43.54259459,172.5253609,tsunami,TRUE
-260,pharmacy,-43.51229456,172.6217029,tsunami,TRUE
-261,pharmacy,-43.49432456,172.6096369,tsunami,TRUE
-262,pharmacy,-43.50637255,172.6625099,tsunami,TRUE
-263,pharmacy,-43.53406754,172.675112,tsunami,TRUE
-264,pharmacy,-43.53437554,172.675568,tsunami,TRUE
-265,pharmacy,-43.53108955,172.656745,tsunami,TRUE
-266,pharmacy,-43.57815959,172.5462929,tsunami,TRUE
-267,pharmacy,-43.60278254,172.721402,tsunami,TRUE
-268,pharmacy,-43.49846955,172.6416959,tsunami,TRUE
-269,pharmacy,-43.47488754,172.6592859,tsunami,TRUE
-270,pharmacy,-43.51014756,172.6202329,tsunami,TRUE
-271,pharmacy,-43.54359655,172.667464,tsunami,FALSE
-272,pharmacy,-43.51776655,172.6561399,tsunami,TRUE
-273,pharmacy,-43.49757056,172.6086389,tsunami,TRUE
-274,pharmacy,-43.55671354,172.705078,tsunami,FALSE
-275,pharmacy,-43.53869655,172.642474,tsunami,TRUE
-276,pharmacy,-43.57149456,172.619615,tsunami,TRUE
-277,pharmacy,-43.49501853,172.7106059,tsunami,FALSE
-278,pharmacy,-43.53727556,172.6093239,tsunami,TRUE
-279,pharmacy,-43.56177253,172.738917,tsunami,FALSE
-280,pharmacy,-43.47807556,172.6171069,tsunami,TRUE
-281,pharmacy,-43.53095357,172.5927379,tsunami,TRUE
-282,pharmacy,-43.50956856,172.6304629,tsunami,TRUE
-283,pharmacy,-43.50985656,172.6194179,tsunami,TRUE
-284,pharmacy,-43.50985656,172.6194179,tsunami,TRUE
-285,pharmacy,-43.53488456,172.6295299,tsunami,TRUE
-286,pharmacy,-43.54813656,172.622062,tsunami,TRUE
-287,pharmacy,-43.49133656,172.6124619,tsunami,TRUE
-288,pharmacy,-43.50693955,172.6625819,tsunami,TRUE
-289,pharmacy,-43.53810856,172.635524,tsunami,TRUE
-290,pharmacy,-43.51360155,172.6364249,tsunami,TRUE
-291,pharmacy,-43.55802155,172.654205,tsunami,TRUE
-292,pharmacy,-43.54598359,172.5242949,tsunami,TRUE
-293,pharmacy,-43.56920552,172.75926,tsunami,FALSE
-294,pharmacy,-43.54622956,172.636391,tsunami,TRUE
-295,pharmacy,-43.55348361,172.4732609,tsunami,TRUE
-296,pharmacy,-43.54249356,172.6141039,tsunami,TRUE
-297,pharmacy,-43.55301955,172.664319,tsunami,TRUE
-298,pharmacy,-43.54088355,172.660191,tsunami,TRUE
-299,pharmacy,-43.52384857,172.5795009,tsunami,TRUE
-300,pharmacy,-43.52109755,172.6416619,tsunami,TRUE
-301,pharmacy,-43.44470655,172.6329439,tsunami,TRUE
-302,pharmacy,-43.48880057,172.5873949,tsunami,TRUE
-303,pharmacy,-43.50728153,172.726673,tsunami,FALSE
-304,pharmacy,-43.48188754,172.6836349,tsunami,TRUE
-305,pharmacy,-43.53154658,172.5752039,tsunami,TRUE
-306,pharmacy,-43.53300556,172.6359009,tsunami,TRUE
-307,pharmacy,-43.49959557,172.5856899,tsunami,TRUE
-308,pharmacy,-43.53344254,172.673717,tsunami,TRUE
-309,pharmacy,-43.50980456,172.6067429,tsunami,TRUE
-310,pharmacy,-43.55620054,172.698187,tsunami,FALSE
-311,pharmacy,-43.52647056,172.6383639,tsunami,TRUE
-312,pharmacy,-43.51627757,172.5717859,tsunami,TRUE
-313,pharmacy,-43.55282957,172.5966139,tsunami,TRUE
-314,pharmacy,-43.54073156,172.63974,tsunami,TRUE
-315,pharmacy,-43.47931853,172.6922019,tsunami,TRUE
-316,pharmacy,-43.48165053,172.7060219,tsunami,FALSE
-317,pharmacy,-43.53461156,172.6257089,tsunami,TRUE
-318,pharmacy,-43.47555454,172.6597889,tsunami,TRUE
-319,pharmacy,-43.53172358,172.5717639,tsunami,TRUE
-320,pharmacy,-43.49057958,172.5480939,tsunami,TRUE
-321,pharmacy,-43.58045158,172.566556,tsunami,TRUE
-322,pharmacy,-43.53832457,172.6055189,tsunami,TRUE
-323,pharmacy,-43.55282858,172.5571489,tsunami,TRUE
-324,pharmacy,-43.50891253,172.727556,tsunami,FALSE
-325,pharmacy,-43.52049656,172.6364579,tsunami,TRUE
-326,pharmacy,-43.55045555,172.646538,tsunami,TRUE
-327,pharmacy,-43.55672956,172.618606,tsunami,TRUE
-328,pharmacy,-43.52532954,172.67219,tsunami,TRUE
-329,pharmacy,-43.54906654,172.682841,tsunami,TRUE
-330,police_station,-43.5579633,172.6436643,tsunami,TRUE
-331,police_station,-43.4816393,172.7060013,tsunami,FALSE
-332,police_station,-43.4985849,172.5422197,tsunami,TRUE
-333,police_station,-43.5344345,172.6348646,tsunami,TRUE
-334,police_station,-43.5444915,172.5268065,tsunami,TRUE
-335,police_station,-43.3815752,172.6588209,tsunami,TRUE
-336,police_station,-43.6030864,172.7234411,tsunami,TRUE
-337,police_station,-43.508626,172.7241578,tsunami,FALSE
-338,police_station,-43.4952129,172.6093154,tsunami,TRUE
-339,police_station,-43.304272,172.5899178,tsunami,TRUE
-340,police_station,-43.556896,172.6371284,tsunami,TRUE
-341,police_station,-43.5444915,172.5268065,tsunami,TRUE
-342,primary_school,-43.547853,172.618232,tsunami,TRUE
-343,primary_school,-43.524097,172.559489,tsunami,TRUE
-344,primary_school,-43.554154,172.687446,tsunami,FALSE
-345,primary_school,-43.513246,172.668103,tsunami,FALSE
-346,primary_school,-43.562872,172.64548,tsunami,TRUE
-347,primary_school,-43.453613,172.627294,tsunami,TRUE
-348,primary_school,-43.486644,172.59624,tsunami,TRUE
-349,primary_school,-43.536552,172.687047,tsunami,TRUE
-350,primary_school,-43.512733,172.581774,tsunami,TRUE
-351,primary_school,-43.576413,172.632538,tsunami,TRUE
-352,primary_school,-43.509149,172.576628,tsunami,TRUE
-353,primary_school,-43.529642,172.64835,tsunami,TRUE
-354,primary_school,-43.482453,172.58717,tsunami,TRUE
-355,primary_school,-43.629957,172.726697,tsunami,TRUE
-356,primary_school,-43.749666,172.932037,tsunami,TRUE
-357,primary_school,-43.513809,172.614747,tsunami,TRUE
-358,primary_school,-43.517076,172.59114,tsunami,TRUE
-359,primary_school,-43.529733,172.521336,tsunami,TRUE
-360,primary_school,-43.623981,172.649982,tsunami,TRUE
-361,primary_school,-43.59065,172.569373,tsunami,TRUE
-362,primary_school,-43.479767,172.559438,tsunami,TRUE
-363,primary_school,-43.579871,172.70887,tsunami,TRUE
-364,primary_school,-43.564861,172.606589,tsunami,TRUE
-365,primary_school,-43.538702,172.522624,tsunami,TRUE
-366,primary_school,-43.526408,172.579687,tsunami,TRUE
-367,primary_school,-43.493102,172.582115,tsunami,TRUE
-368,primary_school,-43.520217,172.654818,tsunami,TRUE
-369,primary_school,-43.570857,172.537925,tsunami,TRUE
-370,primary_school,-43.535279,172.674872,tsunami,TRUE
-371,primary_school,-43.763792,172.795478,tsunami,TRUE
-372,primary_school,-43.602339,172.72316,tsunami,TRUE
-373,primary_school,-43.498705,172.641407,tsunami,TRUE
-374,primary_school,-43.472023,172.66474,tsunami,TRUE
-375,primary_school,-43.521884,172.589106,tsunami,TRUE
-376,primary_school,-43.510492,172.55857,tsunami,TRUE
-377,primary_school,-43.562443,172.715918,tsunami,TRUE
-378,primary_school,-43.505937,172.723715,tsunami,FALSE
-379,primary_school,-43.47936,172.614001,tsunami,TRUE
-380,primary_school,-43.510655,172.724985,tsunami,FALSE
-381,primary_school,-43.571578,172.564642,tsunami,TRUE
-382,primary_school,-43.708867,173.042728,tsunami,TRUE
-383,primary_school,-43.555657,172.664481,tsunami,TRUE
-384,primary_school,-43.574863,172.762534,tsunami,FALSE
-385,primary_school,-43.53621,172.559117,tsunami,TRUE
-386,primary_school,-43.564783,172.607072,tsunami,TRUE
-387,primary_school,-43.444592,172.660379,tsunami,TRUE
-388,primary_school,-43.48802,172.619719,tsunami,TRUE
-389,primary_school,-43.49965,172.619578,tsunami,TRUE
-390,primary_school,-43.480595,172.705623,tsunami,TRUE
-391,primary_school,-43.473153,172.695976,tsunami,TRUE
-392,primary_school,-43.4961,172.7177,tsunami,FALSE
-393,primary_school,-43.579766,172.758806,tsunami,FALSE
-394,primary_school,-43.473601,172.621946,tsunami,TRUE
-395,primary_school,-43.533358,172.564135,tsunami,TRUE
-396,primary_school,-43.517891,172.544696,tsunami,TRUE
-397,primary_school,-43.546061,172.612749,tsunami,TRUE
-398,primary_school,-43.516638,172.623003,tsunami,TRUE
-399,primary_school,-43.582665,172.54845,tsunami,TRUE
-400,primary_school,-43.507883,172.653144,tsunami,TRUE
-401,primary_school,-43.56164,172.628529,tsunami,TRUE
-402,primary_school,-43.547117,172.529039,tsunami,TRUE
-403,primary_school,-43.526215,172.733519,tsunami,FALSE
-404,primary_school,-43.55757,172.597919,tsunami,TRUE
-405,primary_school,-43.507126,172.629087,tsunami,TRUE
-406,primary_school,-43.50877,172.63438,tsunami,TRUE
-407,primary_school,-43.550378,172.685572,tsunami,FALSE
-408,primary_school,-43.533479,172.525337,tsunami,TRUE
-409,primary_school,-43.499787,172.639385,tsunami,TRUE
-410,primary_school,-43.511725,172.704852,tsunami,FALSE
-411,primary_school,-43.488669,172.614436,tsunami,TRUE
-412,primary_school,-43.552882,172.659298,tsunami,TRUE
-413,primary_school,-43.565427,172.657224,tsunami,TRUE
-414,primary_school,-43.523222,172.639253,tsunami,TRUE
-415,primary_school,-43.53477,172.633057,tsunami,TRUE
-416,primary_school,-43.511234,172.604041,tsunami,TRUE
-417,primary_school,-43.559761,172.63769,tsunami,TRUE
-418,primary_school,-43.529753,172.592132,tsunami,TRUE
-419,primary_school,-43.573093,172.75962,tsunami,FALSE
-420,primary_school,-43.546474,172.68923,tsunami,TRUE
-421,primary_school,-43.559629,172.611289,tsunami,TRUE
-422,primary_school,-43.49448,172.56314,tsunami,TRUE
-423,primary_school,-43.562247,172.58776,tsunami,TRUE
-424,primary_school,-43.545666,172.672631,tsunami,TRUE
-425,primary_school,-43.550157,172.472353,tsunami,TRUE
-426,primary_school,-43.528053,172.628547,tsunami,TRUE
-427,primary_school,-43.5663,172.63656,tsunami,TRUE
-428,primary_school,-43.504209,172.605274,tsunami,TRUE
-429,primary_school,-43.500162,172.588274,tsunami,TRUE
-430,primary_school,-43.488839,172.683836,tsunami,TRUE
-431,primary_school,-43.548984,172.648604,tsunami,TRUE
-432,primary_school,-43.512142,172.570879,tsunami,TRUE
-433,primary_school,-43.524843,172.675784,tsunami,FALSE
-434,primary_school,-43.536306,172.596734,tsunami,TRUE
-435,primary_school,-43.55422,172.551909,tsunami,TRUE
-436,primary_school,-43.510189,172.502181,tsunami,TRUE
-437,secondary_school,-43.563766,172.570992,tsunami,TRUE
-438,secondary_school,-43.811174,172.962425,tsunami,TRUE
-439,secondary_school,-43.523012,172.568049,tsunami,TRUE
-440,secondary_school,-43.524028,172.661514,tsunami,FALSE
-441,secondary_school,-43.507315,172.577702,tsunami,TRUE
-442,secondary_school,-43.564565,172.623852,tsunami,TRUE
-443,secondary_school,-43.537655,172.646591,tsunami,TRUE
-444,secondary_school,-43.529716,172.627114,tsunami,TRUE
-445,secondary_school,-43.499018,172.611428,tsunami,TRUE
-446,secondary_school,-43.524806,172.598411,tsunami,TRUE
-447,secondary_school,-43.524293,172.611366,tsunami,TRUE
-448,secondary_school,-43.478663,172.588271,tsunami,TRUE
-449,secondary_school,-43.514756,172.696684,tsunami,TRUE
-450,secondary_school,-43.537238,172.623,tsunami,TRUE
-451,secondary_school,-43.557675,172.592774,tsunami,TRUE
-452,secondary_school,-43.555736,172.652793,tsunami,TRUE
-453,secondary_school,-43.538174,172.527627,tsunami,TRUE
-454,secondary_school,-43.538762,172.667655,tsunami,TRUE
-455,secondary_school,-43.494016,172.648476,tsunami,TRUE
-456,secondary_school,-43.539039,172.646135,tsunami,TRUE
-457,secondary_school,-43.536245,172.576512,tsunami,TRUE
-458,secondary_school,-43.491037,172.606707,tsunami,TRUE
-459,secondary_school,-43.518898,172.617779,tsunami,TRUE
-460,secondary_school,-43.53589,172.566357,tsunami,TRUE
-461,secondary_school,-43.560082,172.659127,tsunami,TRUE
-462,secondary_school,-43.583346,172.549805,tsunami,TRUE
-463,secondary_school,-43.512343,172.660827,tsunami,TRUE
-464,secondary_school,-43.506363,172.615865,tsunami,TRUE
-465,secondary_school,-43.48405,172.616864,tsunami,TRUE
-466,secondary_school,-43.519091,172.622151,tsunami,TRUE
-467,secondary_school,-43.533607,172.556203,tsunami,TRUE
-468,secondary_school,-43.564583,172.614584,tsunami,TRUE
-469,secondary_school,-43.551176,172.656323,tsunami,TRUE
-470,secondary_school,-43.529305,172.672453,tsunami,TRUE
-471,secondary_school,-43.528304,172.567561,tsunami,TRUE
-472,supermarket,-43.5351605,172.5802564,tsunami,TRUE
-473,supermarket,-43.53274003,172.5730475,tsunami,TRUE
-474,supermarket,-43.55682685,172.7025114,tsunami,FALSE
-475,supermarket,-43.5387413,172.6417417,tsunami,TRUE
-476,supermarket,-43.50676606,172.7299485,tsunami,FALSE
-477,supermarket,-43.45900317,172.6250142,tsunami,TRUE
-478,supermarket,-43.49152959,172.6117041,tsunami,TRUE
-479,supermarket,-43.59418266,172.3866759,tsunami,TRUE
-480,supermarket,-43.54274886,172.5269712,tsunami,TRUE
-481,supermarket,-43.48986069,172.5477124,tsunami,TRUE
-482,supermarket,-43.5056571,172.6645278,tsunami,TRUE
-483,supermarket,-43.5111866,172.5572106,tsunami,TRUE
-484,supermarket,-43.5324507,172.6755846,tsunami,TRUE
-485,supermarket,-43.55331378,172.6355983,tsunami,TRUE
-486,supermarket,-43.51316108,172.6367287,tsunami,TRUE
-487,supermarket,-43.5232351,172.3704124,tsunami,TRUE
-488,supermarket,-43.48134612,172.7060947,tsunami,TRUE
-489,supermarket,-43.5557083,172.6205318,tsunami,TRUE
-490,supermarket,-43.5340843,172.6378384,tsunami,TRUE
-491,supermarket,-43.5128454,172.6213802,tsunami,TRUE
-492,supermarket,-43.5132962,172.6365852,tsunami,TRUE
-493,supermarket,-43.58063686,172.5659203,tsunami,TRUE
-494,supermarket,-43.45963502,172.6223904,tsunami,TRUE
-495,supermarket,-43.48845188,172.5872137,tsunami,TRUE
-496,supermarket,-43.55753906,172.6547893,tsunami,TRUE
-497,supermarket,-43.56242398,172.7390075,tsunami,FALSE
-498,supermarket,-43.47515958,172.6620094,tsunami,TRUE
-499,supermarket,-43.53870921,172.6331341,tsunami,TRUE
-500,supermarket,-43.5179319,172.588375,tsunami,TRUE
-501,supermarket,-43.5526955,172.5575428,tsunami,TRUE
-502,supermarket,-43.5258837,172.5701643,tsunami,TRUE
-503,supermarket,-43.4885645,172.5874903,tsunami,TRUE
-504,supermarket,-43.5490378,172.6840966,tsunami,FALSE
-505,supermarket,-43.52595041,172.5700589,tsunami,TRUE
-506,supermarket,-43.64225792,172.4737121,tsunami,TRUE
-507,supermarket,-43.5967627,172.3824238,tsunami,TRUE
-508,supermarket,-43.52016129,172.6569832,tsunami,TRUE
-509,supermarket,-43.5426435,172.5233262,tsunami,TRUE
-510,supermarket,-43.49285848,172.6089146,tsunami,TRUE
-511,supermarket,-43.51282276,172.6932267,tsunami,TRUE
-512,supermarket,-43.5310944,172.5961987,tsunami,TRUE
-513,supermarket,-43.53900827,172.6383239,tsunami,TRUE
-514,supermarket,-43.5401055,172.6053454,tsunami,TRUE
-515,supermarket,-43.4777997,172.5552277,tsunami,TRUE
-516,supermarket,-43.5694327,172.7599984,tsunami,FALSE
-517,supermarket,-43.60288087,172.7215154,tsunami,TRUE
-518,supermarket,-43.509513,172.5902803,tsunami,TRUE
-519,supermarket,-43.53041974,172.6574869,tsunami,TRUE
+﻿lat,lon,id,dest_type,name,hazard,operational
+-43.5351605,172.5802564,1,supermarket,Big Chicken Supermarket,liquefaction,TRUE
+-43.53274003,172.5730475,2,supermarket,Countdown,liquefaction,FALSE
+-43.55682685,172.7025114,3,supermarket,Countdown,liquefaction,TRUE
+-43.5387413,172.6417417,4,supermarket,Countdown,liquefaction,FALSE
+-43.50676606,172.7299485,5,supermarket,Countdown,liquefaction,FALSE
+-43.45900317,172.6250142,6,supermarket,Countdown,liquefaction,TRUE
+-43.49152959,172.6117041,7,supermarket,Countdown,liquefaction,FALSE
+-43.59418266,172.3866759,8,supermarket,Countdown,liquefaction,FALSE
+-43.54274886,172.5269712,9,supermarket,Countdown,liquefaction,TRUE
+-43.48986069,172.5477124,10,supermarket,Countdown,liquefaction,FALSE
+-43.5056571,172.6645278,11,supermarket,Countdown,liquefaction,TRUE
+-43.5111866,172.5572106,12,supermarket,Countdown,liquefaction,FALSE
+-43.5324507,172.6755846,13,supermarket,Countdown,liquefaction,FALSE
+-43.55331378,172.6355983,14,supermarket,Countdown Sydenham,liquefaction,FALSE
+-43.51316108,172.6367287,15,supermarket,Edgeware FreshChoice,liquefaction,FALSE
+-43.5232351,172.3704124,16,supermarket,Four Square,liquefaction,FALSE
+-43.48134612,172.7060947,17,supermarket,Fresh Choice,liquefaction,TRUE
+-43.5557083,172.6205318,18,supermarket,Fresh Choice,liquefaction,FALSE
+-43.5340843,172.6378384,19,supermarket,Fresh Choice City Market,liquefaction,TRUE
+-43.5128454,172.6213802,20,supermarket,Fresh Choice Supermarket,liquefaction,TRUE
+-43.5132962,172.6365852,21,supermarket,FreshChoice,liquefaction,TRUE
+-43.58063686,172.5659203,22,supermarket,New World,liquefaction,TRUE
+-43.45963502,172.6223904,23,supermarket,New World,liquefaction,TRUE
+-43.48845188,172.5872137,24,supermarket,New World,liquefaction,FALSE
+-43.55753906,172.6547893,25,supermarket,New World,liquefaction,TRUE
+-43.56242398,172.7390075,26,supermarket,New World,liquefaction,TRUE
+-43.47515958,172.6620094,27,supermarket,New World,liquefaction,FALSE
+-43.53870921,172.6331341,28,supermarket,New World,liquefaction,TRUE
+-43.5179319,172.588375,29,supermarket,New World,liquefaction,TRUE
+-43.5526955,172.5575428,30,supermarket,New World,liquefaction,FALSE
+-43.5258837,172.5701643,31,supermarket,New World,liquefaction,FALSE
+-43.4885645,172.5874903,32,supermarket,New World,liquefaction,FALSE
+-43.5490378,172.6840966,33,supermarket,New World,liquefaction,TRUE
+-43.52595041,172.5700589,34,supermarket,New World Ilam,liquefaction,TRUE
+-43.64225793,172.4737121,35,supermarket,New World Lincoln,liquefaction,FALSE
+-43.5967627,172.3824238,36,supermarket,New World Rolleston,liquefaction,FALSE
+-43.52016129,172.6569832,37,supermarket,New World Stanmore,liquefaction,TRUE
+-43.5426435,172.5233262,38,supermarket,PAK'nSAVE,liquefaction,FALSE
+-43.49285848,172.6089146,39,supermarket,Pak'nSave,liquefaction,FALSE
+-43.51282276,172.6932267,40,supermarket,Pak'nSave,liquefaction,TRUE
+-43.5310944,172.5961987,41,supermarket,Pak'nSave,liquefaction,FALSE
+-43.53900827,172.6383239,42,supermarket,Pak'nSave Moorhouse Avenue,liquefaction,FALSE
+-43.5401055,172.6053454,43,supermarket,Raeward Fresh,liquefaction,TRUE
+-43.4777997,172.5552277,44,supermarket,Reawood Fresh,liquefaction,FALSE
+-43.5694327,172.7599984,45,supermarket,Sumner Supervalue,liquefaction,TRUE
+-43.60288087,172.7215154,46,supermarket,SuperValue,liquefaction,FALSE
+-43.509513,172.5902803,47,supermarket,SuperValue,liquefaction,TRUE
+-43.53041974,172.6574869,48,supermarket,Supervalue,liquefaction,FALSE
+-43.38619393,172.6589884,49,supermarket,Countdown,liquefaction,FALSE
+-43.38240588,172.6589884,50,supermarket,New World,liquefaction,FALSE
+-43.5671816,172.6355346,51,medical_clinic,Cashmere Health & Physio,liquefaction,FALSE
+-43.5670258,172.6350141,52,medical_clinic,Dr Liam Walshe Cashmere Dentists,liquefaction,TRUE
+-43.302568,172.5916687,53,medical_clinic,Durham Health,liquefaction,FALSE
+-43.3020404,172.5938606,54,medical_clinic,Good Street Medical Centre,liquefaction,FALSE
+-43.381548,172.658214,55,medical_clinic,Kaiapoi Family Doctors,liquefaction,FALSE
+-43.3851513,172.6552188,56,medical_clinic,Kaiapoi Medical Centre,liquefaction,FALSE
+-43.3838471,172.6568487,57,medical_clinic,Kaye Buchan Kaiapoi,liquefaction,FALSE
+-43.7613679,172.2994522,58,medical_clinic,Leeston Medical Centre,liquefaction,FALSE
+-43.6404562,172.4852213,59,medical_clinic,Lincoln Medical,liquefaction,FALSE
+-43.6425505,172.4685995,60,medical_clinic,Lincoln University Student Health & Support,liquefaction,FALSE
+-43.3039901,172.5919674,61,medical_clinic,Medical Corner Doctors,liquefaction,FALSE
+-43.5263504,172.6386968,62,medical_clinic,Menzmedical,liquefaction,TRUE
+-43.5132281,172.6229239,63,medical_clinic,Merivale Village Medical Care,liquefaction,TRUE
+-43.5118609,172.6203216,64,medical_clinic,Molecheck Ltd - CHCH,liquefaction,TRUE
+-43.553126,172.6640804,65,medical_clinic,Opawa Surgery,liquefaction,FALSE
+-43.4798067,172.6954698,66,medical_clinic,Parklands Medical Centre (Chch),liquefaction,TRUE
+-43.3140479,172.6976781,67,medical_clinic,Pegasus Medical Centre,liquefaction,FALSE
+-43.4743719,172.6260863,68,medical_clinic,Prestons Road Surgery,liquefaction,TRUE
+-43.3085385,172.5966653,69,medical_clinic,Rangiora Family Doctors,liquefaction,FALSE
+-43.5957078,172.3894715,70,medical_clinic,Rolleston Central Health,liquefaction,FALSE
+-43.5948428,172.3750787,71,medical_clinic,Rolleston Medical Centre,liquefaction,FALSE
+-43.5591296,172.702622,72,medical_clinic,Settlers Health Centre,liquefaction,FALSE
+-43.3164877,172.6003441,73,medical_clinic,Southside Health,liquefaction,FALSE
+-43.550862,172.6000633,74,medical_clinic,Village Health Lincoln Road,liquefaction,FALSE
+-43.5224537,172.3704577,75,medical_clinic,West Melton Medical Centre,liquefaction,FALSE
+-43.555845,172.5612426,76,medical_clinic,Wigram Health,liquefaction,FALSE
+-43.3234375,172.6652561,77,medical_clinic,Woodend Medical Centre,liquefaction,FALSE
+-43.5254823,172.6719958,78,medical_clinic,Woodham Road Healthcare,liquefaction,FALSE
+-43.52070256,172.6303589,79,medical_clinic,298 Youth Health,liquefaction,FALSE
+-43.54557559,172.5258579,80,medical_clinic,Amyes Road Medical Centre,liquefaction,FALSE
+-43.55709556,172.620348,81,medical_clinic,Barrington Medical Centre,liquefaction,TRUE
+-43.44520355,172.6333859,82,medical_clinic,Belfast Medical Centre,liquefaction,FALSE
+-43.44470655,172.6329439,83,medical_clinic,Belfast North Mediqual Doctors,liquefaction,TRUE
+-43.49018057,172.5880899,84,medical_clinic,Bishopdale Medical Centre,liquefaction,FALSE
+-43.50908257,172.5904849,85,medical_clinic,Bryndwr Medical Rooms,liquefaction,FALSE
+-43.49651957,172.5787619,86,medical_clinic,Burnside Medical Centre,liquefaction,FALSE
+-43.48045856,172.6032359,87,medical_clinic,Casebrook Surgery,liquefaction,TRUE
+-43.56681956,172.646938,88,medical_clinic,Cashmere Health,liquefaction,TRUE
+-43.56699856,172.629422,89,medical_clinic,Cashmere Medical Practice,liquefaction,FALSE
+-43.55626656,172.636678,90,medical_clinic,Christchurch South Health Centre,liquefaction,FALSE
+-43.50501855,172.6347199,91,medical_clinic,Cranford Street Medical Practice,liquefaction,FALSE
+-43.62646953,172.739929,92,medical_clinic,Diamond Harbour Surgery,liquefaction,FALSE
+-43.53301756,172.6283289,93,medical_clinic,Doctors on Cashel,liquefaction,FALSE
+-43.53046757,172.5928159,94,medical_clinic,Doctors on Riccarton,liquefaction,TRUE
+-43.51292058,172.5551999,95,medical_clinic,Dr Kathy Davey,liquefaction,FALSE
+-43.51292058,172.5551999,96,medical_clinic,Dr Susan Shand,liquefaction,FALSE
+-43.51656953,172.701178,97,medical_clinic,Eastcare Health,liquefaction,TRUE
+-43.51775557,172.5871119,98,medical_clinic,Fendalton Medical Centre,liquefaction,TRUE
+-43.54090255,172.660402,99,medical_clinic,Ferry Road Medical Centre,liquefaction,FALSE
+-43.55618954,172.697494,100,medical_clinic,Ferrymead Medical Centre,liquefaction,TRUE
+-43.50771957,172.5698549,101,medical_clinic,Grahams Road Medical Practice,liquefaction,FALSE
+-43.49870857,172.5867099,102,medical_clinic,Greers Road Medical Centre,liquefaction,FALSE
+-43.57433758,172.5682579,103,medical_clinic,Halswellhealth,liquefaction,FALSE
+-43.49117857,172.5952169,104,medical_clinic,Harewood Medical Centre,liquefaction,FALSE
+-43.53825755,172.642922,105,medical_clinic,Health Centre Ara Institute of Canterbury,liquefaction,TRUE
+-43.53660756,172.6364479,106,medical_clinic,Health and Sport Central,liquefaction,FALSE
+-43.53581859,172.5214049,107,medical_clinic,Hei Hei Health Centre,liquefaction,FALSE
+-43.55982355,172.657957,108,medical_clinic,Helios Integrative Medical Centre,liquefaction,FALSE
+-43.52922357,172.6052069,109,medical_clinic,High Street City Health,liquefaction,TRUE
+-43.55412657,172.5942419,110,medical_clinic,HillMed Health Centre,liquefaction,TRUE
+-43.56601557,172.604239,111,medical_clinic,Hoon Hay Medical Centre,liquefaction,FALSE
+-43.54441759,172.5287619,112,medical_clinic,Hornby Medical Centre,liquefaction,FALSE
+-43.51225957,172.5806319,113,medical_clinic,Ilam Medical Centre,liquefaction,FALSE
+-43.50211655,172.6333769,114,medical_clinic,Innes Road Medical Rooms,liquefaction,FALSE
+-43.51569257,172.5717529,115,medical_clinic,Inspire Health Medical Practice,liquefaction,FALSE
+-43.49784757,172.5727439,116,medical_clinic,Kendal Medical Centre,liquefaction,FALSE
+-43.53295855,172.655534,117,medical_clinic,Kingdom Clinic,liquefaction,FALSE
+-43.53321054,172.674028,118,medical_clinic,Linwood Medical Centre,liquefaction,FALSE
+-43.57815959,172.5462929,119,medical_clinic,Longhurst Health,liquefaction,FALSE
+-43.60346954,172.722625,120,medical_clinic,Lyttelton Health Centre,liquefaction,FALSE
+-43.49133856,172.6130309,121,medical_clinic,Main North Road Medical Centre,liquefaction,TRUE
+-43.49846755,172.6408549,122,medical_clinic,Mairehau Medical Centre,liquefaction,TRUE
+-43.51151956,172.6214979,123,medical_clinic,Mansfield Health Practice,liquefaction,FALSE
+-43.47488754,172.6592859,124,medical_clinic,Marshlands Family Health Centre,liquefaction,FALSE
+-43.52137956,172.6368109,125,medical_clinic,Menzmedical,liquefaction,TRUE
+-43.51014756,172.6202329,126,medical_clinic,Merivale Medical Practice,liquefaction,TRUE
+-43.54073156,172.63974,127,medical_clinic,Moorhouse Medical Centre,liquefaction,TRUE
+-43.55795353,172.722312,128,medical_clinic,Mt Pleasant Medical Centre,liquefaction,FALSE
+-43.50905653,172.727617,129,medical_clinic,New Brighton Health Care,liquefaction,FALSE
+-43.50980456,172.6067429,130,medical_clinic,Normans Road Surgery,liquefaction,TRUE
+-43.51776955,172.6541109,131,medical_clinic,North Avon Medical Centre,liquefaction,FALSE
+-43.47507056,172.6173119,132,medical_clinic,Northwood Medical Centre,liquefaction,FALSE
+-43.53841556,172.6304619,133,medical_clinic,Pacific Health Clinic,liquefaction,TRUE
+-43.50030656,172.6111929,134,medical_clinic,Papanui Medical Centre,liquefaction,TRUE
+-43.51534355,172.6378859,135,medical_clinic,Promed Doctors,liquefaction,TRUE
+-43.49499353,172.7111989,136,medical_clinic,QEII Medical Centre,liquefaction,TRUE
+-43.47786153,172.6959789,137,medical_clinic,Queenspark Healthcare,liquefaction,FALSE
+-43.56187953,172.738582,138,medical_clinic,Redcliffs Medical Centre,liquefaction,FALSE
+-43.47920956,172.6170389,139,medical_clinic,Redwood Clinic,liquefaction,TRUE
+-43.53172358,172.5717639,140,medical_clinic,Riccarton Clinic,liquefaction,FALSE
+-43.53291957,172.5990099,141,medical_clinic,Riccarton Medical Practice,liquefaction,TRUE
+-43.54828056,172.622099,142,medical_clinic,Selwyn Village Healthcare,liquefaction,FALSE
+-43.50711055,172.6625929,143,medical_clinic,Shirley Medical Centre,liquefaction,TRUE
+-43.50956856,172.6304629,144,medical_clinic,St Albans Medical Centre,liquefaction,TRUE
+-43.55915655,172.654557,145,medical_clinic,St Martins Medical Practice,liquefaction,TRUE
+-43.52859257,172.6022669,146,medical_clinic,Straven Medical,liquefaction,TRUE
+-43.56891552,172.75837,147,medical_clinic,Sumner Health Centre,liquefaction,FALSE
+-43.51058453,172.701306,148,medical_clinic,Te Rawhiti Family Care Centre,liquefaction,FALSE
+-43.55337561,172.4731009,149,medical_clinic,Templeton Medical,liquefaction,FALSE
+-43.53216456,172.6374769,150,medical_clinic,The Christchurch Doctors,liquefaction,FALSE
+-43.49494453,172.7096289,151,medical_clinic,Travis Medical Centre,liquefaction,TRUE
+-43.53217655,172.671399,152,medical_clinic,Union & Community Health Centre (Piki Te Ora),liquefaction,FALSE
+-43.52384857,172.5795009,153,medical_clinic,University of Canterbury Student Health Centre,liquefaction,FALSE
+-43.53133157,172.5778409,154,medical_clinic,Upper Riccarton Medical Centre,liquefaction,FALSE
+-43.55282957,172.5966139,155,medical_clinic,Village Health Lincoln Road,liquefaction,TRUE
+-43.51569257,172.5717529,156,medical_clinic,Waimairi Road Medical Centre,liquefaction,TRUE
+-43.55069855,172.646537,157,medical_clinic,Waltham Medical Centre,liquefaction,TRUE
+-43.55198158,172.5569569,158,medical_clinic,WeCare Health Wigram,liquefaction,FALSE
+-43.52537255,172.662356,159,medical_clinic,Woodham Road Medical,liquefaction,FALSE
+-43.52775358,172.5575659,160,medical_clinic,Yaldhurst Family Doctors,liquefaction,FALSE
+-43.602804,172.467945,161,primary_school,Broadfield School,liquefaction,FALSE
+-43.551181,172.656331,162,primary_school,TKKM o Waitaha,liquefaction,FALSE
+-43.546479,172.689238,163,primary_school,Tamariki School,liquefaction,TRUE
+-43.384361,172.654115,164,primary_school,St Patrick's School (Kaiapoi),liquefaction,FALSE
+-43.552887,172.659307,165,primary_school,St Mark's School (Christchurch),liquefaction,TRUE
+-43.534774,172.633065,166,primary_school,St Michael's Church School,liquefaction,FALSE
+-43.536311,172.596742,167,primary_school,Wharenui School,liquefaction,TRUE
+-43.523227,172.639261,168,primary_school,St Mary's School (Christchurch),liquefaction,FALSE
+-43.511239,172.604049,169,primary_school,St Patrick's School (Bryndwr),liquefaction,FALSE
+-43.504214,172.605282,170,primary_school,Waimairi School,liquefaction,FALSE
+-43.570608,172.403181,171,primary_school,Weedons School,liquefaction,FALSE
+-43.521443,172.369386,172,primary_school,West Melton School,liquefaction,FALSE
+-43.512146,172.570887,173,primary_school,Westburn School,liquefaction,TRUE
+-43.488673,172.614444,174,primary_school,St Joseph's School (Papanui),liquefaction,FALSE
+-43.565432,172.657232,175,primary_school,St Martins School,liquefaction,TRUE
+-43.559766,172.637698,176,primary_school,St Peter's School (Beckenham),liquefaction,TRUE
+-43.529758,172.59214,177,primary_school,St Teresa's School (Riccarton),liquefaction,FALSE
+-43.566305,172.636568,178,primary_school,Thorrington School,liquefaction,FALSE
+-43.51173,172.70486,179,primary_school,St James School (Aranui),liquefaction,FALSE
+-43.574868,172.762543,180,primary_school,Our Lady Star of the Sea School (Christchurch),liquefaction,FALSE
+-43.573098,172.759628,181,primary_school,Sumner School,liquefaction,TRUE
+-43.550162,172.472361,182,primary_school,Templeton School,liquefaction,FALSE
+-43.533484,172.525345,183,primary_school,St Bernadette's School (Hornby),liquefaction,FALSE
+-43.547858,172.61824,184,primary_school,Addington Te Kura Taumatua,liquefaction,FALSE
+-43.562252,172.587768,185,primary_school,Te KÃƒÂ…Ã‚Âmanawa Rowley School,liquefaction,FALSE
+-43.561645,172.628537,186,primary_school,Somerfield Te Kura Wairepo,liquefaction,TRUE
+-43.547122,172.529047,187,primary_school,South Hornby School,liquefaction,FALSE
+-43.52622,172.733527,188,primary_school,South New Brighton School,liquefaction,FALSE
+-43.49871,172.641415,189,primary_school,Mairehau Primary School,liquefaction,FALSE
+-43.577074,172.513059,190,primary_school,Prebbleton School,liquefaction,FALSE
+-43.533363,172.564144,191,primary_school,Te KÃƒÂ„Ã‚Âpehu Riccarton School,liquefaction,FALSE
+-43.517895,172.544704,192,primary_school,Russley School,liquefaction,FALSE
+-43.375957,172.663615,193,primary_school,Kaiapoi North School,liquefaction,FALSE
+-43.553946,172.551525,194,primary_school,Wigram Primary School - Te Piki KÃƒÂ„Ã‚Âhu,liquefaction,FALSE
+-43.557575,172.597927,195,primary_school,Spreydon School,liquefaction,TRUE
+-43.513251,172.668112,196,primary_school,Banks Avenue School,liquefaction,FALSE
+-43.562877,172.645488,197,primary_school,Beckenham Te Kura o PÃƒÂ…Ã‚Â«roto,liquefaction,FALSE
+-43.453618,172.627302,198,primary_school,Belfast School,liquefaction,TRUE
+-43.512738,172.581782,199,primary_school,Burnside Primary School,liquefaction,TRUE
+-43.637105,172.487099,200,primary_school,Lincoln Primary School,liquefaction,FALSE
+-43.555662,172.66449,201,primary_school,Opawa School,liquefaction,FALSE
+-43.538707,172.522632,202,primary_school,Hornby Primary School,liquefaction,TRUE
+-43.493107,172.582123,203,primary_school,Isleworth School,liquefaction,FALSE
+-43.482458,172.587178,204,primary_school,Cotswold School,liquefaction,TRUE
+-43.524102,172.559497,205,primary_school,Avonhead School,liquefaction,FALSE
+-43.548989,172.648613,206,primary_school,Waltham School,liquefaction,TRUE
+-43.576418,172.632546,207,primary_school,Cashmere Primary Te Pae KererÃƒÂ…Ã‚Â«,liquefaction,FALSE
+-43.405997,172.623356,208,primary_school,Clarkville School,liquefaction,FALSE
+-43.529738,172.521344,209,primary_school,Gilberthorpe School,liquefaction,FALSE
+-43.579876,172.708878,210,primary_school,Heathcote Valley School,liquefaction,FALSE
+-43.663629,172.550066,211,primary_school,Tai Tapu School,liquefaction,FALSE
+-43.444597,172.660388,212,primary_school,Ouruhia Model School,liquefaction,FALSE
+-43.488025,172.619727,213,primary_school,Papanui School,liquefaction,FALSE
+-43.499655,172.619586,214,primary_school,Paparoa Street School,liquefaction,FALSE
+-43.556439,172.733609,215,primary_school,Te Raekura Redcliffs School,liquefaction,FALSE
+-43.473605,172.621954,216,primary_school,Redwood School (Christchurch),liquefaction,TRUE
+-43.644586,172.425734,217,primary_school,Springston School,liquefaction,FALSE
+-43.507131,172.629095,218,primary_school,St Albans Catholic School (Christchurch),liquefaction,TRUE
+-43.524848,172.675792,219,primary_school,WhÃƒÂ„Ã‚Â«tau School,liquefaction,FALSE
+-43.510497,172.558579,220,primary_school,Merrin School,liquefaction,FALSE
+-43.479365,172.614009,221,primary_school,Northcote School (Christchurch),liquefaction,FALSE
+-43.571583,172.56465,222,primary_school,Oaklands School,liquefaction,FALSE
+-43.370163,172.590554,223,primary_school,Ohoka School,liquefaction,FALSE
+-43.526413,172.579696,224,primary_school,Ilam School,liquefaction,FALSE
+-43.509154,172.576637,225,primary_school,Christ The King School (Burnside),liquefaction,TRUE
+-43.529647,172.648358,226,primary_school,Christchurch East School,liquefaction,FALSE
+-43.513814,172.614755,227,primary_school,Elmwood Normal School,liquefaction,FALSE
+-43.590655,172.569381,228,primary_school,Halswell School,liquefaction,FALSE
+-43.528058,172.628555,229,primary_school,The Cathedral Grammar School,liquefaction,TRUE
+-43.506368,172.615873,230,primary_school,St Andrew's College (Christchurch),liquefaction,FALSE
+-43.520222,172.654826,231,primary_school,Jean Seabrook Memorial School,liquefaction,FALSE
+-43.52931,172.672461,232,primary_school,Te Pa o Rakaihautu,liquefaction,FALSE
+-43.514761,172.696693,233,primary_school,Haeata Community Campus,liquefaction,FALSE
+-43.602344,172.723168,234,primary_school,Lyttelton Primary School,liquefaction,FALSE
+-43.499792,172.639393,235,primary_school,St Francis of Assisi Catholic School,liquefaction,FALSE
+-43.570862,172.537934,236,primary_school,Knights Stream School- Mingimingi Hautoa,liquefaction,FALSE
+-43.478668,172.588279,237,primary_school,Emmanuel Christian School,liquefaction,TRUE
+-43.555741,172.652801,238,primary_school,Hillview Christian School,liquefaction,FALSE
+-43.499023,172.611436,239,primary_school,Christchurch Adventist School,liquefaction,FALSE
+-43.622673,172.386021,240,primary_school,Lemonwood Grove School,liquefaction,FALSE
+-43.564588,172.614592,241,primary_school,TKKM o Te Whanau Tahi,liquefaction,FALSE
+-43.563771,172.571,242,primary_school,Aidanfield Christian School,liquefaction,FALSE
+-43.535939,172.635943,243,primary_school,Ao Tawhiti Unlimited Discovery,liquefaction,FALSE
+-43.545671,172.672639,244,primary_school,Te Waka Unua School,liquefaction,FALSE
+-43.488844,172.683844,245,primary_school,Waitakiri Primary School,liquefaction,FALSE
+-43.606888,172.355917,246,primary_school,West Rolleston Primary School,liquefaction,FALSE
+-43.519096,172.622159,247,primary_school,St Margaret's College,liquefaction,FALSE
+-43.608323,172.392912,248,primary_school,Rolleston Christian School,liquefaction,FALSE
+-43.58267,172.548458,249,primary_school,Seven Oaks School,liquefaction,TRUE
+-43.521889,172.589114,250,primary_school,Medbury Preparatory School,liquefaction,FALSE
+-43.500167,172.588282,251,primary_school,Wairakei School (Christchurch),liquefaction,FALSE
+-43.559634,172.611297,252,primary_school,Te Ara Koropiko West Spreydon School,liquefaction,FALSE
+-43.510194,172.502189,253,primary_school,Yaldhurst Model School,liquefaction,FALSE
+-43.369342,172.495566,254,primary_school,Swannanoa School,liquefaction,FALSE
+-43.546066,172.612757,255,primary_school,Sacred Heart School (Christchurch),liquefaction,FALSE
+-43.564788,172.60708,256,primary_school,Our Lady of the Assumption School (Chch),liquefaction,TRUE
+-43.536215,172.559125,257,primary_school,Our Lady of Victories,liquefaction,FALSE
+-43.4806,172.705631,258,primary_school,Parkview PÃƒÂ„Ã‚Ârua,liquefaction,TRUE
+-43.473158,172.695985,259,primary_school,Queenspark School,liquefaction,FALSE
+-43.592491,172.381339,260,primary_school,Rolleston School,liquefaction,FALSE
+-43.494484,172.563148,261,primary_school,Te Ara Maurea Roydvale School,liquefaction,FALSE
+-43.507888,172.653152,262,primary_school,Shirley Primary School,liquefaction,TRUE
+-43.508774,172.634388,263,primary_school,St Albans School,liquefaction,TRUE
+-43.550383,172.685581,264,primary_school,St Anne's School (Woolston),liquefaction,FALSE
+-43.535284,172.67488,265,primary_school,Linwood Avenue School,liquefaction,FALSE
+-43.763797,172.795486,266,primary_school,Little River School,liquefaction,FALSE
+-43.472028,172.664748,267,primary_school,Marshland School,liquefaction,FALSE
+-43.562448,172.715927,268,primary_school,Mt Pleasant School,liquefaction,FALSE
+-43.505942,172.723723,269,primary_school,New Brighton Catholic School (Chch),liquefaction,FALSE
+-43.564866,172.606597,270,primary_school,Hoon Hay Te Kura KÃƒÂ…Ã‚Âaka,liquefaction,TRUE
+-43.379062,172.651468,271,primary_school,Kaiapoi Borough School,liquefaction,FALSE
+-43.617669,172.532329,272,primary_school,Ladbrooks School,liquefaction,FALSE
+-43.554159,172.687455,273,primary_school,Ngutuawa School,liquefaction,FALSE
+-43.486649,172.596248,274,primary_school,Bishopdale School,liquefaction,FALSE
+-43.536557,172.687055,275,primary_school,Bromley School,liquefaction,FALSE
+-43.629962,172.726705,276,primary_school,Diamond Harbour School,liquefaction,FALSE
+-43.517081,172.591149,277,primary_school,Fendalton Open Air School,liquefaction,FALSE
+-43.623986,172.64999,278,primary_school,Governors Bay School,liquefaction,FALSE
+-43.479772,172.559446,279,primary_school,Harewood School,liquefaction,FALSE
+-43.560087,172.659135,280,primary_school,Rudolf Steiner School (Chch),liquefaction,TRUE
+-43.53625,172.57652,281,primary_school,Middleton Grange School,liquefaction,FALSE
+-43.606108,172.38121,282,primary_school,Clearview Primary,liquefaction,FALSE
+-43.510659,172.724993,283,primary_school,Nova Montessori School,liquefaction,FALSE
+-43.496105,172.717708,284,primary_school,RÃƒÂ„Ã‚Âwhiti School,liquefaction,TRUE
+-43.611772,172.404307,285,primary_school,Te RÃƒÂ…Ã‚Âhutu Whio (Proposed opening date: 2022-01-01),liquefaction,FALSE
+-43.648092,172.492975,286,primary_school,Ararira Springs Primary- Te Puna o Ararira,liquefaction,FALSE
+-43.516643,172.623012,287,primary_school,Selwyn House School,liquefaction,FALSE
+-43.5351605,172.5802564,1,supermarket,Big Chicken Supermarket,multi,TRUE
+-43.53274003,172.5730475,2,supermarket,Countdown,multi,TRUE
+-43.55682685,172.7025114,3,supermarket,Countdown,multi,FALSE
+-43.5387413,172.6417417,4,supermarket,Countdown,multi,TRUE
+-43.50676606,172.7299485,5,supermarket,Countdown,multi,TRUE
+-43.45900317,172.6250142,6,supermarket,Countdown,multi,FALSE
+-43.49152959,172.6117041,7,supermarket,Countdown,multi,TRUE
+-43.59418266,172.3866759,8,supermarket,Countdown,multi,FALSE
+-43.54274886,172.5269712,9,supermarket,Countdown,multi,TRUE
+-43.48986069,172.5477124,10,supermarket,Countdown,multi,TRUE
+-43.5056571,172.6645278,11,supermarket,Countdown,multi,TRUE
+-43.5111866,172.5572106,12,supermarket,Countdown,multi,TRUE
+-43.5324507,172.6755846,13,supermarket,Countdown,multi,TRUE
+-43.55331378,172.6355983,14,supermarket,Countdown Sydenham,multi,TRUE
+-43.51316108,172.6367287,15,supermarket,Edgeware FreshChoice,multi,TRUE
+-43.5232351,172.3704124,16,supermarket,Four Square,multi,FALSE
+-43.48134612,172.7060947,17,supermarket,Fresh Choice,multi,FALSE
+-43.5557083,172.6205318,18,supermarket,Fresh Choice,multi,TRUE
+-43.5340843,172.6378384,19,supermarket,Fresh Choice City Market,multi,TRUE
+-43.5128454,172.6213802,20,supermarket,Fresh Choice Supermarket,multi,TRUE
+-43.5132962,172.6365852,21,supermarket,FreshChoice,multi,TRUE
+-43.58063686,172.5659203,22,supermarket,New World,multi,FALSE
+-43.45963502,172.6223904,23,supermarket,New World,multi,TRUE
+-43.48845188,172.5872137,24,supermarket,New World,multi,FALSE
+-43.55753906,172.6547893,25,supermarket,New World,multi,TRUE
+-43.56242398,172.7390075,26,supermarket,New World,multi,FALSE
+-43.47515958,172.6620094,27,supermarket,New World,multi,FALSE
+-43.53870921,172.6331341,28,supermarket,New World,multi,TRUE
+-43.5179319,172.588375,29,supermarket,New World,multi,TRUE
+-43.5526955,172.5575428,30,supermarket,New World,multi,FALSE
+-43.5258837,172.5701643,31,supermarket,New World,multi,TRUE
+-43.4885645,172.5874903,32,supermarket,New World,multi,TRUE
+-43.5490378,172.6840966,33,supermarket,New World,multi,TRUE
+-43.52595041,172.5700589,34,supermarket,New World Ilam,multi,TRUE
+-43.64225793,172.4737121,35,supermarket,New World Lincoln,multi,FALSE
+-43.5967627,172.3824238,36,supermarket,New World Rolleston,multi,FALSE
+-43.52016129,172.6569832,37,supermarket,New World Stanmore,multi,TRUE
+-43.5426435,172.5233262,38,supermarket,PAK'nSAVE,multi,FALSE
+-43.49285848,172.6089146,39,supermarket,Pak'nSave,multi,TRUE
+-43.51282276,172.6932267,40,supermarket,Pak'nSave,multi,TRUE
+-43.5310944,172.5961987,41,supermarket,Pak'nSave,multi,FALSE
+-43.53900827,172.6383239,42,supermarket,Pak'nSave Moorhouse Avenue,multi,TRUE
+-43.5401055,172.6053454,43,supermarket,Raeward Fresh,multi,TRUE
+-43.4777997,172.5552277,44,supermarket,Reawood Fresh,multi,FALSE
+-43.5694327,172.7599984,45,supermarket,Sumner Supervalue,multi,FALSE
+-43.60288087,172.7215154,46,supermarket,SuperValue,multi,FALSE
+-43.509513,172.5902803,47,supermarket,SuperValue,multi,TRUE
+-43.53041974,172.6574869,48,supermarket,Supervalue,multi,TRUE
+-43.38619393,172.6589884,49,supermarket,Countdown,multi,FALSE
+-43.38240588,172.6589884,50,supermarket,New World,multi,TRUE
+-43.5671816,172.6355346,51,medical_clinic,Cashmere Health & Physio,multi,TRUE
+-43.5670258,172.6350141,52,medical_clinic,Dr Liam Walshe Cashmere Dentists,multi,TRUE
+-43.302568,172.5916687,53,medical_clinic,Durham Health,multi,FALSE
+-43.3020404,172.5938606,54,medical_clinic,Good Street Medical Centre,multi,FALSE
+-43.381548,172.658214,55,medical_clinic,Kaiapoi Family Doctors,multi,FALSE
+-43.3851513,172.6552188,56,medical_clinic,Kaiapoi Medical Centre,multi,FALSE
+-43.3838471,172.6568487,57,medical_clinic,Kaye Buchan Kaiapoi,multi,TRUE
+-43.7613679,172.2994522,58,medical_clinic,Leeston Medical Centre,multi,FALSE
+-43.6404562,172.4852213,59,medical_clinic,Lincoln Medical,multi,FALSE
+-43.6425505,172.4685995,60,medical_clinic,Lincoln University Student Health & Support,multi,FALSE
+-43.3039901,172.5919674,61,medical_clinic,Medical Corner Doctors,multi,FALSE
+-43.5263504,172.6386968,62,medical_clinic,Menzmedical,multi,TRUE
+-43.5132281,172.6229239,63,medical_clinic,Merivale Village Medical Care,multi,TRUE
+-43.5118609,172.6203216,64,medical_clinic,Molecheck Ltd - CHCH,multi,TRUE
+-43.553126,172.6640804,65,medical_clinic,Opawa Surgery,multi,FALSE
+-43.4798067,172.6954698,66,medical_clinic,Parklands Medical Centre (Chch),multi,TRUE
+-43.3140479,172.6976781,67,medical_clinic,Pegasus Medical Centre,multi,FALSE
+-43.4743719,172.6260863,68,medical_clinic,Prestons Road Surgery,multi,TRUE
+-43.3085385,172.5966653,69,medical_clinic,Rangiora Family Doctors,multi,FALSE
+-43.5957078,172.3894715,70,medical_clinic,Rolleston Central Health,multi,FALSE
+-43.5948428,172.3750787,71,medical_clinic,Rolleston Medical Centre,multi,FALSE
+-43.5591296,172.702622,72,medical_clinic,Settlers Health Centre,multi,FALSE
+-43.3164877,172.6003441,73,medical_clinic,Southside Health,multi,FALSE
+-43.550862,172.6000633,74,medical_clinic,Village Health Lincoln Road,multi,TRUE
+-43.5224537,172.3704577,75,medical_clinic,West Melton Medical Centre,multi,FALSE
+-43.555845,172.5612426,76,medical_clinic,Wigram Health,multi,FALSE
+-43.3234375,172.6652561,77,medical_clinic,Woodend Medical Centre,multi,FALSE
+-43.5254823,172.6719958,78,medical_clinic,Woodham Road Healthcare,multi,TRUE
+-43.52070256,172.6303589,79,medical_clinic,298 Youth Health,multi,TRUE
+-43.54557559,172.5258579,80,medical_clinic,Amyes Road Medical Centre,multi,TRUE
+-43.55709556,172.620348,81,medical_clinic,Barrington Medical Centre,multi,TRUE
+-43.44520355,172.6333859,82,medical_clinic,Belfast Medical Centre,multi,TRUE
+-43.44470655,172.6329439,83,medical_clinic,Belfast North Mediqual Doctors,multi,TRUE
+-43.49018057,172.5880899,84,medical_clinic,Bishopdale Medical Centre,multi,TRUE
+-43.50908257,172.5904849,85,medical_clinic,Bryndwr Medical Rooms,multi,FALSE
+-43.49651957,172.5787619,86,medical_clinic,Burnside Medical Centre,multi,TRUE
+-43.48045856,172.6032359,87,medical_clinic,Casebrook Surgery,multi,TRUE
+-43.56681956,172.646938,88,medical_clinic,Cashmere Health,multi,TRUE
+-43.56699856,172.629422,89,medical_clinic,Cashmere Medical Practice,multi,TRUE
+-43.55626656,172.636678,90,medical_clinic,Christchurch South Health Centre,multi,FALSE
+-43.50501855,172.6347199,91,medical_clinic,Cranford Street Medical Practice,multi,FALSE
+-43.62646953,172.739929,92,medical_clinic,Diamond Harbour Surgery,multi,FALSE
+-43.53301756,172.6283289,93,medical_clinic,Doctors on Cashel,multi,FALSE
+-43.53046757,172.5928159,94,medical_clinic,Doctors on Riccarton,multi,TRUE
+-43.51292058,172.5551999,95,medical_clinic,Dr Kathy Davey,multi,TRUE
+-43.51292058,172.5551999,96,medical_clinic,Dr Susan Shand,multi,TRUE
+-43.51656953,172.701178,97,medical_clinic,Eastcare Health,multi,TRUE
+-43.51775557,172.5871119,98,medical_clinic,Fendalton Medical Centre,multi,TRUE
+-43.54090255,172.660402,99,medical_clinic,Ferry Road Medical Centre,multi,TRUE
+-43.55618954,172.697494,100,medical_clinic,Ferrymead Medical Centre,multi,FALSE
+-43.50771957,172.5698549,101,medical_clinic,Grahams Road Medical Practice,multi,FALSE
+-43.49870857,172.5867099,102,medical_clinic,Greers Road Medical Centre,multi,TRUE
+-43.57433758,172.5682579,103,medical_clinic,Halswellhealth,multi,TRUE
+-43.49117857,172.5952169,104,medical_clinic,Harewood Medical Centre,multi,TRUE
+-43.53825755,172.642922,105,medical_clinic,Health Centre Ara Institute of Canterbury,multi,TRUE
+-43.53660756,172.6364479,106,medical_clinic,Health and Sport Central,multi,FALSE
+-43.53581859,172.5214049,107,medical_clinic,Hei Hei Health Centre,multi,FALSE
+-43.55982355,172.657957,108,medical_clinic,Helios Integrative Medical Centre,multi,TRUE
+-43.52922357,172.6052069,109,medical_clinic,High Street City Health,multi,TRUE
+-43.55412657,172.5942419,110,medical_clinic,HillMed Health Centre,multi,TRUE
+-43.56601557,172.604239,111,medical_clinic,Hoon Hay Medical Centre,multi,TRUE
+-43.54441759,172.5287619,112,medical_clinic,Hornby Medical Centre,multi,FALSE
+-43.51225957,172.5806319,113,medical_clinic,Ilam Medical Centre,multi,TRUE
+-43.50211655,172.6333769,114,medical_clinic,Innes Road Medical Rooms,multi,TRUE
+-43.51569257,172.5717529,115,medical_clinic,Inspire Health Medical Practice,multi,TRUE
+-43.49784757,172.5727439,116,medical_clinic,Kendal Medical Centre,multi,TRUE
+-43.53295855,172.655534,117,medical_clinic,Kingdom Clinic,multi,TRUE
+-43.53321054,172.674028,118,medical_clinic,Linwood Medical Centre,multi,TRUE
+-43.57815959,172.5462929,119,medical_clinic,Longhurst Health,multi,FALSE
+-43.60346954,172.722625,120,medical_clinic,Lyttelton Health Centre,multi,FALSE
+-43.49133856,172.6130309,121,medical_clinic,Main North Road Medical Centre,multi,FALSE
+-43.49846755,172.6408549,122,medical_clinic,Mairehau Medical Centre,multi,TRUE
+-43.51151956,172.6214979,123,medical_clinic,Mansfield Health Practice,multi,TRUE
+-43.47488754,172.6592859,124,medical_clinic,Marshlands Family Health Centre,multi,FALSE
+-43.52137956,172.6368109,125,medical_clinic,Menzmedical,multi,TRUE
+-43.51014756,172.6202329,126,medical_clinic,Merivale Medical Practice,multi,TRUE
+-43.54073156,172.63974,127,medical_clinic,Moorhouse Medical Centre,multi,TRUE
+-43.55795353,172.722312,128,medical_clinic,Mt Pleasant Medical Centre,multi,TRUE
+-43.50905653,172.727617,129,medical_clinic,New Brighton Health Care,multi,FALSE
+-43.50980456,172.6067429,130,medical_clinic,Normans Road Surgery,multi,TRUE
+-43.51776955,172.6541109,131,medical_clinic,North Avon Medical Centre,multi,TRUE
+-43.47507056,172.6173119,132,medical_clinic,Northwood Medical Centre,multi,TRUE
+-43.53841556,172.6304619,133,medical_clinic,Pacific Health Clinic,multi,TRUE
+-43.50030656,172.6111929,134,medical_clinic,Papanui Medical Centre,multi,TRUE
+-43.51534355,172.6378859,135,medical_clinic,Promed Doctors,multi,TRUE
+-43.49499353,172.7111989,136,medical_clinic,QEII Medical Centre,multi,FALSE
+-43.47786153,172.6959789,137,medical_clinic,Queenspark Healthcare,multi,TRUE
+-43.56187953,172.738582,138,medical_clinic,Redcliffs Medical Centre,multi,FALSE
+-43.47920956,172.6170389,139,medical_clinic,Redwood Clinic,multi,TRUE
+-43.53172358,172.5717639,140,medical_clinic,Riccarton Clinic,multi,TRUE
+-43.53291957,172.5990099,141,medical_clinic,Riccarton Medical Practice,multi,TRUE
+-43.54828056,172.622099,142,medical_clinic,Selwyn Village Healthcare,multi,TRUE
+-43.50711055,172.6625929,143,medical_clinic,Shirley Medical Centre,multi,TRUE
+-43.50956856,172.6304629,144,medical_clinic,St Albans Medical Centre,multi,TRUE
+-43.55915655,172.654557,145,medical_clinic,St Martins Medical Practice,multi,TRUE
+-43.52859257,172.6022669,146,medical_clinic,Straven Medical,multi,TRUE
+-43.56891552,172.75837,147,medical_clinic,Sumner Health Centre,multi,FALSE
+-43.51058453,172.701306,148,medical_clinic,Te Rawhiti Family Care Centre,multi,TRUE
+-43.55337561,172.4731009,149,medical_clinic,Templeton Medical,multi,TRUE
+-43.53216456,172.6374769,150,medical_clinic,The Christchurch Doctors,multi,TRUE
+-43.49494453,172.7096289,151,medical_clinic,Travis Medical Centre,multi,FALSE
+-43.53217655,172.671399,152,medical_clinic,Union & Community Health Centre (Piki Te Ora),multi,TRUE
+-43.52384857,172.5795009,153,medical_clinic,University of Canterbury Student Health Centre,multi,TRUE
+-43.53133157,172.5778409,154,medical_clinic,Upper Riccarton Medical Centre,multi,TRUE
+-43.55282957,172.5966139,155,medical_clinic,Village Health Lincoln Road,multi,TRUE
+-43.51569257,172.5717529,156,medical_clinic,Waimairi Road Medical Centre,multi,TRUE
+-43.55069855,172.646537,157,medical_clinic,Waltham Medical Centre,multi,TRUE
+-43.55198158,172.5569569,158,medical_clinic,WeCare Health Wigram,multi,TRUE
+-43.52537255,172.662356,159,medical_clinic,Woodham Road Medical,multi,TRUE
+-43.52775358,172.5575659,160,medical_clinic,Yaldhurst Family Doctors,multi,TRUE
+-43.602804,172.467945,161,primary_school,Broadfield School,multi,FALSE
+-43.551181,172.656331,162,primary_school,TKKM o Waitaha,multi,TRUE
+-43.546479,172.689238,163,primary_school,Tamariki School,multi,FALSE
+-43.384361,172.654115,164,primary_school,St Patrick's School (Kaiapoi),multi,FALSE
+-43.552887,172.659307,165,primary_school,St Mark's School (Christchurch),multi,TRUE
+-43.534774,172.633065,166,primary_school,St Michael's Church School,multi,TRUE
+-43.536311,172.596742,167,primary_school,Wharenui School,multi,TRUE
+-43.523227,172.639261,168,primary_school,St Mary's School (Christchurch),multi,TRUE
+-43.511239,172.604049,169,primary_school,St Patrick's School (Bryndwr),multi,FALSE
+-43.504214,172.605282,170,primary_school,Waimairi School,multi,TRUE
+-43.570608,172.403181,171,primary_school,Weedons School,multi,FALSE
+-43.521443,172.369386,172,primary_school,West Melton School,multi,FALSE
+-43.512146,172.570887,173,primary_school,Westburn School,multi,TRUE
+-43.488673,172.614444,174,primary_school,St Joseph's School (Papanui),multi,TRUE
+-43.565432,172.657232,175,primary_school,St Martins School,multi,TRUE
+-43.559766,172.637698,176,primary_school,St Peter's School (Beckenham),multi,TRUE
+-43.529758,172.59214,177,primary_school,St Teresa's School (Riccarton),multi,TRUE
+-43.566305,172.636568,178,primary_school,Thorrington School,multi,TRUE
+-43.51173,172.70486,179,primary_school,St James School (Aranui),multi,TRUE
+-43.574868,172.762543,180,primary_school,Our Lady Star of the Sea School (Christchurch),multi,FALSE
+-43.573098,172.759628,181,primary_school,Sumner School,multi,FALSE
+-43.550162,172.472361,182,primary_school,Templeton School,multi,TRUE
+-43.533484,172.525345,183,primary_school,St Bernadette's School (Hornby),multi,FALSE
+-43.547858,172.61824,184,primary_school,Addington Te Kura Taumatua,multi,TRUE
+-43.562252,172.587768,185,primary_school,Te KÃƒÂ…Ã‚Âmanawa Rowley School,multi,TRUE
+-43.561645,172.628537,186,primary_school,Somerfield Te Kura Wairepo,multi,TRUE
+-43.547122,172.529047,187,primary_school,South Hornby School,multi,FALSE
+-43.52622,172.733527,188,primary_school,South New Brighton School,multi,TRUE
+-43.49871,172.641415,189,primary_school,Mairehau Primary School,multi,TRUE
+-43.577074,172.513059,190,primary_school,Prebbleton School,multi,FALSE
+-43.533363,172.564144,191,primary_school,Te KÃƒÂ„Ã‚Âpehu Riccarton School,multi,FALSE
+-43.517895,172.544704,192,primary_school,Russley School,multi,FALSE
+-43.375957,172.663615,193,primary_school,Kaiapoi North School,multi,TRUE
+-43.553946,172.551525,194,primary_school,Wigram Primary School - Te Piki KÃƒÂ„Ã‚Âhu,multi,TRUE
+-43.557575,172.597927,195,primary_school,Spreydon School,multi,TRUE
+-43.513251,172.668112,196,primary_school,Banks Avenue School,multi,FALSE
+-43.562877,172.645488,197,primary_school,Beckenham Te Kura o PÃƒÂ…Ã‚Â«roto,multi,TRUE
+-43.453618,172.627302,198,primary_school,Belfast School,multi,TRUE
+-43.512738,172.581782,199,primary_school,Burnside Primary School,multi,TRUE
+-43.637105,172.487099,200,primary_school,Lincoln Primary School,multi,FALSE
+-43.555662,172.66449,201,primary_school,Opawa School,multi,TRUE
+-43.538707,172.522632,202,primary_school,Hornby Primary School,multi,FALSE
+-43.493107,172.582123,203,primary_school,Isleworth School,multi,TRUE
+-43.482458,172.587178,204,primary_school,Cotswold School,multi,TRUE
+-43.524102,172.559497,205,primary_school,Avonhead School,multi,FALSE
+-43.548989,172.648613,206,primary_school,Waltham School,multi,FALSE
+-43.576418,172.632546,207,primary_school,Cashmere Primary Te Pae KererÃƒÂ…Ã‚Â«,multi,FALSE
+-43.405997,172.623356,208,primary_school,Clarkville School,multi,FALSE
+-43.529738,172.521344,209,primary_school,Gilberthorpe School,multi,FALSE
+-43.579876,172.708878,210,primary_school,Heathcote Valley School,multi,TRUE
+-43.663629,172.550066,211,primary_school,Tai Tapu School,multi,FALSE
+-43.444597,172.660388,212,primary_school,Ouruhia Model School,multi,TRUE
+-43.488025,172.619727,213,primary_school,Papanui School,multi,TRUE
+-43.499655,172.619586,214,primary_school,Paparoa Street School,multi,TRUE
+-43.556439,172.733609,215,primary_school,Te Raekura Redcliffs School,multi,FALSE
+-43.473605,172.621954,216,primary_school,Redwood School (Christchurch),multi,TRUE
+-43.644586,172.425734,217,primary_school,Springston School,multi,FALSE
+-43.507131,172.629095,218,primary_school,St Albans Catholic School (Christchurch),multi,TRUE
+-43.524848,172.675792,219,primary_school,WhÃƒÂ„Ã‚Â«tau School,multi,FALSE
+-43.510497,172.558579,220,primary_school,Merrin School,multi,TRUE
+-43.479365,172.614009,221,primary_school,Northcote School (Christchurch),multi,TRUE
+-43.571583,172.56465,222,primary_school,Oaklands School,multi,TRUE
+-43.370163,172.590554,223,primary_school,Ohoka School,multi,FALSE
+-43.526413,172.579696,224,primary_school,Ilam School,multi,TRUE
+-43.509154,172.576637,225,primary_school,Christ The King School (Burnside),multi,TRUE
+-43.529647,172.648358,226,primary_school,Christchurch East School,multi,TRUE
+-43.513814,172.614755,227,primary_school,Elmwood Normal School,multi,TRUE
+-43.590655,172.569381,228,primary_school,Halswell School,multi,TRUE
+-43.528058,172.628555,229,primary_school,The Cathedral Grammar School,multi,TRUE
+-43.506368,172.615873,230,primary_school,St Andrew's College (Christchurch),multi,TRUE
+-43.520222,172.654826,231,primary_school,Jean Seabrook Memorial School,multi,TRUE
+-43.52931,172.672461,232,primary_school,Te Pa o Rakaihautu,multi,TRUE
+-43.514761,172.696693,233,primary_school,Haeata Community Campus,multi,TRUE
+-43.602344,172.723168,234,primary_school,Lyttelton Primary School,multi,FALSE
+-43.499792,172.639393,235,primary_school,St Francis of Assisi Catholic School,multi,TRUE
+-43.570862,172.537934,236,primary_school,Knights Stream School- Mingimingi Hautoa,multi,FALSE
+-43.478668,172.588279,237,primary_school,Emmanuel Christian School,multi,TRUE
+-43.555741,172.652801,238,primary_school,Hillview Christian School,multi,TRUE
+-43.499023,172.611436,239,primary_school,Christchurch Adventist School,multi,TRUE
+-43.622673,172.386021,240,primary_school,Lemonwood Grove School,multi,FALSE
+-43.564588,172.614592,241,primary_school,TKKM o Te Whanau Tahi,multi,TRUE
+-43.563771,172.571,242,primary_school,Aidanfield Christian School,multi,TRUE
+-43.535939,172.635943,243,primary_school,Ao Tawhiti Unlimited Discovery,multi,TRUE
+-43.545671,172.672639,244,primary_school,Te Waka Unua School,multi,FALSE
+-43.488844,172.683844,245,primary_school,Waitakiri Primary School,multi,TRUE
+-43.606888,172.355917,246,primary_school,West Rolleston Primary School,multi,FALSE
+-43.519096,172.622159,247,primary_school,St Margaret's College,multi,TRUE
+-43.608323,172.392912,248,primary_school,Rolleston Christian School,multi,FALSE
+-43.58267,172.548458,249,primary_school,Seven Oaks School,multi,TRUE
+-43.521889,172.589114,250,primary_school,Medbury Preparatory School,multi,TRUE
+-43.500167,172.588282,251,primary_school,Wairakei School (Christchurch),multi,TRUE
+-43.559634,172.611297,252,primary_school,Te Ara Koropiko West Spreydon School,multi,TRUE
+-43.510194,172.502189,253,primary_school,Yaldhurst Model School,multi,TRUE
+-43.369342,172.495566,254,primary_school,Swannanoa School,multi,FALSE
+-43.546066,172.612757,255,primary_school,Sacred Heart School (Christchurch),multi,TRUE
+-43.564788,172.60708,256,primary_school,Our Lady of the Assumption School (Chch),multi,TRUE
+-43.536215,172.559125,257,primary_school,Our Lady of Victories,multi,TRUE
+-43.4806,172.705631,258,primary_school,Parkview PÃƒÂ„Ã‚Ârua,multi,FALSE
+-43.473158,172.695985,259,primary_school,Queenspark School,multi,TRUE
+-43.592491,172.381339,260,primary_school,Rolleston School,multi,FALSE
+-43.494484,172.563148,261,primary_school,Te Ara Maurea Roydvale School,multi,FALSE
+-43.507888,172.653152,262,primary_school,Shirley Primary School,multi,TRUE
+-43.508774,172.634388,263,primary_school,St Albans School,multi,TRUE
+-43.550383,172.685581,264,primary_school,St Anne's School (Woolston),multi,TRUE
+-43.535284,172.67488,265,primary_school,Linwood Avenue School,multi,TRUE
+-43.763797,172.795486,266,primary_school,Little River School,multi,FALSE
+-43.472028,172.664748,267,primary_school,Marshland School,multi,FALSE
+-43.562448,172.715927,268,primary_school,Mt Pleasant School,multi,TRUE
+-43.505942,172.723723,269,primary_school,New Brighton Catholic School (Chch),multi,FALSE
+-43.564866,172.606597,270,primary_school,Hoon Hay Te Kura KÃƒÂ…Ã‚Âaka,multi,TRUE
+-43.379062,172.651468,271,primary_school,Kaiapoi Borough School,multi,TRUE
+-43.617669,172.532329,272,primary_school,Ladbrooks School,multi,FALSE
+-43.554159,172.687455,273,primary_school,Ngutuawa School,multi,FALSE
+-43.486649,172.596248,274,primary_school,Bishopdale School,multi,TRUE
+-43.536557,172.687055,275,primary_school,Bromley School,multi,TRUE
+-43.629962,172.726705,276,primary_school,Diamond Harbour School,multi,FALSE
+-43.517081,172.591149,277,primary_school,Fendalton Open Air School,multi,FALSE
+-43.623986,172.64999,278,primary_school,Governors Bay School,multi,FALSE
+-43.479772,172.559446,279,primary_school,Harewood School,multi,TRUE
+-43.560087,172.659135,280,primary_school,Rudolf Steiner School (Chch),multi,TRUE
+-43.53625,172.57652,281,primary_school,Middleton Grange School,multi,TRUE
+-43.606108,172.38121,282,primary_school,Clearview Primary,multi,FALSE
+-43.510659,172.724993,283,primary_school,Nova Montessori School,multi,FALSE
+-43.496105,172.717708,284,primary_school,RÃƒÂ„Ã‚Âwhiti School,multi,TRUE
+-43.611772,172.404307,285,primary_school,Te RÃƒÂ…Ã‚Âhutu Whio (Proposed opening date: 2022-01-01),multi,FALSE
+-43.648092,172.492975,286,primary_school,Ararira Springs Primary- Te Puna o Ararira,multi,FALSE
+-43.516643,172.623012,287,primary_school,Selwyn House School,multi,TRUE
+-43.5351605,172.5802564,1,supermarket,Big Chicken Supermarket,tsunami,TRUE
+-43.53274003,172.5730475,2,supermarket,Countdown,tsunami,FALSE
+-43.55682685,172.7025114,3,supermarket,Countdown,tsunami,TRUE
+-43.5387413,172.6417417,4,supermarket,Countdown,tsunami,FALSE
+-43.50676606,172.7299485,5,supermarket,Countdown,tsunami,TRUE
+-43.45900317,172.6250142,6,supermarket,Countdown,tsunami,FALSE
+-43.49152959,172.6117041,7,supermarket,Countdown,tsunami,FALSE
+-43.59418266,172.3866759,8,supermarket,Countdown,tsunami,FALSE
+-43.54274886,172.5269712,9,supermarket,Countdown,tsunami,FALSE
+-43.48986069,172.5477124,10,supermarket,Countdown,tsunami,FALSE
+-43.5056571,172.6645278,11,supermarket,Countdown,tsunami,FALSE
+-43.5111866,172.5572106,12,supermarket,Countdown,tsunami,FALSE
+-43.5324507,172.6755846,13,supermarket,Countdown,tsunami,FALSE
+-43.55331378,172.6355983,14,supermarket,Countdown Sydenham,tsunami,FALSE
+-43.51316108,172.6367287,15,supermarket,Edgeware FreshChoice,tsunami,FALSE
+-43.5232351,172.3704124,16,supermarket,Four Square,tsunami,FALSE
+-43.48134612,172.7060947,17,supermarket,Fresh Choice,tsunami,TRUE
+-43.5557083,172.6205318,18,supermarket,Fresh Choice,tsunami,FALSE
+-43.5340843,172.6378384,19,supermarket,Fresh Choice City Market,tsunami,FALSE
+-43.5128454,172.6213802,20,supermarket,Fresh Choice Supermarket,tsunami,FALSE
+-43.5132962,172.6365852,21,supermarket,FreshChoice,tsunami,FALSE
+-43.58063686,172.5659203,22,supermarket,New World,tsunami,FALSE
+-43.45963502,172.6223904,23,supermarket,New World,tsunami,FALSE
+-43.48845188,172.5872137,24,supermarket,New World,tsunami,FALSE
+-43.55753906,172.6547893,25,supermarket,New World,tsunami,FALSE
+-43.56242398,172.7390075,26,supermarket,New World,tsunami,TRUE
+-43.47515958,172.6620094,27,supermarket,New World,tsunami,FALSE
+-43.53870921,172.6331341,28,supermarket,New World,tsunami,FALSE
+-43.5179319,172.588375,29,supermarket,New World,tsunami,FALSE
+-43.5526955,172.5575428,30,supermarket,New World,tsunami,FALSE
+-43.5258837,172.5701643,31,supermarket,New World,tsunami,FALSE
+-43.4885645,172.5874903,32,supermarket,New World,tsunami,FALSE
+-43.5490378,172.6840966,33,supermarket,New World,tsunami,TRUE
+-43.52595041,172.5700589,34,supermarket,New World Ilam,tsunami,FALSE
+-43.64225793,172.4737121,35,supermarket,New World Lincoln,tsunami,FALSE
+-43.5967627,172.3824238,36,supermarket,New World Rolleston,tsunami,FALSE
+-43.52016129,172.6569832,37,supermarket,New World Stanmore,tsunami,FALSE
+-43.5426435,172.5233262,38,supermarket,PAK'nSAVE,tsunami,FALSE
+-43.49285848,172.6089146,39,supermarket,Pak'nSave,tsunami,FALSE
+-43.51282276,172.6932267,40,supermarket,Pak'nSave,tsunami,FALSE
+-43.5310944,172.5961987,41,supermarket,Pak'nSave,tsunami,FALSE
+-43.53900827,172.6383239,42,supermarket,Pak'nSave Moorhouse Avenue,tsunami,FALSE
+-43.5401055,172.6053454,43,supermarket,Raeward Fresh,tsunami,FALSE
+-43.4777997,172.5552277,44,supermarket,Reawood Fresh,tsunami,FALSE
+-43.5694327,172.7599984,45,supermarket,Sumner Supervalue,tsunami,TRUE
+-43.60288087,172.7215154,46,supermarket,SuperValue,tsunami,FALSE
+-43.509513,172.5902803,47,supermarket,SuperValue,tsunami,FALSE
+-43.53041974,172.6574869,48,supermarket,Supervalue,tsunami,FALSE
+-43.38619393,172.6589884,49,supermarket,Countdown,tsunami,TRUE
+-43.38240588,172.6589884,50,supermarket,New World,tsunami,TRUE
+-43.5671816,172.6355346,51,medical_clinic,Cashmere Health & Physio,tsunami,FALSE
+-43.5670258,172.6350141,52,medical_clinic,Dr Liam Walshe Cashmere Dentists,tsunami,FALSE
+-43.302568,172.5916687,53,medical_clinic,Durham Health,tsunami,FALSE
+-43.3020404,172.5938606,54,medical_clinic,Good Street Medical Centre,tsunami,FALSE
+-43.381548,172.658214,55,medical_clinic,Kaiapoi Family Doctors,tsunami,TRUE
+-43.3851513,172.6552188,56,medical_clinic,Kaiapoi Medical Centre,tsunami,FALSE
+-43.3838471,172.6568487,57,medical_clinic,Kaye Buchan Kaiapoi,tsunami,TRUE
+-43.7613679,172.2994522,58,medical_clinic,Leeston Medical Centre,tsunami,FALSE
+-43.6404562,172.4852213,59,medical_clinic,Lincoln Medical,tsunami,FALSE
+-43.6425505,172.4685995,60,medical_clinic,Lincoln University Student Health & Support,tsunami,FALSE
+-43.3039901,172.5919674,61,medical_clinic,Medical Corner Doctors,tsunami,FALSE
+-43.5263504,172.6386968,62,medical_clinic,Menzmedical,tsunami,FALSE
+-43.5132281,172.6229239,63,medical_clinic,Merivale Village Medical Care,tsunami,FALSE
+-43.5118609,172.6203216,64,medical_clinic,Molecheck Ltd - CHCH,tsunami,FALSE
+-43.553126,172.6640804,65,medical_clinic,Opawa Surgery,tsunami,FALSE
+-43.4798067,172.6954698,66,medical_clinic,Parklands Medical Centre (Chch),tsunami,TRUE
+-43.3140479,172.6976781,67,medical_clinic,Pegasus Medical Centre,tsunami,FALSE
+-43.4743719,172.6260863,68,medical_clinic,Prestons Road Surgery,tsunami,FALSE
+-43.3085385,172.5966653,69,medical_clinic,Rangiora Family Doctors,tsunami,FALSE
+-43.5957078,172.3894715,70,medical_clinic,Rolleston Central Health,tsunami,FALSE
+-43.5948428,172.3750787,71,medical_clinic,Rolleston Medical Centre,tsunami,FALSE
+-43.5591296,172.702622,72,medical_clinic,Settlers Health Centre,tsunami,TRUE
+-43.3164877,172.6003441,73,medical_clinic,Southside Health,tsunami,FALSE
+-43.550862,172.6000633,74,medical_clinic,Village Health Lincoln Road,tsunami,FALSE
+-43.5224537,172.3704577,75,medical_clinic,West Melton Medical Centre,tsunami,FALSE
+-43.555845,172.5612426,76,medical_clinic,Wigram Health,tsunami,FALSE
+-43.3234375,172.6652561,77,medical_clinic,Woodend Medical Centre,tsunami,FALSE
+-43.5254823,172.6719958,78,medical_clinic,Woodham Road Healthcare,tsunami,FALSE
+-43.52070256,172.6303589,79,medical_clinic,298 Youth Health,tsunami,FALSE
+-43.54557559,172.5258579,80,medical_clinic,Amyes Road Medical Centre,tsunami,FALSE
+-43.55709556,172.620348,81,medical_clinic,Barrington Medical Centre,tsunami,FALSE
+-43.44520355,172.6333859,82,medical_clinic,Belfast Medical Centre,tsunami,FALSE
+-43.44470655,172.6329439,83,medical_clinic,Belfast North Mediqual Doctors,tsunami,FALSE
+-43.49018057,172.5880899,84,medical_clinic,Bishopdale Medical Centre,tsunami,FALSE
+-43.50908257,172.5904849,85,medical_clinic,Bryndwr Medical Rooms,tsunami,FALSE
+-43.49651957,172.5787619,86,medical_clinic,Burnside Medical Centre,tsunami,FALSE
+-43.48045856,172.6032359,87,medical_clinic,Casebrook Surgery,tsunami,FALSE
+-43.56681956,172.646938,88,medical_clinic,Cashmere Health,tsunami,FALSE
+-43.56699856,172.629422,89,medical_clinic,Cashmere Medical Practice,tsunami,FALSE
+-43.55626656,172.636678,90,medical_clinic,Christchurch South Health Centre,tsunami,FALSE
+-43.50501855,172.6347199,91,medical_clinic,Cranford Street Medical Practice,tsunami,FALSE
+-43.62646953,172.739929,92,medical_clinic,Diamond Harbour Surgery,tsunami,FALSE
+-43.53301756,172.6283289,93,medical_clinic,Doctors on Cashel,tsunami,FALSE
+-43.53046757,172.5928159,94,medical_clinic,Doctors on Riccarton,tsunami,FALSE
+-43.51292058,172.5551999,95,medical_clinic,Dr Kathy Davey,tsunami,FALSE
+-43.51292058,172.5551999,96,medical_clinic,Dr Susan Shand,tsunami,FALSE
+-43.51656953,172.701178,97,medical_clinic,Eastcare Health,tsunami,FALSE
+-43.51775557,172.5871119,98,medical_clinic,Fendalton Medical Centre,tsunami,FALSE
+-43.54090255,172.660402,99,medical_clinic,Ferry Road Medical Centre,tsunami,FALSE
+-43.55618954,172.697494,100,medical_clinic,Ferrymead Medical Centre,tsunami,FALSE
+-43.50771957,172.5698549,101,medical_clinic,Grahams Road Medical Practice,tsunami,FALSE
+-43.49870857,172.5867099,102,medical_clinic,Greers Road Medical Centre,tsunami,FALSE
+-43.57433758,172.5682579,103,medical_clinic,Halswellhealth,tsunami,FALSE
+-43.49117857,172.5952169,104,medical_clinic,Harewood Medical Centre,tsunami,FALSE
+-43.53825755,172.642922,105,medical_clinic,Health Centre Ara Institute of Canterbury,tsunami,FALSE
+-43.53660756,172.6364479,106,medical_clinic,Health and Sport Central,tsunami,FALSE
+-43.53581859,172.5214049,107,medical_clinic,Hei Hei Health Centre,tsunami,FALSE
+-43.55982355,172.657957,108,medical_clinic,Helios Integrative Medical Centre,tsunami,FALSE
+-43.52922357,172.6052069,109,medical_clinic,High Street City Health,tsunami,FALSE
+-43.55412657,172.5942419,110,medical_clinic,HillMed Health Centre,tsunami,FALSE
+-43.56601557,172.604239,111,medical_clinic,Hoon Hay Medical Centre,tsunami,FALSE
+-43.54441759,172.5287619,112,medical_clinic,Hornby Medical Centre,tsunami,FALSE
+-43.51225957,172.5806319,113,medical_clinic,Ilam Medical Centre,tsunami,FALSE
+-43.50211655,172.6333769,114,medical_clinic,Innes Road Medical Rooms,tsunami,FALSE
+-43.51569257,172.5717529,115,medical_clinic,Inspire Health Medical Practice,tsunami,FALSE
+-43.49784757,172.5727439,116,medical_clinic,Kendal Medical Centre,tsunami,FALSE
+-43.53295855,172.655534,117,medical_clinic,Kingdom Clinic,tsunami,FALSE
+-43.53321054,172.674028,118,medical_clinic,Linwood Medical Centre,tsunami,FALSE
+-43.57815959,172.5462929,119,medical_clinic,Longhurst Health,tsunami,FALSE
+-43.60346954,172.722625,120,medical_clinic,Lyttelton Health Centre,tsunami,FALSE
+-43.49133856,172.6130309,121,medical_clinic,Main North Road Medical Centre,tsunami,FALSE
+-43.49846755,172.6408549,122,medical_clinic,Mairehau Medical Centre,tsunami,FALSE
+-43.51151956,172.6214979,123,medical_clinic,Mansfield Health Practice,tsunami,FALSE
+-43.47488754,172.6592859,124,medical_clinic,Marshlands Family Health Centre,tsunami,FALSE
+-43.52137956,172.6368109,125,medical_clinic,Menzmedical,tsunami,FALSE
+-43.51014756,172.6202329,126,medical_clinic,Merivale Medical Practice,tsunami,FALSE
+-43.54073156,172.63974,127,medical_clinic,Moorhouse Medical Centre,tsunami,FALSE
+-43.55795353,172.722312,128,medical_clinic,Mt Pleasant Medical Centre,tsunami,TRUE
+-43.50905653,172.727617,129,medical_clinic,New Brighton Health Care,tsunami,TRUE
+-43.50980456,172.6067429,130,medical_clinic,Normans Road Surgery,tsunami,FALSE
+-43.51776955,172.6541109,131,medical_clinic,North Avon Medical Centre,tsunami,FALSE
+-43.47507056,172.6173119,132,medical_clinic,Northwood Medical Centre,tsunami,FALSE
+-43.53841556,172.6304619,133,medical_clinic,Pacific Health Clinic,tsunami,FALSE
+-43.50030656,172.6111929,134,medical_clinic,Papanui Medical Centre,tsunami,FALSE
+-43.51534355,172.6378859,135,medical_clinic,Promed Doctors,tsunami,FALSE
+-43.49499353,172.7111989,136,medical_clinic,QEII Medical Centre,tsunami,TRUE
+-43.47786153,172.6959789,137,medical_clinic,Queenspark Healthcare,tsunami,FALSE
+-43.56187953,172.738582,138,medical_clinic,Redcliffs Medical Centre,tsunami,TRUE
+-43.47920956,172.6170389,139,medical_clinic,Redwood Clinic,tsunami,FALSE
+-43.53172358,172.5717639,140,medical_clinic,Riccarton Clinic,tsunami,FALSE
+-43.53291957,172.5990099,141,medical_clinic,Riccarton Medical Practice,tsunami,FALSE
+-43.54828056,172.622099,142,medical_clinic,Selwyn Village Healthcare,tsunami,FALSE
+-43.50711055,172.6625929,143,medical_clinic,Shirley Medical Centre,tsunami,FALSE
+-43.50956856,172.6304629,144,medical_clinic,St Albans Medical Centre,tsunami,FALSE
+-43.55915655,172.654557,145,medical_clinic,St Martins Medical Practice,tsunami,FALSE
+-43.52859257,172.6022669,146,medical_clinic,Straven Medical,tsunami,FALSE
+-43.56891552,172.75837,147,medical_clinic,Sumner Health Centre,tsunami,TRUE
+-43.51058453,172.701306,148,medical_clinic,Te Rawhiti Family Care Centre,tsunami,TRUE
+-43.55337561,172.4731009,149,medical_clinic,Templeton Medical,tsunami,FALSE
+-43.53216456,172.6374769,150,medical_clinic,The Christchurch Doctors,tsunami,FALSE
+-43.49494453,172.7096289,151,medical_clinic,Travis Medical Centre,tsunami,TRUE
+-43.53217655,172.671399,152,medical_clinic,Union & Community Health Centre (Piki Te Ora),tsunami,FALSE
+-43.52384857,172.5795009,153,medical_clinic,University of Canterbury Student Health Centre,tsunami,FALSE
+-43.53133157,172.5778409,154,medical_clinic,Upper Riccarton Medical Centre,tsunami,FALSE
+-43.55282957,172.5966139,155,medical_clinic,Village Health Lincoln Road,tsunami,FALSE
+-43.51569257,172.5717529,156,medical_clinic,Waimairi Road Medical Centre,tsunami,FALSE
+-43.55069855,172.646537,157,medical_clinic,Waltham Medical Centre,tsunami,FALSE
+-43.55198158,172.5569569,158,medical_clinic,WeCare Health Wigram,tsunami,FALSE
+-43.52537255,172.662356,159,medical_clinic,Woodham Road Medical,tsunami,FALSE
+-43.52775358,172.5575659,160,medical_clinic,Yaldhurst Family Doctors,tsunami,FALSE
+-43.602804,172.467945,161,primary_school,Broadfield School,tsunami,FALSE
+-43.551181,172.656331,162,primary_school,TKKM o Waitaha,tsunami,FALSE
+-43.546479,172.689238,163,primary_school,Tamariki School,tsunami,TRUE
+-43.384361,172.654115,164,primary_school,St Patrick's School (Kaiapoi),tsunami,FALSE
+-43.552887,172.659307,165,primary_school,St Mark's School (Christchurch),tsunami,FALSE
+-43.534774,172.633065,166,primary_school,St Michael's Church School,tsunami,FALSE
+-43.536311,172.596742,167,primary_school,Wharenui School,tsunami,FALSE
+-43.523227,172.639261,168,primary_school,St Mary's School (Christchurch),tsunami,FALSE
+-43.511239,172.604049,169,primary_school,St Patrick's School (Bryndwr),tsunami,FALSE
+-43.504214,172.605282,170,primary_school,Waimairi School,tsunami,FALSE
+-43.570608,172.403181,171,primary_school,Weedons School,tsunami,FALSE
+-43.521443,172.369386,172,primary_school,West Melton School,tsunami,FALSE
+-43.512146,172.570887,173,primary_school,Westburn School,tsunami,FALSE
+-43.488673,172.614444,174,primary_school,St Joseph's School (Papanui),tsunami,FALSE
+-43.565432,172.657232,175,primary_school,St Martins School,tsunami,FALSE
+-43.559766,172.637698,176,primary_school,St Peter's School (Beckenham),tsunami,FALSE
+-43.529758,172.59214,177,primary_school,St Teresa's School (Riccarton),tsunami,FALSE
+-43.566305,172.636568,178,primary_school,Thorrington School,tsunami,FALSE
+-43.51173,172.70486,179,primary_school,St James School (Aranui),tsunami,TRUE
+-43.574868,172.762543,180,primary_school,Our Lady Star of the Sea School (Christchurch),tsunami,TRUE
+-43.573098,172.759628,181,primary_school,Sumner School,tsunami,TRUE
+-43.550162,172.472361,182,primary_school,Templeton School,tsunami,FALSE
+-43.533484,172.525345,183,primary_school,St Bernadette's School (Hornby),tsunami,FALSE
+-43.547858,172.61824,184,primary_school,Addington Te Kura Taumatua,tsunami,FALSE
+-43.562252,172.587768,185,primary_school,Te KÃƒÂ…Ã‚Âmanawa Rowley School,tsunami,FALSE
+-43.561645,172.628537,186,primary_school,Somerfield Te Kura Wairepo,tsunami,FALSE
+-43.547122,172.529047,187,primary_school,South Hornby School,tsunami,FALSE
+-43.52622,172.733527,188,primary_school,South New Brighton School,tsunami,TRUE
+-43.49871,172.641415,189,primary_school,Mairehau Primary School,tsunami,FALSE
+-43.577074,172.513059,190,primary_school,Prebbleton School,tsunami,FALSE
+-43.533363,172.564144,191,primary_school,Te KÃƒÂ„Ã‚Âpehu Riccarton School,tsunami,FALSE
+-43.517895,172.544704,192,primary_school,Russley School,tsunami,FALSE
+-43.375957,172.663615,193,primary_school,Kaiapoi North School,tsunami,TRUE
+-43.553946,172.551525,194,primary_school,Wigram Primary School - Te Piki KÃƒÂ„Ã‚Âhu,tsunami,FALSE
+-43.557575,172.597927,195,primary_school,Spreydon School,tsunami,FALSE
+-43.513251,172.668112,196,primary_school,Banks Avenue School,tsunami,TRUE
+-43.562877,172.645488,197,primary_school,Beckenham Te Kura o PÃƒÂ…Ã‚Â«roto,tsunami,FALSE
+-43.453618,172.627302,198,primary_school,Belfast School,tsunami,FALSE
+-43.512738,172.581782,199,primary_school,Burnside Primary School,tsunami,FALSE
+-43.637105,172.487099,200,primary_school,Lincoln Primary School,tsunami,FALSE
+-43.555662,172.66449,201,primary_school,Opawa School,tsunami,FALSE
+-43.538707,172.522632,202,primary_school,Hornby Primary School,tsunami,FALSE
+-43.493107,172.582123,203,primary_school,Isleworth School,tsunami,FALSE
+-43.482458,172.587178,204,primary_school,Cotswold School,tsunami,FALSE
+-43.524102,172.559497,205,primary_school,Avonhead School,tsunami,FALSE
+-43.548989,172.648613,206,primary_school,Waltham School,tsunami,FALSE
+-43.576418,172.632546,207,primary_school,Cashmere Primary Te Pae KererÃƒÂ…Ã‚Â«,tsunami,FALSE
+-43.405997,172.623356,208,primary_school,Clarkville School,tsunami,FALSE
+-43.529738,172.521344,209,primary_school,Gilberthorpe School,tsunami,FALSE
+-43.579876,172.708878,210,primary_school,Heathcote Valley School,tsunami,FALSE
+-43.663629,172.550066,211,primary_school,Tai Tapu School,tsunami,FALSE
+-43.444597,172.660388,212,primary_school,Ouruhia Model School,tsunami,FALSE
+-43.488025,172.619727,213,primary_school,Papanui School,tsunami,FALSE
+-43.499655,172.619586,214,primary_school,Paparoa Street School,tsunami,FALSE
+-43.556439,172.733609,215,primary_school,Te Raekura Redcliffs School,tsunami,FALSE
+-43.473605,172.621954,216,primary_school,Redwood School (Christchurch),tsunami,FALSE
+-43.644586,172.425734,217,primary_school,Springston School,tsunami,FALSE
+-43.507131,172.629095,218,primary_school,St Albans Catholic School (Christchurch),tsunami,FALSE
+-43.524848,172.675792,219,primary_school,WhÃƒÂ„Ã‚Â«tau School,tsunami,FALSE
+-43.510497,172.558579,220,primary_school,Merrin School,tsunami,FALSE
+-43.479365,172.614009,221,primary_school,Northcote School (Christchurch),tsunami,FALSE
+-43.571583,172.56465,222,primary_school,Oaklands School,tsunami,FALSE
+-43.370163,172.590554,223,primary_school,Ohoka School,tsunami,FALSE
+-43.526413,172.579696,224,primary_school,Ilam School,tsunami,FALSE
+-43.509154,172.576637,225,primary_school,Christ The King School (Burnside),tsunami,FALSE
+-43.529647,172.648358,226,primary_school,Christchurch East School,tsunami,FALSE
+-43.513814,172.614755,227,primary_school,Elmwood Normal School,tsunami,FALSE
+-43.590655,172.569381,228,primary_school,Halswell School,tsunami,FALSE
+-43.528058,172.628555,229,primary_school,The Cathedral Grammar School,tsunami,FALSE
+-43.506368,172.615873,230,primary_school,St Andrew's College (Christchurch),tsunami,FALSE
+-43.520222,172.654826,231,primary_school,Jean Seabrook Memorial School,tsunami,FALSE
+-43.52931,172.672461,232,primary_school,Te Pa o Rakaihautu,tsunami,TRUE
+-43.514761,172.696693,233,primary_school,Haeata Community Campus,tsunami,FALSE
+-43.602344,172.723168,234,primary_school,Lyttelton Primary School,tsunami,FALSE
+-43.499792,172.639393,235,primary_school,St Francis of Assisi Catholic School,tsunami,FALSE
+-43.570862,172.537934,236,primary_school,Knights Stream School- Mingimingi Hautoa,tsunami,FALSE
+-43.478668,172.588279,237,primary_school,Emmanuel Christian School,tsunami,FALSE
+-43.555741,172.652801,238,primary_school,Hillview Christian School,tsunami,FALSE
+-43.499023,172.611436,239,primary_school,Christchurch Adventist School,tsunami,FALSE
+-43.622673,172.386021,240,primary_school,Lemonwood Grove School,tsunami,FALSE
+-43.564588,172.614592,241,primary_school,TKKM o Te Whanau Tahi,tsunami,FALSE
+-43.563771,172.571,242,primary_school,Aidanfield Christian School,tsunami,FALSE
+-43.535939,172.635943,243,primary_school,Ao Tawhiti Unlimited Discovery,tsunami,FALSE
+-43.545671,172.672639,244,primary_school,Te Waka Unua School,tsunami,FALSE
+-43.488844,172.683844,245,primary_school,Waitakiri Primary School,tsunami,FALSE
+-43.606888,172.355917,246,primary_school,West Rolleston Primary School,tsunami,FALSE
+-43.519096,172.622159,247,primary_school,St Margaret's College,tsunami,FALSE
+-43.608323,172.392912,248,primary_school,Rolleston Christian School,tsunami,FALSE
+-43.58267,172.548458,249,primary_school,Seven Oaks School,tsunami,FALSE
+-43.521889,172.589114,250,primary_school,Medbury Preparatory School,tsunami,FALSE
+-43.500167,172.588282,251,primary_school,Wairakei School (Christchurch),tsunami,FALSE
+-43.559634,172.611297,252,primary_school,Te Ara Koropiko West Spreydon School,tsunami,FALSE
+-43.510194,172.502189,253,primary_school,Yaldhurst Model School,tsunami,FALSE
+-43.369342,172.495566,254,primary_school,Swannanoa School,tsunami,FALSE
+-43.546066,172.612757,255,primary_school,Sacred Heart School (Christchurch),tsunami,FALSE
+-43.564788,172.60708,256,primary_school,Our Lady of the Assumption School (Chch),tsunami,FALSE
+-43.536215,172.559125,257,primary_school,Our Lady of Victories,tsunami,FALSE
+-43.4806,172.705631,258,primary_school,Parkview PÃƒÂ„Ã‚Ârua,tsunami,TRUE
+-43.473158,172.695985,259,primary_school,Queenspark School,tsunami,TRUE
+-43.592491,172.381339,260,primary_school,Rolleston School,tsunami,FALSE
+-43.494484,172.563148,261,primary_school,Te Ara Maurea Roydvale School,tsunami,FALSE
+-43.507888,172.653152,262,primary_school,Shirley Primary School,tsunami,FALSE
+-43.508774,172.634388,263,primary_school,St Albans School,tsunami,FALSE
+-43.550383,172.685581,264,primary_school,St Anne's School (Woolston),tsunami,TRUE
+-43.535284,172.67488,265,primary_school,Linwood Avenue School,tsunami,FALSE
+-43.763797,172.795486,266,primary_school,Little River School,tsunami,FALSE
+-43.472028,172.664748,267,primary_school,Marshland School,tsunami,FALSE
+-43.562448,172.715927,268,primary_school,Mt Pleasant School,tsunami,FALSE
+-43.505942,172.723723,269,primary_school,New Brighton Catholic School (Chch),tsunami,TRUE
+-43.564866,172.606597,270,primary_school,Hoon Hay Te Kura KÃƒÂ…Ã‚Âaka,tsunami,FALSE
+-43.379062,172.651468,271,primary_school,Kaiapoi Borough School,tsunami,TRUE
+-43.617669,172.532329,272,primary_school,Ladbrooks School,tsunami,FALSE
+-43.554159,172.687455,273,primary_school,Ngutuawa School,tsunami,TRUE
+-43.486649,172.596248,274,primary_school,Bishopdale School,tsunami,FALSE
+-43.536557,172.687055,275,primary_school,Bromley School,tsunami,FALSE
+-43.629962,172.726705,276,primary_school,Diamond Harbour School,tsunami,FALSE
+-43.517081,172.591149,277,primary_school,Fendalton Open Air School,tsunami,FALSE
+-43.623986,172.64999,278,primary_school,Governors Bay School,tsunami,FALSE
+-43.479772,172.559446,279,primary_school,Harewood School,tsunami,FALSE
+-43.560087,172.659135,280,primary_school,Rudolf Steiner School (Chch),tsunami,FALSE
+-43.53625,172.57652,281,primary_school,Middleton Grange School,tsunami,FALSE
+-43.606108,172.38121,282,primary_school,Clearview Primary,tsunami,FALSE
+-43.510659,172.724993,283,primary_school,Nova Montessori School,tsunami,TRUE
+-43.496105,172.717708,284,primary_school,RÃƒÂ„Ã‚Âwhiti School,tsunami,FALSE
+-43.611772,172.404307,285,primary_school,Te RÃƒÂ…Ã‚Âhutu Whio (Proposed opening date: 2022-01-01),tsunami,FALSE
+-43.648092,172.492975,286,primary_school,Ararira Springs Primary- Te Puna o Ararira,tsunami,FALSE
+-43.516643,172.623012,287,primary_school,Selwyn House School,tsunami,FALSE

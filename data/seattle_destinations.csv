@@ -1,284 +1,284 @@
-id,dest_type,lat,lon,hazard,operational
-0,primary_school,47.67362653135537,-122.3915046824095,liquefaction,False
-1,primary_school,47.57713611718997,-122.407812274933,liquefaction,True
-2,primary_school,47.50969475412371,-122.3775729356053,liquefaction,True
-3,primary_school,47.65462984300223,-122.3491088278421,liquefaction,True
-4,primary_school,47.68635144656614,-122.3422899570921,liquefaction,True
-5,primary_school,47.6011949152761,-122.3154698310705,liquefaction,True
-6,primary_school,47.58546358751057,-122.3150900034158,liquefaction,True
-7,primary_school,47.72462548754458,-122.3531337432897,liquefaction,True
-8,primary_school,47.67183631868547,-122.2921906210161,liquefaction,True
-9,primary_school,47.64626944873296,-122.3586042787203,liquefaction,True
-10,primary_school,47.69501835341688,-122.3372762296961,liquefaction,True
-11,primary_school,47.64225174611723,-122.3992475176105,liquefaction,True
-12,primary_school,47.72605216190056,-122.2874518077512,liquefaction,True
-13,primary_school,47.64051037199056,-122.3655842009281,liquefaction,True
-14,primary_school,47.52360528864396,-122.324675711505,liquefaction,False
-15,primary_school,47.55225674141378,-122.2962721049521,liquefaction,True
-16,primary_school,47.6850198277296,-122.2826468051152,liquefaction,True
-17,primary_school,47.52498357039677,-122.2746407898431,liquefaction,True
-18,primary_school,47.5148148456317,-122.2586212865115,liquefaction,True
-19,primary_school,47.55256759284908,-122.3801763444313,liquefaction,True
-20,primary_school,47.54024527882881,-122.3884833320842,liquefaction,True
-21,primary_school,47.56548696128172,-122.396873646399,liquefaction,True
-22,primary_school,47.54575168959144,-122.2685193801186,liquefaction,True
-23,primary_school,47.67629598839996,-122.3284829483588,liquefaction,True
-24,primary_school,47.68724827632487,-122.359945382909,liquefaction,True
-25,primary_school,47.56589956397333,-122.2833713476739,liquefaction,True
-26,primary_school,47.6328928677401,-122.3517016769238,liquefaction,True
-27,primary_school,47.71342460729635,-122.3146434224963,liquefaction,True
-28,primary_school,47.52517188371596,-122.3482624101937,liquefaction,True
-29,primary_school,47.57323572789879,-122.2905649831112,liquefaction,True
-30,primary_school,47.70742080726485,-122.2846188200822,liquefaction,True
-31,primary_school,47.65752263534001,-122.3240369648012,liquefaction,True
-32,primary_school,47.57403963666545,-122.3029996074163,liquefaction,True
-33,primary_school,47.57948979087561,-122.3872196504113,liquefaction,True
-34,primary_school,47.66219240884647,-122.2779481758955,liquefaction,True
-35,primary_school,47.65670679228769,-122.3904596053012,liquefaction,True
-36,primary_school,47.60209757074287,-122.291798739325,liquefaction,True
-37,primary_school,47.69544490576691,-122.3395171450506,liquefaction,True
-38,primary_school,47.54861392404532,-122.3621260573986,liquefaction,True
-39,primary_school,47.6244178051113,-122.3183640199921,liquefaction,True
-40,primary_school,47.68599695775393,-122.3889506777467,liquefaction,True
-41,primary_school,47.61223115387273,-122.2908540165902,liquefaction,True
-42,primary_school,47.55812009707002,-122.3188840047185,liquefaction,True
-43,primary_school,47.54173758703776,-122.2768968904267,liquefaction,True
-44,primary_school,47.66826998670219,-122.3265804778558,liquefaction,True
-45,primary_school,47.63407212721004,-122.2848168993543,liquefaction,True
-46,primary_school,47.64062701568267,-122.3042693058001,liquefaction,True
-47,primary_school,47.69496889552394,-122.3870205765174,liquefaction,True
-48,primary_school,47.71486154110646,-122.3295701269078,liquefaction,True
-49,primary_school,47.72368053775879,-122.3067405363055,liquefaction,True
-50,primary_school,47.69822609842909,-122.3212429561707,liquefaction,True
-51,primary_school,47.55477310563236,-122.2759415457626,liquefaction,True
-52,primary_school,47.56359917319551,-122.3579822358432,liquefaction,True
-53,primary_school,47.67724252087919,-122.3223004391525,liquefaction,True
-54,primary_school,47.49885770281576,-122.2631572073222,liquefaction,True
-55,primary_school,47.53283205114301,-122.3749125352368,liquefaction,True
-56,primary_school,47.69844291920835,-122.3074578110253,liquefaction,True
-57,primary_school,47.67629179577137,-122.3804971578027,liquefaction,True
-58,primary_school,47.67364592061927,-122.2629183234783,liquefaction,True
-59,primary_school,47.53960277997435,-122.3586432003833,liquefaction,True
-60,primary_school,47.52373732907851,-122.2719942571035,liquefaction,True
-61,primary_school,47.63145060934404,-122.3078499888655,liquefaction,True
-62,primary_school,47.64228123782986,-122.3241635713109,liquefaction,True
-63,primary_school,47.68564983071776,-122.2842852880766,liquefaction,True
-64,primary_school,47.59095292940108,-122.2998314474452,liquefaction,True
-65,primary_school,47.52914601206262,-122.2890206390416,liquefaction,True
-66,primary_school,47.68068147886006,-122.2753172666332,liquefaction,True
-67,primary_school,47.70596719645231,-122.3611145229447,liquefaction,True
-68,primary_school,47.69053242068215,-122.2970389083844,liquefaction,True
-69,primary_school,47.54175625857159,-122.3734778025088,liquefaction,True
-70,primary_school,47.67059368704286,-122.3622318677037,liquefaction,True
-71,primary_school,47.68358420698837,-122.3730604605421,liquefaction,True
-72,primary_school,47.53808520810527,-122.2958981578957,liquefaction,True
-73,supermarket,47.61604598351092,-122.3358799035521,liquefaction,True
-74,supermarket,47.72370361305823,-122.3430107053015,liquefaction,True
-75,supermarket,47.64246664252826,-122.3979089625472,liquefaction,True
-76,supermarket,47.58001098552709,-122.3353222120999,liquefaction,False
-77,supermarket,47.66614320817889,-122.3757713343439,liquefaction,True
-78,supermarket,47.72479367864317,-122.3438070761656,liquefaction,True
-79,supermarket,47.5391607816887,-122.2831185306966,liquefaction,True
-80,supermarket,47.66984854683853,-122.3741590444339,liquefaction,True
-81,supermarket,47.58086738226438,-122.3132276156528,liquefaction,True
-82,supermarket,47.63481190919143,-122.2799618375625,liquefaction,True
-83,supermarket,47.48047349217352,-122.3486194341186,liquefaction,True
-84,supermarket,47.47525648563082,-122.3316123228958,liquefaction,True
-85,supermarket,47.66276946612835,-122.3728422131448,liquefaction,True
-86,supermarket,47.58669158379386,-122.3279129113897,liquefaction,False
-87,supermarket,47.72472277856961,-122.3417622762837,liquefaction,True
-88,supermarket,47.50917435167865,-122.3546933116179,liquefaction,True
-89,supermarket,47.61547371701746,-122.3110425645059,liquefaction,True
-90,supermarket,47.74266267863201,-122.3498448708775,liquefaction,True
-91,supermarket,47.61792278418819,-122.3459163013522,liquefaction,True
-92,supermarket,47.61704302030444,-122.3264260318315,liquefaction,True
-93,supermarket,47.61416359649205,-122.3444859721382,liquefaction,True
-94,supermarket,47.65579697838194,-122.313527697794,liquefaction,True
-95,supermarket,47.51572053642174,-122.314764207215,liquefaction,True
-96,supermarket,47.72400288918845,-122.2917616901394,liquefaction,True
-97,supermarket,47.4963328043351,-122.2484152420584,liquefaction,True
-98,supermarket,47.72168677298747,-122.2951544841958,liquefaction,True
-99,supermarket,47.61233251307254,-122.2954916069481,liquefaction,True
-100,supermarket,47.58787638394426,-122.3285902111146,liquefaction,False
-101,supermarket,47.69291523900015,-122.3758926509107,liquefaction,True
-102,supermarket,47.72487047836972,-122.3467662750796,liquefaction,True
-103,supermarket,47.51571342177358,-122.3548575810978,liquefaction,True
-104,supermarket,47.65889407871472,-122.3130208967816,liquefaction,True
-105,supermarket,47.70264442446608,-122.3424639622433,liquefaction,True
-106,supermarket,47.5985998819775,-122.3167995102566,liquefaction,True
-107,supermarket,47.57897594258957,-122.312896373366,liquefaction,True
-108,supermarket,47.51425869094527,-122.3534516247502,liquefaction,True
-109,supermarket,47.60936008402385,-122.3376699046777,liquefaction,True
-110,supermarket,47.63979274951439,-122.3645370681428,liquefaction,True
-111,supermarket,47.68158888232126,-122.3555046843846,liquefaction,True
-112,supermarket,47.48096849151737,-122.3479363333658,liquefaction,True
-113,supermarket,47.59808078247547,-122.3163207105011,liquefaction,True
-114,supermarket,47.60187176218117,-122.2856527850352,liquefaction,True
-115,supermarket,47.59823968203888,-122.317763210203,liquefaction,True
-116,supermarket,47.48783599139052,-122.3488602321025,liquefaction,True
-117,supermarket,47.66049086581736,-122.3496265632363,liquefaction,True
-118,supermarket,47.54791083432085,-122.3189287641115,liquefaction,True
-119,supermarket,47.57282368135863,-122.2933982207532,liquefaction,True
-120,supermarket,47.61596148336479,-122.3372368031559,liquefaction,True
-121,supermarket,47.66822246918643,-122.2836229914725,liquefaction,True
-122,supermarket,47.62474388534502,-122.3550370983373,liquefaction,True
-123,supermarket,47.58198069768225,-122.384791527154,liquefaction,True
-124,supermarket,47.65527453760614,-122.4004371988472,liquefaction,True
-125,supermarket,47.66256330977473,-122.3703385783611,liquefaction,True
-126,supermarket,47.57773980475108,-122.3870634023532,liquefaction,True
-127,supermarket,47.68353208028287,-122.3440792865861,liquefaction,True
-128,supermarket,47.68036647897326,-122.3235025899977,liquefaction,True
-129,supermarket,47.55893128085968,-122.2868387248066,liquefaction,True
-130,supermarket,47.64994768338424,-122.3508731932032,liquefaction,True
-131,supermarket,47.51426469052701,-122.3553229247694,liquefaction,True
-132,supermarket,47.68977031402764,-122.290122918961,liquefaction,True
-133,supermarket,47.66183357993626,-122.3359311305134,liquefaction,True
-134,supermarket,47.61387348163952,-122.3210679059762,liquefaction,True
-135,supermarket,47.62242168117304,-122.3214589039067,liquefaction,True
-136,supermarket,47.66254357686005,-122.2967454987278,liquefaction,True
-137,supermarket,47.6246864843657,-122.3472604999874,liquefaction,True
-138,supermarket,47.70192809973735,-122.3636496652726,liquefaction,True
-139,supermarket,47.73334127462066,-122.310483179473,liquefaction,True
-140,supermarket,47.67065528597729,-122.3872595823982,liquefaction,True
-141,supermarket,47.62272167420144,-122.3122957786285,liquefaction,True
-142,supermarket,47.64946720558237,-122.377844140444,liquefaction,True
-143,supermarket,47.52204657530253,-122.365916272121,liquefaction,True
-144,supermarket,47.56127889165135,-122.385030508917,liquefaction,True
-145,supermarket,47.57921358160017,-122.2998295183564,liquefaction,True
-146,supermarket,47.70938473395212,-122.3172171385895,liquefaction,True
-147,supermarket,47.56885457624247,-122.337776272684,liquefaction,False
-148,supermarket,47.74096190985453,-122.3435797902271,liquefaction,True
-149,supermarket,47.71800427518119,-122.3119565197691,liquefaction,True
-150,supermarket,47.62046195420103,-122.3131234817743,liquefaction,True
-151,supermarket,47.66438677876945,-122.3140641952004,liquefaction,True
-152,supermarket,47.66827967062761,-122.3742486703333,liquefaction,True
-153,supermarket,47.4890393106771,-122.3358065123547,liquefaction,True
-154,supermarket,47.6825133627752,-122.2893434523379,liquefaction,True
-155,supermarket,47.53746649050957,-122.283024822658,liquefaction,True
-156,supermarket,47.63769342077403,-122.3560807484009,liquefaction,True
-157,supermarket,47.66208384507147,-122.2950938015361,liquefaction,True
-158,supermarket,47.55959759027508,-122.3849063381453,liquefaction,True
-159,supermarket,47.69019994129138,-122.376097416371,liquefaction,True
-160,supermarket,47.56926453390916,-122.2879173024758,liquefaction,False
-161,supermarket,47.6819415067351,-122.3169476598053,liquefaction,True
-162,supermarket,47.62393228529712,-122.3576302716527,liquefaction,True
-163,supermarket,47.51666004760648,-122.3667031458952,liquefaction,True
-164,supermarket,47.52100662910681,-122.2680279368976,liquefaction,True
-165,supermarket,47.61801079977613,-122.3034990266047,liquefaction,True
-166,supermarket,47.57983584182978,-122.3860256437315,liquefaction,True
-167,supermarket,47.66430089439717,-122.3138761056426,liquefaction,True
-168,supermarket,47.6013185836288,-122.3330902078468,liquefaction,False
-169,supermarket,47.67824228449796,-122.3770369822145,liquefaction,True
-170,supermarket,47.73019167828748,-122.3447846746395,liquefaction,True
-171,supermarket,47.55932648268902,-122.3048470216647,liquefaction,True
-172,supermarket,47.50804134890181,-122.3542297015546,liquefaction,True
-173,supermarket,47.67945838338598,-122.3662001835802,liquefaction,True
-174,supermarket,47.54447177140955,-122.3861952139373,liquefaction,True
-175,supermarket,47.56196431037414,-122.38103312632,liquefaction,True
-176,supermarket,47.66256008523168,-122.3742116861983,liquefaction,True
-177,supermarket,47.61579298071155,-122.310020507571,liquefaction,True
-178,supermarket,47.63646958479394,-122.3566909952627,liquefaction,True
-179,supermarket,47.66264167899628,-122.3176290950482,liquefaction,True
-180,supermarket,47.59776435666456,-122.3221074324275,liquefaction,True
-181,supermarket,47.59683738375177,-122.3270282091324,liquefaction,True
-182,supermarket,47.54736468131889,-122.2847075280163,liquefaction,True
-183,supermarket,47.59944168262363,-122.3184570097825,liquefaction,True
-184,supermarket,47.6761232747282,-122.2843404973612,liquefaction,True
-185,supermarket,47.67512187778622,-122.3161898928144,liquefaction,True
-186,supermarket,47.6183105835738,-122.338161402634,liquefaction,True
-187,supermarket,47.61133718225985,-122.3210470072429,liquefaction,True
-188,supermarket,47.63697468671631,-122.3768932921998,liquefaction,True
-189,medical_clinic,47.66828608539041,-122.3797109838605,liquefaction,True
-190,medical_clinic,47.65231927910155,-122.3421878447201,liquefaction,True
-191,medical_clinic,47.64854175024513,-122.3052680865547,liquefaction,True
-192,medical_clinic,47.4904007915084,-122.3503543311474,liquefaction,True
-193,medical_clinic,47.56068039156457,-122.3846789088913,liquefaction,True
-194,medical_clinic,47.66366927657809,-122.2973140981932,liquefaction,True
-195,medical_clinic,47.60128928864511,-122.3045132920192,liquefaction,True
-196,medical_clinic,47.55963459129472,-122.3817146096157,liquefaction,True
-197,medical_clinic,47.6204084814553,-122.3210635047773,liquefaction,True
-198,medical_clinic,47.718970673401,-122.2947550852683,liquefaction,True
-199,medical_clinic,47.62341837975056,-122.3069660063178,liquefaction,True
-200,medical_clinic,47.52436011343477,-122.366056820545,liquefaction,True
-201,medical_clinic,47.61023638341323,-122.3340443051354,liquefaction,True
-202,medical_clinic,47.73932587776476,-122.3440423724271,liquefaction,True
-203,medical_clinic,47.76061446628007,-122.2498496824205,liquefaction,True
-204,medical_clinic,47.76065496629747,-122.2500267823822,liquefaction,True
-205,medical_clinic,47.59990408385269,-122.3331041077635,liquefaction,True
-206,medical_clinic,47.56139650806766,-122.3804858923911,liquefaction,True
-207,medical_clinic,47.69846562043252,-122.3671178136013,liquefaction,True
-208,medical_clinic,47.65615041071538,-122.3040784439157,liquefaction,True
-209,medical_clinic,47.71082317630765,-122.3173041836124,liquefaction,True
-210,medical_clinic,47.59612808283779,-122.3220376104436,liquefaction,True
-211,medical_clinic,47.75016032142339,-122.3460605134797,liquefaction,True
-212,medical_clinic,47.62505668487739,-122.3544703983033,liquefaction,True
-213,medical_clinic,47.6944680835312,-122.3752121782684,liquefaction,True
-214,medical_clinic,47.61452368170931,-122.3205618062699,liquefaction,True
-215,medical_clinic,47.56811278067511,-122.2888309224785,liquefaction,False
-216,medical_clinic,47.66148108004596,-122.3278395938177,liquefaction,True
-217,medical_clinic,47.7395720777515,-122.3440383723681,liquefaction,True
-218,medical_clinic,47.70070210953786,-122.3236815410318,liquefaction,True
-219,medical_clinic,47.55421519240735,-122.2796810442688,liquefaction,True
-220,medical_clinic,47.62347588359654,-122.3420450006751,liquefaction,True
-221,medical_clinic,47.68033807863239,-122.3239553898993,liquefaction,True
-222,medical_clinic,47.67884927887705,-122.3254727900145,liquefaction,True
-223,medical_clinic,47.66176220015322,-122.2925351154201,liquefaction,True
-224,medical_clinic,47.60647358168388,-122.3164734088567,liquefaction,True
-225,medical_clinic,47.55766478077946,-122.2847454256315,liquefaction,True
-226,medical_clinic,47.70595905647777,-122.33472168199,liquefaction,True
-227,medical_clinic,47.67805327898935,-122.3261155901031,liquefaction,True
-228,medical_clinic,47.51963106708853,-122.2691755812056,liquefaction,True
-229,medical_clinic,47.54775102928181,-122.3758986493867,liquefaction,True
-230,medical_clinic,47.66971798461006,-122.3732910845443,liquefaction,True
-231,medical_clinic,47.62364298545441,-122.3590535979082,liquefaction,True
-232,medical_clinic,47.73459357227642,-122.2919556319417,liquefaction,True
-233,medical_clinic,47.51483993734217,-122.2783204418786,liquefaction,True
-234,medical_clinic,47.70457933130907,-122.3325336036744,liquefaction,True
-235,medical_clinic,47.66922491651054,-122.3812492733878,liquefaction,True
-236,medical_clinic,47.70438657024842,-122.3228000552839,liquefaction,True
-237,medical_clinic,47.59279738234785,-122.3159703122149,liquefaction,True
-238,medical_clinic,47.68602968280326,-122.3555014634647,liquefaction,True
-239,medical_clinic,47.66123368054015,-122.3322204931741,liquefaction,True
-240,medical_clinic,47.61065328435265,-122.34280800363,liquefaction,True
-241,medical_clinic,47.60056068348176,-122.3300362080982,liquefaction,True
-242,medical_clinic,47.70849557821829,-122.3335661815629,liquefaction,True
-243,medical_clinic,47.6656323786604,-122.3172060945254,liquefaction,True
-244,medical_clinic,47.70526355142869,-122.3430352148234,liquefaction,False
-245,medical_clinic,47.61737019086556,-122.305116964066,liquefaction,True
-246,medical_clinic,47.63854942532928,-122.3559118498306,liquefaction,True
-247,medical_clinic,47.56375735395113,-122.2709853613858,liquefaction,True
-248,medical_clinic,47.59947198173708,-122.3136014109959,liquefaction,True
-249,medical_clinic,47.51580389051519,-122.3535299245903,liquefaction,True
-250,medical_clinic,47.62643781209278,-122.3297570529349,liquefaction,True
-251,medical_clinic,47.59711113434585,-122.3180219038523,liquefaction,True
-252,medical_clinic,47.60843458257495,-122.325538206932,liquefaction,True
-253,medical_clinic,47.48622094166403,-122.3497583822369,liquefaction,True
-254,medical_clinic,47.61891329343687,-122.311064121741,liquefaction,True
-255,medical_clinic,47.50400139126442,-122.3546894772162,liquefaction,True
-256,medical_clinic,47.6494400778393,-122.3020011008634,liquefaction,True
-257,medical_clinic,47.5980168831904,-122.3261594093298,liquefaction,True
-258,medical_clinic,47.68121368584037,-122.3171664487784,liquefaction,True
-259,medical_clinic,47.5862221737312,-122.2341646269337,liquefaction,False
-260,medical_clinic,47.6872868817382,-122.3555065831607,liquefaction,True
-261,medical_clinic,47.61249100989945,-122.3213223726354,liquefaction,True
-262,medical_clinic,47.60728820300864,-122.3289439176605,liquefaction,True
-263,medical_clinic,47.71355924566809,-122.3127904066768,liquefaction,True
-264,medical_clinic,47.6635027851408,-122.3751693857403,liquefaction,True
-265,medical_clinic,47.61541138470128,-122.3482603016142,liquefaction,True
-266,medical_clinic,47.70270387759036,-122.3251100843191,liquefaction,True
-267,medical_clinic,47.66500987698838,-122.3016892971675,liquefaction,False
-268,medical_clinic,47.65851518415672,-122.3183302340581,liquefaction,True
-269,medical_clinic,47.61775208334323,-122.3370012028579,liquefaction,True
-270,medical_clinic,47.66164337678022,-122.2981867985405,liquefaction,False
-271,medical_clinic,47.57189348121126,-122.295547820496,liquefaction,True
-272,medical_clinic,47.56027179199853,-122.3884439083865,liquefaction,True
-273,medical_clinic,47.63634788459206,-122.3572563951442,liquefaction,True
-274,medical_clinic,47.66248027835388,-122.3129130959736,liquefaction,True
-275,medical_clinic,47.6098583834052,-122.3337898052669,liquefaction,True
-276,medical_clinic,47.61952338149947,-122.3210426049931,liquefaction,True
-277,medical_clinic,47.6618017816235,-122.3423516914118,liquefaction,True
-278,medical_clinic,47.66885138581095,-122.3838050830683,liquefaction,True
-279,medical_clinic,47.6398853865883,-122.3771205911105,liquefaction,False
-280,medical_clinic,47.62394718127385,-122.3211030039215,liquefaction,True
-281,medical_clinic,47.61400168452354,-122.3459666023202,liquefaction,True
-282,medical_clinic,47.64977468312064,-122.3502540930385,liquefaction,True
+id,lat,lon,dest_type,name,hazard,operational
+0,47.67362653,-122.3915047,primary_school,Adams,liquefaction,TRUE
+1,47.57713612,-122.4078123,primary_school,Alki,liquefaction,FALSE
+2,47.50969475,-122.3775729,primary_school,Arbor Heights,liquefaction,FALSE
+3,47.65462984,-122.3491088,primary_school,B.F. Day,liquefaction,FALSE
+4,47.68635145,-122.34229,primary_school,Bagley,liquefaction,FALSE
+5,47.60119492,-122.3154698,primary_school,Bailey Gatzert,liquefaction,FALSE
+6,47.58546359,-122.31509,primary_school,Beacon Hill Int'l,liquefaction,FALSE
+7,47.72462549,-122.3531337,primary_school,Broadview-Thomson K-8,liquefaction,FALSE
+8,47.67183632,-122.2921906,primary_school,Bryant,liquefaction,FALSE
+9,47.64626945,-122.3586043,primary_school,Cascade PPP,liquefaction,FALSE
+10,47.69501835,-122.3372762,primary_school,Cascadia,liquefaction,FALSE
+11,47.64225175,-122.3992475,primary_school,Catharine Blaine K-8,liquefaction,FALSE
+12,47.72605216,-122.2874518,primary_school,Cedar Park,liquefaction,FALSE
+13,47.64051037,-122.3655842,primary_school,Coe,liquefaction,FALSE
+14,47.52360529,-122.3246757,primary_school,Concord Int'l,liquefaction,FALSE
+15,47.55225674,-122.2962721,primary_school,Dearborn Park Int'l,liquefaction,FALSE
+16,47.68501983,-122.2826468,primary_school,Decatur,liquefaction,FALSE
+17,47.52498357,-122.2746408,primary_school,Dunlap,liquefaction,FALSE
+18,47.51481485,-122.2586213,primary_school,Emerson,liquefaction,FALSE
+19,47.55256759,-122.3801763,primary_school,Fairmount Park,liquefaction,FALSE
+20,47.54024528,-122.3884833,primary_school,Gatewood,liquefaction,FALSE
+21,47.56548696,-122.3968736,primary_school,Genesee Hill,liquefaction,FALSE
+22,47.54575169,-122.2685194,primary_school,Graham Hill,liquefaction,FALSE
+23,47.67629599,-122.3284829,primary_school,Green Lake,liquefaction,FALSE
+24,47.68724828,-122.3599454,primary_school,Greenwood,liquefaction,FALSE
+25,47.56589956,-122.2833713,primary_school,Hawthorne,liquefaction,FALSE
+26,47.63289287,-122.3517017,primary_school,Hay,liquefaction,FALSE
+27,47.71342461,-122.3146434,primary_school,Hazel Wolf K-8,liquefaction,FALSE
+28,47.52517188,-122.3482624,primary_school,Highland Park,liquefaction,FALSE
+29,47.57323573,-122.290565,primary_school,John Muir,liquefaction,FALSE
+30,47.70742081,-122.2846188,primary_school,John Rogers,liquefaction,FALSE
+31,47.65752264,-122.324037,primary_school,John Stanford Int'l,liquefaction,FALSE
+32,47.57403964,-122.3029996,primary_school,Kimball,liquefaction,FALSE
+33,47.57948979,-122.3872197,primary_school,Lafayette,liquefaction,FALSE
+34,47.66219241,-122.2779482,primary_school,Laurelhurst,liquefaction,FALSE
+35,47.65670679,-122.3904596,primary_school,Lawton,liquefaction,FALSE
+36,47.60209757,-122.2917987,primary_school,Leschi,liquefaction,FALSE
+37,47.69544491,-122.3395171,primary_school,Licton Springs K-8,liquefaction,FALSE
+38,47.54861392,-122.3621261,primary_school,Louisa Boren STEM,liquefaction,FALSE
+39,47.62441781,-122.318364,primary_school,Lowell,liquefaction,FALSE
+40,47.68599696,-122.3889507,primary_school,Loyal Heights,liquefaction,FALSE
+41,47.61223115,-122.290854,primary_school,Madrona,liquefaction,FALSE
+42,47.5581201,-122.318884,primary_school,Maple,liquefaction,FALSE
+43,47.54173759,-122.2768969,primary_school,Martin Luther King Jr,liquefaction,FALSE
+44,47.66826999,-122.3265805,primary_school,McDonald Int'l,liquefaction,FALSE
+45,47.63407213,-122.2848169,primary_school,McGilvra,liquefaction,FALSE
+46,47.64062702,-122.3042693,primary_school,Montlake,liquefaction,FALSE
+47,47.6949689,-122.3870206,primary_school,North Beach,liquefaction,FALSE
+48,47.71486154,-122.3295701,primary_school,Northgate,liquefaction,FALSE
+49,47.72368054,-122.3067405,primary_school,Olympic Hills,liquefaction,FALSE
+50,47.6982261,-122.321243,primary_school,Olympic View,liquefaction,FALSE
+51,47.55477311,-122.2759415,primary_school,Orca K-8,liquefaction,FALSE
+52,47.56359917,-122.3579822,primary_school,Pathfinder K-8,liquefaction,FALSE
+53,47.67724252,-122.3223004,primary_school,Queen Anne (interim at John Marshall),liquefaction,FALSE
+54,47.4988577,-122.2631572,primary_school,Rainier View,liquefaction,FALSE
+55,47.53283205,-122.3749125,primary_school,Roxhill Elementary at E.C. Hughes,liquefaction,FALSE
+56,47.69844292,-122.3074578,primary_school,Sacajawea,liquefaction,FALSE
+57,47.6762918,-122.3804972,primary_school,Salmon Bay K-8,liquefaction,FALSE
+58,47.67364592,-122.2629183,primary_school,Sand Point,liquefaction,FALSE
+59,47.53960278,-122.3586432,primary_school,Sanislo,liquefaction,FALSE
+60,47.52373733,-122.2719943,primary_school,South Shore K-8,liquefaction,FALSE
+61,47.63145061,-122.30785,primary_school,Stevens,liquefaction,FALSE
+62,47.64228124,-122.3241636,primary_school,TOPS K-8,liquefaction,FALSE
+63,47.68564983,-122.2842853,primary_school,Thornton Creek,liquefaction,FALSE
+64,47.59095293,-122.2998314,primary_school,Thurgood Marshall,liquefaction,FALSE
+65,47.52914601,-122.2890206,primary_school,Van Asselt,liquefaction,FALSE
+66,47.68068148,-122.2753173,primary_school,View Ridge,liquefaction,FALSE
+67,47.7059672,-122.3611145,primary_school,Viewlands,liquefaction,FALSE
+68,47.69053242,-122.2970389,primary_school,Wedgwood,liquefaction,FALSE
+69,47.54175626,-122.3734778,primary_school,West Seattle Elementary,liquefaction,FALSE
+70,47.67059369,-122.3622319,primary_school,West Woodland,liquefaction,FALSE
+71,47.68358421,-122.3730605,primary_school,Whittier,liquefaction,FALSE
+72,47.53808521,-122.2958982,primary_school,Wing Luke,liquefaction,FALSE
+73,47.61604598,-122.3358799,supermarket,7-Eleven,liquefaction,FALSE
+74,47.72370361,-122.3430107,supermarket,Albertsons,liquefaction,FALSE
+75,47.64246664,-122.397909,supermarket,Albertsons,liquefaction,FALSE
+76,47.58001099,-122.3353222,supermarket,Amazon Fresh,liquefaction,FALSE
+77,47.66614321,-122.3757713,supermarket,AmazonFresh,liquefaction,FALSE
+78,47.72479368,-122.3438071,supermarket,Asian Food Center,liquefaction,FALSE
+79,47.53916078,-122.2831185,supermarket,Ba Mien Seafood Market,liquefaction,FALSE
+80,47.66984855,-122.374159,supermarket,Ballard Market,liquefaction,FALSE
+81,47.58086738,-122.3132276,supermarket,Beacon Hill Market,liquefaction,FALSE
+82,47.63481191,-122.2799618,supermarket,Bert's Red Apple Market,liquefaction,FALSE
+83,47.48047349,-122.3486194,supermarket,Buena Discount Food Market,liquefaction,FALSE
+84,47.47525649,-122.3316123,supermarket,Burien Fred Meyer,liquefaction,FALSE
+85,47.66276947,-122.3728422,supermarket,Cash & Carry,liquefaction,FALSE
+86,47.58669158,-122.3279129,supermarket,Cash & Carry,liquefaction,TRUE
+87,47.72472278,-122.3417623,supermarket,Cash & Carry,liquefaction,FALSE
+88,47.50917435,-122.3546933,supermarket,Castillos,liquefaction,FALSE
+89,47.61547372,-122.3110426,supermarket,Central Co-op,liquefaction,FALSE
+90,47.74266268,-122.3498449,supermarket,Central Market,liquefaction,FALSE
+91,47.61792278,-122.3459163,supermarket,City Foods,liquefaction,FALSE
+92,47.61704302,-122.326426,supermarket,City Market,liquefaction,FALSE
+93,47.6141636,-122.344486,supermarket,Dan's Belltown Grocery,liquefaction,FALSE
+94,47.65579698,-122.3135277,supermarket,District Market,liquefaction,FALSE
+95,47.51572054,-122.3147642,supermarket,Dominic's Red Apple Market,liquefaction,FALSE
+96,47.72400289,-122.2917617,supermarket,Fred Meyer,liquefaction,FALSE
+97,47.4963328,-122.2484152,supermarket,Grocery Outlet,liquefaction,FALSE
+98,47.72168677,-122.2951545,supermarket,Grocery Outlet,liquefaction,FALSE
+99,47.61233251,-122.2954916,supermarket,Grocery Outlet,liquefaction,FALSE
+100,47.58787638,-122.3285902,supermarket,Grocery Outlet,liquefaction,TRUE
+101,47.69291524,-122.3758927,supermarket,Grocery Outlet,liquefaction,FALSE
+102,47.72487048,-122.3467663,supermarket,Grocery Outlet,liquefaction,FALSE
+103,47.51571342,-122.3548576,supermarket,Grocery Plus,liquefaction,FALSE
+104,47.65889408,-122.3130209,supermarket,H Mart,liquefaction,FALSE
+105,47.70264442,-122.342464,supermarket,HT Oaktree Market,liquefaction,FALSE
+106,47.59859988,-122.3167995,supermarket,Hao Hau Market,liquefaction,FALSE
+107,47.57897594,-122.3128964,supermarket,Hilltop Red Apple Grocery Store,liquefaction,FALSE
+108,47.51425869,-122.3534516,supermarket,Hung Long Asian Market,liquefaction,FALSE
+109,47.60936008,-122.3376699,supermarket,IGA Kress Supermarket,liquefaction,FALSE
+110,47.63979275,-122.3645371,supermarket,Ken's Market,liquefaction,FALSE
+111,47.68158888,-122.3555047,supermarket,Ken's Market,liquefaction,FALSE
+112,47.48096849,-122.3479363,supermarket,La Canasta Mexican Market,liquefaction,FALSE
+113,47.59808078,-122.3163207,supermarket,Lam's Seafood Market,liquefaction,FALSE
+114,47.60187176,-122.2856528,supermarket,Leschi Market,liquefaction,FALSE
+115,47.59823968,-122.3177632,supermarket,Lucky An Dong,liquefaction,FALSE
+116,47.48783599,-122.3488602,supermarket,Market Guadalupe,liquefaction,TRUE
+117,47.66049087,-122.3496266,supermarket,Marketime,liquefaction,FALSE
+118,47.54791083,-122.3189288,supermarket,Maruta Market,liquefaction,TRUE
+119,47.57282368,-122.2933982,supermarket,Mekong Rainier Supermarket,liquefaction,FALSE
+120,47.61596148,-122.3372368,supermarket,Metropolitan Deli + Cafe,liquefaction,FALSE
+121,47.66822247,-122.283623,supermarket,Metropolitan Market,liquefaction,FALSE
+122,47.62474389,-122.3550371,supermarket,Metropolitan Market,liquefaction,FALSE
+123,47.5819807,-122.3847915,supermarket,Metropolitan Market,liquefaction,FALSE
+124,47.65527454,-122.4004372,supermarket,Metropolitan Market,liquefaction,FALSE
+125,47.66256331,-122.3703386,supermarket,New Seasons Market,liquefaction,FALSE
+126,47.5777398,-122.3870634,supermarket,PCC,liquefaction,FALSE
+127,47.68353208,-122.3440793,supermarket,PCC,liquefaction,FALSE
+128,47.68036648,-122.3235026,supermarket,PCC,liquefaction,FALSE
+129,47.55893128,-122.2868387,supermarket,PCC,liquefaction,FALSE
+130,47.64994768,-122.3508732,supermarket,PCC,liquefaction,FALSE
+131,47.51426469,-122.3553229,supermarket,Phnom Khiev Supermarket,liquefaction,FALSE
+132,47.68977031,-122.2901229,supermarket,QFC,liquefaction,FALSE
+133,47.66183358,-122.3359311,supermarket,QFC,liquefaction,FALSE
+134,47.61387348,-122.3210679,supermarket,QFC,liquefaction,FALSE
+135,47.62242168,-122.3214589,supermarket,QFC,liquefaction,FALSE
+136,47.66254358,-122.2967455,supermarket,QFC,liquefaction,FALSE
+137,47.62468648,-122.3472605,supermarket,QFC,liquefaction,FALSE
+138,47.7019281,-122.3636497,supermarket,QFC,liquefaction,FALSE
+139,47.73334127,-122.3104832,supermarket,QFC,liquefaction,FALSE
+140,47.67065529,-122.3872596,supermarket,QFC,liquefaction,FALSE
+141,47.62272167,-122.3122958,supermarket,QFC,liquefaction,FALSE
+142,47.64946721,-122.3778441,supermarket,QFC,liquefaction,TRUE
+143,47.52204658,-122.3659163,supermarket,QFC,liquefaction,FALSE
+144,47.56127889,-122.3850305,supermarket,QFC,liquefaction,FALSE
+145,47.57921358,-122.2998295,supermarket,QFC,liquefaction,FALSE
+146,47.70938473,-122.3172171,supermarket,Quality Food Center,liquefaction,FALSE
+147,47.56885458,-122.3377763,supermarket,Restaurant Depot,liquefaction,TRUE
+148,47.74096191,-122.3435798,supermarket,Safeway,liquefaction,FALSE
+149,47.71800428,-122.3119565,supermarket,Safeway,liquefaction,FALSE
+150,47.62046195,-122.3131235,supermarket,Safeway,liquefaction,FALSE
+151,47.66438678,-122.3140642,supermarket,Safeway,liquefaction,FALSE
+152,47.66827967,-122.3742487,supermarket,Safeway,liquefaction,FALSE
+153,47.48903931,-122.3358065,supermarket,Safeway,liquefaction,FALSE
+154,47.68251336,-122.2893435,supermarket,Safeway,liquefaction,FALSE
+155,47.53746649,-122.2830248,supermarket,Safeway 0219,liquefaction,FALSE
+156,47.63769342,-122.3560807,supermarket,Safeway 0368,liquefaction,FALSE
+157,47.66208385,-122.2950938,supermarket,Safeway 0488,liquefaction,FALSE
+158,47.55959759,-122.3849063,supermarket,Safeway 1062,liquefaction,FALSE
+159,47.69019994,-122.3760974,supermarket,Safeway 1143,liquefaction,FALSE
+160,47.56926453,-122.2879173,supermarket,Safeway 1508,liquefaction,FALSE
+161,47.68194151,-122.3169477,supermarket,Safeway 1550,liquefaction,FALSE
+162,47.62393229,-122.3576303,supermarket,Safeway 1885,liquefaction,FALSE
+163,47.51666005,-122.3667031,supermarket,Safeway 1923,liquefaction,FALSE
+164,47.52100663,-122.2680279,supermarket,Safeway 1965,liquefaction,FALSE
+165,47.6180108,-122.303499,supermarket,Safeway 1993,liquefaction,FALSE
+166,47.57983584,-122.3860256,supermarket,Safeway 2932,liquefaction,FALSE
+167,47.66430089,-122.3138761,supermarket,Safeway 3091,liquefaction,FALSE
+168,47.60131858,-122.3330902,supermarket,Saveway Grocery,liquefaction,TRUE
+169,47.67824228,-122.377037,supermarket,Scandinavian Specialties,liquefaction,FALSE
+170,47.73019168,-122.3447847,supermarket,Seattle Organics Kratom Shop,liquefaction,FALSE
+171,47.55932648,-122.304847,supermarket,Seattle Supermarket,liquefaction,FALSE
+172,47.50804135,-122.3542297,supermarket,Super Saver Foods,liquefaction,FALSE
+173,47.67945838,-122.3662002,supermarket,Take 5 Urban Market,liquefaction,FALSE
+174,47.54447177,-122.3861952,supermarket,Thriftway,liquefaction,FALSE
+175,47.56196431,-122.3810331,supermarket,Trader Joe's,liquefaction,FALSE
+176,47.66256009,-122.3742117,supermarket,Trader Joe's,liquefaction,FALSE
+177,47.61579298,-122.3100205,supermarket,Trader Joe's,liquefaction,FALSE
+178,47.63646958,-122.356691,supermarket,Trader Joe's,liquefaction,FALSE
+179,47.66264168,-122.3176291,supermarket,Trader Joe's,liquefaction,FALSE
+180,47.59776436,-122.3221074,supermarket,Tsue Chong Company Inc,liquefaction,FALSE
+181,47.59683738,-122.3270282,supermarket,Uwajimaya,liquefaction,FALSE
+182,47.54736468,-122.2847075,supermarket,Viet Wah,liquefaction,FALSE
+183,47.59944168,-122.318457,supermarket,Viet Wah Supermarket,liquefaction,FALSE
+184,47.67612327,-122.2843405,supermarket,View Ridge PCC,liquefaction,FALSE
+185,47.67512188,-122.3161899,supermarket,Whole Foods Market,liquefaction,FALSE
+186,47.61831058,-122.3381614,supermarket,Whole Foods Market,liquefaction,FALSE
+187,47.61133718,-122.321047,supermarket,Whole Foods Market,liquefaction,FALSE
+188,47.63697469,-122.3768933,supermarket,Whole Foods Market,liquefaction,TRUE
+189,47.66828609,-122.379711,medical_clinic,Ballard Speech & Hearing Center,liquefaction,FALSE
+190,47.65231928,-122.3421878,medical_clinic,Bastyr Center for Natural Health,liquefaction,FALSE
+191,47.64854175,-122.3052681,medical_clinic,Brotman Baty Surgery Pavilion,liquefaction,FALSE
+192,47.49040079,-122.3503543,medical_clinic,Burien Medical Clinic,liquefaction,FALSE
+193,47.56068039,-122.3846789,medical_clinic,Care Clinic,liquefaction,FALSE
+194,47.66366928,-122.2973141,medical_clinic,CareClinic,liquefaction,TRUE
+195,47.60128929,-122.3045133,medical_clinic,Central Area Health Care Center,liquefaction,FALSE
+196,47.55963459,-122.3817146,medical_clinic,CityMD,liquefaction,FALSE
+197,47.62040848,-122.3210635,medical_clinic,CityMD,liquefaction,FALSE
+198,47.71897067,-122.2947551,medical_clinic,Community Based Outpatient Clinic,liquefaction,FALSE
+199,47.62341838,-122.306966,medical_clinic,Country Doctor,liquefaction,FALSE
+200,47.52436011,-122.3660568,medical_clinic,DaVita Dialysis,liquefaction,FALSE
+201,47.61023638,-122.3340443,medical_clinic,Downtown Seattle Medical Center,liquefaction,FALSE
+202,47.73932588,-122.3440424,medical_clinic,Dr. Kim's Clinic,liquefaction,FALSE
+203,47.76061447,-122.2498497,medical_clinic,Evergreen Health Primary Care,liquefaction,FALSE
+204,47.76065497,-122.2500268,medical_clinic,Evergreen Health Urgent Care,liquefaction,FALSE
+205,47.59990408,-122.3331041,medical_clinic,FootWorks Physical Therapy,liquefaction,FALSE
+206,47.56139651,-122.3804859,medical_clinic,Franciscan Medical Clinic,liquefaction,FALSE
+207,47.69846562,-122.3671178,medical_clinic,Genesis HealthCare - Ballard Center,liquefaction,FALSE
+208,47.65615041,-122.3040784,medical_clinic,Hall Health Center,liquefaction,FALSE
+209,47.71082318,-122.3173042,medical_clinic,IBS Treatment Center,liquefaction,FALSE
+210,47.59612808,-122.3220376,medical_clinic,ICHS,liquefaction,FALSE
+211,47.75016032,-122.3460605,medical_clinic,ICHS Medical and Dental Clinic,liquefaction,FALSE
+212,47.62505668,-122.3544704,medical_clinic,ImmediateCare,liquefaction,FALSE
+213,47.69446808,-122.3752122,medical_clinic,ImmediateClinic,liquefaction,FALSE
+214,47.61452368,-122.3205618,medical_clinic,ImmediateClinic Urgent Care,liquefaction,FALSE
+215,47.56811278,-122.2888309,medical_clinic,Indigo Urgent Care,liquefaction,FALSE
+216,47.66148108,-122.3278396,medical_clinic,Indigo Urgent Care,liquefaction,FALSE
+217,47.73957208,-122.3440384,medical_clinic,Iora Primary Care,liquefaction,FALSE
+218,47.70070211,-122.3236815,medical_clinic,Kaiser Permanente Northgate Medical Center,liquefaction,FALSE
+219,47.55421519,-122.279681,medical_clinic,Kaiser Permanente Rainier Medical Center,liquefaction,FALSE
+220,47.62347588,-122.342045,medical_clinic,Karalis Johnson Retina Center,liquefaction,FALSE
+221,47.68033808,-122.3239554,medical_clinic,Kinetic Sports Rehab,liquefaction,FALSE
+222,47.67884928,-122.3254728,medical_clinic,Lake Washington Vascular Care,liquefaction,FALSE
+223,47.6617622,-122.2925351,medical_clinic,Lakeview Medical Dental,liquefaction,FALSE
+224,47.60647358,-122.3164734,medical_clinic,MTI Physical Therapy,liquefaction,FALSE
+225,47.55766478,-122.2847454,medical_clinic,Maia Midwifery & Fertility,liquefaction,FALSE
+226,47.70595906,-122.3347217,medical_clinic,Meridian Center For Health,liquefaction,FALSE
+227,47.67805328,-122.3261156,medical_clinic,Mind Your Body Clinic,liquefaction,FALSE
+228,47.51963107,-122.2691756,medical_clinic,Neighborcare Health,liquefaction,FALSE
+229,47.54775103,-122.3758986,medical_clinic,Neighborcare Health at High Point,liquefaction,FALSE
+230,47.66971798,-122.3732911,medical_clinic,Neurologic Clinic,liquefaction,FALSE
+231,47.62364299,-122.3590536,medical_clinic,Northbound Treatment Services,liquefaction,FALSE
+232,47.73459357,-122.2919556,medical_clinic,Northwest Kidney Center,liquefaction,FALSE
+233,47.51483994,-122.2783204,medical_clinic,Northwest Kidney Centers,liquefaction,FALSE
+234,47.70457933,-122.3325336,medical_clinic,Northwest Outpatient Medical Center,liquefaction,FALSE
+235,47.66922492,-122.3812493,medical_clinic,Nyer House,liquefaction,FALSE
+236,47.70438657,-122.3228001,medical_clinic,Pacific Medical Center Northgate,liquefaction,FALSE
+237,47.59279738,-122.3159703,medical_clinic,Pacific Medical Centers Beacon Hill,liquefaction,FALSE
+238,47.68602968,-122.3555015,medical_clinic,Pain Relief Abrah's Chiropratic,liquefaction,FALSE
+239,47.66123368,-122.3322205,medical_clinic,Pediatric Speech and Language Therapy,liquefaction,FALSE
+240,47.61065328,-122.342808,medical_clinic,Pike Market Medical Clinic,liquefaction,FALSE
+241,47.60056068,-122.3300362,medical_clinic,Pioneer Square Clinic,liquefaction,FALSE
+242,47.70849558,-122.3335662,medical_clinic,Planned Parenthood,liquefaction,FALSE
+243,47.66563238,-122.3172061,medical_clinic,Planned Parenthood,liquefaction,FALSE
+244,47.70526355,-122.3430352,medical_clinic,Planned Parenthood,liquefaction,FALSE
+245,47.61737019,-122.305117,medical_clinic,Planned Parenthood,liquefaction,FALSE
+246,47.63854943,-122.3559118,medical_clinic,Queen Anne Eye Clinic,liquefaction,FALSE
+247,47.56375735,-122.2709854,medical_clinic,Radiance Women's Wellness,liquefaction,FALSE
+248,47.59947198,-122.3136014,medical_clinic,Rof Medical Center,liquefaction,FALSE
+249,47.51580389,-122.3535299,medical_clinic,Sea Mar Community Health Centers,liquefaction,FALSE
+250,47.62643781,-122.3297571,medical_clinic,Seattle Cancer Care Alliance,liquefaction,FALSE
+251,47.59711113,-122.3180219,medical_clinic,Seattle Indian Health Board,liquefaction,FALSE
+252,47.60843458,-122.3255382,medical_clinic,Seattle Surgery Center,liquefaction,FALSE
+253,47.48622094,-122.3497584,medical_clinic,Shorewood Medical Clinic,liquefaction,FALSE
+254,47.61891329,-122.3110641,medical_clinic,Sound Mental Health,liquefaction,FALSE
+255,47.50400139,-122.3546895,medical_clinic,Southwest Chiropractic Clinic,liquefaction,FALSE
+256,47.64944008,-122.3020011,medical_clinic,Sports Medicine Center,liquefaction,FALSE
+257,47.59801688,-122.3261594,medical_clinic,St. Paul's Medical Clinic,liquefaction,FALSE
+258,47.68121369,-122.3171664,medical_clinic,Swedish Greenlake Primary Care,liquefaction,FALSE
+259,47.58622217,-122.2341646,medical_clinic,The Dermatology Clinic,liquefaction,FALSE
+260,47.68728688,-122.3555066,medical_clinic,The Lice Clinic,liquefaction,FALSE
+261,47.61249101,-122.3213224,medical_clinic,The Polyclinic,liquefaction,FALSE
+262,47.6072882,-122.3289439,medical_clinic,The Polyclinic Madison Center,liquefaction,FALSE
+263,47.71355925,-122.3127904,medical_clinic,The Polyclinic Northwest Pediatric,liquefaction,FALSE
+264,47.66350279,-122.3751694,medical_clinic,UW Medicine Ballard,liquefaction,FALSE
+265,47.61541138,-122.3482603,medical_clinic,UW Medicine Belltown Clinic,liquefaction,FALSE
+266,47.70270388,-122.3251101,medical_clinic,UW Medicine Northgate Clinic,liquefaction,FALSE
+267,47.66500988,-122.3016893,medical_clinic,UW Neighborhood Ravenna Clinic,liquefaction,TRUE
+268,47.65851518,-122.3183302,medical_clinic,University of Washington Roosevelt Medical Center,liquefaction,FALSE
+269,47.61775208,-122.3370012,medical_clinic,Vera Whole Health,liquefaction,FALSE
+270,47.66164338,-122.2981868,medical_clinic,Virginia Mason University Village Medical Center,liquefaction,FALSE
+271,47.57189348,-122.2955478,medical_clinic,Washington Care Center,liquefaction,FALSE
+272,47.56027179,-122.3884439,medical_clinic,West Seattle Women’s Health and Midwifery,liquefaction,FALSE
+273,47.63634788,-122.3572564,medical_clinic,ZoomCare,liquefaction,FALSE
+274,47.66248028,-122.3129131,medical_clinic,ZoomCare,liquefaction,FALSE
+275,47.60985838,-122.3337898,medical_clinic,ZoomCare,liquefaction,FALSE
+276,47.61952338,-122.3210426,medical_clinic,ZoomCare,liquefaction,FALSE
+277,47.66180178,-122.3423517,medical_clinic,ZoomCare,liquefaction,FALSE
+278,47.66885139,-122.3838051,medical_clinic,ZoomCare,liquefaction,FALSE
+279,47.63988539,-122.3771206,medical_clinic,ZoomCare,liquefaction,TRUE
+280,47.62394718,-122.321103,medical_clinic,ZoomCare,liquefaction,FALSE
+281,47.61400168,-122.3459666,medical_clinic,ZoomCare,liquefaction,FALSE
+282,47.64977468,-122.3502541,medical_clinic,ZoomCare,liquefaction,FALSE
