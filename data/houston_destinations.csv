@@ -1,1014 +1,1014 @@
-id,dest_type,lat,lon,hazard,operational
-0,medical_clinic,29.72221477817944,-95.44230510483101,hurricane,False
-1,medical_clinic,29.71211951085575,-95.31237101355828,hurricane,True
-2,medical_clinic,30.05490253641201,-95.18707433026007,hurricane,True
-3,medical_clinic,29.78691570294946,-95.53070255433408,hurricane,True
-4,medical_clinic,29.81371589334998,-95.40970088409466,hurricane,True
-5,medical_clinic,29.54044563999428,-95.12796666840588,hurricane,True
-6,medical_clinic,29.6986805153801,-95.39436902814623,hurricane,True
-7,medical_clinic,29.73325851010986,-95.4184265854523,hurricane,True
-8,medical_clinic,29.70527971591585,-95.42066228612215,hurricane,True
-9,medical_clinic,29.80233829644003,-95.43211177886656,hurricane,True
-10,medical_clinic,29.7446913928282,-94.97667509833917,hurricane,True
-11,medical_clinic,29.96612526675452,-95.54075544366896,hurricane,True
-12,medical_clinic,30.11975862987896,-95.3791485779913,hurricane,True
-13,medical_clinic,29.67613882209631,-95.4268619858252,hurricane,True
-14,medical_clinic,29.78595843146379,-95.68678620850815,hurricane,True
-15,medical_clinic,30.10263852834795,-95.23528851568499,hurricane,True
-16,medical_clinic,29.84482208614039,-95.38480298907504,hurricane,True
-17,medical_clinic,29.83716651242243,-95.37651011854341,hurricane,True
-18,medical_clinic,29.70458391397596,-95.35900520194211,hurricane,True
-19,medical_clinic,29.89562888600518,-95.68303521052245,hurricane,True
-20,medical_clinic,29.92589207657848,-95.58811783339172,hurricane,True
-21,medical_clinic,29.83876635008722,-95.37627531653173,hurricane,True
-22,medical_clinic,30.13143772257862,-95.23816931361674,hurricane,True
-23,medical_clinic,29.83318558846882,-95.38331678997855,hurricane,True
-24,medical_clinic,29.99371026801562,-95.73903849176249,hurricane,True
-25,medical_clinic,29.74299115474847,-95.34851316892538,hurricane,True
-26,medical_clinic,29.80463602148641,-95.38854910591837,hurricane,True
-27,medical_clinic,29.74429291410521,-95.3669185581521,hurricane,True
-28,medical_clinic,29.77266210138086,-95.39889528869793,hurricane,True
-29,medical_clinic,29.77637301504634,-95.8225294803271,hurricane,True
-30,medical_clinic,29.73494845595422,-95.30588421420825,hurricane,True
-31,medical_clinic,29.68012077118747,-95.572290909459,hurricane,True
-32,medical_clinic,30.06474253645251,-95.24611081464926,hurricane,True
-33,medical_clinic,30.13085282250754,-95.23271761504355,hurricane,True
-34,medical_clinic,30.06463583647528,-95.24614031464655,hurricane,True
-35,medical_clinic,29.79907610692208,-95.71992340546515,hurricane,True
-36,medical_clinic,29.91539587518752,-95.48560776008163,hurricane,True
-37,medical_clinic,29.76275734345757,-95.84132308215,hurricane,True
-38,medical_clinic,29.925442908196,-95.1963369587754,hurricane,True
-39,medical_clinic,29.99162156872029,-95.7471334897931,hurricane,True
-40,medical_clinic,29.65274871360927,-95.03129838834248,hurricane,True
-41,medical_clinic,29.75207731326093,-95.62471093186998,hurricane,True
-42,medical_clinic,29.58149074612225,-95.564632854761,hurricane,True
-43,medical_clinic,29.58251764471828,-95.52898966382413,hurricane,True
-44,medical_clinic,29.84688553052002,-95.40825580797545,hurricane,True
-45,medical_clinic,29.70393801621569,-95.42140208599221,hurricane,True
-46,medical_clinic,29.70397431199714,-95.29667651794232,hurricane,True
-47,medical_clinic,29.69976339248799,-95.2856079609665,hurricane,True
-48,medical_clinic,29.93563083777347,-95.24471671589465,hurricane,True
-49,medical_clinic,30.06018723744731,-95.24799991437334,hurricane,True
-50,medical_clinic,29.55157745295953,-95.5857549506748,hurricane,True
-51,medical_clinic,29.60449204366495,-95.63182543659157,hurricane,True
-52,medical_clinic,29.81406559288838,-95.39825778700938,hurricane,True
-53,medical_clinic,29.74996550945034,-95.4998089638844,hurricane,True
-54,medical_clinic,29.72212761276317,-95.45902529655622,hurricane,True
-55,medical_clinic,29.92727767617584,-95.5846192342229,hurricane,True
-56,medical_clinic,29.70106799683389,-95.3926855084716,hurricane,True
-57,medical_clinic,29.80147340643886,-95.72007090531984,hurricane,True
-58,medical_clinic,29.68815382077518,-95.46067697664034,hurricane,True
-59,medical_clinic,30.04594303810953,-95.18326143164985,hurricane,False
-60,medical_clinic,30.05048123939491,-95.24705971505975,hurricane,True
-61,medical_clinic,29.88287427858863,-95.39136048568132,hurricane,False
-62,medical_clinic,29.71784140906665,-95.29415611797415,hurricane,True
-63,medical_clinic,29.75613502847894,-95.62606957334188,hurricane,True
-64,medical_clinic,29.82198149166151,-95.40974838371184,hurricane,True
-65,medical_clinic,29.69541168720414,-95.39893404812211,hurricane,True
-66,medical_clinic,29.78622015341938,-95.68704800742961,hurricane,True
-67,medical_clinic,29.7294054106992,-95.41252928713334,hurricane,True
-68,medical_clinic,29.81660690506341,-95.76994749192032,hurricane,True
-69,medical_clinic,29.76995810845693,-95.5907750397393,hurricane,False
-70,medical_clinic,29.78714182165038,-95.7872381458368,hurricane,True
-71,medical_clinic,29.78714638768471,-95.7882716685732,hurricane,True
-72,medical_clinic,29.774334158774,-95.39110323961879,hurricane,True
-73,medical_clinic,30.08640484211759,-95.53553233948887,hurricane,True
-74,medical_clinic,29.73448280999729,-95.42250498435384,hurricane,True
-75,medical_clinic,30.04760813778796,-95.18379613143628,hurricane,False
-76,medical_clinic,29.90440728245538,-95.63178522321024,hurricane,True
-77,medical_clinic,30.04752803781071,-95.18397993139274,hurricane,False
-78,medical_clinic,29.79399110092271,-95.51362715838361,hurricane,True
-79,medical_clinic,29.77649780101641,-95.41127098535773,hurricane,True
-80,medical_clinic,29.74391870610214,-95.36456609877138,hurricane,True
-81,medical_clinic,29.7446844139695,-95.36528061355423,hurricane,True
-82,medical_clinic,29.86113899174342,-95.64573602160506,hurricane,True
-83,medical_clinic,29.89677508418971,-95.6370445222129,hurricane,True
-84,medical_clinic,29.82736439122608,-95.42923457848102,hurricane,True
-85,medical_clinic,29.99356396806908,-95.73972509159408,hurricane,True
-86,medical_clinic,30.0232148514834,-95.43535676803263,hurricane,True
-87,medical_clinic,29.81213179554618,-95.43529109761391,hurricane,True
-88,medical_clinic,29.91683846088797,-95.63069037292588,hurricane,True
-89,medical_clinic,30.07350008063097,-95.50374136721743,hurricane,True
-90,medical_clinic,29.94459120383204,-95.64776562130307,hurricane,False
-91,medical_clinic,29.91627813600518,-95.63078267992773,hurricane,True
-92,medical_clinic,29.72278065492126,-95.4676438233221,hurricane,True
-93,medical_clinic,29.70403531777623,-95.4681711240193,hurricane,False
-94,medical_clinic,29.80113019246104,-95.42547573761948,hurricane,True
-95,medical_clinic,29.92015210562181,-95.61351219816365,hurricane,True
-96,medical_clinic,30.07352699944333,-95.49851121055458,hurricane,True
-97,medical_clinic,29.9160741540601,-95.6311726198374,hurricane,True
-98,medical_clinic,29.73626883170711,-95.57222597398193,hurricane,True
-99,medical_clinic,29.91669626188306,-95.62970777918333,hurricane,True
-100,medical_clinic,29.91907197980991,-95.61259095844801,hurricane,True
-101,medical_clinic,29.70650881777537,-95.4831249700842,hurricane,True
-102,medical_clinic,30.06062363735444,-95.2478891143818,hurricane,True
-103,medical_clinic,29.75380320548586,-95.40610398769292,hurricane,True
-104,medical_clinic,29.72573731026272,-95.37742779628488,hurricane,True
-105,medical_clinic,29.73109200863924,-95.3618741500312,hurricane,True
-106,medical_clinic,29.72583652016272,-95.31593566103625,hurricane,True
-107,medical_clinic,29.72605280816951,-95.31744861163885,hurricane,True
-108,medical_clinic,29.81806399312478,-95.429169578915,hurricane,True
-109,medical_clinic,29.72277981392115,-95.46763637332405,hurricane,True
-110,medical_clinic,29.73627771470533,-95.57222584598156,hurricane,True
-111,medical_clinic,29.70524124095243,-95.4215116559064,hurricane,True
-112,medical_clinic,29.80031149897959,-95.49449276299444,hurricane,True
-113,medical_clinic,30.05772294823948,-95.54400503864319,hurricane,True
-114,medical_clinic,29.93522626184311,-95.21523342848084,hurricane,True
-115,medical_clinic,29.80669629442365,-95.39908058712886,hurricane,True
-116,medical_clinic,29.70445501352398,-95.34483720557766,hurricane,True
-117,medical_clinic,29.69621731360481,-95.29714311816596,hurricane,True
-118,medical_clinic,30.08344711498122,-95.6290247447238,hurricane,True
-119,medical_clinic,30.048697739362,-95.23561741807873,hurricane,True
-120,medical_clinic,30.04870153935556,-95.23545391812053,hurricane,True
-121,medical_clinic,29.77677459940308,-95.36545349708001,hurricane,True
-122,medical_clinic,30.05183983700889,-95.18625163061171,hurricane,False
-123,medical_clinic,30.04834453768735,-95.18523263103357,hurricane,False
-124,medical_clinic,29.71881701456209,-95.34433449206982,hurricane,True
-125,medical_clinic,30.13914292061681,-95.22694661614227,hurricane,True
-126,medical_clinic,29.93512286186448,-95.21524002848383,hurricane,True
-127,medical_clinic,29.70761249912784,-95.50022692466118,hurricane,True
-128,medical_clinic,29.85035218498117,-95.3839631890415,hurricane,True
-129,medical_clinic,29.78029619679367,-95.30986151116967,hurricane,True
-130,medical_clinic,29.83065325005986,-95.70728385726983,hurricane,True
-131,medical_clinic,29.66115488392055,-95.68651892013422,hurricane,True
-132,medical_clinic,29.77085530210157,-95.40922668613302,hurricane,True
-133,medical_clinic,29.74715204543518,-95.364431406662,hurricane,True
-134,primary_school,29.7422701224406,-95.500856,hurricane,True
-135,primary_school,29.6724513,-95.2768296,hurricane,True
-136,primary_school,29.6876826,-95.60782669012764,hurricane,True
-137,primary_school,29.71315525,-95.590799,hurricane,True
-138,primary_school,29.60041046938775,-95.41742955102042,hurricane,True
-139,primary_school,29.8681522,-95.43049302737569,hurricane,True
-140,primary_school,29.64914955,-95.48797655,hurricane,False
-141,primary_school,30.03691305,-95.33351567448582,hurricane,True
-142,primary_school,29.9426878,-95.7175899,hurricane,True
-143,primary_school,29.7396152,-95.3932071758563,hurricane,True
-144,primary_school,29.8114892,-95.4129218,hurricane,True
-145,primary_school,29.79650812244898,-95.82177787755101,hurricane,True
-146,primary_school,29.6152692,-95.2507591,hurricane,True
-147,primary_school,29.594188,-95.115463,hurricane,True
-148,primary_school,29.59515152892562,-95.11288662809918,hurricane,True
-149,primary_school,29.9377466,-95.3976872,hurricane,True
-150,primary_school,29.74023727272727,-95.5531624949495,hurricane,True
-151,primary_school,29.751442,-95.577365,hurricane,True
-152,primary_school,29.871472,-95.387489,hurricane,True
-153,primary_school,29.77928287149253,-95.321203,hurricane,True
-154,primary_school,29.60736685875717,-95.24058189572519,hurricane,True
-155,primary_school,30.0010485,-95.734953,hurricane,True
-156,primary_school,29.67223254362416,-95.43684928859061,hurricane,True
-157,primary_school,29.7770024,-95.1385389,hurricane,True
-158,primary_school,29.67267373469388,-95.197903,hurricane,True
-159,primary_school,29.8530131,-95.52754791146093,hurricane,True
-160,primary_school,29.874882,-95.3698,hurricane,True
-161,primary_school,29.6724513,-95.2768296,hurricane,True
-162,primary_school,29.7857086,-95.2460095,hurricane,False
-163,primary_school,29.56653608724832,-95.02612893288591,hurricane,True
-164,primary_school,29.7819972913689,-94.96415709155036,hurricane,True
-165,primary_school,29.70103875,-95.345699375,hurricane,True
-166,primary_school,29.64406561565204,-95.5497546002687,hurricane,False
-167,primary_school,29.716431,-95.491761,hurricane,True
-168,primary_school,29.827233,-95.48206,hurricane,False
-169,primary_school,29.98299435,-95.4812350977038,hurricane,True
-170,primary_school,30.03491525,-95.48604868284443,hurricane,True
-171,primary_school,30.090246,-95.590627,hurricane,True
-172,primary_school,29.83763489447236,-95.34932950251256,hurricane,True
-173,primary_school,29.6722326,-95.5520144478069,hurricane,True
-174,primary_school,29.8335759,-95.668459,hurricane,False
-175,primary_school,30.0243099,-95.6732211,hurricane,True
-176,primary_school,29.9294756,-95.40438771828794,hurricane,True
-177,primary_school,29.68787515,-95.51921320183581,hurricane,False
-178,primary_school,29.676315,-95.261398,hurricane,True
-179,primary_school,29.7254898,-95.4221409,hurricane,True
-180,primary_school,29.69547264615385,-95.48858124615386,hurricane,True
-181,primary_school,29.7492191,-95.49094179349773,hurricane,True
-182,primary_school,29.725713,-95.513925,hurricane,True
-183,primary_school,29.702507,-95.2776342,hurricane,False
-184,primary_school,29.603132,-95.10681084787413,hurricane,True
-185,primary_school,29.79630207360764,-95.37789143503926,hurricane,True
-186,primary_school,29.8628708,-95.3342881,hurricane,False
-187,primary_school,29.81997825,-95.52410426184187,hurricane,True
-188,primary_school,29.5608529,-95.11379728641585,hurricane,True
-189,primary_school,29.8448741,-95.37306829144228,hurricane,True
-190,primary_school,29.74602645,-95.31857536165407,hurricane,True
-191,primary_school,29.59030363265306,-95.20146667346938,hurricane,True
-192,primary_school,29.816541,-95.390843,hurricane,True
-193,primary_school,29.758189,-95.62546,hurricane,True
-194,primary_school,29.7011362,-95.5536891189325,hurricane,True
-195,primary_school,29.92355205,-95.40917970565027,hurricane,True
-196,primary_school,29.73553685714286,-95.33363,hurricane,True
-197,primary_school,29.9469167,-95.3579566,hurricane,True
-198,primary_school,29.87967405,-95.45598817665541,hurricane,True
-199,primary_school,29.92880705,-95.4877938612253,hurricane,True
-200,primary_school,29.6817073,-95.1451104,hurricane,True
-201,primary_school,29.7268605,-95.310246,hurricane,True
-202,primary_school,29.9182784,-95.46589781795396,hurricane,True
-203,primary_school,29.8118474,-95.50355590753085,hurricane,True
-204,primary_school,29.8136938367347,-95.5009113877551,hurricane,True
-205,primary_school,29.698105,-95.56645986485267,hurricane,True
-206,primary_school,29.70965525,-95.57627344212882,hurricane,True
-207,primary_school,29.9211964,-95.6287531,hurricane,True
-208,primary_school,29.85064006122449,-95.48805889795918,hurricane,True
-209,primary_school,29.78138216326531,-95.1912660612245,hurricane,True
-210,primary_school,29.83255534693878,-95.51649871428572,hurricane,True
-211,primary_school,29.56652581965351,-95.12025747824276,hurricane,True
-212,primary_school,29.7408042,-95.460888,hurricane,True
-213,primary_school,29.77673349360438,-95.17598581446845,hurricane,True
-214,primary_school,29.633594,-95.344649,hurricane,True
-215,primary_school,29.7104093,-95.55487022516954,hurricane,True
-216,primary_school,29.94531485,-95.47157993143409,hurricane,True
-217,primary_school,29.82548135337806,-95.31841942854473,hurricane,True
-218,primary_school,29.85863006122449,-95.349809,hurricane,True
-219,primary_school,29.67707827569888,-95.29342447078064,hurricane,True
-220,primary_school,29.67516853061225,-95.44018073469388,hurricane,True
-221,primary_school,29.9978436,-95.6541981,hurricane,True
-222,primary_school,30.14291775,-95.51346817821761,hurricane,True
-223,primary_school,30.1407238,-95.5445616,hurricane,True
-224,primary_school,29.70059558358744,-95.28583042244925,hurricane,True
-225,primary_school,29.77375304081633,-95.37949993877551,hurricane,True
-226,primary_school,29.899556,-95.063598125,hurricane,True
-227,primary_school,30.1413048,-95.5080505,hurricane,True
-228,primary_school,29.716673,-95.468194,hurricane,False
-229,primary_school,30.0206523,-95.3291055,hurricane,True
-230,primary_school,29.93222595,-95.59907361346916,hurricane,True
-231,primary_school,29.71449887635719,-95.2839555970906,hurricane,True
-232,primary_school,29.8611209,-95.3769666,hurricane,True
-233,primary_school,29.73726140816327,-95.28968193877552,hurricane,True
-234,primary_school,29.62563564285714,-95.28059807142857,hurricane,True
-235,primary_school,29.7077196080402,-95.16242453768844,hurricane,True
-236,primary_school,29.6979357,-95.1135622,hurricane,True
-237,primary_school,30.0562351,-95.17281014967824,hurricane,True
-238,primary_school,29.96992065,-95.46500545850682,hurricane,True
-239,primary_school,29.78581627272727,-95.32827648484849,hurricane,True
-240,primary_school,29.9649477,-95.4511683,hurricane,True
-241,primary_school,29.82094050848052,-95.17815811265852,hurricane,True
-242,primary_school,29.777272,-95.48589454954038,hurricane,True
-243,primary_school,29.83476376530612,-95.41615152040816,hurricane,True
-244,primary_school,29.867327,-95.391274,hurricane,True
-245,primary_school,29.9822231,-95.2765094,hurricane,False
-246,primary_school,29.935014,-95.353329,hurricane,True
-247,primary_school,29.81959535,-95.50847581881061,hurricane,True
-248,primary_school,30.0384724,-95.52456542924045,hurricane,True
-249,primary_school,29.89214185,-95.49169498816941,hurricane,True
-250,primary_school,29.7965844,-95.6449252,hurricane,False
-251,primary_school,29.78092848260488,-95.30609395450912,hurricane,True
-252,primary_school,29.6974529,-95.2798129,hurricane,True
-253,primary_school,29.6714681,-95.50113265731022,hurricane,True
-254,primary_school,29.72716478327189,-95.53336635121397,hurricane,True
-255,primary_school,29.7254898,-95.4221409,hurricane,True
-256,primary_school,29.9155624,-95.49789317687669,hurricane,True
-257,primary_school,29.88505775,-95.49686711691619,hurricane,True
-258,primary_school,29.8914,-95.3134,hurricane,True
-259,primary_school,29.915051,-95.4206398,hurricane,False
-260,primary_school,29.791939,-95.153261,hurricane,True
-261,primary_school,29.65620068,-95.185948,hurricane,True
-262,primary_school,29.57544134693878,-95.11076681632653,hurricane,True
-263,primary_school,29.80074751020408,-95.39085089795918,hurricane,True
-264,primary_school,29.7607858,-94.9824332,hurricane,True
-265,primary_school,29.78176210184036,-95.45783188877536,hurricane,True
-266,primary_school,29.6498995,-95.1549112,hurricane,True
-267,primary_school,29.668296,-95.179645,hurricane,True
-268,primary_school,29.627792,-95.4990194,hurricane,True
-269,primary_school,30.0425258,-95.22356720045137,hurricane,True
-270,primary_school,29.69172728571429,-95.36114978571429,hurricane,True
-271,primary_school,29.9688236,-95.5638485,hurricane,True
-272,primary_school,29.739082,-95.29817,hurricane,True
-273,primary_school,29.5880046,-95.22681913333334,hurricane,True
-274,primary_school,29.64592357352941,-95.2329175735294,hurricane,False
-275,primary_school,30.12947,-95.50843272234133,hurricane,True
-276,primary_school,29.62088494174757,-95.3373548446602,hurricane,True
-277,primary_school,29.560331,-95.128489,hurricane,True
-278,primary_school,29.7335616,-95.2302123,hurricane,True
-279,primary_school,29.73310285714286,-95.29366614285715,hurricane,True
-280,primary_school,29.84888885522204,-95.34906893616163,hurricane,True
-281,primary_school,29.82268917077393,-95.41290993286266,hurricane,True
-282,primary_school,29.63479457142857,-95.23069335714285,hurricane,True
-283,primary_school,29.8834615,-95.1547833,hurricane,True
-284,primary_school,29.622653,-95.2853893,hurricane,True
-285,primary_school,29.62275,-95.201904,hurricane,True
-286,primary_school,30.05626575,-95.42257243646513,hurricane,True
-287,primary_school,29.90291370457196,-95.55799894168923,hurricane,True
-288,primary_school,29.67047958490566,-95.1617552264151,hurricane,True
-289,primary_school,29.68922184515339,-95.29448528832471,hurricane,True
-290,primary_school,29.8966734,-95.42371132537542,hurricane,True
-291,primary_school,29.6016949,-95.2599342,hurricane,False
-292,primary_school,29.78875944710576,-94.96393664334136,hurricane,True
-293,primary_school,29.57896806122449,-95.1521393877551,hurricane,True
-294,primary_school,29.73995396428571,-95.55559714285714,hurricane,True
-295,primary_school,29.9157849,-95.43173453475211,hurricane,True
-296,primary_school,29.792211,-95.18867,hurricane,True
-297,primary_school,29.672341,-95.309845,hurricane,True
-298,primary_school,29.75679,-95.385605,hurricane,True
-299,primary_school,29.619843,-95.454087,hurricane,True
-300,primary_school,29.6391406,-95.52793181944563,hurricane,True
-301,primary_school,29.85541710586552,-95.21345291273248,hurricane,False
-302,primary_school,29.782079,-95.6173502,hurricane,True
-303,primary_school,29.9680341,-95.5565032,hurricane,True
-304,primary_school,29.8658292,-95.4825354,hurricane,True
-305,primary_school,29.6610592,-95.5578226,hurricane,True
-306,primary_school,29.949285,-95.5469318,hurricane,True
-307,primary_school,29.6610592,-95.5578226,hurricane,True
-308,primary_school,29.7273064,-95.4186082,hurricane,True
-309,primary_school,29.67664324489796,-95.47726806122449,hurricane,False
-310,primary_school,29.6610592,-95.5578226,hurricane,True
-311,primary_school,29.86799215,-95.45419289536402,hurricane,True
-312,primary_school,29.76910935,-95.22138842581629,hurricane,True
-313,primary_school,29.69390589485185,-95.34309488324622,hurricane,True
-314,primary_school,29.7854617755102,-95.39621644897959,hurricane,True
-315,primary_school,29.792054,-95.262272,hurricane,True
-316,primary_school,30.00661,-95.5610531,hurricane,True
-317,primary_school,29.72282975,-95.61819900584418,hurricane,True
-318,primary_school,29.80532735,-95.4064406365234,hurricane,True
-319,primary_school,29.722256,-95.319688,hurricane,True
-320,primary_school,29.768632,-95.321212,hurricane,True
-321,primary_school,29.96325475,-95.45480498573156,hurricane,True
-322,primary_school,29.68407877263194,-95.48734444999322,hurricane,False
-323,primary_school,29.82229405,-95.36635907294759,hurricane,True
-324,primary_school,30.0736337,-95.1830308806947,hurricane,True
-325,primary_school,29.85002029744405,-95.42090798137056,hurricane,True
-326,primary_school,29.891057,-95.3057687,hurricane,True
-327,primary_school,29.8366588498637,-95.26959188991384,hurricane,False
-328,primary_school,29.63585799085047,-95.43768116199058,hurricane,True
-329,primary_school,29.85735995,-95.49859037805871,hurricane,True
-330,primary_school,29.82645895,-95.50778166091165,hurricane,True
-331,primary_school,29.7638319,-95.4779925,hurricane,True
-332,primary_school,29.9333709,-95.2116771,hurricane,True
-333,primary_school,29.69323752864955,-95.45245257394404,hurricane,False
-334,primary_school,29.8658292,-95.4825354,hurricane,True
-335,primary_school,29.8003778,-95.46988589381425,hurricane,True
-336,primary_school,29.7144329,-95.2901635,hurricane,True
-337,primary_school,29.71638589795919,-95.28852410204081,hurricane,True
-338,primary_school,30.083475,-95.186697,hurricane,True
-339,primary_school,30.00820642928377,-95.5619352612785,hurricane,True
-340,primary_school,29.75909311111111,-95.70441177777778,hurricane,False
-341,primary_school,29.9797007,-95.43398949407782,hurricane,True
-342,primary_school,29.961848,-95.26507,hurricane,True
-343,primary_school,30.0116906,-95.27300006519103,hurricane,True
-344,primary_school,30.06727165,-95.92391605514116,hurricane,True
-345,primary_school,29.79059133823529,-95.54899640441177,hurricane,True
-346,primary_school,29.6270767,-95.290545,hurricane,True
-347,primary_school,29.62620898578235,-95.2404016381092,hurricane,True
-348,primary_school,29.8016863,-95.8110591,hurricane,True
-349,primary_school,29.7050343,-95.5443545,hurricane,True
-350,primary_school,29.79423275757576,-95.31860306060605,hurricane,False
-351,primary_school,29.764256,-95.29712,hurricane,True
-352,primary_school,29.8314035,-95.799349,hurricane,True
-353,primary_school,29.96663515,-95.2624391296795,hurricane,True
-354,primary_school,29.792054,-95.262272,hurricane,True
-355,primary_school,29.83015855,-95.37071708908664,hurricane,True
-356,primary_school,29.75421340520706,-95.60881534080094,hurricane,True
-357,primary_school,29.80526560162602,-95.36970888617886,hurricane,True
-358,primary_school,29.65972446808511,-95.17491925531915,hurricane,True
-359,primary_school,29.627174,-95.250048,hurricane,True
-360,primary_school,29.9551762,-95.46366693873755,hurricane,True
-361,primary_school,29.5826736122449,-95.13752689795919,hurricane,True
-362,primary_school,30.07018715,-95.40184493895876,hurricane,True
-363,primary_school,30.0147004,-95.293267,hurricane,True
-364,primary_school,29.6690946122449,-95.1228269387755,hurricane,True
-365,primary_school,29.9726072,-95.49379409187377,hurricane,True
-366,primary_school,30.0751523,-95.4349573,hurricane,True
-367,primary_school,29.80495380808081,-95.3171366969697,hurricane,False
-368,primary_school,29.79976167346939,-95.81998977551021,hurricane,True
-369,primary_school,29.682863,-95.334133,hurricane,True
-370,primary_school,29.835633,-95.394418,hurricane,True
-371,primary_school,29.6715646,-95.6021459530858,hurricane,True
-372,primary_school,29.780744,-95.363686,hurricane,True
-373,primary_school,29.96037603382094,-95.16917777809098,hurricane,True
-374,primary_school,30.07240387755102,-95.17114144897958,hurricane,True
-375,primary_school,29.7050343,-95.5443545,hurricane,True
-376,primary_school,29.727665,-95.321299,hurricane,True
-377,primary_school,29.8524009072165,-95.262280814433,hurricane,True
-378,primary_school,29.72476910129518,-95.51136521132825,hurricane,True
-379,primary_school,29.641997,-95.36838,hurricane,True
-380,primary_school,29.8499712,-95.59529852234884,hurricane,True
-381,primary_school,29.956678,-95.50617687846852,hurricane,True
-382,primary_school,29.67481652248531,-95.46773702028202,hurricane,False
-383,primary_school,29.8856754,-95.4315091,hurricane,True
-384,primary_school,29.6840449,-95.2636785,hurricane,True
-385,primary_school,29.9234095,-95.49313756506169,hurricane,True
-386,primary_school,29.8595818,-95.2045196,hurricane,False
-387,primary_school,29.98988945,-95.25267563569437,hurricane,True
-388,primary_school,29.9978436,-95.6541981,hurricane,True
-389,primary_school,29.68571325,-95.56166610460609,hurricane,True
-390,primary_school,29.622653,-95.2853893,hurricane,True
-391,primary_school,29.6152692,-95.2507591,hurricane,True
-392,primary_school,29.628144,-95.364892,hurricane,True
-393,primary_school,29.86428565,-95.6024899,hurricane,True
-394,primary_school,32.523909,-94.692547,hurricane,True
-395,primary_school,30.04020395,-95.43788804168622,hurricane,True
-396,primary_school,29.66468294736842,-95.28314736842106,hurricane,True
-397,primary_school,29.8462891,-95.7142304,hurricane,False
-398,primary_school,29.69290925,-95.61623256935482,hurricane,True
-399,primary_school,29.7735754,-94.9776846,hurricane,True
-400,primary_school,29.717342,-95.3658123614952,hurricane,True
-401,primary_school,29.687102,-95.43215998977989,hurricane,True
-402,primary_school,29.795412,-95.35764943135206,hurricane,True
-403,primary_school,29.8190211,-95.7514897,hurricane,True
-404,primary_school,29.5480175,-95.1900495,hurricane,False
-405,primary_school,29.7941111135095,-95.40857971399153,hurricane,True
-406,primary_school,29.68267735,-95.46926097603244,hurricane,False
-407,primary_school,29.58616626530612,-95.18751228571429,hurricane,False
-408,primary_school,29.6593802,-95.32863885,hurricane,True
-409,primary_school,29.682073,-95.181096,hurricane,True
-410,primary_school,30.090246,-95.590627,hurricane,True
-411,primary_school,29.9347353,-95.39469367626606,hurricane,True
-412,primary_school,29.532837,-95.120098,hurricane,True
-413,primary_school,29.73828188124012,-95.5100054471458,hurricane,True
-414,primary_school,32.51361634693878,-94.36422932653062,hurricane,True
-415,primary_school,29.89925641610738,-95.29785087919464,hurricane,True
-416,primary_school,29.6925244,-95.58512802615664,hurricane,True
-417,primary_school,29.79056205,-95.35928132160478,hurricane,True
-418,primary_school,29.927448,-95.5848781,hurricane,True
-419,primary_school,29.77974645,-95.64322546354484,hurricane,True
-420,primary_school,29.8056117,-95.7026886962108,hurricane,False
-421,primary_school,29.9295005,-95.49961114747343,hurricane,True
-422,primary_school,29.69554353061224,-95.15649840816326,hurricane,True
-423,primary_school,29.7770024,-95.1385389,hurricane,True
-424,primary_school,29.684162,-95.50415170447849,hurricane,True
-425,primary_school,29.614179,-95.229486,hurricane,True
-426,primary_school,29.77086175,-95.59612151129488,hurricane,True
-427,primary_school,29.77024,-95.42556,hurricane,True
-428,primary_school,29.7356816,-95.6309349,hurricane,True
-429,primary_school,29.8335759,-95.668459,hurricane,False
-430,primary_school,30.115295,-95.55108028795728,hurricane,True
-431,primary_school,30.005911,-95.43444968252302,hurricane,True
-432,primary_school,30.04355295,-95.35924621573203,hurricane,True
-433,primary_school,29.9952795,-95.6855384,hurricane,True
-434,primary_school,29.660617,-95.514785,hurricane,True
-435,primary_school,29.608252,-95.275505,hurricane,False
-436,primary_school,29.688174,-95.492554,hurricane,False
-437,primary_school,29.69095504561096,-95.4947146578939,hurricane,True
-438,primary_school,29.62105228069555,-95.43712310399147,hurricane,True
-439,primary_school,29.9967587,-95.5913729,hurricane,True
-440,primary_school,29.87573221428571,-95.37421721428571,hurricane,True
-441,primary_school,29.701365,-95.530494,hurricane,True
-442,primary_school,29.832534,-95.442522,hurricane,True
-443,primary_school,29.604624,-95.13506,hurricane,True
-444,primary_school,30.09999145,-95.51983113281963,hurricane,True
-445,primary_school,29.7682851,-95.61179413925126,hurricane,True
-446,primary_school,29.828312282454,-95.43470596809836,hurricane,True
-447,primary_school,29.79387908585858,-95.25289371717172,hurricane,False
-448,primary_school,29.9242384,-95.3825014,hurricane,True
-449,primary_school,30.02589065,-95.36456273925876,hurricane,True
-450,primary_school,29.90490775,-95.32466064525377,hurricane,True
-451,primary_school,29.897508,-95.461796,hurricane,True
-452,primary_school,29.875213,-95.418493,hurricane,True
-453,primary_school,29.73898263636364,-95.23810207070707,hurricane,True
-454,primary_school,29.7592228,-95.34500520452875,hurricane,True
-455,primary_school,29.8453055,-95.3999727,hurricane,False
-456,primary_school,29.72873995,-95.59827078865729,hurricane,True
-457,primary_school,29.9619668,-95.2480659,hurricane,True
-458,primary_school,29.68938615217391,-95.27218517391304,hurricane,True
-459,primary_school,29.66533132926829,-95.48216312195122,hurricane,True
-460,primary_school,30.02595620501419,-95.403322559838,hurricane,True
-461,primary_school,29.68321381632653,-95.2427036122449,hurricane,True
-462,primary_school,30.05042045,-95.3932987448014,hurricane,True
-463,primary_school,29.70617703061225,-95.33495437755101,hurricane,True
-464,primary_school,29.61857322737773,-95.42434137883322,hurricane,True
-465,primary_school,29.72831626900482,-95.4921730621018,hurricane,True
-466,primary_school,29.7638319,-95.4779925,hurricane,True
-467,primary_school,29.8071549,-95.5381734425413,hurricane,True
-468,primary_school,30.05391606991178,-95.20108709326506,hurricane,True
-469,primary_school,29.72604966666667,-95.52098576190475,hurricane,True
-470,primary_school,29.76401051592941,-95.27267668025186,hurricane,False
-471,primary_school,29.72768,-95.407028,hurricane,True
-472,primary_school,29.69800779591837,-95.1830283265306,hurricane,True
-473,primary_school,29.9513652,-95.7193315,hurricane,True
-474,primary_school,29.759667,-95.283762,hurricane,False
-475,primary_school,29.6520498,-95.4521507,hurricane,True
-476,primary_school,29.76832630143407,-95.30730943801771,hurricane,True
-477,primary_school,29.762447,-95.220092,hurricane,False
-478,primary_school,29.9103958,-95.3609428210361,hurricane,True
-479,primary_school,29.60607267391304,-95.45256319565216,hurricane,True
-480,primary_school,29.70451055102041,-95.18583202040817,hurricane,True
-481,primary_school,29.66623655102041,-95.45302085714286,hurricane,True
-482,primary_school,29.91221395,-95.36108781171154,hurricane,True
-483,primary_school,29.89389845,-95.52628723872643,hurricane,True
-484,primary_school,29.77246024489796,-95.30232132653062,hurricane,True
-485,primary_school,29.6509176,-95.3761343,hurricane,True
-486,primary_school,29.6979205,-95.42057867631102,hurricane,True
-487,primary_school,29.71584753571429,-95.21507382142858,hurricane,True
-488,primary_school,29.8098426,-95.49386746078432,hurricane,True
-489,primary_school,29.7342681,-95.4128024,hurricane,True
-490,primary_school,29.7273064,-95.4186082,hurricane,True
-491,primary_school,29.611605,-95.355432,hurricane,True
-492,primary_school,29.6554812826087,-95.45616824999999,hurricane,True
-493,primary_school,29.712492,-95.412735,hurricane,True
-494,primary_school,30.0242021,-95.81376195577754,hurricane,True
-495,primary_school,29.78822758299754,-95.21379351726046,hurricane,False
-496,primary_school,29.9719563,-95.68587377579591,hurricane,True
-497,primary_school,29.827313,-95.337783,hurricane,True
-498,primary_school,29.8183084,-95.37391797520752,hurricane,True
-499,primary_school,30.0796754,-95.6646589,hurricane,True
-500,primary_school,30.0893624,-95.6416109,hurricane,True
-501,primary_school,29.80036120408163,-95.34176102040816,hurricane,True
-502,primary_school,29.69398256488152,-95.2425384925691,hurricane,True
-503,primary_school,29.7741811,-95.57069047974964,hurricane,True
-504,primary_school,29.7703635,-95.3512693,hurricane,True
-505,primary_school,29.771497,-95.153626,hurricane,False
-506,primary_school,29.702635,-95.283525,hurricane,True
-507,primary_school,29.871181030413,-95.3373359129244,hurricane,False
-508,primary_school,29.73528430393949,-95.47279451304198,hurricane,True
-509,primary_school,29.72038812244898,-95.5536739387755,hurricane,True
-510,primary_school,29.94017736764706,-95.39899144117646,hurricane,True
-511,primary_school,29.966164,-95.5547253,hurricane,True
-512,primary_school,29.79323859183674,-95.4850152244898,hurricane,True
-513,primary_school,30.0941375,-95.54912417670218,hurricane,True
-514,primary_school,29.781979,-95.299035,hurricane,True
-515,primary_school,29.75595318367347,-95.49725389795918,hurricane,True
-516,primary_school,29.6784598,-95.3061171,hurricane,True
-517,primary_school,29.7194596969697,-95.48055284848485,hurricane,True
-518,primary_school,29.7194596969697,-95.48055284848485,hurricane,True
-519,primary_school,30.0692701,-95.1652802912206,hurricane,True
-520,primary_school,29.79233935,-95.55465356560228,hurricane,True
-521,primary_school,29.7343743943514,-95.59819755140856,hurricane,True
-522,primary_school,29.8488463,-95.2844125,hurricane,False
-523,primary_school,29.67667166666667,-95.43978333333332,hurricane,False
-524,primary_school,29.7794422,-95.35259036006704,hurricane,True
-525,primary_school,29.776025,-95.47205420741136,hurricane,True
-526,primary_school,29.790441,-95.579651,hurricane,True
-527,primary_school,29.79344528571428,-95.42789714285715,hurricane,True
-528,primary_school,29.74987085714286,-95.60596142857142,hurricane,True
-529,primary_school,29.83854,-95.46249930612245,hurricane,True
-530,primary_school,30.0702612,-95.38071952984996,hurricane,True
-531,primary_school,29.86261765,-95.4750146291349,hurricane,True
-532,primary_school,29.66263675,-95.57813653241473,hurricane,True
-533,primary_school,29.72509665,-95.54390141382186,hurricane,True
-534,primary_school,29.68271867820241,-95.20907606470686,hurricane,True
-535,primary_school,29.72094,-95.415066,hurricane,True
-536,primary_school,29.710009,-95.288491,hurricane,True
-537,primary_school,29.8181219,-95.4593146,hurricane,True
-538,primary_school,29.65620068,-95.185948,hurricane,True
-539,primary_school,29.9461633,-95.4332786,hurricane,True
-540,primary_school,30.072019,-95.423556,hurricane,True
-541,primary_school,29.7760132,-95.60073648056235,hurricane,True
-542,primary_school,29.80134715,-95.51508752762453,hurricane,True
-543,primary_school,29.8207277,-95.53282278332073,hurricane,True
-544,primary_school,29.82962444349473,-95.46212221291492,hurricane,True
-545,primary_school,29.74264727272727,-95.41212218181819,hurricane,True
-546,primary_school,30.08422409731544,-95.61163936577181,hurricane,True
-547,primary_school,29.678768,-95.237875,hurricane,False
-548,primary_school,29.6767289488735,-95.43224154445761,hurricane,True
-549,primary_school,29.77809781632653,-95.52991851020408,hurricane,True
-550,primary_school,29.686825,-95.27558,hurricane,True
-551,primary_school,29.5917501,-95.11902966985072,hurricane,True
-552,primary_school,30.08275659465571,-95.45676899222823,hurricane,True
-553,primary_school,29.7965844,-95.6449252,hurricane,False
-554,primary_school,29.699916,-95.527895,hurricane,True
-555,primary_school,29.82104928941677,-95.51026129158139,hurricane,True
-556,primary_school,29.72455368456376,-95.00081391275168,hurricane,True
-557,primary_school,29.79718072299127,-95.493323172574,hurricane,True
-558,primary_school,29.7050343,-95.5443545,hurricane,True
-559,primary_school,30.064667,-95.20989856214192,hurricane,True
-560,primary_school,29.99201084605243,-95.2562030988832,hurricane,True
-561,primary_school,29.71993347474747,-95.36871580808081,hurricane,True
-562,primary_school,29.70272167346939,-95.36142508163265,hurricane,True
-563,primary_school,29.819848,-95.415797,hurricane,True
-564,primary_school,29.737821,-95.404659,hurricane,True
-565,primary_school,29.77361806994813,-95.42946923694718,hurricane,True
-566,primary_school,29.684874,-95.464096,hurricane,False
-567,primary_school,29.6692904050625,-95.4944492269472,hurricane,False
-568,primary_school,29.5497181,-95.0894993,hurricane,True
-569,primary_school,29.70595636734694,-95.42754083673469,hurricane,False
-570,primary_school,29.91503,-95.421666,hurricane,True
-571,primary_school,30.08436307718121,-95.6116403590604,hurricane,True
-572,primary_school,29.90057905,-95.34788563157812,hurricane,True
-573,primary_school,29.826881,-95.44632855555555,hurricane,True
-574,primary_school,29.760274,-95.633431,hurricane,True
-575,primary_school,29.59542881632653,-95.21849046938776,hurricane,False
-576,primary_school,29.92801635,-95.17613119007098,hurricane,True
-577,primary_school,29.69823696457087,-95.50071257989072,hurricane,True
-578,primary_school,29.75011007407408,-95.48365018518518,hurricane,True
-579,primary_school,29.640574,-95.179197,hurricane,True
-580,primary_school,29.8196437,-95.55024404032224,hurricane,True
-581,primary_school,29.8462891,-95.7142304,hurricane,True
-582,primary_school,29.7341038,-95.3829949,hurricane,True
-583,primary_school,29.9378668,-95.39694153497828,hurricane,True
-584,primary_school,29.78726248979592,-95.45941434693877,hurricane,True
-585,primary_school,29.9414297,-95.5164144,hurricane,True
-586,primary_school,29.791489,-95.579469,hurricane,True
-587,primary_school,29.74757278571429,-95.59658135714285,hurricane,True
-588,primary_school,29.97072587364212,-95.70383914804832,hurricane,True
-589,primary_school,30.02817206122449,-95.2289756122449,hurricane,True
-590,primary_school,29.734356,-95.481504,hurricane,True
-591,primary_school,29.7665521,-95.45930526278045,hurricane,True
-592,primary_school,29.516197,-95.163584,hurricane,False
-593,primary_school,29.7130952605877,-95.49792912571256,hurricane,True
-594,primary_school,29.6202058,-95.4651759,hurricane,True
-595,primary_school,29.730146,-95.388116,hurricane,True
-596,primary_school,29.7677483,-95.40906190000001,hurricane,True
-597,primary_school,29.82282630232558,-95.53679647674419,hurricane,True
-598,primary_school,30.0243099,-95.6732211,hurricane,True
-599,primary_school,29.713931,-95.455736,hurricane,True
-600,primary_school,30.00224264618387,-95.26249123850207,hurricane,True
-601,primary_school,29.792054,-95.262272,hurricane,True
-602,primary_school,29.861235,-95.473509,hurricane,True
-603,primary_school,29.79897780617269,-95.11339783663709,hurricane,True
-604,primary_school,29.65710199850569,-95.46690070198244,hurricane,False
-605,primary_school,29.74729849799714,-95.61837640578744,hurricane,True
-606,primary_school,29.70589326530612,-95.36322863265306,hurricane,True
-607,primary_school,29.9222364,-95.40172515201762,hurricane,True
-608,primary_school,29.7760132,-95.60073648056235,hurricane,True
-609,primary_school,29.792054,-95.262272,hurricane,False
-610,primary_school,29.740699,-95.310629,hurricane,True
-611,primary_school,30.141778,-95.5125564,hurricane,True
-612,primary_school,29.8335759,-95.668459,hurricane,True
-613,primary_school,30.0994016,-95.6221243,hurricane,True
-614,primary_school,29.661811,-95.508582,hurricane,True
-615,primary_school,29.6680471,-95.45700474310415,hurricane,True
-616,primary_school,29.78881985,-95.37474296628884,hurricane,True
-617,primary_school,29.8053379,-95.4798147923826,hurricane,True
-618,primary_school,32.5275319,-94.3748361,hurricane,True
-619,primary_school,29.64715400505051,-95.1674962979798,hurricane,True
-620,primary_school,29.69885856375839,-95.43722159060404,hurricane,False
-621,primary_school,29.96210665306123,-95.47892169387755,hurricane,True
-622,primary_school,29.7957234,-95.49437099762335,hurricane,True
-623,primary_school,29.66442794228654,-95.52800464567,hurricane,True
-624,primary_school,29.70272725,-95.47255683333333,hurricane,False
-625,primary_school,29.7770024,-95.1385389,hurricane,True
-626,primary_school,29.82228144827586,-95.46908977586207,hurricane,True
-627,primary_school,30.1281421,-95.9108751,hurricane,True
-628,primary_school,29.52727993939394,-95.18194343434344,hurricane,False
-629,primary_school,29.991307,-95.739471,hurricane,True
-630,primary_school,29.7232074,-95.55575895321158,hurricane,True
-631,primary_school,29.863006,-95.421087,hurricane,True
-632,primary_school,29.7123693,-95.403487,hurricane,False
-633,primary_school,29.7172678,-95.4999475,hurricane,True
-634,primary_school,29.79685089591302,-95.53604678345684,hurricane,True
-635,primary_school,29.75581058903427,-95.62867717066587,hurricane,True
-636,primary_school,29.8137901902686,-95.5669259637429,hurricane,True
-637,primary_school,29.8103157,-95.55764544229874,hurricane,True
-638,primary_school,29.75410885,-95.39069959091165,hurricane,True
-639,primary_school,29.68208455,-95.37510900699624,hurricane,True
-640,primary_school,29.696547,-95.541998,hurricane,False
-641,primary_school,29.78229485,-95.58050974931339,hurricane,True
-642,primary_school,29.92186045,-95.56130545529864,hurricane,True
-643,primary_school,29.68780217741935,-95.22800198387097,hurricane,True
-644,primary_school,29.9178098,-95.46807718431874,hurricane,True
-645,primary_school,29.8462891,-95.7142304,hurricane,False
-646,primary_school,29.747743,-95.398677,hurricane,True
-647,primary_school,29.61691942635217,-95.46980508527044,hurricane,True
-648,primary_school,29.8038074,-94.9337293,hurricane,True
-649,primary_school,30.0586604,-95.21346399222405,hurricane,True
-650,primary_school,29.64306364437567,-95.36539169824911,hurricane,True
-651,primary_school,29.7903265,-95.53295063958996,hurricane,True
-652,primary_school,29.88557215,-95.34100913177457,hurricane,True
-653,primary_school,30.0567316,-95.5765044,hurricane,True
-654,primary_school,29.738111,-95.356508,hurricane,True
-655,primary_school,29.65538289795918,-95.5109898367347,hurricane,True
-656,primary_school,29.770098,-95.592952,hurricane,True
-657,primary_school,29.64803697857143,-95.19843914285715,hurricane,True
-658,primary_school,29.7545997,-95.37122955759762,hurricane,True
-659,primary_school,29.80249905,-95.8142688002614,hurricane,True
-660,primary_school,30.08635225,-95.48735050628378,hurricane,True
-661,supermarket,29.71821310904264,-95.29570221756127,hurricane,True
-662,supermarket,29.58862594582973,-95.59953104553409,hurricane,True
-663,supermarket,29.95687205715071,-95.26562329356636,hurricane,False
-664,supermarket,29.66408703520455,-95.74227900578298,hurricane,True
-665,supermarket,29.85357639454258,-95.68245741257182,hurricane,True
-666,supermarket,29.83226099964181,-95.70463350787364,hurricane,True
-667,supermarket,30.07109369831659,-95.45195719958363,hurricane,True
-668,supermarket,29.82295309146359,-95.40976908366301,hurricane,True
-669,supermarket,29.90455038424608,-95.68464660970662,hurricane,True
-670,supermarket,29.99367647724891,-95.48590484144354,hurricane,True
-671,supermarket,29.6464766334214,-95.58269924728737,hurricane,True
-672,supermarket,29.71803768283074,-95.64299240571907,hurricane,True
-673,supermarket,29.91609617505107,-95.48579146000293,hurricane,True
-674,supermarket,29.99687684780793,-95.1737837363252,hurricane,True
-675,supermarket,29.85795272187979,-95.7182512022405,hurricane,True
-676,supermarket,29.6636796135787,-95.09753837083363,hurricane,True
-677,supermarket,29.55505299500529,-95.39882267232075,hurricane,True
-678,supermarket,29.70136178478309,-95.36334554197302,hurricane,True
-679,supermarket,29.689481721883,-95.5015416661288,hurricane,True
-680,supermarket,29.8616364966701,-95.64655273637409,hurricane,True
-681,supermarket,29.543042253436,-95.54761556079066,hurricane,True
-682,supermarket,29.78348788493169,-94.97935109592777,hurricane,True
-683,supermarket,29.5673170321693,-95.05940248485325,hurricane,True
-684,supermarket,30.04620645872543,-94.88468031847525,hurricane,True
-685,supermarket,29.80033013873947,-95.8098504554821,hurricane,True
-686,supermarket,29.74103587638599,-95.44405451254647,hurricane,True
-687,supermarket,29.88098488957677,-95.70027130678675,hurricane,True
-688,supermarket,29.95980986590051,-95.4787916598084,hurricane,True
-689,supermarket,29.48590324522631,-94.94566071763697,hurricane,True
-690,supermarket,29.83561699703288,-95.64839002207816,hurricane,False
-691,supermarket,29.6988308193589,-95.48347597033495,hurricane,True
-692,supermarket,29.8225863954113,-95.52323615464393,hurricane,True
-693,supermarket,29.73448878199551,-95.30431916562986,hurricane,True
-694,supermarket,29.86064058293776,-95.38570268813287,hurricane,True
-695,supermarket,29.82068557382549,-95.46541154252118,hurricane,True
-696,supermarket,29.67197981027812,-95.2881601155398,hurricane,True
-697,supermarket,29.78145337323308,-95.35921213347018,hurricane,True
-698,supermarket,29.70645012206518,-95.49134095598535,hurricane,True
-699,supermarket,29.69334281525013,-95.328441010271,hurricane,True
-700,supermarket,29.67232882635546,-95.53003095960405,hurricane,False
-701,supermarket,29.79736588323984,-95.36698061876868,hurricane,True
-702,supermarket,29.690220518814,-95.41511128821021,hurricane,True
-703,supermarket,29.87816439089796,-95.72201920136543,hurricane,True
-704,supermarket,29.56127114280167,-95.78977949920682,hurricane,True
-705,supermarket,29.91615477224016,-95.40438968083936,hurricane,True
-706,supermarket,29.83670058781689,-95.38527358931945,hurricane,True
-707,supermarket,29.86349080261189,-95.33473901506366,hurricane,False
-708,supermarket,29.70320408172014,-95.63885996943348,hurricane,True
-709,supermarket,29.73076304297978,-95.31082924312646,hurricane,True
-710,supermarket,29.78096801160545,-95.74908879883915,hurricane,True
-711,supermarket,29.83686059665213,-95.64466832297246,hurricane,False
-712,supermarket,29.59739134154711,-95.5253444641036,hurricane,True
-713,supermarket,30.04869124466393,-95.38834717890684,hurricane,False
-714,supermarket,29.76039702521542,-94.96546554852799,hurricane,True
-715,supermarket,29.67401782525511,-95.50765896524902,hurricane,False
-716,supermarket,29.87798178842007,-95.64882382005553,hurricane,True
-717,supermarket,29.68108451090608,-95.12463156310585,hurricane,True
-718,supermarket,29.5611423434617,-95.33012027364938,hurricane,True
-719,supermarket,29.8711737814842,-95.40611498243005,hurricane,True
-720,supermarket,29.86952505704382,-95.38341495531871,hurricane,True
-721,supermarket,29.94042699024714,-95.4612905761691,hurricane,True
-722,supermarket,29.77162937896702,-94.9969319589305,hurricane,True
-723,supermarket,29.56023093631775,-95.14011346442567,hurricane,True
-724,supermarket,30.15594441670362,-95.21292731896533,hurricane,True
-725,supermarket,29.66235943120113,-95.46488201070501,hurricane,True
-726,supermarket,29.68754882193376,-95.49132796882647,hurricane,True
-727,supermarket,29.80214835545134,-95.43130401408186,hurricane,True
-728,supermarket,29.59457444014716,-95.46632457931875,hurricane,True
-729,supermarket,29.58241974466209,-95.5267124644105,hurricane,True
-730,supermarket,29.80208639593945,-95.41590268302768,hurricane,False
-731,supermarket,30.05309669765999,-95.1835908602376,hurricane,True
-732,supermarket,29.60630470138143,-95.1269324497995,hurricane,True
-733,supermarket,29.55819756989552,-95.2649714554758,hurricane,True
-734,supermarket,30.06859329586284,-95.25174869702532,hurricane,True
-735,supermarket,29.82750786648482,-94.85000866728443,hurricane,True
-736,supermarket,29.65995291607356,-95.71340363332935,hurricane,True
-737,supermarket,29.84732947362172,-95.64765479473814,hurricane,True
-738,supermarket,30.07181434590883,-95.50188141377103,hurricane,True
-739,supermarket,29.74795112636489,-95.48515179172315,hurricane,True
-740,supermarket,29.92709404206262,-95.72522981332618,hurricane,True
-741,supermarket,30.10770585562326,-95.38752641640086,hurricane,True
-742,supermarket,29.55170409734384,-95.74755844738515,hurricane,True
-743,supermarket,29.71980192644133,-95.84840026926705,hurricane,True
-744,supermarket,29.79552007538872,-94.97737066790184,hurricane,True
-745,supermarket,29.60794821043147,-95.64593173483884,hurricane,True
-746,supermarket,30.02238572284487,-95.52738332951742,hurricane,True
-747,supermarket,30.00296192766806,-95.6390557758621,hurricane,True
-748,supermarket,29.69572560824607,-95.81599539459245,hurricane,True
-749,supermarket,29.7139417316601,-95.37683900695917,hurricane,False
-750,supermarket,29.50564797922083,-95.03876795083467,hurricane,True
-751,supermarket,30.05375399819263,-95.5769469374023,hurricane,True
-752,supermarket,29.66701289286644,-95.09676669588522,hurricane,True
-753,supermarket,29.68845537382931,-95.46411005374866,hurricane,False
-754,supermarket,29.91100056153892,-95.58604452859743,hurricane,True
-755,supermarket,29.55470113171574,-95.11780380539616,hurricane,True
-756,supermarket,29.99534546603343,-95.57611085729518,hurricane,True
-757,supermarket,29.53677281135104,-95.53649348690631,hurricane,True
-758,supermarket,29.72706739467357,-95.42716957948939,hurricane,True
-759,supermarket,29.56500852553673,-95.6852597366885,hurricane,True
-760,supermarket,29.78928250880809,-95.716734706718,hurricane,True
-761,supermarket,30.12760129561239,-95.44575325356425,hurricane,True
-762,supermarket,30.0004226527614,-95.16446739755699,hurricane,True
-763,supermarket,29.73811673458476,-95.40277033324473,hurricane,True
-764,supermarket,29.92303615071119,-95.19699648571495,hurricane,True
-765,supermarket,29.78764579186088,-95.53247980584702,hurricane,True
-766,supermarket,29.80735609462169,-95.40885518459625,hurricane,True
-767,supermarket,29.82140439047704,-95.54737852052432,hurricane,True
-768,supermarket,30.16362689503139,-95.46675787351484,hurricane,True
-769,supermarket,29.76879670209624,-95.39666318944201,hurricane,True
-770,supermarket,29.7351376224481,-95.58725466619248,hurricane,True
-771,supermarket,29.69846755306694,-95.29488859164441,hurricane,True
-772,supermarket,29.50543395730574,-95.1909118207661,hurricane,False
-773,supermarket,29.75697641853879,-95.75044710256685,hurricane,True
-774,supermarket,29.70577079028983,-95.64163360961135,hurricane,True
-775,supermarket,29.60175165743675,-95.25011832538166,hurricane,True
-776,supermarket,30.08862880193768,-95.6292403144294,hurricane,True
-777,supermarket,30.0686831127364,-95.44993236621303,hurricane,True
-778,supermarket,29.55927244685538,-95.39034470530692,hurricane,True
-779,supermarket,29.71277476741129,-95.77588938705321,hurricane,True
-780,supermarket,29.70737347814769,-95.46979405545602,hurricane,True
-781,supermarket,29.57855866532622,-95.58264399528854,hurricane,True
-782,supermarket,29.6486476302515,-95.14457258041192,hurricane,True
-783,supermarket,29.95751333908964,-95.67335326718056,hurricane,True
-784,supermarket,30.14442969982788,-95.54947840623653,hurricane,True
-785,supermarket,29.69106740952715,-95.55981511616184,hurricane,True
-786,supermarket,29.7733592476569,-95.82245322448162,hurricane,True
-787,supermarket,29.99250045344857,-95.74444271343927,hurricane,True
-788,supermarket,29.75049081948876,-95.79829788765979,hurricane,True
-789,supermarket,29.70136072201662,-95.57739104621432,hurricane,True
-790,supermarket,29.58633923338071,-95.21336844448312,hurricane,True
-791,supermarket,30.16122282424129,-95.45882775565715,hurricane,True
-792,supermarket,29.76045825053063,-94.9751688410276,hurricane,True
-793,supermarket,29.83162259221628,-95.48371016434791,hurricane,True
-794,supermarket,29.60788253779422,-95.47756327586012,hurricane,True
-795,supermarket,29.70584642006722,-95.54687965381213,hurricane,True
-796,supermarket,29.58898594578184,-95.60030124532157,hurricane,True
-797,supermarket,29.75054949242768,-95.35523926286578,hurricane,True
-798,supermarket,29.7429825072187,-95.39186129182178,hurricane,True
-799,supermarket,29.7366872226986,-95.81002169828926,hurricane,True
-800,supermarket,30.11459283699453,-95.55270293379458,hurricane,True
-801,supermarket,29.77113680851085,-95.59942963747562,hurricane,True
-802,supermarket,29.55858783614575,-95.12476796843822,hurricane,True
-803,supermarket,29.5516894528879,-95.58429845104187,hurricane,True
-804,supermarket,29.56054543921199,-95.34893251685624,hurricane,True
-805,supermarket,29.79681889941868,-95.48643686521164,hurricane,True
-806,supermarket,30.13327697314656,-95.23652841195305,hurricane,True
-807,supermarket,29.8045674949058,-95.40045148687311,hurricane,True
-808,supermarket,29.57797063200892,-95.12056426867319,hurricane,True
-809,supermarket,29.78962669832791,-95.4111994847894,hurricane,True
-810,supermarket,30.06667363401052,-95.18712452970743,hurricane,True
-811,supermarket,30.09204294442067,-95.63426131398877,hurricane,True
-812,supermarket,30.1185188302189,-95.38166087740468,hurricane,True
-813,supermarket,30.08556181025225,-95.44845711381352,hurricane,True
-814,supermarket,29.81264550587749,-95.77018249203864,hurricane,True
-815,supermarket,29.97897272289175,-95.21505907853995,hurricane,True
-816,supermarket,29.65356261347128,-95.03218668807827,hurricane,True
-817,supermarket,29.79116570858052,-95.72130700546721,hurricane,True
-818,supermarket,29.56362614981251,-95.56549385532334,hurricane,True
-819,supermarket,30.12402682999722,-95.40737577056036,hurricane,True
-820,supermarket,30.02183915171848,-95.43405756842833,hurricane,True
-821,supermarket,29.91900534047714,-95.68958820678907,hurricane,True
-822,supermarket,29.66387946611122,-95.73826161181647,hurricane,True
-823,supermarket,29.73556837801457,-95.75377779367389,hurricane,True
-824,supermarket,29.86006988856735,-95.72169786126557,hurricane,True
-825,supermarket,29.99405547587216,-95.62159730172972,hurricane,True
-826,supermarket,29.6692808537517,-95.46395262163708,hurricane,True
-827,supermarket,29.7397381451415,-95.34043286314053,hurricane,True
-828,supermarket,29.81405652786133,-95.54400080671775,hurricane,True
-829,supermarket,29.82884062601977,-95.4320299946991,hurricane,True
-830,supermarket,29.97681086987632,-95.4914933777833,hurricane,True
-831,supermarket,30.04040527074968,-95.48619853522861,hurricane,True
-832,supermarket,30.07583305162279,-95.51710919168949,hurricane,True
-833,supermarket,30.00294947994423,-95.53159434233031,hurricane,False
-834,supermarket,29.58534569563297,-95.6332876660592,hurricane,True
-835,supermarket,29.90407995890233,-95.55563678568352,hurricane,True
-836,supermarket,29.91229097455396,-95.47785438920633,hurricane,True
-837,supermarket,30.03271306562684,-95.55276898255114,hurricane,True
-838,supermarket,29.64796217136566,-95.64942843618256,hurricane,True
-839,supermarket,29.98332351512526,-95.56591530245103,hurricane,True
-840,supermarket,29.90792773107933,-95.58356486537043,hurricane,True
-841,supermarket,29.95172455712324,-95.58238391468235,hurricane,True
-842,supermarket,29.67826435388826,-95.64101468898976,hurricane,True
-843,supermarket,29.75747934025124,-95.62744097693164,hurricane,True
-844,supermarket,29.86539238453948,-95.60674043937298,hurricane,True
-845,supermarket,29.92403173752021,-95.60445756530086,hurricane,True
-846,supermarket,29.9025289208358,-95.63172928830966,hurricane,True
-847,supermarket,29.8814373559795,-95.68557283851753,hurricane,True
-848,supermarket,29.97091083594962,-95.6901656172772,hurricane,True
-849,supermarket,29.75806219827008,-95.77842020538709,hurricane,True
-850,supermarket,29.75242815152935,-95.60529097081417,hurricane,True
-851,supermarket,29.87026875481473,-95.64370875371036,hurricane,True
-852,supermarket,29.58306696795064,-95.38986297539019,hurricane,False
-853,supermarket,29.75410353540427,-95.40551098183138,hurricane,True
-854,supermarket,29.70865506920063,-95.68590810118317,hurricane,True
-855,supermarket,29.73638144977087,-95.54530187285783,hurricane,True
-856,supermarket,29.74825128381047,-95.50009192488848,hurricane,True
-857,supermarket,29.77329477394361,-95.38983412399021,hurricane,True
-858,supermarket,30.00107523750538,-95.16091572343979,hurricane,True
-859,supermarket,29.92468341561012,-95.20387487787424,hurricane,True
-860,supermarket,29.70058624510342,-95.81150670551976,hurricane,True
-861,supermarket,29.72725620476081,-95.43088892952895,hurricane,True
-862,supermarket,30.07204607585335,-95.24296146812233,hurricane,True
-863,supermarket,29.60316109996934,-95.21490856335215,hurricane,True
-864,supermarket,29.5356211105781,-95.20585901062056,hurricane,False
-865,supermarket,29.54151351953443,-95.75073404202158,hurricane,True
-866,supermarket,29.76286819652353,-95.84391944548376,hurricane,True
-867,supermarket,29.86672039191984,-95.68399131158672,hurricane,True
-868,supermarket,29.88266617864114,-95.39165288561584,hurricane,False
-869,supermarket,29.87846798894974,-95.66712481536095,hurricane,True
-870,supermarket,29.78424040037294,-95.20345665028968,hurricane,True
-871,supermarket,29.79119310174453,-95.52097455663001,hurricane,True
-872,supermarket,29.85822819264451,-95.42118279415484,hurricane,True
-873,supermarket,29.75432030387162,-95.3616240990621,hurricane,True
-874,supermarket,30.02992495166679,-95.48000835629367,hurricane,True
-875,supermarket,29.84952109538003,-95.68280441266621,hurricane,True
-876,supermarket,29.73408381698358,-95.62616393230135,hurricane,True
-877,supermarket,30.07100939328335,-95.50793534625892,hurricane,True
-878,supermarket,29.77116922449645,-95.59920071253266,hurricane,True
-879,supermarket,29.62163973766907,-95.55782635473663,hurricane,True
-880,supermarket,29.56585123531898,-95.14491806294703,hurricane,True
-881,supermarket,29.97965676389751,-95.50886387620905,hurricane,True
-882,supermarket,29.77942851082477,-95.71700200709155,hurricane,True
-883,supermarket,30.14039731093738,-95.47216652820804,hurricane,True
-884,supermarket,29.74879734453362,-95.4657522346485,hurricane,True
-885,supermarket,29.77180632963785,-95.60717576746701,hurricane,True
-886,supermarket,29.65645277442476,-95.58402127550912,hurricane,True
-887,supermarket,29.67278639386016,-95.458809253798,hurricane,False
-888,supermarket,29.70472997120374,-95.42584965181864,hurricane,True
-889,supermarket,29.77384013359431,-95.55932787960148,hurricane,True
-890,supermarket,29.7377037563422,-95.57011095545845,hurricane,True
-891,supermarket,29.81355567093826,-95.71889590907672,hurricane,True
-892,supermarket,29.74895654140443,-95.3744298840205,hurricane,True
-893,supermarket,29.95598523130955,-95.67073288991924,hurricane,True
-894,supermarket,29.55439529649359,-95.37943026931426,hurricane,True
-895,supermarket,29.53865544220981,-95.06312624614257,hurricane,True
-896,supermarket,29.62202247479257,-95.74224127265137,hurricane,True
-897,supermarket,29.83278914981792,-95.68370889318955,hurricane,True
-898,supermarket,29.73872674501556,-95.53716715783278,hurricane,True
-899,supermarket,29.70624553337751,-95.46976199251428,hurricane,True
-900,supermarket,29.75989302292354,-95.74982930659398,hurricane,True
-901,supermarket,29.72173051528349,-95.44245066181527,hurricane,True
-902,supermarket,29.59303861057286,-95.14064172085868,hurricane,False
-903,supermarket,29.74659730968327,-95.48637466747071,hurricane,True
-904,supermarket,29.76702440771996,-95.55149604990787,hurricane,True
-905,supermarket,29.58262032055396,-95.76339336099366,hurricane,True
-906,supermarket,29.58407513696346,-95.75465749315629,hurricane,True
-907,supermarket,29.81053579795372,-95.52564675456847,hurricane,True
-908,supermarket,29.711708010956,-95.3128392134565,hurricane,True
-909,supermarket,29.86578969163843,-95.6702744151301,hurricane,True
-910,supermarket,29.80196339646209,-95.43050867929372,hurricane,False
-911,supermarket,29.77459310103126,-95.40023728826806,hurricane,True
-912,supermarket,29.88054357283269,-95.64690760242901,hurricane,True
-913,supermarket,30.01197166005003,-95.58754413161161,hurricane,True
-914,supermarket,29.55807296869611,-95.34820522515041,hurricane,False
-915,supermarket,29.79246644547691,-95.52075421062935,hurricane,True
-916,supermarket,29.81118340336111,-95.68787751309759,hurricane,True
-917,supermarket,29.69284323441225,-95.41913146306497,hurricane,True
-918,supermarket,29.65806619133752,-95.70980953732949,hurricane,True
-919,supermarket,29.78214991023778,-95.71604700721318,hurricane,True
-920,supermarket,29.83166769989715,-95.7085629068978,hurricane,True
-921,supermarket,29.82108259577634,-95.52493715427647,hurricane,True
-922,supermarket,30.04546952814081,-94.8923289065371,hurricane,True
-923,supermarket,29.7391952086482,-95.41116228704809,hurricane,True
-924,supermarket,29.75274140894423,-95.50162086329726,hurricane,True
-925,supermarket,29.74041302076066,-95.77534859395878,hurricane,True
-926,supermarket,30.17637642386942,-95.53581463524698,hurricane,True
-927,supermarket,29.73537337523493,-95.58239012942481,hurricane,True
-928,supermarket,29.73811021611467,-95.62478483247412,hurricane,True
-929,supermarket,29.75846934557529,-95.73107905543907,hurricane,True
-930,supermarket,29.55632704130909,-95.41577382492626,hurricane,True
-931,supermarket,29.89794988754091,-95.683263482359,hurricane,True
-932,supermarket,29.68741731016091,-95.58607265861477,hurricane,True
-933,supermarket,29.97801651333207,-95.19315357620843,hurricane,True
-934,supermarket,29.98128909508205,-95.61048888415162,hurricane,True
-935,supermarket,29.74398482063432,-95.79302688929376,hurricane,True
-936,supermarket,30.06932783441948,-95.21450702255282,hurricane,True
-937,supermarket,29.84424900015317,-95.64485146959281,hurricane,True
-938,supermarket,30.06434774208893,-95.40597497367108,hurricane,True
-939,supermarket,29.67441745076271,-95.49548594434424,hurricane,True
-940,supermarket,29.65700082949273,-95.53001596028528,hurricane,True
-941,supermarket,29.94237477641566,-95.68057190902756,hurricane,True
-942,supermarket,29.65209483344095,-95.61739293817853,hurricane,True
-943,supermarket,29.75861481554477,-95.73105390443898,hurricane,True
-944,supermarket,29.49903894846068,-95.12558437081334,hurricane,True
-945,supermarket,29.53659785372747,-95.51671796896818,hurricane,True
-946,supermarket,29.54592162445461,-95.23588651146936,hurricane,True
-947,supermarket,30.13429473292295,-95.55059293342164,hurricane,True
-948,supermarket,29.69753483173396,-95.84126187907651,hurricane,True
-949,supermarket,29.63080182504291,-95.2376170363143,hurricane,True
-950,supermarket,29.67926182599242,-95.56131095130263,hurricane,True
-951,supermarket,29.64406422359004,-95.57304647485978,hurricane,True
-952,supermarket,29.57333983838471,-95.2831240271611,hurricane,True
-953,supermarket,30.00899574912226,-95.2834800076115,hurricane,True
-954,supermarket,29.73547981281524,-95.51168496149252,hurricane,True
-955,supermarket,29.81716387520333,-94.89682671567948,hurricane,True
-956,supermarket,29.73315184899388,-95.59138455722585,hurricane,True
-957,supermarket,29.99567174814588,-95.17643703569847,hurricane,True
-958,supermarket,29.79320027182978,-95.56485667532202,hurricane,True
-959,supermarket,29.8943727650855,-95.065659068759,hurricane,True
-960,supermarket,29.69345284524816,-95.21037242954482,hurricane,True
-961,supermarket,30.15146641791726,-95.22154611695906,hurricane,True
-962,supermarket,29.61350323624792,-95.64453042195206,hurricane,True
-963,supermarket,29.91314875868508,-95.48675371989029,hurricane,True
-964,supermarket,29.76803895680286,-95.17705518478965,hurricane,True
-965,supermarket,29.72118016133834,-95.6473949624553,hurricane,True
-966,supermarket,29.80597100561457,-95.16518245514696,hurricane,True
-967,supermarket,29.71615813204621,-95.31293048123587,hurricane,True
-968,supermarket,30.0773533001606,-95.51271331274415,hurricane,True
-969,supermarket,29.78918718801446,-95.72221325132477,hurricane,True
-970,supermarket,29.77281016843324,-95.40132745606849,hurricane,True
-971,supermarket,29.82995880491808,-95.37714501070438,hurricane,True
-972,supermarket,29.99820625226737,-95.48419104267512,hurricane,True
-973,supermarket,30.11449773122482,-95.38704397621088,hurricane,True
-974,supermarket,29.72299951578762,-95.46502102098343,hurricane,True
-975,supermarket,29.8606258752738,-95.71643935858202,hurricane,True
-976,supermarket,29.93650890086985,-95.25274422979484,hurricane,True
-977,supermarket,29.53482228751375,-95.01830394983234,hurricane,True
-978,supermarket,29.91802347624463,-95.41561469187982,hurricane,True
-979,supermarket,29.81890372051461,-95.7675661064241,hurricane,True
-980,supermarket,29.69011574298792,-95.77461778738497,hurricane,True
-981,supermarket,29.55180975769093,-95.15925074587865,hurricane,True
-982,supermarket,29.5581153208388,-95.3827215413092,hurricane,True
-983,supermarket,29.57342530488899,-95.56803471724527,hurricane,True
-984,supermarket,29.86064779426939,-95.71644090358062,hurricane,True
-985,supermarket,29.87696362472958,-95.6518008773414,hurricane,True
-986,supermarket,29.55720938563264,-95.75994427898725,hurricane,True
-987,supermarket,30.10697197340625,-95.23361707991447,hurricane,True
-988,supermarket,29.66690712199958,-95.10008310403765,hurricane,True
-989,supermarket,29.78874181534596,-95.4651879670097,hurricane,True
-990,supermarket,29.97587893720716,-95.69785997108619,hurricane,True
-991,supermarket,30.06468895487171,-95.43047186538041,hurricane,True
-992,supermarket,29.78398634286498,-95.80400715170488,hurricane,True
-993,supermarket,30.0758138473867,-95.62492501712356,hurricane,True
-994,supermarket,29.91993897827694,-95.60224243005268,hurricane,True
-995,supermarket,30.01416866486525,-95.59508368658386,hurricane,True
-996,supermarket,30.12351693286164,-95.4577449316824,hurricane,True
-997,supermarket,29.776269848252,-94.97446957050525,hurricane,True
-998,supermarket,29.85390615453542,-95.50908993585293,hurricane,True
-999,supermarket,29.64660681923487,-95.16136805518867,hurricane,True
-1000,supermarket,29.58262674651795,-95.58339754991769,hurricane,True
-1001,supermarket,29.7414631096639,-95.45483137576956,hurricane,True
-1002,supermarket,29.73509171488909,-95.57049974647548,hurricane,True
-1003,supermarket,29.81369739295956,-95.39813638705702,hurricane,True
-1004,supermarket,29.75787902936164,-95.3975601466991,hurricane,True
-1005,supermarket,29.70695471528081,-95.44161542668483,hurricane,True
-1006,supermarket,29.71236772635741,-95.77185599609938,hurricane,True
-1007,supermarket,29.73946223882944,-95.41812613325334,hurricane,True
-1008,supermarket,29.75246170894616,-95.49999186372638,hurricane,True
-1009,supermarket,29.60002264429427,-95.62332103895915,hurricane,True
-1010,supermarket,30.169396478991,-95.47048443329251,hurricane,True
-1011,supermarket,29.7495894082397,-95.46186507360781,hurricane,True
-1012,supermarket,29.66131738389115,-95.68663052009859,hurricane,True
+lat,lon,id,dest_type,name,hazard,operational
+29.72221478,-95.4423051,0,medical_clinic,AFC Urgent Care Houston,hurricane,TRUE
+29.71211951,-95.31237101,1,medical_clinic,Accident Injury Rehab Clinic,hurricane,FALSE
+30.05490254,-95.18707433,2,medical_clinic,Action Chiropractic,hurricane,FALSE
+29.7869157,-95.53070255,3,medical_clinic,Ageless Men's Health,hurricane,FALSE
+29.81371589,-95.40970088,4,medical_clinic,AnyLabTestNow,hurricane,FALSE
+29.54044564,-95.12796667,5,medical_clinic,Bay Area Surgicare Center,hurricane,FALSE
+29.69868052,-95.39436903,6,medical_clinic,Baylor College of Medicine Medical Center,hurricane,FALSE
+29.73325851,-95.41842659,7,medical_clinic,Baylor Family Practice,hurricane,FALSE
+29.70527972,-95.42066229,8,medical_clinic,Baylor Saint Luke’s Emergency Center–Holcombe,hurricane,FALSE
+29.8023383,-95.43211178,9,medical_clinic,Bayou City Healthcare,hurricane,FALSE
+29.74469139,-94.9766751,10,medical_clinic,Baytown Health Center,hurricane,FALSE
+29.96612527,-95.54075544,11,medical_clinic,Bellissima Women's Clinic,hurricane,FALSE
+30.11975863,-95.37914858,12,medical_clinic,Bender's Landing Urgent Care,hurricane,FALSE
+29.67613882,-95.42686199,13,medical_clinic,Brae Valley Surgical Center,hurricane,FALSE
+29.78595843,-95.68678621,14,medical_clinic,Clear Dermatology,hurricane,FALSE
+30.10263853,-95.23528852,15,medical_clinic,Clinica Hispana,hurricane,FALSE
+29.84482209,-95.38480299,16,medical_clinic,Clinica Hispana,hurricane,FALSE
+29.83716651,-95.37651012,17,medical_clinic,Clinica Hispana Berry,hurricane,FALSE
+29.70458391,-95.3590052,18,medical_clinic,Clutch City Dialysis,hurricane,FALSE
+29.89562889,-95.68303521,19,medical_clinic,Cy-Fair Medical Partners,hurricane,FALSE
+29.92589208,-95.58811783,20,medical_clinic,Cy-Fair Surgery Center,hurricane,FALSE
+29.83876635,-95.37627532,21,medical_clinic,DaVita Dialysis,hurricane,FALSE
+30.13143772,-95.23816931,22,medical_clinic,DaVita Dialysis,hurricane,FALSE
+29.83318559,-95.38331679,23,medical_clinic,DaVita Dialysis,hurricane,FALSE
+29.99371027,-95.73903849,24,medical_clinic,DaVita Dialysis,hurricane,FALSE
+29.74299115,-95.34851317,25,medical_clinic,DaVita Summit Dialysis Center,hurricane,FALSE
+29.80463602,-95.38854911,26,medical_clinic,Davita,hurricane,FALSE
+29.74429291,-95.36691856,27,medical_clinic,Davita Dialysis,hurricane,FALSE
+29.7726621,-95.39889529,28,medical_clinic,Doctors Express Urgent Care,hurricane,FALSE
+29.77637302,-95.82252948,29,medical_clinic,ERKaty,hurricane,FALSE
+29.73494846,-95.30588421,30,medical_clinic,East Central Houston Dialysis Center,hurricane,FALSE
+29.68012077,-95.57229091,31,medical_clinic,El Franco Lee Health Center,hurricane,FALSE
+30.06474254,-95.24611081,32,medical_clinic,Epione Health Clinic,hurricane,FALSE
+30.13085282,-95.23271762,33,medical_clinic,Express Family Clinic,hurricane,FALSE
+30.06463584,-95.24614031,34,medical_clinic,Family Health Clinic,hurricane,FALSE
+29.79907611,-95.71992341,35,medical_clinic,Family Medicine,hurricane,FALSE
+29.91539588,-95.48560776,36,medical_clinic,First Choice Emergency Room,hurricane,FALSE
+29.76275734,-95.84132308,37,medical_clinic,First Choice Emergency Room,hurricane,FALSE
+29.92544291,-95.19633696,38,medical_clinic,First Choice Emergency Room,hurricane,FALSE
+29.99162157,-95.74713349,39,medical_clinic,First Choice Emergency Room,hurricane,FALSE
+29.65274871,-95.03129839,40,medical_clinic,First Choice Emergency Room,hurricane,FALSE
+29.75207731,-95.62471093,41,medical_clinic,First Choice Emergency Room,hurricane,FALSE
+29.58149075,-95.56463285,42,medical_clinic,Fresenius Kidney Care Fort Bend,hurricane,FALSE
+29.58251764,-95.52898966,43,medical_clinic,Fresenius Kidney Care Missouri City,hurricane,FALSE
+29.84688553,-95.40825581,44,medical_clinic,Grainger Diagnostic Clinic,hurricane,FALSE
+29.70393802,-95.42140209,45,medical_clinic,Gramercy Outpatient Surgery Center,hurricane,FALSE
+29.70397431,-95.29667652,46,medical_clinic,Gulfgate Clinic,hurricane,FALSE
+29.69976339,-95.28560796,47,medical_clinic,Gulfgate Community Health Center,hurricane,FALSE
+29.93563084,-95.24471672,48,medical_clinic,HealthOne Emergency Care,hurricane,FALSE
+30.06018724,-95.24799991,49,medical_clinic,Her Healthcare,hurricane,FALSE
+29.55157745,-95.58575495,50,medical_clinic,Hospitality Urgent Care,hurricane,FALSE
+29.60449204,-95.63182544,51,medical_clinic,Houston Eye Associates,hurricane,FALSE
+29.81406559,-95.39825779,52,medical_clinic,Houston Heights Emergency Room,hurricane,FALSE
+29.74996551,-95.49980896,53,medical_clinic,Houston Methodist Emergency Care,hurricane,FALSE
+29.72212761,-95.4590253,54,medical_clinic,Houston Methodist Orthopedics,hurricane,FALSE
+29.92727768,-95.58461923,55,medical_clinic,Houston Revival Center,hurricane,FALSE
+29.701068,-95.39268551,56,medical_clinic,Jamail Specialty Care Center,hurricane,FALSE
+29.80147341,-95.72007091,57,medical_clinic,Katy Centro Medico Hispano,hurricane,FALSE
+29.68815382,-95.46067698,58,medical_clinic,Kelsey Seybold clinic,hurricane,FALSE
+30.04594304,-95.18326143,59,medical_clinic,Kelsey-Sebold Clinic,hurricane,TRUE
+30.05048124,-95.24705972,60,medical_clinic,Kingwood Spine and Wellness,hurricane,FALSE
+29.88287428,-95.39136049,61,medical_clinic,La Michoacana Medical Clinic,hurricane,TRUE
+29.71784141,-95.29415612,62,medical_clinic,Lawndale Medical Clinic,hurricane,FALSE
+29.75613503,-95.62606957,63,medical_clinic,Lifeline Urgent Care,hurricane,FALSE
+29.82198149,-95.40974838,64,medical_clinic,Lifesavers 24/7 Emergency Room,hurricane,FALSE
+29.69541169,-95.39893405,65,medical_clinic,MD Anderson Proton Therapy Center,hurricane,FALSE
+29.78622015,-95.68704801,66,medical_clinic,Manis Health,hurricane,FALSE
+29.72940541,-95.41252929,67,medical_clinic,Maxim Hair Restoration,hurricane,FALSE
+29.81660691,-95.76994749,68,medical_clinic,MedExpress,hurricane,FALSE
+29.76995811,-95.59077504,69,medical_clinic,MedSpring Urgent Care,hurricane,FALSE
+29.78714182,-95.78723815,70,medical_clinic,Medical Plaza 1,hurricane,FALSE
+29.78714639,-95.78827167,71,medical_clinic,Medical Plaza 2,hurricane,FALSE
+29.77433416,-95.39110324,72,medical_clinic,Memorial Hermann Convenient Care Center,hurricane,FALSE
+30.08640484,-95.53553234,73,medical_clinic,Memorial Hermann Convenient Care Center in Spring,hurricane,FALSE
+29.73448281,-95.42250498,74,medical_clinic,Memorial Hermann Imaging Center,hurricane,FALSE
+30.04760814,-95.18379613,75,medical_clinic,Memorial Hermann Medical Group,hurricane,TRUE
+29.90440728,-95.63178522,76,medical_clinic,Memorial Hermann Medical Group Copperfield,hurricane,FALSE
+30.04752804,-95.18397993,77,medical_clinic,Memorial Hermann Sports Medicine and Rehabilitation,hurricane,TRUE
+29.7939911,-95.51362716,78,medical_clinic,Memorial MRI & Diagnostic,hurricane,FALSE
+29.7764978,-95.41127099,79,medical_clinic,Men's T Clinic,hurricane,FALSE
+29.74391871,-95.3645661,80,medical_clinic,Midtown Pain & Rehabilitation Center,hurricane,FALSE
+29.74468441,-95.36528061,81,medical_clinic,Midtown Surgical Center,hurricane,FALSE
+29.86113899,-95.64573602,82,medical_clinic,Neighbors Emergency Center,hurricane,TRUE
+29.89677508,-95.63704452,83,medical_clinic,Next Level Urgent Care,hurricane,FALSE
+29.82736439,-95.42923458,84,medical_clinic,Night Light Pediatric Urgent Care,hurricane,FALSE
+29.99356397,-95.73972509,85,medical_clinic,North Cypress Emergency Room,hurricane,FALSE
+30.02321485,-95.43535677,86,medical_clinic,North Houston Endoscopy & Surgery,hurricane,FALSE
+29.8121318,-95.4352911,87,medical_clinic,Physician Specialty Center,hurricane,FALSE
+29.91683846,-95.63069037,88,medical_clinic,Placemark,hurricane,FALSE
+30.07350008,-95.50374137,89,medical_clinic,Placemark,hurricane,FALSE
+29.9445912,-95.64776562,90,medical_clinic,Placemark,hurricane,TRUE
+29.91627814,-95.63078268,91,medical_clinic,Placemark,hurricane,FALSE
+29.72278065,-95.46764382,92,medical_clinic,Placemark,hurricane,FALSE
+29.70403532,-95.46817112,93,medical_clinic,Placemark,hurricane,FALSE
+29.80113019,-95.42547574,94,medical_clinic,Placemark,hurricane,FALSE
+29.92015211,-95.6135122,95,medical_clinic,Placemark,hurricane,FALSE
+30.073527,-95.49851121,96,medical_clinic,Placemark,hurricane,FALSE
+29.91607415,-95.63117262,97,medical_clinic,Placemark,hurricane,FALSE
+29.73626883,-95.57222597,98,medical_clinic,Placemark,hurricane,FALSE
+29.91669626,-95.62970778,99,medical_clinic,Placemark,hurricane,FALSE
+29.91907198,-95.61259096,100,medical_clinic,Placemark,hurricane,FALSE
+29.70650882,-95.48312497,101,medical_clinic,Planned Parenthood,hurricane,FALSE
+30.06062364,-95.24788911,102,medical_clinic,Quest Diagnostics,hurricane,FALSE
+29.75380321,-95.40610399,103,medical_clinic,Restore Hyper Wellness & Cryotherapy,hurricane,FALSE
+29.72573731,-95.3774278,104,medical_clinic,Rheumatic Disease Clinic of Houston,hurricane,FALSE
+29.73109201,-95.36187415,105,medical_clinic,Riverside Dialysis Center,hurricane,FALSE
+29.72583652,-95.31593566,106,medical_clinic,San Antonio Clinic,hurricane,FALSE
+29.72605281,-95.31744861,107,medical_clinic,Santa Clara Family Clinic,hurricane,FALSE
+29.81806399,-95.42916958,108,medical_clinic,Select Physical Therapy,hurricane,FALSE
+29.72277981,-95.46763637,109,medical_clinic,SignatureCare Emergency Center,hurricane,FALSE
+29.73627771,-95.57222585,110,medical_clinic,SignatureCare Emergency Center,hurricane,FALSE
+29.70524124,-95.42151166,111,medical_clinic,"Spencer R. Berthelsen, M.D., Main Campus",hurricane,FALSE
+29.8003115,-95.49449276,112,medical_clinic,Spring Branch Hillendahl Clinic,hurricane,FALSE
+30.05772295,-95.54400504,113,medical_clinic,Spring Urgent Care,hurricane,FALSE
+29.93522626,-95.21523343,114,medical_clinic,Summer Creek Physicians,hurricane,FALSE
+29.80669629,-95.39908059,115,medical_clinic,Texas Children's Pedatrics,hurricane,FALSE
+29.70445501,-95.34483721,116,medical_clinic,Texas Children's Pediatrics Cullen,hurricane,FALSE
+29.69621731,-95.29714312,117,medical_clinic,Texas Children's Pediatrics Gulfgate,hurricane,FALSE
+30.08344711,-95.62902474,118,medical_clinic,Texas Sports Medicine Center,hurricane,FALSE
+30.04869774,-95.23561742,119,medical_clinic,The Center for Wound Care,hurricane,FALSE
+30.04870154,-95.23545392,120,medical_clinic,The Woman's Place Kingwood,hurricane,FALSE
+29.7767746,-95.3654535,121,medical_clinic,Thomas Street Health Center,hurricane,FALSE
+30.05183984,-95.18625163,122,medical_clinic,Town Center Family Practice,hurricane,TRUE
+30.04834454,-95.18523263,123,medical_clinic,Town Center Foot and Ankle,hurricane,TRUE
+29.71881701,-95.34433449,124,medical_clinic,UH Health Center,hurricane,FALSE
+30.13914292,-95.22694662,125,medical_clinic,UTMB Health Regional Maternal and Child Health Program,hurricane,FALSE
+29.93512286,-95.21524003,126,medical_clinic,Urgent Care & Weight Loss,hurricane,FALSE
+29.7076125,-95.50022692,127,medical_clinic,Vallbona Health Center,hurricane,FALSE
+29.85035218,-95.38396319,128,medical_clinic,Vecino Airline Children's Clinic,hurricane,FALSE
+29.7802962,-95.30986151,129,medical_clinic,Vecino's Denver Harbor Family Clinic,hurricane,FALSE
+29.83065325,-95.70728386,130,medical_clinic,West Houston Community Health Center,hurricane,FALSE
+29.66115488,-95.68651892,131,medical_clinic,West Oaks Urgent Care,hurricane,FALSE
+29.7708553,-95.40922669,132,medical_clinic,Woman's Health,hurricane,FALSE
+29.74715205,-95.36443141,133,medical_clinic,Women's Outpatient Center,hurricane,FALSE
+29.74227012,-95.500856,134,primary_school,AL-HADI SCHOOL OF ACCELERATIVE LEARNING,hurricane,FALSE
+29.6724513,-95.2768296,135,primary_school,ALCOTT EL,hurricane,FALSE
+29.6876826,-95.60782669,136,primary_school,ALEXANDER EL,hurricane,FALSE
+29.71315525,-95.590799,137,primary_school,ALIEF MONTESSORI COMMUNITY SCHOOL,hurricane,FALSE
+29.60041047,-95.41742955,138,primary_school,ALMEDA EL,hurricane,FALSE
+29.8681522,-95.43049303,139,primary_school,ANDERSON ACADEMY,hurricane,FALSE
+29.64914955,-95.48797655,140,primary_school,ANDERSON EL,hurricane,TRUE
+30.03691305,-95.33351567,141,primary_school,ANDERSON EL,hurricane,FALSE
+29.9426878,-95.7175899,142,primary_school,ANDRE EL,hurricane,FALSE
+29.7396152,-95.39320718,143,primary_school,ANNUNCIATION ORTHODOX SCHOOL,hurricane,FALSE
+29.8114892,-95.4129218,144,primary_school,ARABIC IMMERSION MAGNET SCHOOL,hurricane,FALSE
+29.79650812,-95.82177788,145,primary_school,ARISTOI CLASSICAL ACADEMY,hurricane,FALSE
+29.6152692,-95.2507591,146,primary_school,ARLYNE & ALAN WEBER EL,hurricane,FALSE
+29.594188,-95.115463,147,primary_school,ARMAND BAYOU EL,hurricane,FALSE
+29.59515153,-95.11288663,148,primary_school,ARMAND BAYOU MONTESSORI,hurricane,FALSE
+29.9377466,-95.3976872,149,primary_school,ARROW ACADEMY - HARVEST PREPARATORY ACADEMY,hurricane,FALSE
+29.74023727,-95.55316249,150,primary_school,ASCENSION EPISCOPAL SCHOOL,hurricane,FALSE
+29.751442,-95.577365,151,primary_school,ASKEW EL,hurricane,FALSE
+29.871472,-95.387489,152,primary_school,ASSUMPTION CATHOLIC SCHOOL,hurricane,FALSE
+29.77928287,-95.321203,153,primary_school,ATHERTON EL,hurricane,FALSE
+29.60736686,-95.2405819,154,primary_school,ATKINSON EL,hurricane,FALSE
+30.0010485,-95.734953,155,primary_school,AULT EL,hurricane,FALSE
+29.67223254,-95.43684929,156,primary_school,AVONDALE HOUSE,hurricane,FALSE
+29.7770024,-95.1385389,157,primary_school,B H HAMBLEN EL,hurricane,FALSE
+29.67267373,-95.197903,158,primary_school,BAILEY EL,hurricane,FALSE
+29.8530131,-95.52754791,159,primary_school,BANE EL,hurricane,FALSE
+29.874882,-95.3698,160,primary_school,BARRICK EL,hurricane,FALSE
+29.6724513,-95.2768296,161,primary_school,BASTIAN EL,hurricane,FALSE
+29.7857086,-95.2460095,162,primary_school,BAY AREA MONTESSORI HOUSE,hurricane,TRUE
+29.56653609,-95.02612893,163,primary_school,BAY EL,hurricane,FALSE
+29.78199729,-94.96415709,164,primary_school,BAYTOWN CHRISTIAN ACADEMY,hurricane,FALSE
+29.70103875,-95.34569938,165,primary_school,BEATRICE MAYES INSTITUTE CHARTER SCHOOL,hurricane,FALSE
+29.64406562,-95.5497546,166,primary_school,BELL EL,hurricane,TRUE
+29.716431,-95.491761,167,primary_school,BENAVIDEZ EL,hurricane,FALSE
+29.827233,-95.48206,168,primary_school,BENBROOK EL,hurricane,TRUE
+29.98299435,-95.4812351,169,primary_school,BENEKE EL,hurricane,FALSE
+30.03491525,-95.48604868,170,primary_school,BENFER EL,hurricane,FALSE
+30.090246,-95.590627,171,primary_school,BERNSHAUSEN EL,hurricane,FALSE
+29.83763489,-95.3493295,172,primary_school,BERRY EL,hurricane,FALSE
+29.6722326,-95.55201445,173,primary_school,BEST EL,hurricane,FALSE
+29.8335759,-95.668459,174,primary_school,BIRKES EL,hurricane,FALSE
+30.0243099,-95.6732211,175,primary_school,BLACK EL,hurricane,FALSE
+29.9294756,-95.40438772,176,primary_school,BLACK EL,hurricane,FALSE
+29.68787515,-95.5192132,177,primary_school,BONHAM EL,hurricane,TRUE
+29.676315,-95.261398,178,primary_school,BONNER EL,hurricane,FALSE
+29.7254898,-95.4221409,179,primary_school,BOONE EL,hurricane,FALSE
+29.69547265,-95.48858125,180,primary_school,BRAEBURN EL,hurricane,FALSE
+29.7492191,-95.49094179,181,primary_school,BRIARGROVE EL,hurricane,FALSE
+29.725713,-95.513925,182,primary_school,BRIARMEADOW CHARTER,hurricane,FALSE
+29.702507,-95.2776342,183,primary_school,BROOKLINE EL,hurricane,TRUE
+29.603132,-95.10681085,184,primary_school,BROOKWOOD EL,hurricane,FALSE
+29.79630207,-95.37789144,185,primary_school,BROWNING EL,hurricane,FALSE
+29.8628708,-95.3342881,186,primary_school,BRUCE EL,hurricane,TRUE
+29.81997825,-95.52410426,187,primary_school,BUFFALO CREEK EL,hurricane,FALSE
+29.5608529,-95.11379729,188,primary_school,BUNKER HILL EL,hurricane,FALSE
+29.8448741,-95.37306829,189,primary_school,BURBANK EL,hurricane,FALSE
+29.74602645,-95.31857536,190,primary_school,BURNET EL,hurricane,FALSE
+29.59030363,-95.20146667,191,primary_school,BURNETT ELEMENTARY,hurricane,TRUE
+29.816541,-95.390843,192,primary_school,BURRUS EL,hurricane,FALSE
+29.758189,-95.62546,193,primary_school,BUSH EL,hurricane,FALSE
+29.7011362,-95.55368912,194,primary_school,BUSH EL,hurricane,FALSE
+29.92355205,-95.40917971,195,primary_school,BUSSEY EL,hurricane,FALSE
+29.73553686,-95.33363,196,primary_school,CAGE EL,hurricane,FALSE
+29.9469167,-95.3579566,197,primary_school,CALVERT EL,hurricane,FALSE
+29.87967405,-95.45598818,198,primary_school,CARAWAY EL,hurricane,FALSE
+29.92880705,-95.48779386,199,primary_school,CARMICHAEL EL,hurricane,FALSE
+29.6817073,-95.1451104,200,primary_school,CARPENTER EL,hurricane,FALSE
+29.7268605,-95.310246,201,primary_school,CARRILLO EL,hurricane,FALSE
+29.9182784,-95.46589782,202,primary_school,CARTER ACADEMY,hurricane,FALSE
+29.8118474,-95.50355591,203,primary_school,CEDAR BROOK EL,hurricane,FALSE
+29.81369384,-95.50091139,204,primary_school,CENTRAL CHRISTIAN ACADEMY,hurricane,FALSE
+29.698105,-95.56645986,205,primary_school,CHAMBERS EL,hurricane,FALSE
+29.70965525,-95.57627344,206,primary_school,CHANCELLOR EL,hurricane,FALSE
+29.9211964,-95.6287531,207,primary_school,CHRIST THE REDEEMER,hurricane,FALSE
+29.85064006,-95.4880589,208,primary_school,CHRISTIAN SCHOOL OF NORTHWEST HOUSTON,hurricane,FALSE
+29.78138216,-95.19126606,209,primary_school,CIMARRON EL,hurricane,FALSE
+29.83255535,-95.51649871,210,primary_school,CLAY ROAD BAPTIST SCHOOL,hurricane,FALSE
+29.56652582,-95.12025748,211,primary_school,CLEAR LAKE CITY EL,hurricane,FALSE
+29.7408042,-95.460888,212,primary_school,CLOUD OF LIGHT CHRISTIAN ACADEMY,hurricane,FALSE
+29.77673349,-95.17598581,213,primary_school,CLOVERLEAF EL,hurricane,FALSE
+29.633594,-95.344649,214,primary_school,CODWELL EL,hurricane,FALSE
+29.7104093,-95.55487023,215,primary_school,COLLINS EL,hurricane,FALSE
+29.94531485,-95.47157993,216,primary_school,CONLEY EL,hurricane,FALSE
+29.82548135,-95.31841943,217,primary_school,COOK JR EL,hurricane,FALSE
+29.85863006,-95.349809,218,primary_school,COOP EL,hurricane,FALSE
+29.67707828,-95.29342447,219,primary_school,CORNELIUS EL,hurricane,FALSE
+29.67516853,-95.44018073,220,primary_school,CORPUS CHRISTI CATHOLIC SCHOOL,hurricane,FALSE
+29.9978436,-95.6541981,221,primary_school,COVENANT ACADEMY,hurricane,FALSE
+30.14291775,-95.51346818,222,primary_school,CREEKSIDE FOREST EL,hurricane,FALSE
+30.1407238,-95.5445616,223,primary_school,CREEKVIEW EL,hurricane,FALSE
+29.70059558,-95.28583042,224,primary_school,CRESPO EL,hurricane,FALSE
+29.77375304,-95.37949994,225,primary_school,CROCKETT EL,hurricane,FALSE
+29.899556,-95.06359813,226,primary_school,CROSBY EL,hurricane,FALSE
+30.1413048,-95.5080505,227,primary_school,CUNAE INTERNATIONAL SCHOOL,hurricane,FALSE
+29.716673,-95.468194,228,primary_school,CUNNINGHAM EL,hurricane,FALSE
+30.0206523,-95.3291055,229,primary_school,CYPRESSWOOD EL,hurricane,FALSE
+29.93222595,-95.59907361,230,primary_school,DANISH EL,hurricane,FALSE
+29.71449888,-95.2839556,231,primary_school,DAVILA EL,hurricane,FALSE
+29.8611209,-95.3769666,232,primary_school,DE CHAUMES EL,hurricane,FALSE
+29.73726141,-95.28968194,233,primary_school,DE ZAVALA EL,hurricane,FALSE
+29.62563564,-95.28059807,234,primary_school,DEANDA EL,hurricane,FALSE
+29.70771961,-95.16242454,235,primary_school,DEEPWATER EL,hurricane,FALSE
+29.6979357,-95.1135622,236,primary_school,DEER PARK EL,hurricane,FALSE
+30.0562351,-95.17281015,237,primary_school,DEERWOOD EL,hurricane,FALSE
+29.96992065,-95.46500546,238,primary_school,DELORAS E THOMPSON EL,hurricane,FALSE
+29.78581627,-95.32827648,239,primary_school,DOGAN EL,hurricane,FALSE
+29.9649477,-95.4511683,240,primary_school,DONNA LEWIS EL,hurricane,FALSE
+29.82094051,-95.17815811,241,primary_school,DR SHIRLEY J WILLIAMSON EL,hurricane,FALSE
+29.777272,-95.48589455,242,primary_school,DUCHESNE ACADEMY OF THE SACRED HEART,hurricane,FALSE
+29.83476377,-95.41615152,243,primary_school,DURHAM EL,hurricane,FALSE
+29.867327,-95.391274,244,primary_school,DURKEE EL,hurricane,FALSE
+29.9822231,-95.2765094,245,primary_school,EAGLE SPRINGS EL,hurricane,TRUE
+29.935014,-95.353329,246,primary_school,ECKERT EL,hurricane,FALSE
+29.81959535,-95.50847582,247,primary_school,EDGEWOOD EL,hurricane,FALSE
+30.0384724,-95.52456543,248,primary_school,EHRHARDT EL,hurricane,FALSE
+29.89214185,-95.49169499,249,primary_school,EILAND EL,hurricane,FALSE
+29.7965844,-95.6449252,250,primary_school,ELIM CHRISTIAN SCHOOL,hurricane,TRUE
+29.78092848,-95.30609395,251,primary_school,ELIOT EL,hurricane,FALSE
+29.6974529,-95.2798129,252,primary_school,ELITE STEM PRI ACADEMY,hurricane,FALSE
+29.6714681,-95.50113266,253,primary_school,ELROD EL,hurricane,FALSE
+29.72716478,-95.53336635,254,primary_school,EMERSON EL,hurricane,FALSE
+29.7254898,-95.4221409,255,primary_school,ENERGIZED FOR EXCELLENCE ACADEMY EL,hurricane,FALSE
+29.9155624,-95.49789318,256,primary_school,EPPS ISLAND EL,hurricane,FALSE
+29.88505775,-95.49686712,257,primary_school,ERMEL EL,hurricane,FALSE
+29.8914,-95.3134,258,primary_school,ESCAMILLA EL,hurricane,FALSE
+29.915051,-95.4206398,259,primary_school,ETERNITY CHRISTIAN SCHOOL,hurricane,TRUE
+29.791939,-95.153261,260,primary_school,FAIRMONT EL,hurricane,FALSE
+29.65620068,-95.185948,261,primary_school,FAITH CHRISTIAN ACADEMY,hurricane,FALSE
+29.57544135,-95.11076682,262,primary_school,FALCON PASS EL,hurricane,FALSE
+29.80074751,-95.3908509,263,primary_school,FIELD EL,hurricane,FALSE
+29.7607858,-94.9824332,264,primary_school,FIRST BAPTIST ACADEMY,hurricane,FALSE
+29.7817621,-95.45783189,265,primary_school,FIRST BAPTIST ACADEMY,hurricane,FALSE
+29.6498995,-95.1549112,266,primary_school,FIRST BAPTIST CHRISTIAN ACADEMY,hurricane,FALSE
+29.668296,-95.179645,267,primary_school,FISHER ELEMENTARY,hurricane,FALSE
+29.627792,-95.4990194,268,primary_school,FONDREN EL,hurricane,FALSE
+30.0425258,-95.2235672,269,primary_school,FOSTER EL,hurricane,FALSE
+29.69172729,-95.36114979,270,primary_school,FOSTER EL,hurricane,FALSE
+29.9688236,-95.5638485,271,primary_school,FRANCONE EL,hurricane,FALSE
+29.739082,-95.29817,272,primary_school,FRANKLIN EL,hurricane,FALSE
+29.5880046,-95.22681913,273,primary_school,FRAZIER EL,hurricane,FALSE
+29.64592357,-95.23291757,274,primary_school,FREEMAN EL,hurricane,TRUE
+30.12947,-95.50843272,275,primary_school,FRENCH EL,hurricane,FALSE
+29.62088494,-95.33735484,276,primary_school,FROST EL,hurricane,FALSE
+29.560331,-95.128489,277,primary_school,G H WHITCOMB EL,hurricane,FALSE
+29.7335616,-95.2302123,278,primary_school,GALENA PARK EL,hurricane,FALSE
+29.73310286,-95.29366614,279,primary_school,GALLEGOS EL,hurricane,FALSE
+29.84888886,-95.34906894,280,primary_school,GARCIA EL,hurricane,FALSE
+29.82268917,-95.41290993,281,primary_school,GARDEN OAKS MONTESSORI,hurricane,FALSE
+29.63479457,-95.23069336,282,primary_school,GARFIELD EL,hurricane,FALSE
+29.8834615,-95.1547833,283,primary_school,GARRETT EL,hurricane,FALSE
+29.622653,-95.2853893,284,primary_school,GENESIS CHRISTIAN SCHOOL,hurricane,FALSE
+29.62275,-95.201904,285,primary_school,GENOA EL,hurricane,FALSE
+30.05626575,-95.42257244,286,primary_school,GINGER MCNABB EL,hurricane,FALSE
+29.9029137,-95.55799894,287,primary_school,GLEASON EL,hurricane,FALSE
+29.67047958,-95.16175523,288,primary_school,GOLDEN ACRES EL,hurricane,FALSE
+29.68922185,-95.29448529,289,primary_school,GOLFCREST EL,hurricane,FALSE
+29.8966734,-95.42371133,290,primary_school,GOODMAN EL,hurricane,FALSE
+29.6016949,-95.2599342,291,primary_school,GOUDEAU ACCELERATED PREPARATORY ACADEMY,hurricane,TRUE
+29.78875945,-94.96393664,292,primary_school,GRACE ACADEMY,hurricane,FALSE
+29.57896806,-95.15213939,293,primary_school,GRACE CHRISTIAN ACADEMY,hurricane,FALSE
+29.73995396,-95.55559714,294,primary_school,GRACE SCHOOL,hurricane,FALSE
+29.9157849,-95.43173453,295,primary_school,GRAY EL,hurricane,FALSE
+29.792211,-95.18867,296,primary_school,GREEN VALLEY EL,hurricane,FALSE
+29.672341,-95.309845,297,primary_school,GREGG EL,hurricane,FALSE
+29.75679,-95.385605,298,primary_school,GREGORY-LINCOLN ED CTR,hurricane,FALSE
+29.619843,-95.454087,299,primary_school,GRISSOM EL,hurricane,FALSE
+29.6391406,-95.52793182,300,primary_school,GROSS EL,hurricane,FALSE
+29.85541711,-95.21345291,301,primary_school,H M CARROLL EL,hurricane,TRUE
+29.782079,-95.6173502,302,primary_school,HAIRGROVE EL,hurricane,TRUE
+29.9680341,-95.5565032,303,primary_school,HANCOCK EL,hurricane,FALSE
+29.8658292,-95.4825354,304,primary_school,HARMONY SCHOOL OF ENDEAVOR-HOUSTON,hurricane,FALSE
+29.6610592,-95.5578226,305,primary_school,HARMONY SCHOOL OF ENRICHMENT - HOUSTON,hurricane,FALSE
+29.949285,-95.5469318,306,primary_school,HARMONY SCHOOL OF EXCELLENCE-HOUSTON,hurricane,FALSE
+29.6610592,-95.5578226,307,primary_school,HARMONY SCHOOL OF EXPLORATION- HOUSTON,hurricane,FALSE
+29.7273064,-95.4186082,308,primary_school,HARMONY SCHOOL OF FINE ARTS AND TECHNOLOGY-HOUSTON,hurricane,FALSE
+29.67664324,-95.47726806,309,primary_school,HARMONY SCHOOL OF SCIENCE-HOUSTON,hurricane,TRUE
+29.6610592,-95.5578226,310,primary_school,HARMONY SCIENCE ACADEMY - CYPRESS,hurricane,FALSE
+29.86799215,-95.4541929,311,primary_school,HARRIS EL,hurricane,FALSE
+29.76910935,-95.22138843,312,primary_school,HARRIS R P EL,hurricane,FALSE
+29.69390589,-95.34309488,313,primary_school,HARTSFIELD EL,hurricane,FALSE
+29.78546178,-95.39621645,314,primary_school,HARVARD EL,hurricane,FALSE
+29.792054,-95.262272,315,primary_school,HARVEY S BROWN EL,hurricane,FALSE
+30.00661,-95.5610531,316,primary_school,HAUDE EL,hurricane,FALSE
+29.72282975,-95.61819901,317,primary_school,HEFLIN EL,hurricane,FALSE
+29.80532735,-95.40644064,318,primary_school,HELMS EL,hurricane,FALSE
+29.722256,-95.319688,319,primary_school,HENDERSON J EL,hurricane,FALSE
+29.768632,-95.321212,320,primary_school,HENDERSON N EL,hurricane,FALSE
+29.96325475,-95.45480499,321,primary_school,HERITAGE EL,hurricane,FALSE
+29.68407877,-95.48734445,322,primary_school,HEROD EL,hurricane,FALSE
+29.82229405,-95.36635907,323,primary_school,HERRERA EL,hurricane,FALSE
+30.0736337,-95.18303088,324,primary_school,HIDDEN HOLLOW EL,hurricane,FALSE
+29.8500203,-95.42090798,325,primary_school,HIGHLAND HTS EL,hurricane,FALSE
+29.891057,-95.3057687,326,primary_school,HILL EL,hurricane,FALSE
+29.83665885,-95.26959189,327,primary_school,HILLIARD EL,hurricane,TRUE
+29.63585799,-95.43768116,328,primary_school,HOBBY EL,hurricane,FALSE
+29.85735995,-95.49859038,329,primary_school,HOLBROOK EL,hurricane,FALSE
+29.82645895,-95.50778166,330,primary_school,HOLLIBROOK EL,hurricane,FALSE
+29.7638319,-95.4779925,331,primary_school,HOLY GHOST CATHOLIC SCHOOL,hurricane,FALSE
+29.9333709,-95.2116771,332,primary_school,HOLY TRINITY EPISCOPAL SCHOOL OF GREATER HOUSTON,hurricane,FALSE
+29.69323753,-95.45245257,333,primary_school,HORN EL,hurricane,TRUE
+29.8658292,-95.4825354,334,primary_school,HORNE EL,hurricane,FALSE
+29.8003778,-95.46988589,335,primary_school,HOUSMAN EL,hurricane,FALSE
+29.7144329,-95.2901635,336,primary_school,HOUSTON GATEWAY ACADEMY,hurricane,FALSE
+29.7163859,-95.2885241,337,primary_school,HOUSTON GATEWAY ACADEMY - CORAL CAMPUS,hurricane,FALSE
+30.083475,-95.186697,338,primary_school,HOUSTON GATEWAY ACADEMY INC ELITE COLLEGE PREP,hurricane,FALSE
+30.00820643,-95.56193526,339,primary_school,HOUSTON PEACE ACADEMY,hurricane,FALSE
+29.75909311,-95.70441178,340,primary_school,HOUSTON QURAN ACADEMY,hurricane,TRUE
+29.9797007,-95.43398949,341,primary_school,HOYLAND EL,hurricane,FALSE
+29.961848,-95.26507,342,primary_school,HUMBLE CHRISTIAN SCHOOL,hurricane,FALSE
+30.0116906,-95.27300007,343,primary_school,HUMBLE EL,hurricane,FALSE
+30.06727165,-95.92391606,344,primary_school,I T HOLLEMAN EL,hurricane,FALSE
+29.79059134,-95.5489964,345,primary_school,ILM ACADEMY,hurricane,FALSE
+29.6270767,-95.290545,346,primary_school,ILTEXAS HOUSTON OREM EL,hurricane,FALSE
+29.62620899,-95.24040164,347,primary_school,ILTEXAS HOUSTON WINDMILL LAKES EL,hurricane,FALSE
+29.8016863,-95.8110591,348,primary_school,ILTEXAS KATY EL,hurricane,FALSE
+29.7050343,-95.5443545,349,primary_school,ILTEXAS WESTPARK EL,hurricane,FALSE
+29.79423276,-95.31860306,350,primary_school,ISAACS EL,hurricane,TRUE
+29.764256,-95.29712,351,primary_school,JACINTO CITY EL,hurricane,FALSE
+29.8314035,-95.799349,352,primary_school,JACK & SHARON RHOADS EL,hurricane,FALSE
+29.96663515,-95.26243913,353,primary_school,JACK M FIELDS SR EL,hurricane,FALSE
+29.792054,-95.262272,354,primary_school,JAMES B HAVARD EL,hurricane,FALSE
+29.83015855,-95.37071709,355,primary_school,JANOWSKI EL,hurricane,FALSE
+29.75421341,-95.60881534,356,primary_school,JAPANESE EDUCATIONAL INSTITUTE,hurricane,FALSE
+29.8052656,-95.36970889,357,primary_school,JEFFERSON EL,hurricane,FALSE
+29.65972447,-95.17491926,358,primary_school,JENSEN EL,hurricane,FALSE
+29.627174,-95.250048,359,primary_school,JESSUP EL,hurricane,FALSE
+29.9551762,-95.46366694,360,primary_school,JOAN LINK EL,hurricane,FALSE
+29.58267361,-95.1375269,361,primary_school,JOHN F WARD EL,hurricane,FALSE
+30.07018715,-95.40184494,362,primary_school,JOHN WINSHIP EL,hurricane,FALSE
+30.0147004,-95.293267,363,primary_school,JONES EL,hurricane,FALSE
+29.66909461,-95.12282694,364,primary_school,JP DABBS EL,hurricane,FALSE
+29.9726072,-95.49379409,365,primary_school,KAISER EL,hurricane,FALSE
+30.0751523,-95.4349573,366,primary_school,KARDIA CHRISTIAN ACADEMY,hurricane,FALSE
+29.80495381,-95.3171367,367,primary_school,KASHMERE GARDENS EL,hurricane,TRUE
+29.79976167,-95.81998978,368,primary_school,KATY ADVENTIST CHRISTIAN SCHOOL,hurricane,FALSE
+29.682863,-95.334133,369,primary_school,KELSO EL,hurricane,FALSE
+29.835633,-95.394418,370,primary_school,KENNEDY EL,hurricane,TRUE
+29.6715646,-95.60214595,371,primary_school,KENNEDY EL,hurricane,FALSE
+29.780744,-95.363686,372,primary_school,KETELSEN EL,hurricane,FALSE
+29.96037603,-95.16917778,373,primary_school,KIDS R KIDS #35 TX LAKESHORE,hurricane,FALSE
+30.07240388,-95.17114145,374,primary_school,KINGWOOD MONTESSORI SCHOOL,hurricane,FALSE
+29.7050343,-95.5443545,375,primary_school,KIPP CONNECT HOUSTON PRI,hurricane,FALSE
+29.727665,-95.321299,376,primary_school,KIPP EXPLORE ACADEMY,hurricane,FALSE
+29.85240091,-95.26228081,377,primary_school,KIPP LEGACY PREPARATORY,hurricane,TRUE
+29.7247691,-95.51136521,378,primary_school,KIPP SHARP PREP,hurricane,FALSE
+29.641997,-95.36838,379,primary_school,KIPP ZENITH ACADEMY,hurricane,FALSE
+29.8499712,-95.59529852,380,primary_school,KIRK EL,hurricane,FALSE
+29.956678,-95.50617688,381,primary_school,KLENK EL,hurricane,FALSE
+29.67481652,-95.46773702,382,primary_school,KOLTER EL,hurricane,FALSE
+29.8856754,-95.4315091,383,primary_school,KREINHOP EL,hurricane,FALSE
+29.6840449,-95.2636785,384,primary_school,KRUSE EL,hurricane,FALSE
+29.9234095,-95.49313757,385,primary_school,KUJAWA EL,hurricane,FALSE
+29.8595818,-95.2045196,386,primary_school,L E MONAHAN EL,hurricane,TRUE
+29.98988945,-95.25267564,387,primary_school,LAKELAND EL,hurricane,FALSE
+29.9978436,-95.6541981,388,primary_school,LAMKIN EL,hurricane,FALSE
+29.68571325,-95.5616661,389,primary_school,LANDIS EL,hurricane,FALSE
+29.622653,-95.2853893,390,primary_school,LANTRIP EL,hurricane,FALSE
+29.6152692,-95.2507591,391,primary_school,LAURA WELCH BUSH EL,hurricane,FALSE
+29.628144,-95.364892,392,primary_school,LAW EL,hurricane,FALSE
+29.86428565,-95.6024899,393,primary_school,LEE EL,hurricane,FALSE
+32.523909,-94.692547,394,primary_school,LEGACY ACADEMY - CHRISTIAN UNIVERSITY-MODEL SCHOOL,hurricane,FALSE
+30.04020395,-95.43788804,395,primary_school,LEMM EL,hurricane,FALSE
+29.66468295,-95.28314737,396,primary_school,LEWIS EL,hurricane,FALSE
+29.8462891,-95.7142304,397,primary_school,LIEDER EL,hurricane,TRUE
+29.69290925,-95.61623257,398,primary_school,LIESTMAN EL,hurricane,FALSE
+29.7735754,-94.9776846,399,primary_school,LIGHTHOUSE BAPTIST ACADEMY,hurricane,FALSE
+29.717342,-95.36581236,400,primary_school,LOCKHART EL,hurricane,FALSE
+29.687102,-95.43215999,401,primary_school,LONGFELLOW EL,hurricane,FALSE
+29.795412,-95.35764943,402,primary_school,LOOSCAN EL,hurricane,FALSE
+29.8190211,-95.7514897,403,primary_school,LORAINE T GOLBOW EL,hurricane,FALSE
+29.5480175,-95.1900495,404,primary_school,LORD OF LIFE LUTHERAN SCHOOL,hurricane,TRUE
+29.79411111,-95.40857971,405,primary_school,LOVE EL,hurricane,FALSE
+29.68267735,-95.46926098,406,primary_school,LOVETT EL,hurricane,TRUE
+29.58616627,-95.18751229,407,primary_school,LUTHERAN SOUTH ACADEMY,hurricane,TRUE
+29.6593802,-95.32863885,408,primary_school,MADING EL,hurricane,FALSE
+29.682073,-95.181096,409,primary_school,MAE SMYTHE EL,hurricane,TRUE
+30.090246,-95.590627,410,primary_school,MAHAFFEY EL,hurricane,FALSE
+29.9347353,-95.39469368,411,primary_school,MARCELLA EL,hurricane,FALSE
+29.532837,-95.120098,412,primary_school,MARGARET S MCWHIRTER EL,hurricane,FALSE
+29.73828188,-95.51000545,413,primary_school,MARK WHITE EL,hurricane,FALSE
+32.51361635,-94.36422933,414,primary_school,MARSHALL CHRISTIAN ACADEMY,hurricane,FALSE
+29.89925642,-95.29785088,415,primary_school,MARSHALL EL,hurricane,FALSE
+29.6925244,-95.58512803,416,primary_school,MARTIN EL,hurricane,FALSE
+29.79056205,-95.35928132,417,primary_school,MARTINEZ C EL,hurricane,FALSE
+29.927448,-95.5848781,418,primary_school,MATZKE EL,hurricane,FALSE
+29.77974645,-95.64322546,419,primary_school,MAURICE L WOLFE EL,hurricane,FALSE
+29.8056117,-95.7026887,420,primary_school,MAYDE CREEK EL,hurricane,FALSE
+29.9295005,-95.49961115,421,primary_school,MCDOUGLE EL,hurricane,FALSE
+29.69554353,-95.15649841,422,primary_school,MCMASTERS EL,hurricane,FALSE
+29.7770024,-95.1385389,423,primary_school,MCMULLAN EL,hurricane,FALSE
+29.684162,-95.5041517,424,primary_school,MCNAMARA EL,hurricane,FALSE
+29.614179,-95.229486,425,primary_school,MEADOR ELEMENTARY,hurricane,FALSE
+29.77086175,-95.59612151,426,primary_school,MEADOW WOOD EL,hurricane,FALSE
+29.77024,-95.42556,427,primary_school,MEMORIAL EL,hurricane,FALSE
+29.7356816,-95.6309349,428,primary_school,MEMORIAL LUTHERAN SCHOOL,hurricane,FALSE
+29.8335759,-95.668459,429,primary_school,METCALF EL,hurricane,TRUE
+30.115295,-95.55108029,430,primary_school,METZLER EL,hurricane,FALSE
+30.005911,-95.43444968,431,primary_school,MEYER EL,hurricane,FALSE
+30.04355295,-95.35924622,432,primary_school,MILDRED JENKINS EL,hurricane,FALSE
+29.9952795,-95.6855384,433,primary_school,MILLSAP EL,hurricane,FALSE
+29.660617,-95.514785,434,primary_school,MILNE EL,hurricane,FALSE
+29.608252,-95.275505,435,primary_school,MITCHELL EL,hurricane,TRUE
+29.688174,-95.492554,436,primary_school,MONTESSORI LEARNING INSTITUTE,hurricane,TRUE
+29.69095505,-95.49471466,437,primary_school,MONTESSORI LEARNING INSTITUTE,hurricane,FALSE
+29.62105228,-95.4371231,438,primary_school,MONTGOMERY EL,hurricane,FALSE
+29.9967587,-95.5913729,439,primary_school,MOORE EL,hurricane,FALSE
+29.87573221,-95.37421721,440,primary_school,MORENO EL,hurricane,FALSE
+29.701365,-95.530494,441,primary_school,NEFF EL,hurricane,FALSE
+29.832534,-95.442522,442,primary_school,NEW HEIGHTS CHRISTIAN ACADEMY,hurricane,FALSE
+29.604624,-95.13506,443,primary_school,NORTH POINTE EL,hurricane,FALSE
+30.09999145,-95.51983113,444,primary_school,NORTHAMPTON EL,hurricane,FALSE
+29.7682851,-95.61179414,445,primary_school,NOTTINGHAM EL,hurricane,FALSE
+29.82831228,-95.43470597,446,primary_school,OAK FOREST EL,hurricane,FALSE
+29.79387909,-95.25289372,447,primary_school,OATES EL,hurricane,TRUE
+29.9242384,-95.3825014,448,primary_school,ODOM EL,hurricane,FALSE
+30.02589065,-95.36456274,449,primary_school,OGDEN EL,hurricane,FALSE
+29.90490775,-95.32466065,450,primary_school,OLESON EL,hurricane,FALSE
+29.897508,-95.461796,451,primary_school,ORANGE GROVE EL,hurricane,FALSE
+29.875213,-95.418493,452,primary_school,OSBORNE EL,hurricane,FALSE
+29.73898264,-95.23810207,453,primary_school,OUR LADY OF FATIMA CATHOLIC SCHOOL,hurricane,FALSE
+29.7592228,-95.3450052,454,primary_school,OUR LADY OF GUADALUPE SCHOOL,hurricane,FALSE
+29.8453055,-95.3999727,455,primary_school,OUR SAVIOR LUTHERAN SCHOOL,hurricane,TRUE
+29.72873995,-95.59827079,456,primary_school,OUTLEY EL,hurricane,FALSE
+29.9619668,-95.2480659,457,primary_school,PARK LAKES EL,hurricane,FALSE
+29.68938615,-95.27218517,458,primary_school,PARK PLACE EL,hurricane,FALSE
+29.66533133,-95.48216312,459,primary_school,PARKER EL,hurricane,FALSE
+30.02595621,-95.40332256,460,primary_school,PARKER EL,hurricane,FALSE
+29.68321382,-95.24270361,461,primary_school,PATTERSON EL,hurricane,FALSE
+30.05042045,-95.39329874,462,primary_school,PEARL M HIRSCH EL,hurricane,FALSE
+29.70617703,-95.33495438,463,primary_school,PECK EL,hurricane,FALSE
+29.61857323,-95.42434138,464,primary_school,PETERSEN EL,hurricane,FALSE
+29.72831627,-95.49217306,465,primary_school,PILGRIM ACADEMY,hurricane,FALSE
+29.7638319,-95.4779925,466,primary_school,PILGRIM LUTHERAN SCHOOL,hurricane,FALSE
+29.8071549,-95.53817344,467,primary_school,PINE SHADOWS EL,hurricane,FALSE
+30.05391607,-95.20108709,468,primary_school,PINES MONTESSORI SCHOOL,hurricane,FALSE
+29.72604967,-95.52098576,469,primary_school,PINEY POINT EL,hurricane,FALSE
+29.76401052,-95.27267668,470,primary_school,PLEASANTVILLE EL,hurricane,TRUE
+29.72768,-95.407028,471,primary_school,POE EL,hurricane,FALSE
+29.6980078,-95.18302833,472,primary_school,POMEROY EL,hurricane,FALSE
+29.9513652,-95.7193315,473,primary_school,POPE EL,hurricane,FALSE
+29.759667,-95.283762,474,primary_school,PORT HOUSTON EL,hurricane,TRUE
+29.6520498,-95.4521507,475,primary_school,PRESBYTERIAN SCHOOL,hurricane,FALSE
+29.7683263,-95.30730944,476,primary_school,PUGH EL,hurricane,FALSE
+29.762447,-95.220092,477,primary_school,PYBURN EL,hurricane,TRUE
+29.9103958,-95.36094282,478,primary_school,RAYMOND EL,hurricane,FALSE
+29.60607267,-95.4525632,479,primary_school,REAGAN K-8 EDUCATIONAL CTR,hurricane,FALSE
+29.70451055,-95.18583202,480,primary_school,RED BLUFF EL,hurricane,FALSE
+29.66623655,-95.45302086,481,primary_school,RED EL,hurricane,FALSE
+29.91221395,-95.36108781,482,primary_school,REED ACADEMY,hurricane,FALSE
+29.89389845,-95.52628724,483,primary_school,REED EL,hurricane,FALSE
+29.77246024,-95.30232133,484,primary_school,RESURRECTION CATHOLIC SCHOOL,hurricane,FALSE
+29.6509176,-95.3761343,485,primary_school,REYNOLDS EL,hurricane,FALSE
+29.6979205,-95.42057868,486,primary_school,RICE SCH /LA ESCUELA RICE,hurricane,FALSE
+29.71584754,-95.21507382,487,primary_school,RICHEY EL,hurricane,FALSE
+29.8098426,-95.49386746,488,primary_school,RIDGECREST EL,hurricane,FALSE
+29.7342681,-95.4128024,489,primary_school,RIVER OAKS ACADEMY,hurricane,FALSE
+29.7273064,-95.4186082,490,primary_school,RIVER OAKS EL,hurricane,FALSE
+29.611605,-95.355432,491,primary_school,RL FINNEY CHRISTIAN ACADEMEY,hurricane,TRUE
+29.65548128,-95.45616825,492,primary_school,ROBERT M BEREN ACADEMY,hurricane,FALSE
+29.712492,-95.412735,493,primary_school,ROBERTS EL,hurricane,FALSE
+30.0242021,-95.81376196,494,primary_school,ROBERTS ROAD EL,hurricane,FALSE
+29.78822758,-95.21379352,495,primary_school,ROBINSON EL,hurricane,TRUE
+29.9719563,-95.68587378,496,primary_school,ROBISON EL,hurricane,FALSE
+29.827313,-95.337783,497,primary_school,RODERICK R PAIGE EL,hurricane,FALSE
+29.8183084,-95.37391798,498,primary_school,ROOSEVELT EL,hurricane,FALSE
+30.0796754,-95.6646589,499,primary_school,ROSEHILL CHRISTIAN SCHOOL,hurricane,FALSE
+30.0893624,-95.6416109,500,primary_school,ROSEHILL EL,hurricane,FALSE
+29.8003612,-95.34176102,501,primary_school,ROSS EL,hurricane,FALSE
+29.69398256,-95.24253849,502,primary_school,RUCKER EL,hurricane,FALSE
+29.7741811,-95.57069048,503,primary_school,RUMMEL CREEK EL,hurricane,FALSE
+29.7703635,-95.3512693,504,primary_school,SALYERS EL,hurricane,FALSE
+29.771497,-95.153626,505,primary_school,SAM HOUSTON EL,hurricane,TRUE
+29.702635,-95.283525,506,primary_school,SANCHEZ EL,hurricane,FALSE
+29.87118103,-95.33733591,507,primary_school,SCARBOROUGH EL,hurricane,TRUE
+29.7352843,-95.47279451,508,primary_school,SCHOOL AT ST GEORGE PLACE,hurricane,FALSE
+29.72038812,-95.55367394,509,primary_school,SCHOOL OF SCIENCE AND TECHNOLOGY ADVANCEMENT,hurricane,FALSE
+29.94017737,-95.39899144,510,primary_school,SCHOOL OF SCIENCE AND TECHNOLOGY EXCELLENCE,hurricane,FALSE
+29.966164,-95.5547253,511,primary_school,SCHOOL OF SCIENCE AND TECHNOLOGY HOUSTON,hurricane,FALSE
+29.79323859,-95.48501522,512,primary_school,SCHOOL OF THE WOODS,hurricane,FALSE
+30.0941375,-95.54912418,513,primary_school,SCHULTZ EL,hurricane,FALSE
+29.781979,-95.299035,514,primary_school,SCROGGINS EL,hurricane,FALSE
+29.75595318,-95.4972539,515,primary_school,SECOND BAPTIST SCHOOL,hurricane,FALSE
+29.6784598,-95.3061171,516,primary_school,SEGUIN EL,hurricane,FALSE
+29.7194597,-95.48055285,517,primary_school,SER-NINOS CHARTER EL,hurricane,FALSE
+29.7194597,-95.48055285,518,primary_school,SER-NINOS CHARTER EL II,hurricane,FALSE
+30.0692701,-95.16528029,519,primary_school,SHADOW FOREST EL,hurricane,FALSE
+29.79233935,-95.55465357,520,primary_school,SHADOW OAKS EL,hurricane,FALSE
+29.73437439,-95.59819755,521,primary_school,SHADOWBRIAR EL,hurricane,FALSE
+29.8488463,-95.2844125,522,primary_school,SHADYDALE EL,hurricane,TRUE
+29.67667167,-95.43978333,523,primary_school,SHEARN EL,hurricane,TRUE
+29.7794422,-95.35259036,524,primary_school,SHERMAN EL,hurricane,FALSE
+29.776025,-95.47205421,525,primary_school,SHERWOOD EL,hurricane,FALSE
+29.790441,-95.579651,526,primary_school,SHERWOOD FOREST MONTESSORI SCHOOL,hurricane,FALSE
+29.79344529,-95.42789714,527,primary_school,SINCLAIR EL,hurricane,FALSE
+29.74987086,-95.60596143,528,primary_school,SMALLER SCHOLARS MONTESSORI,hurricane,FALSE
+29.83854,-95.46249931,529,primary_school,SMITH EL,hurricane,FALSE
+30.0702612,-95.38071953,530,primary_school,SMITH EL,hurricane,FALSE
+29.86261765,-95.47501463,531,primary_school,SMITH EL,hurricane,FALSE
+29.66263675,-95.57813653,532,primary_school,SMITH EL,hurricane,FALSE
+29.72509665,-95.54390141,533,primary_school,SNEED EL,hurricane,FALSE
+29.68271868,-95.20907606,534,primary_school,SOUTH SHAVER EL,hurricane,FALSE
+29.72094,-95.415066,535,primary_school,SOUTHAMPTON MONTESSORI SCHOOL,hurricane,FALSE
+29.710009,-95.288491,536,primary_school,SOUTHMAYD EL,hurricane,FALSE
+29.8181219,-95.4593146,537,primary_school,SOUTHWEST SCHOOLS MANGUM EL CAMPUS,hurricane,FALSE
+29.65620068,-95.185948,538,primary_school,SPACE CITY PREPARATORY,hurricane,FALSE
+29.9461633,-95.4332786,539,primary_school,SPENCE EL,hurricane,FALSE
+30.072019,-95.423556,540,primary_school,SPRING BAPTIST ACADEMY,hurricane,FALSE
+29.7760132,-95.60073648,541,primary_school,SPRING BRANCH ACADEMIC INSTITUTE,hurricane,FALSE
+29.80134715,-95.51508753,542,primary_school,SPRING BRANCH EL,hurricane,FALSE
+29.8207277,-95.53282278,543,primary_school,SPRING SHADOW EL,hurricane,FALSE
+29.82962444,-95.46212221,544,primary_school,ST AMBROSE SCHOOL,hurricane,FALSE
+29.74264727,-95.41212218,545,primary_school,ST ANNE CATHOLIC SCHOOL,hurricane,FALSE
+30.0842241,-95.61163937,546,primary_school,ST ANNE CATHOLIC SCHOOL,hurricane,FALSE
+29.678768,-95.237875,547,primary_school,ST AUGUSTINE CATHOLIC SCHOOL,hurricane,TRUE
+29.67672895,-95.43224154,548,primary_school,ST CATHERINES MONTESSORI,hurricane,FALSE
+29.77809782,-95.52991851,549,primary_school,ST CECILIA CATHOLIC SCHOOL,hurricane,FALSE
+29.686825,-95.27558,550,primary_school,ST CHRISTOPHER CATHOLIC SCHOOL,hurricane,FALSE
+29.5917501,-95.11902967,551,primary_school,ST CLARE OF ASSISI CATHOLIC SCHOOL,hurricane,FALSE
+30.08275659,-95.45676899,552,primary_school,ST EDWARD CATHOLIC SCHOOL,hurricane,FALSE
+29.7965844,-95.6449252,553,primary_school,ST ELIZABETH ANN SETON SCHOOL,hurricane,TRUE
+29.699916,-95.527895,554,primary_school,ST FRANCIS DE SALES SCHOOL,hurricane,FALSE
+29.82104929,-95.51026129,555,primary_school,ST JEROME CATHOLIC SCHOOL,hurricane,FALSE
+29.72455368,-95.00081391,556,primary_school,ST JOSEPH CATHOLIC SCHOOL,hurricane,FALSE
+29.79718072,-95.49332317,557,primary_school,ST MARK LUTHERAN SCHOOL,hurricane,FALSE
+29.7050343,-95.5443545,558,primary_school,ST MARK'S EPISCOPAL SCHOOL,hurricane,FALSE
+30.064667,-95.20989856,559,primary_school,ST MARTHA CATHOLIC SCHOOL,hurricane,FALSE
+29.99201085,-95.2562031,560,primary_school,ST MARY MAGDALENE SCHOOL,hurricane,FALSE
+29.71993347,-95.36871581,561,primary_school,ST MARY OF THE PURIFICATION MONTESSORI SCHOOL,hurricane,FALSE
+29.70272167,-95.36142508,562,primary_school,ST PETER THE APOSTLE SCHOOL,hurricane,FALSE
+29.819848,-95.415797,563,primary_school,ST ROSE OF LIMA CATHOLIC SCHOOL,hurricane,FALSE
+29.737821,-95.404659,564,primary_school,ST STEPHEN'S EPISCOPAL SCHOOL,hurricane,FALSE
+29.77361807,-95.42946924,565,primary_school,ST THERESA CATHOLIC SCHOOL,hurricane,FALSE
+29.684874,-95.464096,566,primary_school,ST THOMAS EPISCOPAL SCHOOL,hurricane,FALSE
+29.66929041,-95.49444923,567,primary_school,ST THOMAS MORE PARISH SCHOOL,hurricane,TRUE
+29.5497181,-95.0894993,568,primary_school,ST THOMAS THE APOSTLE EPISCOPAL SCHOOL,hurricane,FALSE
+29.70595637,-95.42754084,569,primary_school,ST VINCENT DE PAUL CATHOLIC SCHOOL,hurricane,TRUE
+29.91503,-95.421666,570,primary_school,STEHLIK EL,hurricane,FALSE
+30.08436308,-95.61164036,571,primary_school,STEP BY STEP CHRISTIAN SCHOOL,hurricane,FALSE
+29.90057905,-95.34788563,572,primary_school,STEPHENS EL,hurricane,FALSE
+29.826881,-95.44632856,573,primary_school,STEVENS EL,hurricane,FALSE
+29.760274,-95.633431,574,primary_school,STJOHN PAUL II CATHOLIC SCHOOL,hurricane,FALSE
+29.59542882,-95.21849047,575,primary_school,STUCHBERY EL,hurricane,TRUE
+29.92801635,-95.17613119,576,primary_school,SUMMERWOOD EL,hurricane,FALSE
+29.69823696,-95.50071258,577,primary_school,SUTTON EL,hurricane,FALSE
+29.75011007,-95.48365019,578,primary_school,T H ROGERS SCHOOL,hurricane,FALSE
+29.640574,-95.179197,579,primary_school,TEAGUE EL,hurricane,FALSE
+29.8196437,-95.55024404,580,primary_school,TERRACE EL,hurricane,FALSE
+29.8462891,-95.7142304,581,primary_school,TEXAS CHRISTIAN SCHOOL,hurricane,TRUE
+29.7341038,-95.3829949,582,primary_school,TEXAS CONNECTIONS ACADEMY AT HOUSTON,hurricane,FALSE
+29.9378668,-95.39694153,583,primary_school,TEXAS SERENITY ACADEMY - GANO,hurricane,FALSE
+29.78726249,-95.45941435,584,primary_school,THE AWTY INTERNATIONAL SCHOOL,hurricane,FALSE
+29.9414297,-95.5164144,585,primary_school,THE BANFF SCHOOL,hurricane,FALSE
+29.791489,-95.579469,586,primary_school,THE BRANCH SCHOOL,hurricane,FALSE
+29.74757279,-95.59658136,587,primary_school,THE BRIARWOOD SCHOOL,hurricane,FALSE
+29.97072587,-95.70383915,588,primary_school,THE CONNECTION SCHOOL OF HOUSTON,hurricane,FALSE
+30.02817206,-95.22897561,589,primary_school,THE COVENANT PREPARATORY SCHOOL,hurricane,FALSE
+29.734356,-95.481504,590,primary_school,THE CROSSROADS SCHOOL,hurricane,FALSE
+29.7665521,-95.45930526,591,primary_school,THE FAY SCHOOL,hurricane,FALSE
+29.516197,-95.163584,592,primary_school,THE GALLOWAY SCHOOL,hurricane,TRUE
+29.71309526,-95.49792913,593,primary_school,THE HARRIS SCHOOL,hurricane,FALSE
+29.6202058,-95.4651759,594,primary_school,THE IMANI SCHOOL,hurricane,FALSE
+29.730146,-95.388116,595,primary_school,THE JOY SCHOOL,hurricane,FALSE
+29.7677483,-95.4090619,596,primary_school,THE KIPLING SCHOOL,hurricane,FALSE
+29.8228263,-95.53679648,597,primary_school,THE MONARCH SCHOOL,hurricane,FALSE
+30.0243099,-95.6732211,598,primary_school,THE OAKS ADVENTIST CHRISTIAN SCHOOL,hurricane,FALSE
+29.713931,-95.455736,599,primary_school,THE POST OAK SCHOOL,hurricane,FALSE
+30.00224265,-95.26249124,600,primary_school,THE RHODES SCHOOL - HUMBLE,hurricane,FALSE
+29.792054,-95.262272,601,primary_school,THE RHODES SCHOOL - NORTHSHORE,hurricane,TRUE
+29.861235,-95.473509,602,primary_school,THE RHODES SCHOOL - NW,hurricane,FALSE
+29.79897781,-95.11339784,603,primary_school,THE RHODES SCHOOL - SOUTHEAST,hurricane,FALSE
+29.657102,-95.4669007,604,primary_school,THE VARNETT SCHOOL SOUTHEAST,hurricane,FALSE
+29.7472985,-95.61837641,605,primary_school,THE VILLAGE SCHOOL,hurricane,FALSE
+29.70589327,-95.36322863,606,primary_school,THOMPSON EL,hurricane,FALSE
+29.9222364,-95.40172515,607,primary_school,THOMPSON EL,hurricane,FALSE
+29.7760132,-95.60073648,608,primary_school,THORNWOOD EL,hurricane,FALSE
+29.792054,-95.262272,609,primary_school,TICE EL,hurricane,TRUE
+29.740699,-95.310629,610,primary_school,TIJERINA EL,hurricane,FALSE
+30.141778,-95.5125564,611,primary_school,TIMBER CREEK EL,hurricane,FALSE
+29.8335759,-95.668459,612,primary_school,TIPPS EL,hurricane,FALSE
+30.0994016,-95.6221243,613,primary_school,TOMBALL EL,hurricane,FALSE
+29.661811,-95.508582,614,primary_school,TORAH DAY SCHOOL,hurricane,TRUE
+29.6680471,-95.45700474,615,primary_school,TRAFTON ACADEMY,hurricane,FALSE
+29.78881985,-95.37474297,616,primary_school,TRAVIS EL,hurricane,FALSE
+29.8053379,-95.47981479,617,primary_school,TREASURE FOREST EL,hurricane,FALSE
+32.5275319,-94.3748361,618,primary_school,TRINITY EPISCOPAL SCHOOL,hurricane,FALSE
+29.64715401,-95.1674963,619,primary_school,TURNER EL,hurricane,FALSE
+29.69885856,-95.43722159,620,primary_school,TWAIN EL,hurricane,TRUE
+29.96210665,-95.47892169,621,primary_school,TWO DIMENSIONS PREPARATORY ACADEMY,hurricane,FALSE
+29.7957234,-95.494371,622,primary_school,VALLEY OAKS EL,hurricane,FALSE
+29.66442794,-95.52800465,623,primary_school,VALLEY WEST EL,hurricane,FALSE
+29.70272725,-95.47255683,624,primary_school,VERITAS CHRISTIAN ACADEMY,hurricane,TRUE
+29.7770024,-95.1385389,625,primary_school,VIOLA COBB EL,hurricane,FALSE
+29.82228145,-95.46908978,626,primary_school,WAINWRIGHT EL,hurricane,FALSE
+30.1281421,-95.9108751,627,primary_school,WALLER H S,hurricane,FALSE
+29.52727994,-95.18194343,628,primary_school,WEDGEWOOD EL,hurricane,TRUE
+29.991307,-95.739471,629,primary_school,WELLS EL,hurricane,FALSE
+29.7232074,-95.55575895,630,primary_school,WESLEY ACADEMY,hurricane,FALSE
+29.863006,-95.421087,631,primary_school,WESLEY EL,hurricane,FALSE
+29.7123693,-95.403487,632,primary_school,WEST UNIVERSITY EL,hurricane,TRUE
+29.7172678,-95.4999475,633,primary_school,WESTBURY CHRISTIAN SCHOOL,hurricane,FALSE
+29.7968509,-95.53604678,634,primary_school,WESTERN ACADEMY,hurricane,FALSE
+29.75581059,-95.62867717,635,primary_school,WESTSIDE MONTESSORI SCHOOL,hurricane,FALSE
+29.81379019,-95.56692596,636,primary_school,WESTVIEW SCHOOL,hurricane,FALSE
+29.8103157,-95.55764544,637,primary_school,WESTWOOD EL,hurricane,FALSE
+29.75410885,-95.39069959,638,primary_school,WHARTON K-8 DUAL LANGUAGE ACADEMY,hurricane,FALSE
+29.68208455,-95.37510901,639,primary_school,WHIDBY EL,hurricane,FALSE
+29.696547,-95.541998,640,primary_school,WHITE E EL,hurricane,TRUE
+29.78229485,-95.58050975,641,primary_school,WILCHESTER EL,hurricane,FALSE
+29.92186045,-95.56130546,642,primary_school,WILLBERN EL,hurricane,FALSE
+29.68780218,-95.22800198,643,primary_school,WILLIAMS ELEMENTARY,hurricane,FALSE
+29.9178098,-95.46807718,644,primary_school,WILSON EL,hurricane,FALSE
+29.8462891,-95.7142304,645,primary_school,WILSON EL,hurricane,TRUE
+29.747743,-95.398677,646,primary_school,WILSON MONTESSORI,hurricane,FALSE
+29.61691943,-95.46980509,647,primary_school,WINDSOR VILLAGE EL,hurricane,FALSE
+29.8038074,-94.9337293,648,primary_school,WOODLAND ACRES EL,hurricane,FALSE
+30.0586604,-95.21346399,649,primary_school,WOODLAND HILLS EL,hurricane,FALSE
+29.64306364,-95.3653917,650,primary_school,WOODSON SCHOOL,hurricane,FALSE
+29.7903265,-95.53295064,651,primary_school,WOODVIEW EL,hurricane,FALSE
+29.88557215,-95.34100913,652,primary_school,WORSHAM EL,hurricane,FALSE
+30.0567316,-95.5765044,653,primary_school,YEAGER EL,hurricane,FALSE
+29.738111,-95.356508,654,primary_school,YELLOWSTONE ACADEMY,hurricane,FALSE
+29.6553829,-95.51098984,655,primary_school,YESHIVA TORAT EMET,hurricane,FALSE
+29.770098,-95.592952,656,primary_school,YORKSHIRE ACADEMY,hurricane,FALSE
+29.64803698,-95.19843914,657,primary_school,YOUNG EL,hurricane,FALSE
+29.7545997,-95.37122956,658,primary_school,YOUNG SCHOLARS ACADEMY FOR EXCELLENCE,hurricane,FALSE
+29.80249905,-95.8142688,659,primary_school,ZELMA HUTSELL EL,hurricane,FALSE
+30.08635225,-95.48735051,660,primary_school,ZWINK EL,hurricane,FALSE
+29.71821311,-95.29570222,661,supermarket,99 Cent Only Store,hurricane,FALSE
+29.58862595,-95.59953105,662,supermarket,99 Ranch Market,hurricane,FALSE
+29.95687206,-95.26562329,663,supermarket,A-1 Supermarket,hurricane,TRUE
+29.66408704,-95.74227901,664,supermarket,ALDI,hurricane,FALSE
+29.85357639,-95.68245741,665,supermarket,African Market,hurricane,FALSE
+29.832261,-95.70463351,666,supermarket,Al-Ahad Meat and Grocers,hurricane,FALSE
+30.0710937,-95.4519572,667,supermarket,Aldi,hurricane,FALSE
+29.82295309,-95.40976908,668,supermarket,Aldi,hurricane,FALSE
+29.90455038,-95.68464661,669,supermarket,Aldi,hurricane,FALSE
+29.99367648,-95.48590484,670,supermarket,Aldi,hurricane,FALSE
+29.64647663,-95.58269925,671,supermarket,Aldi,hurricane,FALSE
+29.71803768,-95.64299241,672,supermarket,Aldi,hurricane,FALSE
+29.91609618,-95.48579146,673,supermarket,Aldi,hurricane,FALSE
+29.99687685,-95.17378374,674,supermarket,Aldi,hurricane,FALSE
+29.85795272,-95.7182512,675,supermarket,Aldi,hurricane,FALSE
+29.66367961,-95.09753837,676,supermarket,Aldi,hurricane,FALSE
+29.555053,-95.39882267,677,supermarket,Aldi,hurricane,FALSE
+29.70136178,-95.36334554,678,supermarket,Aldi,hurricane,FALSE
+29.68948172,-95.50154167,679,supermarket,Aldi,hurricane,FALSE
+29.8616365,-95.64655274,680,supermarket,Aldi,hurricane,FALSE
+29.54304225,-95.54761556,681,supermarket,Aldi Market,hurricane,FALSE
+29.78348788,-94.9793511,682,supermarket,Aldi Nord,hurricane,FALSE
+29.56731703,-95.05940248,683,supermarket,Arlan's Market,hurricane,FALSE
+30.04620646,-94.88468032,684,supermarket,Brookshire Brothers,hurricane,FALSE
+29.80033014,-95.80985046,685,supermarket,Brookshire Brothers,hurricane,FALSE
+29.74103588,-95.44405451,686,supermarket,Central Market - H-E-B,hurricane,FALSE
+29.88098489,-95.70027131,687,supermarket,Cà Mau Food Market,hurricane,FALSE
+29.95980987,-95.47879166,688,supermarket,Desi Grocers,hurricane,FALSE
+29.48590325,-94.94566072,689,supermarket,Dollar Store,hurricane,FALSE
+29.835617,-95.64839002,690,supermarket,Dong Khanh Market,hurricane,TRUE
+29.69883082,-95.48347597,691,supermarket,El Ahorra Supermarket,hurricane,FALSE
+29.8225864,-95.52323615,692,supermarket,El Ahorro,hurricane,FALSE
+29.73448878,-95.30431917,693,supermarket,El Ahorro Supermarket,hurricane,FALSE
+29.86064058,-95.38570269,694,supermarket,El Ahorro Supermarket,hurricane,FALSE
+29.82068557,-95.46541154,695,supermarket,El Rancho,hurricane,FALSE
+29.67197981,-95.28816012,696,supermarket,Fiesta,hurricane,FALSE
+29.78145337,-95.35921213,697,supermarket,Fiesta,hurricane,FALSE
+29.70645012,-95.49134096,698,supermarket,Fiesta,hurricane,FALSE
+29.69334282,-95.32844101,699,supermarket,Fiesta,hurricane,FALSE
+29.67232883,-95.53003096,700,supermarket,Fiesta,hurricane,TRUE
+29.79736588,-95.36698062,701,supermarket,Fiesta,hurricane,FALSE
+29.69022052,-95.41511129,702,supermarket,Fiesta,hurricane,FALSE
+29.87816439,-95.7220192,703,supermarket,Fiesta,hurricane,FALSE
+29.56127114,-95.7897795,704,supermarket,Fiesta,hurricane,FALSE
+29.91615477,-95.40438968,705,supermarket,Fiesta,hurricane,FALSE
+29.83670059,-95.38527359,706,supermarket,Fiesta,hurricane,FALSE
+29.8634908,-95.33473902,707,supermarket,Fiesta,hurricane,TRUE
+29.70320408,-95.63885997,708,supermarket,Fiesta,hurricane,FALSE
+29.73076304,-95.31082924,709,supermarket,Fiesta Mart,hurricane,FALSE
+29.78096801,-95.7490888,710,supermarket,Fiesta Mart,hurricane,FALSE
+29.8368606,-95.64466832,711,supermarket,Fiesta Mart,hurricane,TRUE
+29.59739134,-95.52534446,712,supermarket,Fiesta Mart Supermarket,hurricane,FALSE
+30.04869124,-95.38834718,713,supermarket,Food Fair Supermarket,hurricane,TRUE
+29.76039703,-94.96546555,714,supermarket,Food Town,hurricane,FALSE
+29.67401783,-95.50765897,715,supermarket,Food Town,hurricane,FALSE
+29.87798179,-95.64882382,716,supermarket,Food Town,hurricane,FALSE
+29.68108451,-95.12463156,717,supermarket,Food Town,hurricane,FALSE
+29.56114234,-95.33012027,718,supermarket,Food Town,hurricane,FALSE
+29.87117378,-95.40611498,719,supermarket,Food Town,hurricane,FALSE
+29.86952506,-95.38341496,720,supermarket,Food Town,hurricane,FALSE
+29.94042699,-95.46129058,721,supermarket,Food Town,hurricane,FALSE
+29.77162938,-94.99693196,722,supermarket,Food Town,hurricane,FALSE
+29.56023094,-95.14011346,723,supermarket,Food Town,hurricane,FALSE
+30.15594442,-95.21292732,724,supermarket,Food Town,hurricane,FALSE
+29.66235943,-95.46488201,725,supermarket,Foodarama,hurricane,FALSE
+29.68754882,-95.49132797,726,supermarket,Foodarama,hurricane,FALSE
+29.80214836,-95.43130401,727,supermarket,Foodarama,hurricane,FALSE
+29.59457444,-95.46632458,728,supermarket,Foodarama,hurricane,FALSE
+29.58241974,-95.52671246,729,supermarket,Foodarama,hurricane,FALSE
+29.8020864,-95.41590268,730,supermarket,Fortune One Foods,hurricane,TRUE
+30.0530967,-95.18359086,731,supermarket,H-E-B,hurricane,TRUE
+29.6063047,-95.12693245,732,supermarket,H-E-B,hurricane,FALSE
+29.55819757,-95.26497146,733,supermarket,H-E-B,hurricane,FALSE
+30.0685933,-95.2517487,734,supermarket,H-E-B,hurricane,FALSE
+29.82750787,-94.85000867,735,supermarket,H-E-B,hurricane,FALSE
+29.65995292,-95.71340363,736,supermarket,H-E-B,hurricane,FALSE
+29.84732947,-95.64765479,737,supermarket,H-E-B,hurricane,FALSE
+30.07181435,-95.50188141,738,supermarket,H-E-B,hurricane,FALSE
+29.74795113,-95.48515179,739,supermarket,H-E-B,hurricane,FALSE
+29.92709404,-95.72522981,740,supermarket,H-E-B,hurricane,FALSE
+30.10770586,-95.38752642,741,supermarket,H-E-B,hurricane,FALSE
+29.5517041,-95.74755845,742,supermarket,H-E-B,hurricane,FALSE
+29.71980193,-95.84840027,743,supermarket,H-E-B,hurricane,FALSE
+29.79552008,-94.97737067,744,supermarket,H-E-B,hurricane,FALSE
+29.60794821,-95.64593173,745,supermarket,H-E-B,hurricane,FALSE
+30.02238572,-95.52738333,746,supermarket,H-E-B,hurricane,FALSE
+30.00296193,-95.63905578,747,supermarket,H-E-B,hurricane,FALSE
+29.69572561,-95.81599539,748,supermarket,H-E-B,hurricane,FALSE
+29.71394173,-95.37683901,749,supermarket,H-E-B,hurricane,TRUE
+29.50564798,-95.03876795,750,supermarket,H-E-B,hurricane,FALSE
+30.053754,-95.57694694,751,supermarket,H-E-B,hurricane,FALSE
+29.66701289,-95.0967667,752,supermarket,H-E-B,hurricane,FALSE
+29.68845537,-95.46411005,753,supermarket,H-E-B,hurricane,TRUE
+29.91100056,-95.58604453,754,supermarket,H-E-B,hurricane,FALSE
+29.55470113,-95.11780381,755,supermarket,H-E-B,hurricane,FALSE
+29.99534547,-95.57611086,756,supermarket,H-E-B,hurricane,FALSE
+29.53677281,-95.53649349,757,supermarket,H-E-B,hurricane,FALSE
+29.72706739,-95.42716958,758,supermarket,H-E-B,hurricane,FALSE
+29.56500853,-95.68525974,759,supermarket,H-E-B,hurricane,FALSE
+29.78928251,-95.71673471,760,supermarket,H-E-B,hurricane,FALSE
+30.1276013,-95.44575325,761,supermarket,H-E-B,hurricane,FALSE
+30.00042265,-95.1644674,762,supermarket,H-E-B,hurricane,FALSE
+29.73811673,-95.40277033,763,supermarket,H-E-B,hurricane,FALSE
+29.92303615,-95.19699649,764,supermarket,H-E-B,hurricane,FALSE
+29.78764579,-95.53247981,765,supermarket,H-E-B,hurricane,FALSE
+29.80735609,-95.40885518,766,supermarket,H-E-B,hurricane,FALSE
+29.82140439,-95.54737852,767,supermarket,H-E-B,hurricane,FALSE
+30.1636269,-95.46675787,768,supermarket,H-E-B,hurricane,FALSE
+29.7687967,-95.39666319,769,supermarket,H-E-B,hurricane,FALSE
+29.73513762,-95.58725467,770,supermarket,H-E-B,hurricane,FALSE
+29.69846755,-95.29488859,771,supermarket,H-E-B,hurricane,FALSE
+29.50543396,-95.19091182,772,supermarket,H-E-B,hurricane,TRUE
+29.75697642,-95.7504471,773,supermarket,H-E-B,hurricane,FALSE
+29.70577079,-95.64163361,774,supermarket,H-E-B,hurricane,FALSE
+29.60175166,-95.25011833,775,supermarket,H-E-B,hurricane,FALSE
+30.0886288,-95.62924031,776,supermarket,H-E-B,hurricane,FALSE
+30.06868311,-95.44993237,777,supermarket,H-E-B,hurricane,FALSE
+29.55927245,-95.39034471,778,supermarket,H-E-B,hurricane,FALSE
+29.71277477,-95.77588939,779,supermarket,H-E-B,hurricane,FALSE
+29.70737348,-95.46979406,780,supermarket,H-E-B,hurricane,FALSE
+29.57855867,-95.582644,781,supermarket,H-E-B,hurricane,FALSE
+29.64864763,-95.14457258,782,supermarket,H-E-B,hurricane,FALSE
+29.95751334,-95.67335327,783,supermarket,H-E-B,hurricane,FALSE
+30.1444297,-95.54947841,784,supermarket,H-E-B,hurricane,FALSE
+29.69106741,-95.55981512,785,supermarket,H-E-B,hurricane,FALSE
+29.77335925,-95.82245322,786,supermarket,H-E-B,hurricane,FALSE
+29.99250045,-95.74444271,787,supermarket,H-E-B,hurricane,FALSE
+29.75049082,-95.79829789,788,supermarket,Harvest Natural Market,hurricane,FALSE
+29.70136072,-95.57739105,789,supermarket,Hong Kong Food Market,hurricane,FALSE
+29.58633923,-95.21336844,790,supermarket,Hong Kong Market,hurricane,FALSE
+30.16122282,-95.45882776,791,supermarket,Hubbell & Hudson Market,hurricane,FALSE
+29.76045825,-94.97516884,792,supermarket,Joe V's,hurricane,FALSE
+29.83162259,-95.48371016,793,supermarket,Joe V's,hurricane,FALSE
+29.60788254,-95.47756328,794,supermarket,Joe V's Smart Shop,hurricane,FALSE
+29.70584642,-95.54687965,795,supermarket,Jusgo,hurricane,FALSE
+29.58898595,-95.60030125,796,supermarket,Jusgo Supermarket,hurricane,FALSE
+29.75054949,-95.35523926,797,supermarket,Kim Hung Market,hurricane,FALSE
+29.74298251,-95.39186129,798,supermarket,Kroger,hurricane,FALSE
+29.73668722,-95.8100217,799,supermarket,Kroger,hurricane,FALSE
+30.11459284,-95.55270293,800,supermarket,Kroger,hurricane,FALSE
+29.77113681,-95.59942964,801,supermarket,Kroger,hurricane,FALSE
+29.55858784,-95.12476797,802,supermarket,Kroger,hurricane,FALSE
+29.55168945,-95.58429845,803,supermarket,Kroger,hurricane,FALSE
+29.56054544,-95.34893252,804,supermarket,Kroger,hurricane,FALSE
+29.7968189,-95.48643687,805,supermarket,Kroger,hurricane,FALSE
+30.13327697,-95.23652841,806,supermarket,Kroger,hurricane,FALSE
+29.80456749,-95.40045149,807,supermarket,Kroger,hurricane,FALSE
+29.57797063,-95.12056427,808,supermarket,Kroger,hurricane,FALSE
+29.7896267,-95.41119948,809,supermarket,Kroger,hurricane,FALSE
+30.06667363,-95.18712453,810,supermarket,Kroger,hurricane,FALSE
+30.09204294,-95.63426131,811,supermarket,Kroger,hurricane,FALSE
+30.11851883,-95.38166088,812,supermarket,Kroger,hurricane,FALSE
+30.08556181,-95.44845711,813,supermarket,Kroger,hurricane,FALSE
+29.81264551,-95.77018249,814,supermarket,Kroger,hurricane,FALSE
+29.97897272,-95.21505908,815,supermarket,Kroger,hurricane,FALSE
+29.65356261,-95.03218669,816,supermarket,Kroger,hurricane,FALSE
+29.79116571,-95.72130701,817,supermarket,Kroger,hurricane,FALSE
+29.56362615,-95.56549386,818,supermarket,Kroger,hurricane,FALSE
+30.12402683,-95.40737577,819,supermarket,Kroger,hurricane,FALSE
+30.02183915,-95.43405757,820,supermarket,Kroger,hurricane,FALSE
+29.91900534,-95.68958821,821,supermarket,Kroger,hurricane,FALSE
+29.66387947,-95.73826161,822,supermarket,Kroger,hurricane,FALSE
+29.73556838,-95.75377779,823,supermarket,Kroger,hurricane,FALSE
+29.86006989,-95.72169786,824,supermarket,Kroger,hurricane,FALSE
+29.99405548,-95.6215973,825,supermarket,Kroger,hurricane,FALSE
+29.66928085,-95.46395262,826,supermarket,Kroger,hurricane,FALSE
+29.73973815,-95.34043286,827,supermarket,Kroger,hurricane,FALSE
+29.81405653,-95.54400081,828,supermarket,Kroger,hurricane,FALSE
+29.82884063,-95.43202999,829,supermarket,Kroger,hurricane,FALSE
+29.97681087,-95.49149338,830,supermarket,Kroger,hurricane,FALSE
+30.04040527,-95.48619854,831,supermarket,Kroger,hurricane,FALSE
+30.07583305,-95.51710919,832,supermarket,Kroger,hurricane,FALSE
+30.00294948,-95.53159434,833,supermarket,Kroger,hurricane,TRUE
+29.5853457,-95.63328767,834,supermarket,Kroger,hurricane,FALSE
+29.90407996,-95.55563679,835,supermarket,Kroger,hurricane,FALSE
+29.91229097,-95.47785439,836,supermarket,Kroger,hurricane,FALSE
+30.03271307,-95.55276898,837,supermarket,Kroger,hurricane,FALSE
+29.64796217,-95.64942844,838,supermarket,Kroger,hurricane,FALSE
+29.98332352,-95.5659153,839,supermarket,Kroger,hurricane,TRUE
+29.90792773,-95.58356487,840,supermarket,Kroger,hurricane,FALSE
+29.95172456,-95.58238391,841,supermarket,Kroger,hurricane,FALSE
+29.67826435,-95.64101469,842,supermarket,Kroger,hurricane,FALSE
+29.75747934,-95.62744098,843,supermarket,Kroger,hurricane,FALSE
+29.86539238,-95.60674044,844,supermarket,Kroger,hurricane,FALSE
+29.92403174,-95.60445757,845,supermarket,Kroger,hurricane,FALSE
+29.90252892,-95.63172929,846,supermarket,Kroger,hurricane,FALSE
+29.88143736,-95.68557284,847,supermarket,Kroger,hurricane,FALSE
+29.97091084,-95.69016562,848,supermarket,Kroger,hurricane,FALSE
+29.7580622,-95.77842021,849,supermarket,Kroger,hurricane,FALSE
+29.75242815,-95.60529097,850,supermarket,Kroger,hurricane,FALSE
+29.87026875,-95.64370875,851,supermarket,Kroger,hurricane,FALSE
+29.58306697,-95.38986298,852,supermarket,Kroger,hurricane,TRUE
+29.75410354,-95.40551098,853,supermarket,Kroger,hurricane,FALSE
+29.70865507,-95.6859081,854,supermarket,Kroger,hurricane,FALSE
+29.73638145,-95.54530187,855,supermarket,Kroger,hurricane,FALSE
+29.74825128,-95.50009192,856,supermarket,Kroger,hurricane,FALSE
+29.77329477,-95.38983412,857,supermarket,Kroger,hurricane,FALSE
+30.00107524,-95.16091572,858,supermarket,Kroger,hurricane,FALSE
+29.92468342,-95.20387488,859,supermarket,Kroger,hurricane,FALSE
+29.70058625,-95.81150671,860,supermarket,Kroger,hurricane,FALSE
+29.7272562,-95.43088893,861,supermarket,Kroger,hurricane,FALSE
+30.07204608,-95.24296147,862,supermarket,Kroger,hurricane,FALSE
+29.6031611,-95.21490856,863,supermarket,Kroger,hurricane,FALSE
+29.53562111,-95.20585901,864,supermarket,Kroger,hurricane,FALSE
+29.54151352,-95.75073404,865,supermarket,Kroger Marketplace,hurricane,FALSE
+29.7628682,-95.84391945,866,supermarket,Kroger Marketplace,hurricane,FALSE
+29.86672039,-95.68399131,867,supermarket,La Michoacana Meat Market,hurricane,FALSE
+29.88266618,-95.39165289,868,supermarket,La Michoacana Meat Market,hurricane,TRUE
+29.87846799,-95.66712482,869,supermarket,La Pasadita,hurricane,FALSE
+29.7842404,-95.20345665,870,supermarket,Michoacana Market,hurricane,FALSE
+29.7911931,-95.52097456,871,supermarket,Nourish Market,hurricane,FALSE
+29.85822819,-95.42118279,872,supermarket,O-Lan O Supermarket,hurricane,FALSE
+29.7543203,-95.3616241,873,supermarket,Phoenicia Speciality Foods,hurricane,FALSE
+30.02992495,-95.48000836,874,supermarket,Placemark,hurricane,FALSE
+29.8495211,-95.68280441,875,supermarket,Placemark,hurricane,FALSE
+29.73408382,-95.62616393,876,supermarket,Placemark,hurricane,FALSE
+30.07100939,-95.50793535,877,supermarket,Placemark,hurricane,FALSE
+29.77116922,-95.59920071,878,supermarket,Placemark,hurricane,FALSE
+29.62163974,-95.55782635,879,supermarket,R & R Produce,hurricane,FALSE
+29.56585124,-95.14491806,880,supermarket,Raj Grocers,hurricane,FALSE
+29.97965676,-95.50886388,881,supermarket,Randalls,hurricane,FALSE
+29.77942851,-95.71700201,882,supermarket,Randalls,hurricane,FALSE
+30.14039731,-95.47216653,883,supermarket,Randalls,hurricane,FALSE
+29.74879734,-95.46575223,884,supermarket,Randalls,hurricane,FALSE
+29.77180633,-95.60717577,885,supermarket,Randalls 1011,hurricane,FALSE
+29.65645277,-95.58402128,886,supermarket,Randalls 1022,hurricane,FALSE
+29.67278639,-95.45880925,887,supermarket,Randalls 1041,hurricane,TRUE
+29.70472997,-95.42584965,888,supermarket,Randalls 1061,hurricane,FALSE
+29.77384013,-95.55932788,889,supermarket,Randalls 1066,hurricane,FALSE
+29.73770376,-95.57011096,890,supermarket,Randalls 1247,hurricane,FALSE
+29.81355567,-95.71889591,891,supermarket,Randalls 1772,hurricane,FALSE
+29.74895654,-95.37442988,892,supermarket,Randalls 1773,hurricane,FALSE
+29.95598523,-95.67073289,893,supermarket,Randalls 1857,hurricane,FALSE
+29.5543953,-95.37943027,894,supermarket,Randalls 1858,hurricane,FALSE
+29.53865544,-95.06312625,895,supermarket,Randalls 2051,hurricane,FALSE
+29.62202247,-95.74224127,896,supermarket,Randalls 2670,hurricane,FALSE
+29.83278915,-95.68370889,897,supermarket,Randalls 2672,hurricane,FALSE
+29.73872675,-95.53716716,898,supermarket,Randalls 2961,hurricane,FALSE
+29.70624553,-95.46976199,899,supermarket,Randalls 3064,hurricane,FALSE
+29.75989302,-95.74982931,900,supermarket,Randalls 3070,hurricane,FALSE
+29.72173052,-95.44245066,901,supermarket,Randalls 4033,hurricane,FALSE
+29.59303861,-95.14064172,902,supermarket,Randalls 4062,hurricane,FALSE
+29.74659731,-95.48637467,903,supermarket,Rice Epicurean Market,hurricane,FALSE
+29.76702441,-95.55149605,904,supermarket,Rice Epicurean Market,hurricane,FALSE
+29.58262032,-95.76339336,905,supermarket,Richmond Foods,hurricane,FALSE
+29.58407514,-95.75465749,906,supermarket,Riveredge Grocery,hurricane,FALSE
+29.8105358,-95.52564675,907,supermarket,Seller's Brothers,hurricane,FALSE
+29.71170801,-95.31283921,908,supermarket,Sellers Bros Food Market,hurricane,FALSE
+29.86578969,-95.67027442,909,supermarket,Shapla Grocers & Halal Meat,hurricane,FALSE
+29.8019634,-95.43050868,910,supermarket,Speedy Mart,hurricane,FALSE
+29.7745931,-95.40023729,911,supermarket,Sprouts Farmers Market,hurricane,FALSE
+29.88054357,-95.6469076,912,supermarket,Sprouts Farmers Market,hurricane,FALSE
+30.01197166,-95.58754413,913,supermarket,Sprouts Farmers Market,hurricane,FALSE
+29.55807297,-95.34820523,914,supermarket,Sprouts Farmers Market,hurricane,FALSE
+29.79246645,-95.52075421,915,supermarket,Super H Mart,hurricane,FALSE
+29.8111834,-95.68787751,916,supermarket,Supermercado Gigante,hurricane,FALSE
+29.69284323,-95.41913146,917,supermarket,Target,hurricane,FALSE
+29.65806619,-95.70980954,918,supermarket,Target,hurricane,FALSE
+29.78214991,-95.71604701,919,supermarket,Target,hurricane,FALSE
+29.8316677,-95.70856291,920,supermarket,Texas Food Supermarket,hurricane,FALSE
+29.8210826,-95.52493715,921,supermarket,Thang Hung Food Market,hurricane,FALSE
+30.04546953,-94.89232891,922,supermarket,Thrif-Tee Food Center,hurricane,FALSE
+29.73919521,-95.41116229,923,supermarket,Trader Joe's,hurricane,FALSE
+29.75274141,-95.50162086,924,supermarket,Trader Joe's,hurricane,FALSE
+29.74041302,-95.77534859,925,supermarket,Trader Joe's,hurricane,FALSE
+30.17637642,-95.53581464,926,supermarket,Trader Joe's,hurricane,FALSE
+29.73537338,-95.58239013,927,supermarket,Trader Joe's,hurricane,FALSE
+29.73811022,-95.62478483,928,supermarket,Vishala Grocery,hurricane,FALSE
+29.75846935,-95.73107906,929,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.55632704,-95.41577382,930,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.89794989,-95.68326348,931,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.68741731,-95.58607266,932,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.97801651,-95.19315358,933,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.9812891,-95.61048888,934,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.74398482,-95.79302689,935,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+30.06932783,-95.21450702,936,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.844249,-95.64485147,937,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+30.06434774,-95.40597497,938,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.67441745,-95.49548594,939,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.65700083,-95.53001596,940,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.94237478,-95.68057191,941,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.65209483,-95.61739294,942,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.75861482,-95.7310539,943,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.49903895,-95.12558437,944,supermarket,Walmart Neighborhood Market,hurricane,FALSE
+29.53659785,-95.51671797,945,supermarket,Walmart Supercenter,hurricane,FALSE
+29.54592162,-95.23588651,946,supermarket,Walmart Supercenter,hurricane,FALSE
+30.13429473,-95.55059293,947,supermarket,Walmart Supercenter,hurricane,FALSE
+29.69753483,-95.84126188,948,supermarket,Walmart Supercenter,hurricane,FALSE
+29.63080183,-95.23761704,949,supermarket,Walmart Supercenter,hurricane,FALSE
+29.67926183,-95.56131095,950,supermarket,Walmart Supercenter,hurricane,FALSE
+29.64406422,-95.57304647,951,supermarket,Walmart Supercenter,hurricane,FALSE
+29.57333984,-95.28312403,952,supermarket,Walmart Supercenter,hurricane,FALSE
+30.00899575,-95.28348001,953,supermarket,Walmart Supercenter,hurricane,FALSE
+29.73547981,-95.51168496,954,supermarket,Walmart Supercenter,hurricane,FALSE
+29.81716388,-94.89682672,955,supermarket,Walmart Supercenter,hurricane,FALSE
+29.73315185,-95.59138456,956,supermarket,Walmart Supercenter,hurricane,FALSE
+29.99567175,-95.17643704,957,supermarket,Walmart Supercenter,hurricane,FALSE
+29.79320027,-95.56485668,958,supermarket,Walmart Supercenter,hurricane,FALSE
+29.89437277,-95.06565907,959,supermarket,Walmart Supercenter,hurricane,FALSE
+29.69345285,-95.21037243,960,supermarket,Walmart Supercenter,hurricane,FALSE
+30.15146642,-95.22154612,961,supermarket,Walmart Supercenter,hurricane,FALSE
+29.61350324,-95.64453042,962,supermarket,Walmart Supercenter,hurricane,FALSE
+29.91314876,-95.48675372,963,supermarket,Walmart Supercenter,hurricane,FALSE
+29.76803896,-95.17705518,964,supermarket,Walmart Supercenter,hurricane,FALSE
+29.72118016,-95.64739496,965,supermarket,Walmart Supercenter,hurricane,FALSE
+29.80597101,-95.16518246,966,supermarket,Walmart Supercenter,hurricane,FALSE
+29.71615813,-95.31293048,967,supermarket,Walmart Supercenter,hurricane,FALSE
+30.0773533,-95.51271331,968,supermarket,Walmart Supercenter,hurricane,FALSE
+29.78918719,-95.72221325,969,supermarket,Walmart Supercenter,hurricane,FALSE
+29.77281017,-95.40132746,970,supermarket,Walmart Supercenter,hurricane,FALSE
+29.8299588,-95.37714501,971,supermarket,Walmart Supercenter,hurricane,FALSE
+29.99820625,-95.48419104,972,supermarket,Walmart Supercenter,hurricane,FALSE
+30.11449773,-95.38704398,973,supermarket,Walmart Supercenter,hurricane,FALSE
+29.72299952,-95.46502102,974,supermarket,Walmart Supercenter,hurricane,FALSE
+29.86062588,-95.71643936,975,supermarket,Walmart Supercenter,hurricane,FALSE
+29.9365089,-95.25274423,976,supermarket,Walmart Supercenter,hurricane,FALSE
+29.53482229,-95.01830395,977,supermarket,Walmart Supercenter,hurricane,FALSE
+29.91802348,-95.41561469,978,supermarket,Walmart Supercenter,hurricane,FALSE
+29.81890372,-95.76756611,979,supermarket,Walmart Supercenter,hurricane,FALSE
+29.69011574,-95.77461779,980,supermarket,Walmart Supercenter,hurricane,FALSE
+29.55180976,-95.15925075,981,supermarket,Walmart Supercenter,hurricane,FALSE
+29.55811532,-95.38272154,982,supermarket,Walmart Supercenter,hurricane,FALSE
+29.5734253,-95.56803472,983,supermarket,Walmart Supercenter,hurricane,FALSE
+29.86064779,-95.7164409,984,supermarket,Walmart Supercenter,hurricane,FALSE
+29.87696362,-95.65180088,985,supermarket,Walmart Supercenter,hurricane,FALSE
+29.55720939,-95.75994428,986,supermarket,Walmart Supercenter,hurricane,FALSE
+30.10697197,-95.23361708,987,supermarket,Walmart Supercenter,hurricane,FALSE
+29.66690712,-95.1000831,988,supermarket,Walmart Supercenter,hurricane,FALSE
+29.78874182,-95.46518797,989,supermarket,Walmart Supercenter,hurricane,FALSE
+29.97587894,-95.69785997,990,supermarket,Walmart Supercenter,hurricane,FALSE
+30.06468895,-95.43047187,991,supermarket,Walmart Supercenter,hurricane,FALSE
+29.78398634,-95.80400715,992,supermarket,Walmart Supercenter,hurricane,FALSE
+30.07581385,-95.62492502,993,supermarket,Walmart Supercenter,hurricane,FALSE
+29.91993898,-95.60224243,994,supermarket,Walmart Supercenter,hurricane,FALSE
+30.01416866,-95.59508369,995,supermarket,Walmart Supercenter,hurricane,FALSE
+30.12351693,-95.45774493,996,supermarket,Walmart Supercenter,hurricane,FALSE
+29.77626985,-94.97446957,997,supermarket,Walmart Supercenter,hurricane,FALSE
+29.85390615,-95.50908994,998,supermarket,Walmart Supercenter,hurricane,FALSE
+29.64660682,-95.16136806,999,supermarket,Walmart Supercenter,hurricane,FALSE
+29.58262675,-95.58339755,1000,supermarket,Welfresh Market,hurricane,FALSE
+29.74146311,-95.45483138,1001,supermarket,Westcreek Market & Deli,hurricane,FALSE
+29.73509171,-95.57049975,1002,supermarket,Whole Foods Market,hurricane,FALSE
+29.81369739,-95.39813639,1003,supermarket,Whole Foods Market,hurricane,FALSE
+29.75787903,-95.39756015,1004,supermarket,Whole Foods Market,hurricane,FALSE
+29.70695472,-95.44161543,1005,supermarket,Whole Foods Market,hurricane,FALSE
+29.71236773,-95.771856,1006,supermarket,Whole Foods Market,hurricane,FALSE
+29.73946224,-95.41812613,1007,supermarket,Whole Foods Market,hurricane,FALSE
+29.75246171,-95.49999186,1008,supermarket,Whole Foods Market,hurricane,FALSE
+29.60002264,-95.62332104,1009,supermarket,Whole Foods Market,hurricane,FALSE
+30.16939648,-95.47048443,1010,supermarket,Whole Foods Market,hurricane,FALSE
+29.74958941,-95.46186507,1011,supermarket,Whole Foods Market,hurricane,FALSE
+29.66131738,-95.68663052,1012,supermarket,YOGI INDIAN GROCERS,hurricane,FALSE
