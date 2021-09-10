@@ -1,0 +1,6 @@
+﻿city,hazard,text
+seattle,liquefaction,Relative liquefaction susceptibility
+houston,hurricane,Empirical flood data from Hurricane Harvey
+christchurch,liquefaction,Liquefaction susceptibility under a magnitude 6.0 earthquake
+christchurch,tsunami,Predicted 1 in 2500 year event sourced from an earthquake located on coastal South America
+christchurch,multi,Predicted combination of a magnitude 6 earthquake and a resultant 1 in 2500year tsunami
