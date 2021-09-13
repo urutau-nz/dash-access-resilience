@@ -56,14 +56,15 @@ for file in tqdm(files):
                 else:
                     ethnic_col = ethnic
                 sub_pop = df[ethnic_col].sum()
-                df['mean_{}'.format(service)] = df['mean_{}'.format(service)].fillna(-999)
-                df['{}_{}'.format(column_name, service)] = df['{}_{}'.format(column_name, service)].fillna(30000)
+                # isolated = df[df['isolated_{}'.format(service)]==True][ethnic_col].sum()
+                df['mean_{}'.format(service)] = df['mean_{}'.format(service)].fillna(-1)
+                #df['{}_{}'.format(column_name, service)] = df['{}_{}'.format(column_name, service)].fillna(30000)
                 # make pop_perc, distances, pop_perc_cum
-                bins = [-1000] + list(np.arange(0, df['{}_{}'.format(column_name, service)].max(), df['{}_{}'.format(column_name, service)].max()/51))
+                bins = [-np.arange(0, df['{}_{}'.format(column_name, service)].max(), df['{}_{}'.format(column_name, service)].max()/51)[1]] + list(np.arange(0, df['{}_{}'.format(column_name, service)].max(), df['{}_{}'.format(column_name, service)].max()/51))
                 counts, bin_edges = np.histogram(np.array(df['{}_{}'.format(column_name, service)]), bins=bins, density = True, weights=df[ethnic_col])
                 dx = bin_edges[1] - bin_edges[0]
                 pop_perc_cum = pop_perc_cum + list(np.cumsum(counts)*dx*100)
-                distances = distances + list(bin_edges[0:-1])
+                distances += list(bin_edges[0:-1])
                 for i in np.arange(0, len(list(np.cumsum(counts)*dx*100))):
                     if i == 0:
                         pop_percs.append(list(np.cumsum(counts)*dx*100)[i])
@@ -74,6 +75,7 @@ for file in tqdm(files):
                 distances = distances[:-1]
                 pops = pops[:-1]
                 pop_perc_cum = pop_perc_cum[:-1]
+                # #distances = distances.append(-999)
                 ethnics = ethnics + [ethnic]*50
                 dest_types = dest_types + [service]*50
                 hazards = hazards + [hazard]*50
