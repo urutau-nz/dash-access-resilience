@@ -1,862 +1,844 @@
-﻿lat,lon,id,dest_type,name,hazard,operational
--43.5351605,172.5802564,1,supermarket,Big Chicken Supermarket,liquefaction,TRUE
--43.53274003,172.5730475,2,supermarket,Countdown,liquefaction,FALSE
--43.55682685,172.7025114,3,supermarket,Countdown,liquefaction,TRUE
--43.5387413,172.6417417,4,supermarket,Countdown,liquefaction,FALSE
--43.50676606,172.7299485,5,supermarket,Countdown,liquefaction,FALSE
--43.45900317,172.6250142,6,supermarket,Countdown,liquefaction,TRUE
--43.49152959,172.6117041,7,supermarket,Countdown,liquefaction,FALSE
--43.59418266,172.3866759,8,supermarket,Countdown,liquefaction,FALSE
--43.54274886,172.5269712,9,supermarket,Countdown,liquefaction,TRUE
--43.48986069,172.5477124,10,supermarket,Countdown,liquefaction,FALSE
--43.5056571,172.6645278,11,supermarket,Countdown,liquefaction,TRUE
--43.5111866,172.5572106,12,supermarket,Countdown,liquefaction,FALSE
--43.5324507,172.6755846,13,supermarket,Countdown,liquefaction,FALSE
--43.55331378,172.6355983,14,supermarket,Countdown Sydenham,liquefaction,FALSE
--43.51316108,172.6367287,15,supermarket,Edgeware FreshChoice,liquefaction,FALSE
--43.5232351,172.3704124,16,supermarket,Four Square,liquefaction,FALSE
--43.48134612,172.7060947,17,supermarket,Fresh Choice,liquefaction,TRUE
--43.5557083,172.6205318,18,supermarket,Fresh Choice,liquefaction,FALSE
--43.5340843,172.6378384,19,supermarket,Fresh Choice City Market,liquefaction,TRUE
--43.5128454,172.6213802,20,supermarket,Fresh Choice Supermarket,liquefaction,TRUE
--43.5132962,172.6365852,21,supermarket,FreshChoice,liquefaction,TRUE
--43.58063686,172.5659203,22,supermarket,New World,liquefaction,TRUE
--43.45963502,172.6223904,23,supermarket,New World,liquefaction,TRUE
--43.48845188,172.5872137,24,supermarket,New World,liquefaction,FALSE
--43.55753906,172.6547893,25,supermarket,New World,liquefaction,TRUE
--43.56242398,172.7390075,26,supermarket,New World,liquefaction,TRUE
--43.47515958,172.6620094,27,supermarket,New World,liquefaction,FALSE
--43.53870921,172.6331341,28,supermarket,New World,liquefaction,TRUE
--43.5179319,172.588375,29,supermarket,New World,liquefaction,TRUE
--43.5526955,172.5575428,30,supermarket,New World,liquefaction,FALSE
--43.5258837,172.5701643,31,supermarket,New World,liquefaction,FALSE
--43.4885645,172.5874903,32,supermarket,New World,liquefaction,FALSE
--43.5490378,172.6840966,33,supermarket,New World,liquefaction,TRUE
--43.52595041,172.5700589,34,supermarket,New World Ilam,liquefaction,TRUE
--43.64225793,172.4737121,35,supermarket,New World Lincoln,liquefaction,FALSE
--43.5967627,172.3824238,36,supermarket,New World Rolleston,liquefaction,FALSE
--43.52016129,172.6569832,37,supermarket,New World Stanmore,liquefaction,TRUE
--43.5426435,172.5233262,38,supermarket,PAK'nSAVE,liquefaction,FALSE
--43.49285848,172.6089146,39,supermarket,Pak'nSave,liquefaction,FALSE
--43.51282276,172.6932267,40,supermarket,Pak'nSave,liquefaction,TRUE
--43.5310944,172.5961987,41,supermarket,Pak'nSave,liquefaction,FALSE
--43.53900827,172.6383239,42,supermarket,Pak'nSave Moorhouse Avenue,liquefaction,FALSE
--43.5401055,172.6053454,43,supermarket,Raeward Fresh,liquefaction,TRUE
--43.4777997,172.5552277,44,supermarket,Reawood Fresh,liquefaction,FALSE
--43.5694327,172.7599984,45,supermarket,Sumner Supervalue,liquefaction,TRUE
--43.60288087,172.7215154,46,supermarket,SuperValue,liquefaction,FALSE
--43.509513,172.5902803,47,supermarket,SuperValue,liquefaction,TRUE
--43.53041974,172.6574869,48,supermarket,Supervalue,liquefaction,FALSE
--43.38619393,172.6589884,49,supermarket,Countdown,liquefaction,FALSE
--43.38240588,172.6589884,50,supermarket,New World,liquefaction,FALSE
--43.5671816,172.6355346,51,medical_clinic,Cashmere Health & Physio,liquefaction,FALSE
--43.5670258,172.6350141,52,medical_clinic,Dr Liam Walshe Cashmere Dentists,liquefaction,TRUE
--43.302568,172.5916687,53,medical_clinic,Durham Health,liquefaction,FALSE
--43.3020404,172.5938606,54,medical_clinic,Good Street Medical Centre,liquefaction,FALSE
--43.381548,172.658214,55,medical_clinic,Kaiapoi Family Doctors,liquefaction,FALSE
--43.3851513,172.6552188,56,medical_clinic,Kaiapoi Medical Centre,liquefaction,FALSE
--43.3838471,172.6568487,57,medical_clinic,Kaye Buchan Kaiapoi,liquefaction,FALSE
--43.7613679,172.2994522,58,medical_clinic,Leeston Medical Centre,liquefaction,FALSE
--43.6404562,172.4852213,59,medical_clinic,Lincoln Medical,liquefaction,FALSE
--43.6425505,172.4685995,60,medical_clinic,Lincoln University Student Health & Support,liquefaction,FALSE
--43.3039901,172.5919674,61,medical_clinic,Medical Corner Doctors,liquefaction,FALSE
--43.5263504,172.6386968,62,medical_clinic,Menzmedical,liquefaction,TRUE
--43.5132281,172.6229239,63,medical_clinic,Merivale Village Medical Care,liquefaction,TRUE
--43.5118609,172.6203216,64,medical_clinic,Molecheck Ltd - CHCH,liquefaction,TRUE
--43.553126,172.6640804,65,medical_clinic,Opawa Surgery,liquefaction,FALSE
--43.4798067,172.6954698,66,medical_clinic,Parklands Medical Centre (Chch),liquefaction,TRUE
--43.3140479,172.6976781,67,medical_clinic,Pegasus Medical Centre,liquefaction,FALSE
--43.4743719,172.6260863,68,medical_clinic,Prestons Road Surgery,liquefaction,TRUE
--43.3085385,172.5966653,69,medical_clinic,Rangiora Family Doctors,liquefaction,FALSE
--43.5957078,172.3894715,70,medical_clinic,Rolleston Central Health,liquefaction,FALSE
--43.5948428,172.3750787,71,medical_clinic,Rolleston Medical Centre,liquefaction,FALSE
--43.5591296,172.702622,72,medical_clinic,Settlers Health Centre,liquefaction,FALSE
--43.3164877,172.6003441,73,medical_clinic,Southside Health,liquefaction,FALSE
--43.550862,172.6000633,74,medical_clinic,Village Health Lincoln Road,liquefaction,FALSE
--43.5224537,172.3704577,75,medical_clinic,West Melton Medical Centre,liquefaction,FALSE
--43.555845,172.5612426,76,medical_clinic,Wigram Health,liquefaction,FALSE
--43.3234375,172.6652561,77,medical_clinic,Woodend Medical Centre,liquefaction,FALSE
--43.5254823,172.6719958,78,medical_clinic,Woodham Road Healthcare,liquefaction,FALSE
--43.52070256,172.6303589,79,medical_clinic,298 Youth Health,liquefaction,FALSE
--43.54557559,172.5258579,80,medical_clinic,Amyes Road Medical Centre,liquefaction,FALSE
--43.55709556,172.620348,81,medical_clinic,Barrington Medical Centre,liquefaction,TRUE
--43.44520355,172.6333859,82,medical_clinic,Belfast Medical Centre,liquefaction,FALSE
--43.44470655,172.6329439,83,medical_clinic,Belfast North Mediqual Doctors,liquefaction,TRUE
--43.49018057,172.5880899,84,medical_clinic,Bishopdale Medical Centre,liquefaction,FALSE
--43.50908257,172.5904849,85,medical_clinic,Bryndwr Medical Rooms,liquefaction,FALSE
--43.49651957,172.5787619,86,medical_clinic,Burnside Medical Centre,liquefaction,FALSE
--43.48045856,172.6032359,87,medical_clinic,Casebrook Surgery,liquefaction,TRUE
--43.56681956,172.646938,88,medical_clinic,Cashmere Health,liquefaction,TRUE
--43.56699856,172.629422,89,medical_clinic,Cashmere Medical Practice,liquefaction,FALSE
--43.55626656,172.636678,90,medical_clinic,Christchurch South Health Centre,liquefaction,FALSE
--43.50501855,172.6347199,91,medical_clinic,Cranford Street Medical Practice,liquefaction,FALSE
--43.62646953,172.739929,92,medical_clinic,Diamond Harbour Surgery,liquefaction,FALSE
--43.53301756,172.6283289,93,medical_clinic,Doctors on Cashel,liquefaction,FALSE
--43.53046757,172.5928159,94,medical_clinic,Doctors on Riccarton,liquefaction,TRUE
--43.51292058,172.5551999,95,medical_clinic,Dr Kathy Davey,liquefaction,FALSE
--43.51292058,172.5551999,96,medical_clinic,Dr Susan Shand,liquefaction,FALSE
--43.51656953,172.701178,97,medical_clinic,Eastcare Health,liquefaction,TRUE
--43.51775557,172.5871119,98,medical_clinic,Fendalton Medical Centre,liquefaction,TRUE
--43.54090255,172.660402,99,medical_clinic,Ferry Road Medical Centre,liquefaction,FALSE
--43.55618954,172.697494,100,medical_clinic,Ferrymead Medical Centre,liquefaction,TRUE
--43.50771957,172.5698549,101,medical_clinic,Grahams Road Medical Practice,liquefaction,FALSE
--43.49870857,172.5867099,102,medical_clinic,Greers Road Medical Centre,liquefaction,FALSE
--43.57433758,172.5682579,103,medical_clinic,Halswellhealth,liquefaction,FALSE
--43.49117857,172.5952169,104,medical_clinic,Harewood Medical Centre,liquefaction,FALSE
--43.53825755,172.642922,105,medical_clinic,Health Centre Ara Institute of Canterbury,liquefaction,TRUE
--43.53660756,172.6364479,106,medical_clinic,Health and Sport Central,liquefaction,FALSE
--43.53581859,172.5214049,107,medical_clinic,Hei Hei Health Centre,liquefaction,FALSE
--43.55982355,172.657957,108,medical_clinic,Helios Integrative Medical Centre,liquefaction,FALSE
--43.52922357,172.6052069,109,medical_clinic,High Street City Health,liquefaction,TRUE
--43.55412657,172.5942419,110,medical_clinic,HillMed Health Centre,liquefaction,TRUE
--43.56601557,172.604239,111,medical_clinic,Hoon Hay Medical Centre,liquefaction,FALSE
--43.54441759,172.5287619,112,medical_clinic,Hornby Medical Centre,liquefaction,FALSE
--43.51225957,172.5806319,113,medical_clinic,Ilam Medical Centre,liquefaction,FALSE
--43.50211655,172.6333769,114,medical_clinic,Innes Road Medical Rooms,liquefaction,FALSE
--43.51569257,172.5717529,115,medical_clinic,Inspire Health Medical Practice,liquefaction,FALSE
--43.49784757,172.5727439,116,medical_clinic,Kendal Medical Centre,liquefaction,FALSE
--43.53295855,172.655534,117,medical_clinic,Kingdom Clinic,liquefaction,FALSE
--43.53321054,172.674028,118,medical_clinic,Linwood Medical Centre,liquefaction,FALSE
--43.57815959,172.5462929,119,medical_clinic,Longhurst Health,liquefaction,FALSE
--43.60346954,172.722625,120,medical_clinic,Lyttelton Health Centre,liquefaction,FALSE
--43.49133856,172.6130309,121,medical_clinic,Main North Road Medical Centre,liquefaction,TRUE
--43.49846755,172.6408549,122,medical_clinic,Mairehau Medical Centre,liquefaction,TRUE
--43.51151956,172.6214979,123,medical_clinic,Mansfield Health Practice,liquefaction,FALSE
--43.47488754,172.6592859,124,medical_clinic,Marshlands Family Health Centre,liquefaction,FALSE
--43.52137956,172.6368109,125,medical_clinic,Menzmedical,liquefaction,TRUE
--43.51014756,172.6202329,126,medical_clinic,Merivale Medical Practice,liquefaction,TRUE
--43.54073156,172.63974,127,medical_clinic,Moorhouse Medical Centre,liquefaction,TRUE
--43.55795353,172.722312,128,medical_clinic,Mt Pleasant Medical Centre,liquefaction,FALSE
--43.50905653,172.727617,129,medical_clinic,New Brighton Health Care,liquefaction,FALSE
--43.50980456,172.6067429,130,medical_clinic,Normans Road Surgery,liquefaction,TRUE
--43.51776955,172.6541109,131,medical_clinic,North Avon Medical Centre,liquefaction,FALSE
--43.47507056,172.6173119,132,medical_clinic,Northwood Medical Centre,liquefaction,FALSE
--43.53841556,172.6304619,133,medical_clinic,Pacific Health Clinic,liquefaction,TRUE
--43.50030656,172.6111929,134,medical_clinic,Papanui Medical Centre,liquefaction,TRUE
--43.51534355,172.6378859,135,medical_clinic,Promed Doctors,liquefaction,TRUE
--43.49499353,172.7111989,136,medical_clinic,QEII Medical Centre,liquefaction,TRUE
--43.47786153,172.6959789,137,medical_clinic,Queenspark Healthcare,liquefaction,FALSE
--43.56187953,172.738582,138,medical_clinic,Redcliffs Medical Centre,liquefaction,FALSE
--43.47920956,172.6170389,139,medical_clinic,Redwood Clinic,liquefaction,TRUE
--43.53172358,172.5717639,140,medical_clinic,Riccarton Clinic,liquefaction,FALSE
--43.53291957,172.5990099,141,medical_clinic,Riccarton Medical Practice,liquefaction,TRUE
--43.54828056,172.622099,142,medical_clinic,Selwyn Village Healthcare,liquefaction,FALSE
--43.50711055,172.6625929,143,medical_clinic,Shirley Medical Centre,liquefaction,TRUE
--43.50956856,172.6304629,144,medical_clinic,St Albans Medical Centre,liquefaction,TRUE
--43.55915655,172.654557,145,medical_clinic,St Martins Medical Practice,liquefaction,TRUE
--43.52859257,172.6022669,146,medical_clinic,Straven Medical,liquefaction,TRUE
--43.56891552,172.75837,147,medical_clinic,Sumner Health Centre,liquefaction,FALSE
--43.51058453,172.701306,148,medical_clinic,Te Rawhiti Family Care Centre,liquefaction,FALSE
--43.55337561,172.4731009,149,medical_clinic,Templeton Medical,liquefaction,FALSE
--43.53216456,172.6374769,150,medical_clinic,The Christchurch Doctors,liquefaction,FALSE
--43.49494453,172.7096289,151,medical_clinic,Travis Medical Centre,liquefaction,TRUE
--43.53217655,172.671399,152,medical_clinic,Union & Community Health Centre (Piki Te Ora),liquefaction,FALSE
--43.52384857,172.5795009,153,medical_clinic,University of Canterbury Student Health Centre,liquefaction,FALSE
--43.53133157,172.5778409,154,medical_clinic,Upper Riccarton Medical Centre,liquefaction,FALSE
--43.55282957,172.5966139,155,medical_clinic,Village Health Lincoln Road,liquefaction,TRUE
--43.51569257,172.5717529,156,medical_clinic,Waimairi Road Medical Centre,liquefaction,TRUE
--43.55069855,172.646537,157,medical_clinic,Waltham Medical Centre,liquefaction,TRUE
--43.55198158,172.5569569,158,medical_clinic,WeCare Health Wigram,liquefaction,FALSE
--43.52537255,172.662356,159,medical_clinic,Woodham Road Medical,liquefaction,FALSE
--43.52775358,172.5575659,160,medical_clinic,Yaldhurst Family Doctors,liquefaction,FALSE
--43.602804,172.467945,161,primary_school,Broadfield School,liquefaction,FALSE
--43.551181,172.656331,162,primary_school,TKKM o Waitaha,liquefaction,FALSE
--43.546479,172.689238,163,primary_school,Tamariki School,liquefaction,TRUE
--43.384361,172.654115,164,primary_school,St Patrick's School (Kaiapoi),liquefaction,FALSE
--43.552887,172.659307,165,primary_school,St Mark's School (Christchurch),liquefaction,TRUE
--43.534774,172.633065,166,primary_school,St Michael's Church School,liquefaction,FALSE
--43.536311,172.596742,167,primary_school,Wharenui School,liquefaction,TRUE
--43.523227,172.639261,168,primary_school,St Mary's School (Christchurch),liquefaction,FALSE
--43.511239,172.604049,169,primary_school,St Patrick's School (Bryndwr),liquefaction,FALSE
--43.504214,172.605282,170,primary_school,Waimairi School,liquefaction,FALSE
--43.570608,172.403181,171,primary_school,Weedons School,liquefaction,FALSE
--43.521443,172.369386,172,primary_school,West Melton School,liquefaction,FALSE
--43.512146,172.570887,173,primary_school,Westburn School,liquefaction,TRUE
--43.488673,172.614444,174,primary_school,St Joseph's School (Papanui),liquefaction,FALSE
--43.565432,172.657232,175,primary_school,St Martins School,liquefaction,TRUE
--43.559766,172.637698,176,primary_school,St Peter's School (Beckenham),liquefaction,TRUE
--43.529758,172.59214,177,primary_school,St Teresa's School (Riccarton),liquefaction,FALSE
--43.566305,172.636568,178,primary_school,Thorrington School,liquefaction,FALSE
--43.51173,172.70486,179,primary_school,St James School (Aranui),liquefaction,FALSE
--43.574868,172.762543,180,primary_school,Our Lady Star of the Sea School (Christchurch),liquefaction,FALSE
--43.573098,172.759628,181,primary_school,Sumner School,liquefaction,TRUE
--43.550162,172.472361,182,primary_school,Templeton School,liquefaction,FALSE
--43.533484,172.525345,183,primary_school,St Bernadette's School (Hornby),liquefaction,FALSE
--43.547858,172.61824,184,primary_school,Addington Te Kura Taumatua,liquefaction,FALSE
--43.562252,172.587768,185,primary_school,Te KÃƒÂ…Ã‚Âmanawa Rowley School,liquefaction,FALSE
--43.561645,172.628537,186,primary_school,Somerfield Te Kura Wairepo,liquefaction,TRUE
--43.547122,172.529047,187,primary_school,South Hornby School,liquefaction,FALSE
--43.52622,172.733527,188,primary_school,South New Brighton School,liquefaction,FALSE
--43.49871,172.641415,189,primary_school,Mairehau Primary School,liquefaction,FALSE
--43.577074,172.513059,190,primary_school,Prebbleton School,liquefaction,FALSE
--43.533363,172.564144,191,primary_school,Te KÃƒÂ„Ã‚Âpehu Riccarton School,liquefaction,FALSE
--43.517895,172.544704,192,primary_school,Russley School,liquefaction,FALSE
--43.375957,172.663615,193,primary_school,Kaiapoi North School,liquefaction,FALSE
--43.553946,172.551525,194,primary_school,Wigram Primary School - Te Piki KÃƒÂ„Ã‚Âhu,liquefaction,FALSE
--43.557575,172.597927,195,primary_school,Spreydon School,liquefaction,TRUE
--43.513251,172.668112,196,primary_school,Banks Avenue School,liquefaction,FALSE
--43.562877,172.645488,197,primary_school,Beckenham Te Kura o PÃƒÂ…Ã‚Â«roto,liquefaction,FALSE
--43.453618,172.627302,198,primary_school,Belfast School,liquefaction,TRUE
--43.512738,172.581782,199,primary_school,Burnside Primary School,liquefaction,TRUE
--43.637105,172.487099,200,primary_school,Lincoln Primary School,liquefaction,FALSE
--43.555662,172.66449,201,primary_school,Opawa School,liquefaction,FALSE
--43.538707,172.522632,202,primary_school,Hornby Primary School,liquefaction,TRUE
--43.493107,172.582123,203,primary_school,Isleworth School,liquefaction,FALSE
--43.482458,172.587178,204,primary_school,Cotswold School,liquefaction,TRUE
--43.524102,172.559497,205,primary_school,Avonhead School,liquefaction,FALSE
--43.548989,172.648613,206,primary_school,Waltham School,liquefaction,TRUE
--43.576418,172.632546,207,primary_school,Cashmere Primary Te Pae KererÃƒÂ…Ã‚Â«,liquefaction,FALSE
--43.405997,172.623356,208,primary_school,Clarkville School,liquefaction,FALSE
--43.529738,172.521344,209,primary_school,Gilberthorpe School,liquefaction,FALSE
--43.579876,172.708878,210,primary_school,Heathcote Valley School,liquefaction,FALSE
--43.663629,172.550066,211,primary_school,Tai Tapu School,liquefaction,FALSE
--43.444597,172.660388,212,primary_school,Ouruhia Model School,liquefaction,FALSE
--43.488025,172.619727,213,primary_school,Papanui School,liquefaction,FALSE
--43.499655,172.619586,214,primary_school,Paparoa Street School,liquefaction,FALSE
--43.556439,172.733609,215,primary_school,Te Raekura Redcliffs School,liquefaction,FALSE
--43.473605,172.621954,216,primary_school,Redwood School (Christchurch),liquefaction,TRUE
--43.644586,172.425734,217,primary_school,Springston School,liquefaction,FALSE
--43.507131,172.629095,218,primary_school,St Albans Catholic School (Christchurch),liquefaction,TRUE
--43.524848,172.675792,219,primary_school,WhÃƒÂ„Ã‚Â«tau School,liquefaction,FALSE
--43.510497,172.558579,220,primary_school,Merrin School,liquefaction,FALSE
--43.479365,172.614009,221,primary_school,Northcote School (Christchurch),liquefaction,FALSE
--43.571583,172.56465,222,primary_school,Oaklands School,liquefaction,FALSE
--43.370163,172.590554,223,primary_school,Ohoka School,liquefaction,FALSE
--43.526413,172.579696,224,primary_school,Ilam School,liquefaction,FALSE
--43.509154,172.576637,225,primary_school,Christ The King School (Burnside),liquefaction,TRUE
--43.529647,172.648358,226,primary_school,Christchurch East School,liquefaction,FALSE
--43.513814,172.614755,227,primary_school,Elmwood Normal School,liquefaction,FALSE
--43.590655,172.569381,228,primary_school,Halswell School,liquefaction,FALSE
--43.528058,172.628555,229,primary_school,The Cathedral Grammar School,liquefaction,TRUE
--43.506368,172.615873,230,primary_school,St Andrew's College (Christchurch),liquefaction,FALSE
--43.520222,172.654826,231,primary_school,Jean Seabrook Memorial School,liquefaction,FALSE
--43.52931,172.672461,232,primary_school,Te Pa o Rakaihautu,liquefaction,FALSE
--43.514761,172.696693,233,primary_school,Haeata Community Campus,liquefaction,FALSE
--43.602344,172.723168,234,primary_school,Lyttelton Primary School,liquefaction,FALSE
--43.499792,172.639393,235,primary_school,St Francis of Assisi Catholic School,liquefaction,FALSE
--43.570862,172.537934,236,primary_school,Knights Stream School- Mingimingi Hautoa,liquefaction,FALSE
--43.478668,172.588279,237,primary_school,Emmanuel Christian School,liquefaction,TRUE
--43.555741,172.652801,238,primary_school,Hillview Christian School,liquefaction,FALSE
--43.499023,172.611436,239,primary_school,Christchurch Adventist School,liquefaction,FALSE
--43.622673,172.386021,240,primary_school,Lemonwood Grove School,liquefaction,FALSE
--43.564588,172.614592,241,primary_school,TKKM o Te Whanau Tahi,liquefaction,FALSE
--43.563771,172.571,242,primary_school,Aidanfield Christian School,liquefaction,FALSE
--43.535939,172.635943,243,primary_school,Ao Tawhiti Unlimited Discovery,liquefaction,FALSE
--43.545671,172.672639,244,primary_school,Te Waka Unua School,liquefaction,FALSE
--43.488844,172.683844,245,primary_school,Waitakiri Primary School,liquefaction,FALSE
--43.606888,172.355917,246,primary_school,West Rolleston Primary School,liquefaction,FALSE
--43.519096,172.622159,247,primary_school,St Margaret's College,liquefaction,FALSE
--43.608323,172.392912,248,primary_school,Rolleston Christian School,liquefaction,FALSE
--43.58267,172.548458,249,primary_school,Seven Oaks School,liquefaction,TRUE
--43.521889,172.589114,250,primary_school,Medbury Preparatory School,liquefaction,FALSE
--43.500167,172.588282,251,primary_school,Wairakei School (Christchurch),liquefaction,FALSE
--43.559634,172.611297,252,primary_school,Te Ara Koropiko West Spreydon School,liquefaction,FALSE
--43.510194,172.502189,253,primary_school,Yaldhurst Model School,liquefaction,FALSE
--43.369342,172.495566,254,primary_school,Swannanoa School,liquefaction,FALSE
--43.546066,172.612757,255,primary_school,Sacred Heart School (Christchurch),liquefaction,FALSE
--43.564788,172.60708,256,primary_school,Our Lady of the Assumption School (Chch),liquefaction,TRUE
--43.536215,172.559125,257,primary_school,Our Lady of Victories,liquefaction,FALSE
--43.4806,172.705631,258,primary_school,Parkview PÃƒÂ„Ã‚Ârua,liquefaction,TRUE
--43.473158,172.695985,259,primary_school,Queenspark School,liquefaction,FALSE
--43.592491,172.381339,260,primary_school,Rolleston School,liquefaction,FALSE
--43.494484,172.563148,261,primary_school,Te Ara Maurea Roydvale School,liquefaction,FALSE
--43.507888,172.653152,262,primary_school,Shirley Primary School,liquefaction,TRUE
--43.508774,172.634388,263,primary_school,St Albans School,liquefaction,TRUE
--43.550383,172.685581,264,primary_school,St Anne's School (Woolston),liquefaction,FALSE
--43.535284,172.67488,265,primary_school,Linwood Avenue School,liquefaction,FALSE
--43.763797,172.795486,266,primary_school,Little River School,liquefaction,FALSE
--43.472028,172.664748,267,primary_school,Marshland School,liquefaction,FALSE
--43.562448,172.715927,268,primary_school,Mt Pleasant School,liquefaction,FALSE
--43.505942,172.723723,269,primary_school,New Brighton Catholic School (Chch),liquefaction,FALSE
--43.564866,172.606597,270,primary_school,Hoon Hay Te Kura KÃƒÂ…Ã‚Âaka,liquefaction,TRUE
--43.379062,172.651468,271,primary_school,Kaiapoi Borough School,liquefaction,FALSE
--43.617669,172.532329,272,primary_school,Ladbrooks School,liquefaction,FALSE
--43.554159,172.687455,273,primary_school,Ngutuawa School,liquefaction,FALSE
--43.486649,172.596248,274,primary_school,Bishopdale School,liquefaction,FALSE
--43.536557,172.687055,275,primary_school,Bromley School,liquefaction,FALSE
--43.629962,172.726705,276,primary_school,Diamond Harbour School,liquefaction,FALSE
--43.517081,172.591149,277,primary_school,Fendalton Open Air School,liquefaction,FALSE
--43.623986,172.64999,278,primary_school,Governors Bay School,liquefaction,FALSE
--43.479772,172.559446,279,primary_school,Harewood School,liquefaction,FALSE
--43.560087,172.659135,280,primary_school,Rudolf Steiner School (Chch),liquefaction,TRUE
--43.53625,172.57652,281,primary_school,Middleton Grange School,liquefaction,FALSE
--43.606108,172.38121,282,primary_school,Clearview Primary,liquefaction,FALSE
--43.510659,172.724993,283,primary_school,Nova Montessori School,liquefaction,FALSE
--43.496105,172.717708,284,primary_school,RÃƒÂ„Ã‚Âwhiti School,liquefaction,TRUE
--43.611772,172.404307,285,primary_school,Te RÃƒÂ…Ã‚Âhutu Whio (Proposed opening date: 2022-01-01),liquefaction,FALSE
--43.648092,172.492975,286,primary_school,Ararira Springs Primary- Te Puna o Ararira,liquefaction,FALSE
--43.516643,172.623012,287,primary_school,Selwyn House School,liquefaction,FALSE
--43.5351605,172.5802564,1,supermarket,Big Chicken Supermarket,multi,TRUE
--43.53274003,172.5730475,2,supermarket,Countdown,multi,TRUE
--43.55682685,172.7025114,3,supermarket,Countdown,multi,FALSE
--43.5387413,172.6417417,4,supermarket,Countdown,multi,TRUE
--43.50676606,172.7299485,5,supermarket,Countdown,multi,TRUE
--43.45900317,172.6250142,6,supermarket,Countdown,multi,FALSE
--43.49152959,172.6117041,7,supermarket,Countdown,multi,TRUE
--43.59418266,172.3866759,8,supermarket,Countdown,multi,FALSE
--43.54274886,172.5269712,9,supermarket,Countdown,multi,TRUE
--43.48986069,172.5477124,10,supermarket,Countdown,multi,TRUE
--43.5056571,172.6645278,11,supermarket,Countdown,multi,TRUE
--43.5111866,172.5572106,12,supermarket,Countdown,multi,TRUE
--43.5324507,172.6755846,13,supermarket,Countdown,multi,TRUE
--43.55331378,172.6355983,14,supermarket,Countdown Sydenham,multi,TRUE
--43.51316108,172.6367287,15,supermarket,Edgeware FreshChoice,multi,TRUE
--43.5232351,172.3704124,16,supermarket,Four Square,multi,FALSE
--43.48134612,172.7060947,17,supermarket,Fresh Choice,multi,FALSE
--43.5557083,172.6205318,18,supermarket,Fresh Choice,multi,TRUE
--43.5340843,172.6378384,19,supermarket,Fresh Choice City Market,multi,TRUE
--43.5128454,172.6213802,20,supermarket,Fresh Choice Supermarket,multi,TRUE
--43.5132962,172.6365852,21,supermarket,FreshChoice,multi,TRUE
--43.58063686,172.5659203,22,supermarket,New World,multi,FALSE
--43.45963502,172.6223904,23,supermarket,New World,multi,TRUE
--43.48845188,172.5872137,24,supermarket,New World,multi,FALSE
--43.55753906,172.6547893,25,supermarket,New World,multi,TRUE
--43.56242398,172.7390075,26,supermarket,New World,multi,FALSE
--43.47515958,172.6620094,27,supermarket,New World,multi,FALSE
--43.53870921,172.6331341,28,supermarket,New World,multi,TRUE
--43.5179319,172.588375,29,supermarket,New World,multi,TRUE
--43.5526955,172.5575428,30,supermarket,New World,multi,FALSE
--43.5258837,172.5701643,31,supermarket,New World,multi,TRUE
--43.4885645,172.5874903,32,supermarket,New World,multi,TRUE
--43.5490378,172.6840966,33,supermarket,New World,multi,TRUE
--43.52595041,172.5700589,34,supermarket,New World Ilam,multi,TRUE
--43.64225793,172.4737121,35,supermarket,New World Lincoln,multi,FALSE
--43.5967627,172.3824238,36,supermarket,New World Rolleston,multi,FALSE
--43.52016129,172.6569832,37,supermarket,New World Stanmore,multi,TRUE
--43.5426435,172.5233262,38,supermarket,PAK'nSAVE,multi,FALSE
--43.49285848,172.6089146,39,supermarket,Pak'nSave,multi,TRUE
--43.51282276,172.6932267,40,supermarket,Pak'nSave,multi,TRUE
--43.5310944,172.5961987,41,supermarket,Pak'nSave,multi,FALSE
--43.53900827,172.6383239,42,supermarket,Pak'nSave Moorhouse Avenue,multi,TRUE
--43.5401055,172.6053454,43,supermarket,Raeward Fresh,multi,TRUE
--43.4777997,172.5552277,44,supermarket,Reawood Fresh,multi,FALSE
--43.5694327,172.7599984,45,supermarket,Sumner Supervalue,multi,FALSE
--43.60288087,172.7215154,46,supermarket,SuperValue,multi,FALSE
--43.509513,172.5902803,47,supermarket,SuperValue,multi,TRUE
--43.53041974,172.6574869,48,supermarket,Supervalue,multi,TRUE
--43.38619393,172.6589884,49,supermarket,Countdown,multi,FALSE
--43.38240588,172.6589884,50,supermarket,New World,multi,TRUE
--43.5671816,172.6355346,51,medical_clinic,Cashmere Health & Physio,multi,TRUE
--43.5670258,172.6350141,52,medical_clinic,Dr Liam Walshe Cashmere Dentists,multi,TRUE
--43.302568,172.5916687,53,medical_clinic,Durham Health,multi,FALSE
--43.3020404,172.5938606,54,medical_clinic,Good Street Medical Centre,multi,FALSE
--43.381548,172.658214,55,medical_clinic,Kaiapoi Family Doctors,multi,FALSE
--43.3851513,172.6552188,56,medical_clinic,Kaiapoi Medical Centre,multi,FALSE
--43.3838471,172.6568487,57,medical_clinic,Kaye Buchan Kaiapoi,multi,TRUE
--43.7613679,172.2994522,58,medical_clinic,Leeston Medical Centre,multi,FALSE
--43.6404562,172.4852213,59,medical_clinic,Lincoln Medical,multi,FALSE
--43.6425505,172.4685995,60,medical_clinic,Lincoln University Student Health & Support,multi,FALSE
--43.3039901,172.5919674,61,medical_clinic,Medical Corner Doctors,multi,FALSE
--43.5263504,172.6386968,62,medical_clinic,Menzmedical,multi,TRUE
--43.5132281,172.6229239,63,medical_clinic,Merivale Village Medical Care,multi,TRUE
--43.5118609,172.6203216,64,medical_clinic,Molecheck Ltd - CHCH,multi,TRUE
--43.553126,172.6640804,65,medical_clinic,Opawa Surgery,multi,FALSE
--43.4798067,172.6954698,66,medical_clinic,Parklands Medical Centre (Chch),multi,TRUE
--43.3140479,172.6976781,67,medical_clinic,Pegasus Medical Centre,multi,FALSE
--43.4743719,172.6260863,68,medical_clinic,Prestons Road Surgery,multi,TRUE
--43.3085385,172.5966653,69,medical_clinic,Rangiora Family Doctors,multi,FALSE
--43.5957078,172.3894715,70,medical_clinic,Rolleston Central Health,multi,FALSE
--43.5948428,172.3750787,71,medical_clinic,Rolleston Medical Centre,multi,FALSE
--43.5591296,172.702622,72,medical_clinic,Settlers Health Centre,multi,FALSE
--43.3164877,172.6003441,73,medical_clinic,Southside Health,multi,FALSE
--43.550862,172.6000633,74,medical_clinic,Village Health Lincoln Road,multi,TRUE
--43.5224537,172.3704577,75,medical_clinic,West Melton Medical Centre,multi,FALSE
--43.555845,172.5612426,76,medical_clinic,Wigram Health,multi,FALSE
--43.3234375,172.6652561,77,medical_clinic,Woodend Medical Centre,multi,FALSE
--43.5254823,172.6719958,78,medical_clinic,Woodham Road Healthcare,multi,TRUE
--43.52070256,172.6303589,79,medical_clinic,298 Youth Health,multi,TRUE
--43.54557559,172.5258579,80,medical_clinic,Amyes Road Medical Centre,multi,TRUE
--43.55709556,172.620348,81,medical_clinic,Barrington Medical Centre,multi,TRUE
--43.44520355,172.6333859,82,medical_clinic,Belfast Medical Centre,multi,TRUE
--43.44470655,172.6329439,83,medical_clinic,Belfast North Mediqual Doctors,multi,TRUE
--43.49018057,172.5880899,84,medical_clinic,Bishopdale Medical Centre,multi,TRUE
--43.50908257,172.5904849,85,medical_clinic,Bryndwr Medical Rooms,multi,FALSE
--43.49651957,172.5787619,86,medical_clinic,Burnside Medical Centre,multi,TRUE
--43.48045856,172.6032359,87,medical_clinic,Casebrook Surgery,multi,TRUE
--43.56681956,172.646938,88,medical_clinic,Cashmere Health,multi,TRUE
--43.56699856,172.629422,89,medical_clinic,Cashmere Medical Practice,multi,TRUE
--43.55626656,172.636678,90,medical_clinic,Christchurch South Health Centre,multi,FALSE
--43.50501855,172.6347199,91,medical_clinic,Cranford Street Medical Practice,multi,FALSE
--43.62646953,172.739929,92,medical_clinic,Diamond Harbour Surgery,multi,FALSE
--43.53301756,172.6283289,93,medical_clinic,Doctors on Cashel,multi,FALSE
--43.53046757,172.5928159,94,medical_clinic,Doctors on Riccarton,multi,TRUE
--43.51292058,172.5551999,95,medical_clinic,Dr Kathy Davey,multi,TRUE
--43.51292058,172.5551999,96,medical_clinic,Dr Susan Shand,multi,TRUE
--43.51656953,172.701178,97,medical_clinic,Eastcare Health,multi,TRUE
--43.51775557,172.5871119,98,medical_clinic,Fendalton Medical Centre,multi,TRUE
--43.54090255,172.660402,99,medical_clinic,Ferry Road Medical Centre,multi,TRUE
--43.55618954,172.697494,100,medical_clinic,Ferrymead Medical Centre,multi,FALSE
--43.50771957,172.5698549,101,medical_clinic,Grahams Road Medical Practice,multi,FALSE
--43.49870857,172.5867099,102,medical_clinic,Greers Road Medical Centre,multi,TRUE
--43.57433758,172.5682579,103,medical_clinic,Halswellhealth,multi,TRUE
--43.49117857,172.5952169,104,medical_clinic,Harewood Medical Centre,multi,TRUE
--43.53825755,172.642922,105,medical_clinic,Health Centre Ara Institute of Canterbury,multi,TRUE
--43.53660756,172.6364479,106,medical_clinic,Health and Sport Central,multi,FALSE
--43.53581859,172.5214049,107,medical_clinic,Hei Hei Health Centre,multi,FALSE
--43.55982355,172.657957,108,medical_clinic,Helios Integrative Medical Centre,multi,TRUE
--43.52922357,172.6052069,109,medical_clinic,High Street City Health,multi,TRUE
--43.55412657,172.5942419,110,medical_clinic,HillMed Health Centre,multi,TRUE
--43.56601557,172.604239,111,medical_clinic,Hoon Hay Medical Centre,multi,TRUE
--43.54441759,172.5287619,112,medical_clinic,Hornby Medical Centre,multi,FALSE
--43.51225957,172.5806319,113,medical_clinic,Ilam Medical Centre,multi,TRUE
--43.50211655,172.6333769,114,medical_clinic,Innes Road Medical Rooms,multi,TRUE
--43.51569257,172.5717529,115,medical_clinic,Inspire Health Medical Practice,multi,TRUE
--43.49784757,172.5727439,116,medical_clinic,Kendal Medical Centre,multi,TRUE
--43.53295855,172.655534,117,medical_clinic,Kingdom Clinic,multi,TRUE
--43.53321054,172.674028,118,medical_clinic,Linwood Medical Centre,multi,TRUE
--43.57815959,172.5462929,119,medical_clinic,Longhurst Health,multi,FALSE
--43.60346954,172.722625,120,medical_clinic,Lyttelton Health Centre,multi,FALSE
--43.49133856,172.6130309,121,medical_clinic,Main North Road Medical Centre,multi,FALSE
--43.49846755,172.6408549,122,medical_clinic,Mairehau Medical Centre,multi,TRUE
--43.51151956,172.6214979,123,medical_clinic,Mansfield Health Practice,multi,TRUE
--43.47488754,172.6592859,124,medical_clinic,Marshlands Family Health Centre,multi,FALSE
--43.52137956,172.6368109,125,medical_clinic,Menzmedical,multi,TRUE
--43.51014756,172.6202329,126,medical_clinic,Merivale Medical Practice,multi,TRUE
--43.54073156,172.63974,127,medical_clinic,Moorhouse Medical Centre,multi,TRUE
--43.55795353,172.722312,128,medical_clinic,Mt Pleasant Medical Centre,multi,TRUE
--43.50905653,172.727617,129,medical_clinic,New Brighton Health Care,multi,FALSE
--43.50980456,172.6067429,130,medical_clinic,Normans Road Surgery,multi,TRUE
--43.51776955,172.6541109,131,medical_clinic,North Avon Medical Centre,multi,TRUE
--43.47507056,172.6173119,132,medical_clinic,Northwood Medical Centre,multi,TRUE
--43.53841556,172.6304619,133,medical_clinic,Pacific Health Clinic,multi,TRUE
--43.50030656,172.6111929,134,medical_clinic,Papanui Medical Centre,multi,TRUE
--43.51534355,172.6378859,135,medical_clinic,Promed Doctors,multi,TRUE
--43.49499353,172.7111989,136,medical_clinic,QEII Medical Centre,multi,FALSE
--43.47786153,172.6959789,137,medical_clinic,Queenspark Healthcare,multi,TRUE
--43.56187953,172.738582,138,medical_clinic,Redcliffs Medical Centre,multi,FALSE
--43.47920956,172.6170389,139,medical_clinic,Redwood Clinic,multi,TRUE
--43.53172358,172.5717639,140,medical_clinic,Riccarton Clinic,multi,TRUE
--43.53291957,172.5990099,141,medical_clinic,Riccarton Medical Practice,multi,TRUE
--43.54828056,172.622099,142,medical_clinic,Selwyn Village Healthcare,multi,TRUE
--43.50711055,172.6625929,143,medical_clinic,Shirley Medical Centre,multi,TRUE
--43.50956856,172.6304629,144,medical_clinic,St Albans Medical Centre,multi,TRUE
--43.55915655,172.654557,145,medical_clinic,St Martins Medical Practice,multi,TRUE
--43.52859257,172.6022669,146,medical_clinic,Straven Medical,multi,TRUE
--43.56891552,172.75837,147,medical_clinic,Sumner Health Centre,multi,FALSE
--43.51058453,172.701306,148,medical_clinic,Te Rawhiti Family Care Centre,multi,TRUE
--43.55337561,172.4731009,149,medical_clinic,Templeton Medical,multi,TRUE
--43.53216456,172.6374769,150,medical_clinic,The Christchurch Doctors,multi,TRUE
--43.49494453,172.7096289,151,medical_clinic,Travis Medical Centre,multi,FALSE
--43.53217655,172.671399,152,medical_clinic,Union & Community Health Centre (Piki Te Ora),multi,TRUE
--43.52384857,172.5795009,153,medical_clinic,University of Canterbury Student Health Centre,multi,TRUE
--43.53133157,172.5778409,154,medical_clinic,Upper Riccarton Medical Centre,multi,TRUE
--43.55282957,172.5966139,155,medical_clinic,Village Health Lincoln Road,multi,TRUE
--43.51569257,172.5717529,156,medical_clinic,Waimairi Road Medical Centre,multi,TRUE
--43.55069855,172.646537,157,medical_clinic,Waltham Medical Centre,multi,TRUE
--43.55198158,172.5569569,158,medical_clinic,WeCare Health Wigram,multi,TRUE
--43.52537255,172.662356,159,medical_clinic,Woodham Road Medical,multi,TRUE
--43.52775358,172.5575659,160,medical_clinic,Yaldhurst Family Doctors,multi,TRUE
--43.602804,172.467945,161,primary_school,Broadfield School,multi,FALSE
--43.551181,172.656331,162,primary_school,TKKM o Waitaha,multi,TRUE
--43.546479,172.689238,163,primary_school,Tamariki School,multi,FALSE
--43.384361,172.654115,164,primary_school,St Patrick's School (Kaiapoi),multi,FALSE
--43.552887,172.659307,165,primary_school,St Mark's School (Christchurch),multi,TRUE
--43.534774,172.633065,166,primary_school,St Michael's Church School,multi,TRUE
--43.536311,172.596742,167,primary_school,Wharenui School,multi,TRUE
--43.523227,172.639261,168,primary_school,St Mary's School (Christchurch),multi,TRUE
--43.511239,172.604049,169,primary_school,St Patrick's School (Bryndwr),multi,FALSE
--43.504214,172.605282,170,primary_school,Waimairi School,multi,TRUE
--43.570608,172.403181,171,primary_school,Weedons School,multi,FALSE
--43.521443,172.369386,172,primary_school,West Melton School,multi,FALSE
--43.512146,172.570887,173,primary_school,Westburn School,multi,TRUE
--43.488673,172.614444,174,primary_school,St Joseph's School (Papanui),multi,TRUE
--43.565432,172.657232,175,primary_school,St Martins School,multi,TRUE
--43.559766,172.637698,176,primary_school,St Peter's School (Beckenham),multi,TRUE
--43.529758,172.59214,177,primary_school,St Teresa's School (Riccarton),multi,TRUE
--43.566305,172.636568,178,primary_school,Thorrington School,multi,TRUE
--43.51173,172.70486,179,primary_school,St James School (Aranui),multi,TRUE
--43.574868,172.762543,180,primary_school,Our Lady Star of the Sea School (Christchurch),multi,FALSE
--43.573098,172.759628,181,primary_school,Sumner School,multi,FALSE
--43.550162,172.472361,182,primary_school,Templeton School,multi,TRUE
--43.533484,172.525345,183,primary_school,St Bernadette's School (Hornby),multi,FALSE
--43.547858,172.61824,184,primary_school,Addington Te Kura Taumatua,multi,TRUE
--43.562252,172.587768,185,primary_school,Te KÃƒÂ…Ã‚Âmanawa Rowley School,multi,TRUE
--43.561645,172.628537,186,primary_school,Somerfield Te Kura Wairepo,multi,TRUE
--43.547122,172.529047,187,primary_school,South Hornby School,multi,FALSE
--43.52622,172.733527,188,primary_school,South New Brighton School,multi,TRUE
--43.49871,172.641415,189,primary_school,Mairehau Primary School,multi,TRUE
--43.577074,172.513059,190,primary_school,Prebbleton School,multi,FALSE
--43.533363,172.564144,191,primary_school,Te KÃƒÂ„Ã‚Âpehu Riccarton School,multi,FALSE
--43.517895,172.544704,192,primary_school,Russley School,multi,FALSE
--43.375957,172.663615,193,primary_school,Kaiapoi North School,multi,TRUE
--43.553946,172.551525,194,primary_school,Wigram Primary School - Te Piki KÃƒÂ„Ã‚Âhu,multi,TRUE
--43.557575,172.597927,195,primary_school,Spreydon School,multi,TRUE
--43.513251,172.668112,196,primary_school,Banks Avenue School,multi,FALSE
--43.562877,172.645488,197,primary_school,Beckenham Te Kura o PÃƒÂ…Ã‚Â«roto,multi,TRUE
--43.453618,172.627302,198,primary_school,Belfast School,multi,TRUE
--43.512738,172.581782,199,primary_school,Burnside Primary School,multi,TRUE
--43.637105,172.487099,200,primary_school,Lincoln Primary School,multi,FALSE
--43.555662,172.66449,201,primary_school,Opawa School,multi,TRUE
--43.538707,172.522632,202,primary_school,Hornby Primary School,multi,FALSE
--43.493107,172.582123,203,primary_school,Isleworth School,multi,TRUE
--43.482458,172.587178,204,primary_school,Cotswold School,multi,TRUE
--43.524102,172.559497,205,primary_school,Avonhead School,multi,FALSE
--43.548989,172.648613,206,primary_school,Waltham School,multi,FALSE
--43.576418,172.632546,207,primary_school,Cashmere Primary Te Pae KererÃƒÂ…Ã‚Â«,multi,FALSE
--43.405997,172.623356,208,primary_school,Clarkville School,multi,FALSE
--43.529738,172.521344,209,primary_school,Gilberthorpe School,multi,FALSE
--43.579876,172.708878,210,primary_school,Heathcote Valley School,multi,TRUE
--43.663629,172.550066,211,primary_school,Tai Tapu School,multi,FALSE
--43.444597,172.660388,212,primary_school,Ouruhia Model School,multi,TRUE
--43.488025,172.619727,213,primary_school,Papanui School,multi,TRUE
--43.499655,172.619586,214,primary_school,Paparoa Street School,multi,TRUE
--43.556439,172.733609,215,primary_school,Te Raekura Redcliffs School,multi,FALSE
--43.473605,172.621954,216,primary_school,Redwood School (Christchurch),multi,TRUE
--43.644586,172.425734,217,primary_school,Springston School,multi,FALSE
--43.507131,172.629095,218,primary_school,St Albans Catholic School (Christchurch),multi,TRUE
--43.524848,172.675792,219,primary_school,WhÃƒÂ„Ã‚Â«tau School,multi,FALSE
--43.510497,172.558579,220,primary_school,Merrin School,multi,TRUE
--43.479365,172.614009,221,primary_school,Northcote School (Christchurch),multi,TRUE
--43.571583,172.56465,222,primary_school,Oaklands School,multi,TRUE
--43.370163,172.590554,223,primary_school,Ohoka School,multi,FALSE
--43.526413,172.579696,224,primary_school,Ilam School,multi,TRUE
--43.509154,172.576637,225,primary_school,Christ The King School (Burnside),multi,TRUE
--43.529647,172.648358,226,primary_school,Christchurch East School,multi,TRUE
--43.513814,172.614755,227,primary_school,Elmwood Normal School,multi,TRUE
--43.590655,172.569381,228,primary_school,Halswell School,multi,TRUE
--43.528058,172.628555,229,primary_school,The Cathedral Grammar School,multi,TRUE
--43.506368,172.615873,230,primary_school,St Andrew's College (Christchurch),multi,TRUE
--43.520222,172.654826,231,primary_school,Jean Seabrook Memorial School,multi,TRUE
--43.52931,172.672461,232,primary_school,Te Pa o Rakaihautu,multi,TRUE
--43.514761,172.696693,233,primary_school,Haeata Community Campus,multi,TRUE
--43.602344,172.723168,234,primary_school,Lyttelton Primary School,multi,FALSE
--43.499792,172.639393,235,primary_school,St Francis of Assisi Catholic School,multi,TRUE
--43.570862,172.537934,236,primary_school,Knights Stream School- Mingimingi Hautoa,multi,FALSE
--43.478668,172.588279,237,primary_school,Emmanuel Christian School,multi,TRUE
--43.555741,172.652801,238,primary_school,Hillview Christian School,multi,TRUE
--43.499023,172.611436,239,primary_school,Christchurch Adventist School,multi,TRUE
--43.622673,172.386021,240,primary_school,Lemonwood Grove School,multi,FALSE
--43.564588,172.614592,241,primary_school,TKKM o Te Whanau Tahi,multi,TRUE
--43.563771,172.571,242,primary_school,Aidanfield Christian School,multi,TRUE
--43.535939,172.635943,243,primary_school,Ao Tawhiti Unlimited Discovery,multi,TRUE
--43.545671,172.672639,244,primary_school,Te Waka Unua School,multi,FALSE
--43.488844,172.683844,245,primary_school,Waitakiri Primary School,multi,TRUE
--43.606888,172.355917,246,primary_school,West Rolleston Primary School,multi,FALSE
--43.519096,172.622159,247,primary_school,St Margaret's College,multi,TRUE
--43.608323,172.392912,248,primary_school,Rolleston Christian School,multi,FALSE
--43.58267,172.548458,249,primary_school,Seven Oaks School,multi,TRUE
--43.521889,172.589114,250,primary_school,Medbury Preparatory School,multi,TRUE
--43.500167,172.588282,251,primary_school,Wairakei School (Christchurch),multi,TRUE
--43.559634,172.611297,252,primary_school,Te Ara Koropiko West Spreydon School,multi,TRUE
--43.510194,172.502189,253,primary_school,Yaldhurst Model School,multi,TRUE
--43.369342,172.495566,254,primary_school,Swannanoa School,multi,FALSE
--43.546066,172.612757,255,primary_school,Sacred Heart School (Christchurch),multi,TRUE
--43.564788,172.60708,256,primary_school,Our Lady of the Assumption School (Chch),multi,TRUE
--43.536215,172.559125,257,primary_school,Our Lady of Victories,multi,TRUE
--43.4806,172.705631,258,primary_school,Parkview PÃƒÂ„Ã‚Ârua,multi,FALSE
--43.473158,172.695985,259,primary_school,Queenspark School,multi,TRUE
--43.592491,172.381339,260,primary_school,Rolleston School,multi,FALSE
--43.494484,172.563148,261,primary_school,Te Ara Maurea Roydvale School,multi,FALSE
--43.507888,172.653152,262,primary_school,Shirley Primary School,multi,TRUE
--43.508774,172.634388,263,primary_school,St Albans School,multi,TRUE
--43.550383,172.685581,264,primary_school,St Anne's School (Woolston),multi,TRUE
--43.535284,172.67488,265,primary_school,Linwood Avenue School,multi,TRUE
--43.763797,172.795486,266,primary_school,Little River School,multi,FALSE
--43.472028,172.664748,267,primary_school,Marshland School,multi,FALSE
--43.562448,172.715927,268,primary_school,Mt Pleasant School,multi,TRUE
--43.505942,172.723723,269,primary_school,New Brighton Catholic School (Chch),multi,FALSE
--43.564866,172.606597,270,primary_school,Hoon Hay Te Kura KÃƒÂ…Ã‚Âaka,multi,TRUE
--43.379062,172.651468,271,primary_school,Kaiapoi Borough School,multi,TRUE
--43.617669,172.532329,272,primary_school,Ladbrooks School,multi,FALSE
--43.554159,172.687455,273,primary_school,Ngutuawa School,multi,FALSE
--43.486649,172.596248,274,primary_school,Bishopdale School,multi,TRUE
--43.536557,172.687055,275,primary_school,Bromley School,multi,TRUE
--43.629962,172.726705,276,primary_school,Diamond Harbour School,multi,FALSE
--43.517081,172.591149,277,primary_school,Fendalton Open Air School,multi,FALSE
--43.623986,172.64999,278,primary_school,Governors Bay School,multi,FALSE
--43.479772,172.559446,279,primary_school,Harewood School,multi,TRUE
--43.560087,172.659135,280,primary_school,Rudolf Steiner School (Chch),multi,TRUE
--43.53625,172.57652,281,primary_school,Middleton Grange School,multi,TRUE
--43.606108,172.38121,282,primary_school,Clearview Primary,multi,FALSE
--43.510659,172.724993,283,primary_school,Nova Montessori School,multi,FALSE
--43.496105,172.717708,284,primary_school,RÃƒÂ„Ã‚Âwhiti School,multi,TRUE
--43.611772,172.404307,285,primary_school,Te RÃƒÂ…Ã‚Âhutu Whio (Proposed opening date: 2022-01-01),multi,FALSE
--43.648092,172.492975,286,primary_school,Ararira Springs Primary- Te Puna o Ararira,multi,FALSE
--43.516643,172.623012,287,primary_school,Selwyn House School,multi,TRUE
--43.5351605,172.5802564,1,supermarket,Big Chicken Supermarket,tsunami,TRUE
--43.53274003,172.5730475,2,supermarket,Countdown,tsunami,FALSE
--43.55682685,172.7025114,3,supermarket,Countdown,tsunami,TRUE
--43.5387413,172.6417417,4,supermarket,Countdown,tsunami,FALSE
--43.50676606,172.7299485,5,supermarket,Countdown,tsunami,TRUE
--43.45900317,172.6250142,6,supermarket,Countdown,tsunami,FALSE
--43.49152959,172.6117041,7,supermarket,Countdown,tsunami,FALSE
--43.59418266,172.3866759,8,supermarket,Countdown,tsunami,FALSE
--43.54274886,172.5269712,9,supermarket,Countdown,tsunami,FALSE
--43.48986069,172.5477124,10,supermarket,Countdown,tsunami,FALSE
--43.5056571,172.6645278,11,supermarket,Countdown,tsunami,FALSE
--43.5111866,172.5572106,12,supermarket,Countdown,tsunami,FALSE
--43.5324507,172.6755846,13,supermarket,Countdown,tsunami,FALSE
--43.55331378,172.6355983,14,supermarket,Countdown Sydenham,tsunami,FALSE
--43.51316108,172.6367287,15,supermarket,Edgeware FreshChoice,tsunami,FALSE
--43.5232351,172.3704124,16,supermarket,Four Square,tsunami,FALSE
--43.48134612,172.7060947,17,supermarket,Fresh Choice,tsunami,TRUE
--43.5557083,172.6205318,18,supermarket,Fresh Choice,tsunami,FALSE
--43.5340843,172.6378384,19,supermarket,Fresh Choice City Market,tsunami,FALSE
--43.5128454,172.6213802,20,supermarket,Fresh Choice Supermarket,tsunami,FALSE
--43.5132962,172.6365852,21,supermarket,FreshChoice,tsunami,FALSE
--43.58063686,172.5659203,22,supermarket,New World,tsunami,FALSE
--43.45963502,172.6223904,23,supermarket,New World,tsunami,FALSE
--43.48845188,172.5872137,24,supermarket,New World,tsunami,FALSE
--43.55753906,172.6547893,25,supermarket,New World,tsunami,FALSE
--43.56242398,172.7390075,26,supermarket,New World,tsunami,TRUE
--43.47515958,172.6620094,27,supermarket,New World,tsunami,FALSE
--43.53870921,172.6331341,28,supermarket,New World,tsunami,FALSE
--43.5179319,172.588375,29,supermarket,New World,tsunami,FALSE
--43.5526955,172.5575428,30,supermarket,New World,tsunami,FALSE
--43.5258837,172.5701643,31,supermarket,New World,tsunami,FALSE
--43.4885645,172.5874903,32,supermarket,New World,tsunami,FALSE
--43.5490378,172.6840966,33,supermarket,New World,tsunami,TRUE
--43.52595041,172.5700589,34,supermarket,New World Ilam,tsunami,FALSE
--43.64225793,172.4737121,35,supermarket,New World Lincoln,tsunami,FALSE
--43.5967627,172.3824238,36,supermarket,New World Rolleston,tsunami,FALSE
--43.52016129,172.6569832,37,supermarket,New World Stanmore,tsunami,FALSE
--43.5426435,172.5233262,38,supermarket,PAK'nSAVE,tsunami,FALSE
--43.49285848,172.6089146,39,supermarket,Pak'nSave,tsunami,FALSE
--43.51282276,172.6932267,40,supermarket,Pak'nSave,tsunami,FALSE
--43.5310944,172.5961987,41,supermarket,Pak'nSave,tsunami,FALSE
--43.53900827,172.6383239,42,supermarket,Pak'nSave Moorhouse Avenue,tsunami,FALSE
--43.5401055,172.6053454,43,supermarket,Raeward Fresh,tsunami,FALSE
--43.4777997,172.5552277,44,supermarket,Reawood Fresh,tsunami,FALSE
--43.5694327,172.7599984,45,supermarket,Sumner Supervalue,tsunami,TRUE
--43.60288087,172.7215154,46,supermarket,SuperValue,tsunami,FALSE
--43.509513,172.5902803,47,supermarket,SuperValue,tsunami,FALSE
--43.53041974,172.6574869,48,supermarket,Supervalue,tsunami,FALSE
--43.38619393,172.6589884,49,supermarket,Countdown,tsunami,TRUE
--43.38240588,172.6589884,50,supermarket,New World,tsunami,TRUE
--43.5671816,172.6355346,51,medical_clinic,Cashmere Health & Physio,tsunami,FALSE
--43.5670258,172.6350141,52,medical_clinic,Dr Liam Walshe Cashmere Dentists,tsunami,FALSE
--43.302568,172.5916687,53,medical_clinic,Durham Health,tsunami,FALSE
--43.3020404,172.5938606,54,medical_clinic,Good Street Medical Centre,tsunami,FALSE
--43.381548,172.658214,55,medical_clinic,Kaiapoi Family Doctors,tsunami,TRUE
--43.3851513,172.6552188,56,medical_clinic,Kaiapoi Medical Centre,tsunami,FALSE
--43.3838471,172.6568487,57,medical_clinic,Kaye Buchan Kaiapoi,tsunami,TRUE
--43.7613679,172.2994522,58,medical_clinic,Leeston Medical Centre,tsunami,FALSE
--43.6404562,172.4852213,59,medical_clinic,Lincoln Medical,tsunami,FALSE
--43.6425505,172.4685995,60,medical_clinic,Lincoln University Student Health & Support,tsunami,FALSE
--43.3039901,172.5919674,61,medical_clinic,Medical Corner Doctors,tsunami,FALSE
--43.5263504,172.6386968,62,medical_clinic,Menzmedical,tsunami,FALSE
--43.5132281,172.6229239,63,medical_clinic,Merivale Village Medical Care,tsunami,FALSE
--43.5118609,172.6203216,64,medical_clinic,Molecheck Ltd - CHCH,tsunami,FALSE
--43.553126,172.6640804,65,medical_clinic,Opawa Surgery,tsunami,FALSE
--43.4798067,172.6954698,66,medical_clinic,Parklands Medical Centre (Chch),tsunami,TRUE
--43.3140479,172.6976781,67,medical_clinic,Pegasus Medical Centre,tsunami,FALSE
--43.4743719,172.6260863,68,medical_clinic,Prestons Road Surgery,tsunami,FALSE
--43.3085385,172.5966653,69,medical_clinic,Rangiora Family Doctors,tsunami,FALSE
--43.5957078,172.3894715,70,medical_clinic,Rolleston Central Health,tsunami,FALSE
--43.5948428,172.3750787,71,medical_clinic,Rolleston Medical Centre,tsunami,FALSE
--43.5591296,172.702622,72,medical_clinic,Settlers Health Centre,tsunami,TRUE
--43.3164877,172.6003441,73,medical_clinic,Southside Health,tsunami,FALSE
--43.550862,172.6000633,74,medical_clinic,Village Health Lincoln Road,tsunami,FALSE
--43.5224537,172.3704577,75,medical_clinic,West Melton Medical Centre,tsunami,FALSE
--43.555845,172.5612426,76,medical_clinic,Wigram Health,tsunami,FALSE
--43.3234375,172.6652561,77,medical_clinic,Woodend Medical Centre,tsunami,FALSE
--43.5254823,172.6719958,78,medical_clinic,Woodham Road Healthcare,tsunami,FALSE
--43.52070256,172.6303589,79,medical_clinic,298 Youth Health,tsunami,FALSE
--43.54557559,172.5258579,80,medical_clinic,Amyes Road Medical Centre,tsunami,FALSE
--43.55709556,172.620348,81,medical_clinic,Barrington Medical Centre,tsunami,FALSE
--43.44520355,172.6333859,82,medical_clinic,Belfast Medical Centre,tsunami,FALSE
--43.44470655,172.6329439,83,medical_clinic,Belfast North Mediqual Doctors,tsunami,FALSE
--43.49018057,172.5880899,84,medical_clinic,Bishopdale Medical Centre,tsunami,FALSE
--43.50908257,172.5904849,85,medical_clinic,Bryndwr Medical Rooms,tsunami,FALSE
--43.49651957,172.5787619,86,medical_clinic,Burnside Medical Centre,tsunami,FALSE
--43.48045856,172.6032359,87,medical_clinic,Casebrook Surgery,tsunami,FALSE
--43.56681956,172.646938,88,medical_clinic,Cashmere Health,tsunami,FALSE
--43.56699856,172.629422,89,medical_clinic,Cashmere Medical Practice,tsunami,FALSE
--43.55626656,172.636678,90,medical_clinic,Christchurch South Health Centre,tsunami,FALSE
--43.50501855,172.6347199,91,medical_clinic,Cranford Street Medical Practice,tsunami,FALSE
--43.62646953,172.739929,92,medical_clinic,Diamond Harbour Surgery,tsunami,FALSE
--43.53301756,172.6283289,93,medical_clinic,Doctors on Cashel,tsunami,FALSE
--43.53046757,172.5928159,94,medical_clinic,Doctors on Riccarton,tsunami,FALSE
--43.51292058,172.5551999,95,medical_clinic,Dr Kathy Davey,tsunami,FALSE
--43.51292058,172.5551999,96,medical_clinic,Dr Susan Shand,tsunami,FALSE
--43.51656953,172.701178,97,medical_clinic,Eastcare Health,tsunami,FALSE
--43.51775557,172.5871119,98,medical_clinic,Fendalton Medical Centre,tsunami,FALSE
--43.54090255,172.660402,99,medical_clinic,Ferry Road Medical Centre,tsunami,FALSE
--43.55618954,172.697494,100,medical_clinic,Ferrymead Medical Centre,tsunami,FALSE
--43.50771957,172.5698549,101,medical_clinic,Grahams Road Medical Practice,tsunami,FALSE
--43.49870857,172.5867099,102,medical_clinic,Greers Road Medical Centre,tsunami,FALSE
--43.57433758,172.5682579,103,medical_clinic,Halswellhealth,tsunami,FALSE
--43.49117857,172.5952169,104,medical_clinic,Harewood Medical Centre,tsunami,FALSE
--43.53825755,172.642922,105,medical_clinic,Health Centre Ara Institute of Canterbury,tsunami,FALSE
--43.53660756,172.6364479,106,medical_clinic,Health and Sport Central,tsunami,FALSE
--43.53581859,172.5214049,107,medical_clinic,Hei Hei Health Centre,tsunami,FALSE
--43.55982355,172.657957,108,medical_clinic,Helios Integrative Medical Centre,tsunami,FALSE
--43.52922357,172.6052069,109,medical_clinic,High Street City Health,tsunami,FALSE
--43.55412657,172.5942419,110,medical_clinic,HillMed Health Centre,tsunami,FALSE
--43.56601557,172.604239,111,medical_clinic,Hoon Hay Medical Centre,tsunami,FALSE
--43.54441759,172.5287619,112,medical_clinic,Hornby Medical Centre,tsunami,FALSE
--43.51225957,172.5806319,113,medical_clinic,Ilam Medical Centre,tsunami,FALSE
--43.50211655,172.6333769,114,medical_clinic,Innes Road Medical Rooms,tsunami,FALSE
--43.51569257,172.5717529,115,medical_clinic,Inspire Health Medical Practice,tsunami,FALSE
--43.49784757,172.5727439,116,medical_clinic,Kendal Medical Centre,tsunami,FALSE
--43.53295855,172.655534,117,medical_clinic,Kingdom Clinic,tsunami,FALSE
--43.53321054,172.674028,118,medical_clinic,Linwood Medical Centre,tsunami,FALSE
--43.57815959,172.5462929,119,medical_clinic,Longhurst Health,tsunami,FALSE
--43.60346954,172.722625,120,medical_clinic,Lyttelton Health Centre,tsunami,FALSE
--43.49133856,172.6130309,121,medical_clinic,Main North Road Medical Centre,tsunami,FALSE
--43.49846755,172.6408549,122,medical_clinic,Mairehau Medical Centre,tsunami,FALSE
--43.51151956,172.6214979,123,medical_clinic,Mansfield Health Practice,tsunami,FALSE
--43.47488754,172.6592859,124,medical_clinic,Marshlands Family Health Centre,tsunami,FALSE
--43.52137956,172.6368109,125,medical_clinic,Menzmedical,tsunami,FALSE
--43.51014756,172.6202329,126,medical_clinic,Merivale Medical Practice,tsunami,FALSE
--43.54073156,172.63974,127,medical_clinic,Moorhouse Medical Centre,tsunami,FALSE
--43.55795353,172.722312,128,medical_clinic,Mt Pleasant Medical Centre,tsunami,TRUE
--43.50905653,172.727617,129,medical_clinic,New Brighton Health Care,tsunami,TRUE
--43.50980456,172.6067429,130,medical_clinic,Normans Road Surgery,tsunami,FALSE
--43.51776955,172.6541109,131,medical_clinic,North Avon Medical Centre,tsunami,FALSE
--43.47507056,172.6173119,132,medical_clinic,Northwood Medical Centre,tsunami,FALSE
--43.53841556,172.6304619,133,medical_clinic,Pacific Health Clinic,tsunami,FALSE
--43.50030656,172.6111929,134,medical_clinic,Papanui Medical Centre,tsunami,FALSE
--43.51534355,172.6378859,135,medical_clinic,Promed Doctors,tsunami,FALSE
--43.49499353,172.7111989,136,medical_clinic,QEII Medical Centre,tsunami,TRUE
--43.47786153,172.6959789,137,medical_clinic,Queenspark Healthcare,tsunami,FALSE
--43.56187953,172.738582,138,medical_clinic,Redcliffs Medical Centre,tsunami,TRUE
--43.47920956,172.6170389,139,medical_clinic,Redwood Clinic,tsunami,FALSE
--43.53172358,172.5717639,140,medical_clinic,Riccarton Clinic,tsunami,FALSE
--43.53291957,172.5990099,141,medical_clinic,Riccarton Medical Practice,tsunami,FALSE
--43.54828056,172.622099,142,medical_clinic,Selwyn Village Healthcare,tsunami,FALSE
--43.50711055,172.6625929,143,medical_clinic,Shirley Medical Centre,tsunami,FALSE
--43.50956856,172.6304629,144,medical_clinic,St Albans Medical Centre,tsunami,FALSE
--43.55915655,172.654557,145,medical_clinic,St Martins Medical Practice,tsunami,FALSE
--43.52859257,172.6022669,146,medical_clinic,Straven Medical,tsunami,FALSE
--43.56891552,172.75837,147,medical_clinic,Sumner Health Centre,tsunami,TRUE
--43.51058453,172.701306,148,medical_clinic,Te Rawhiti Family Care Centre,tsunami,TRUE
--43.55337561,172.4731009,149,medical_clinic,Templeton Medical,tsunami,FALSE
--43.53216456,172.6374769,150,medical_clinic,The Christchurch Doctors,tsunami,FALSE
--43.49494453,172.7096289,151,medical_clinic,Travis Medical Centre,tsunami,TRUE
--43.53217655,172.671399,152,medical_clinic,Union & Community Health Centre (Piki Te Ora),tsunami,FALSE
--43.52384857,172.5795009,153,medical_clinic,University of Canterbury Student Health Centre,tsunami,FALSE
--43.53133157,172.5778409,154,medical_clinic,Upper Riccarton Medical Centre,tsunami,FALSE
--43.55282957,172.5966139,155,medical_clinic,Village Health Lincoln Road,tsunami,FALSE
--43.51569257,172.5717529,156,medical_clinic,Waimairi Road Medical Centre,tsunami,FALSE
--43.55069855,172.646537,157,medical_clinic,Waltham Medical Centre,tsunami,FALSE
--43.55198158,172.5569569,158,medical_clinic,WeCare Health Wigram,tsunami,FALSE
--43.52537255,172.662356,159,medical_clinic,Woodham Road Medical,tsunami,FALSE
--43.52775358,172.5575659,160,medical_clinic,Yaldhurst Family Doctors,tsunami,FALSE
--43.602804,172.467945,161,primary_school,Broadfield School,tsunami,FALSE
--43.551181,172.656331,162,primary_school,TKKM o Waitaha,tsunami,FALSE
--43.546479,172.689238,163,primary_school,Tamariki School,tsunami,TRUE
--43.384361,172.654115,164,primary_school,St Patrick's School (Kaiapoi),tsunami,FALSE
--43.552887,172.659307,165,primary_school,St Mark's School (Christchurch),tsunami,FALSE
--43.534774,172.633065,166,primary_school,St Michael's Church School,tsunami,FALSE
--43.536311,172.596742,167,primary_school,Wharenui School,tsunami,FALSE
--43.523227,172.639261,168,primary_school,St Mary's School (Christchurch),tsunami,FALSE
--43.511239,172.604049,169,primary_school,St Patrick's School (Bryndwr),tsunami,FALSE
--43.504214,172.605282,170,primary_school,Waimairi School,tsunami,FALSE
--43.570608,172.403181,171,primary_school,Weedons School,tsunami,FALSE
--43.521443,172.369386,172,primary_school,West Melton School,tsunami,FALSE
--43.512146,172.570887,173,primary_school,Westburn School,tsunami,FALSE
--43.488673,172.614444,174,primary_school,St Joseph's School (Papanui),tsunami,FALSE
--43.565432,172.657232,175,primary_school,St Martins School,tsunami,FALSE
--43.559766,172.637698,176,primary_school,St Peter's School (Beckenham),tsunami,FALSE
--43.529758,172.59214,177,primary_school,St Teresa's School (Riccarton),tsunami,FALSE
--43.566305,172.636568,178,primary_school,Thorrington School,tsunami,FALSE
--43.51173,172.70486,179,primary_school,St James School (Aranui),tsunami,TRUE
--43.574868,172.762543,180,primary_school,Our Lady Star of the Sea School (Christchurch),tsunami,TRUE
--43.573098,172.759628,181,primary_school,Sumner School,tsunami,TRUE
--43.550162,172.472361,182,primary_school,Templeton School,tsunami,FALSE
--43.533484,172.525345,183,primary_school,St Bernadette's School (Hornby),tsunami,FALSE
--43.547858,172.61824,184,primary_school,Addington Te Kura Taumatua,tsunami,FALSE
--43.562252,172.587768,185,primary_school,Te KÃƒÂ…Ã‚Âmanawa Rowley School,tsunami,FALSE
--43.561645,172.628537,186,primary_school,Somerfield Te Kura Wairepo,tsunami,FALSE
--43.547122,172.529047,187,primary_school,South Hornby School,tsunami,FALSE
--43.52622,172.733527,188,primary_school,South New Brighton School,tsunami,TRUE
--43.49871,172.641415,189,primary_school,Mairehau Primary School,tsunami,FALSE
--43.577074,172.513059,190,primary_school,Prebbleton School,tsunami,FALSE
--43.533363,172.564144,191,primary_school,Te KÃƒÂ„Ã‚Âpehu Riccarton School,tsunami,FALSE
--43.517895,172.544704,192,primary_school,Russley School,tsunami,FALSE
--43.375957,172.663615,193,primary_school,Kaiapoi North School,tsunami,TRUE
--43.553946,172.551525,194,primary_school,Wigram Primary School - Te Piki KÃƒÂ„Ã‚Âhu,tsunami,FALSE
--43.557575,172.597927,195,primary_school,Spreydon School,tsunami,FALSE
--43.513251,172.668112,196,primary_school,Banks Avenue School,tsunami,TRUE
--43.562877,172.645488,197,primary_school,Beckenham Te Kura o PÃƒÂ…Ã‚Â«roto,tsunami,FALSE
--43.453618,172.627302,198,primary_school,Belfast School,tsunami,FALSE
--43.512738,172.581782,199,primary_school,Burnside Primary School,tsunami,FALSE
--43.637105,172.487099,200,primary_school,Lincoln Primary School,tsunami,FALSE
--43.555662,172.66449,201,primary_school,Opawa School,tsunami,FALSE
--43.538707,172.522632,202,primary_school,Hornby Primary School,tsunami,FALSE
--43.493107,172.582123,203,primary_school,Isleworth School,tsunami,FALSE
--43.482458,172.587178,204,primary_school,Cotswold School,tsunami,FALSE
--43.524102,172.559497,205,primary_school,Avonhead School,tsunami,FALSE
--43.548989,172.648613,206,primary_school,Waltham School,tsunami,FALSE
--43.576418,172.632546,207,primary_school,Cashmere Primary Te Pae KererÃƒÂ…Ã‚Â«,tsunami,FALSE
--43.405997,172.623356,208,primary_school,Clarkville School,tsunami,FALSE
--43.529738,172.521344,209,primary_school,Gilberthorpe School,tsunami,FALSE
--43.579876,172.708878,210,primary_school,Heathcote Valley School,tsunami,FALSE
--43.663629,172.550066,211,primary_school,Tai Tapu School,tsunami,FALSE
--43.444597,172.660388,212,primary_school,Ouruhia Model School,tsunami,FALSE
--43.488025,172.619727,213,primary_school,Papanui School,tsunami,FALSE
--43.499655,172.619586,214,primary_school,Paparoa Street School,tsunami,FALSE
--43.556439,172.733609,215,primary_school,Te Raekura Redcliffs School,tsunami,FALSE
--43.473605,172.621954,216,primary_school,Redwood School (Christchurch),tsunami,FALSE
--43.644586,172.425734,217,primary_school,Springston School,tsunami,FALSE
--43.507131,172.629095,218,primary_school,St Albans Catholic School (Christchurch),tsunami,FALSE
--43.524848,172.675792,219,primary_school,WhÃƒÂ„Ã‚Â«tau School,tsunami,FALSE
--43.510497,172.558579,220,primary_school,Merrin School,tsunami,FALSE
--43.479365,172.614009,221,primary_school,Northcote School (Christchurch),tsunami,FALSE
--43.571583,172.56465,222,primary_school,Oaklands School,tsunami,FALSE
--43.370163,172.590554,223,primary_school,Ohoka School,tsunami,FALSE
--43.526413,172.579696,224,primary_school,Ilam School,tsunami,FALSE
--43.509154,172.576637,225,primary_school,Christ The King School (Burnside),tsunami,FALSE
--43.529647,172.648358,226,primary_school,Christchurch East School,tsunami,FALSE
--43.513814,172.614755,227,primary_school,Elmwood Normal School,tsunami,FALSE
--43.590655,172.569381,228,primary_school,Halswell School,tsunami,FALSE
--43.528058,172.628555,229,primary_school,The Cathedral Grammar School,tsunami,FALSE
--43.506368,172.615873,230,primary_school,St Andrew's College (Christchurch),tsunami,FALSE
--43.520222,172.654826,231,primary_school,Jean Seabrook Memorial School,tsunami,FALSE
--43.52931,172.672461,232,primary_school,Te Pa o Rakaihautu,tsunami,TRUE
--43.514761,172.696693,233,primary_school,Haeata Community Campus,tsunami,FALSE
--43.602344,172.723168,234,primary_school,Lyttelton Primary School,tsunami,FALSE
--43.499792,172.639393,235,primary_school,St Francis of Assisi Catholic School,tsunami,FALSE
--43.570862,172.537934,236,primary_school,Knights Stream School- Mingimingi Hautoa,tsunami,FALSE
--43.478668,172.588279,237,primary_school,Emmanuel Christian School,tsunami,FALSE
--43.555741,172.652801,238,primary_school,Hillview Christian School,tsunami,FALSE
--43.499023,172.611436,239,primary_school,Christchurch Adventist School,tsunami,FALSE
--43.622673,172.386021,240,primary_school,Lemonwood Grove School,tsunami,FALSE
--43.564588,172.614592,241,primary_school,TKKM o Te Whanau Tahi,tsunami,FALSE
--43.563771,172.571,242,primary_school,Aidanfield Christian School,tsunami,FALSE
--43.535939,172.635943,243,primary_school,Ao Tawhiti Unlimited Discovery,tsunami,FALSE
--43.545671,172.672639,244,primary_school,Te Waka Unua School,tsunami,FALSE
--43.488844,172.683844,245,primary_school,Waitakiri Primary School,tsunami,FALSE
--43.606888,172.355917,246,primary_school,West Rolleston Primary School,tsunami,FALSE
--43.519096,172.622159,247,primary_school,St Margaret's College,tsunami,FALSE
--43.608323,172.392912,248,primary_school,Rolleston Christian School,tsunami,FALSE
--43.58267,172.548458,249,primary_school,Seven Oaks School,tsunami,FALSE
--43.521889,172.589114,250,primary_school,Medbury Preparatory School,tsunami,FALSE
--43.500167,172.588282,251,primary_school,Wairakei School (Christchurch),tsunami,FALSE
--43.559634,172.611297,252,primary_school,Te Ara Koropiko West Spreydon School,tsunami,FALSE
--43.510194,172.502189,253,primary_school,Yaldhurst Model School,tsunami,FALSE
--43.369342,172.495566,254,primary_school,Swannanoa School,tsunami,FALSE
--43.546066,172.612757,255,primary_school,Sacred Heart School (Christchurch),tsunami,FALSE
--43.564788,172.60708,256,primary_school,Our Lady of the Assumption School (Chch),tsunami,FALSE
--43.536215,172.559125,257,primary_school,Our Lady of Victories,tsunami,FALSE
--43.4806,172.705631,258,primary_school,Parkview PÃƒÂ„Ã‚Ârua,tsunami,TRUE
--43.473158,172.695985,259,primary_school,Queenspark School,tsunami,TRUE
--43.592491,172.381339,260,primary_school,Rolleston School,tsunami,FALSE
--43.494484,172.563148,261,primary_school,Te Ara Maurea Roydvale School,tsunami,FALSE
--43.507888,172.653152,262,primary_school,Shirley Primary School,tsunami,FALSE
--43.508774,172.634388,263,primary_school,St Albans School,tsunami,FALSE
--43.550383,172.685581,264,primary_school,St Anne's School (Woolston),tsunami,TRUE
--43.535284,172.67488,265,primary_school,Linwood Avenue School,tsunami,FALSE
--43.763797,172.795486,266,primary_school,Little River School,tsunami,FALSE
--43.472028,172.664748,267,primary_school,Marshland School,tsunami,FALSE
--43.562448,172.715927,268,primary_school,Mt Pleasant School,tsunami,FALSE
--43.505942,172.723723,269,primary_school,New Brighton Catholic School (Chch),tsunami,TRUE
--43.564866,172.606597,270,primary_school,Hoon Hay Te Kura KÃƒÂ…Ã‚Âaka,tsunami,FALSE
--43.379062,172.651468,271,primary_school,Kaiapoi Borough School,tsunami,TRUE
--43.617669,172.532329,272,primary_school,Ladbrooks School,tsunami,FALSE
--43.554159,172.687455,273,primary_school,Ngutuawa School,tsunami,TRUE
--43.486649,172.596248,274,primary_school,Bishopdale School,tsunami,FALSE
--43.536557,172.687055,275,primary_school,Bromley School,tsunami,FALSE
--43.629962,172.726705,276,primary_school,Diamond Harbour School,tsunami,FALSE
--43.517081,172.591149,277,primary_school,Fendalton Open Air School,tsunami,FALSE
--43.623986,172.64999,278,primary_school,Governors Bay School,tsunami,FALSE
--43.479772,172.559446,279,primary_school,Harewood School,tsunami,FALSE
--43.560087,172.659135,280,primary_school,Rudolf Steiner School (Chch),tsunami,FALSE
--43.53625,172.57652,281,primary_school,Middleton Grange School,tsunami,FALSE
--43.606108,172.38121,282,primary_school,Clearview Primary,tsunami,FALSE
--43.510659,172.724993,283,primary_school,Nova Montessori School,tsunami,TRUE
--43.496105,172.717708,284,primary_school,RÃƒÂ„Ã‚Âwhiti School,tsunami,FALSE
--43.611772,172.404307,285,primary_school,Te RÃƒÂ…Ã‚Âhutu Whio (Proposed opening date: 2022-01-01),tsunami,FALSE
--43.648092,172.492975,286,primary_school,Ararira Springs Primary- Te Puna o Ararira,tsunami,FALSE
--43.516643,172.623012,287,primary_school,Selwyn House School,tsunami,FALSE
+lat,lon,id,dest_type,name,hazard,operational
+-43.5351605,172.5802564,0,supermarket,Big Chicken Supermarket,liquefaction,TRUE
+-43.53274003,172.5730475,1,supermarket,Countdown,liquefaction,FALSE
+-43.55682685,172.7025114,2,supermarket,Countdown,liquefaction,TRUE
+-43.5387413,172.6417417,3,supermarket,Countdown,liquefaction,FALSE
+-43.50676606,172.7299485,4,supermarket,Countdown,liquefaction,FALSE
+-43.45900317,172.6250142,5,supermarket,Countdown,liquefaction,TRUE
+-43.49152959,172.6117041,6,supermarket,Countdown,liquefaction,FALSE
+-43.59418266,172.3866759,7,supermarket,Countdown,liquefaction,FALSE
+-43.54274886,172.5269712,8,supermarket,Countdown,liquefaction,TRUE
+-43.48986069,172.5477124,9,supermarket,Countdown,liquefaction,FALSE
+-43.5056571,172.6645278,10,supermarket,Countdown,liquefaction,TRUE
+-43.5111866,172.5572106,11,supermarket,Countdown,liquefaction,FALSE
+-43.5324507,172.6755846,12,supermarket,Countdown,liquefaction,FALSE
+-43.55331378,172.6355983,13,supermarket,Countdown Sydenham,liquefaction,FALSE
+-43.51316108,172.6367287,14,supermarket,Edgeware FreshChoice,liquefaction,FALSE
+-43.5232351,172.3704124,15,supermarket,Four Square,liquefaction,FALSE
+-43.48134612,172.7060947,16,supermarket,Fresh Choice,liquefaction,TRUE
+-43.5557083,172.6205318,17,supermarket,Fresh Choice,liquefaction,FALSE
+-43.5340843,172.6378384,18,supermarket,Fresh Choice City Market,liquefaction,TRUE
+-43.5128454,172.6213802,19,supermarket,Fresh Choice Supermarket,liquefaction,TRUE
+-43.58063686,172.5659203,20,supermarket,New World,liquefaction,TRUE
+-43.45963502,172.6223904,21,supermarket,New World,liquefaction,TRUE
+-43.48845188,172.5872137,22,supermarket,New World,liquefaction,FALSE
+-43.55753906,172.6547893,23,supermarket,New World,liquefaction,TRUE
+-43.56242398,172.7390075,24,supermarket,New World,liquefaction,TRUE
+-43.47515958,172.6620094,25,supermarket,New World,liquefaction,FALSE
+-43.53870921,172.6331341,26,supermarket,New World,liquefaction,TRUE
+-43.5179319,172.588375,27,supermarket,New World,liquefaction,TRUE
+-43.5526955,172.5575428,28,supermarket,New World,liquefaction,FALSE
+-43.5258837,172.5701643,29,supermarket,New World,liquefaction,FALSE
+-43.5490378,172.6840966,30,supermarket,New World,liquefaction,TRUE
+-43.64225793,172.4737121,31,supermarket,New World Lincoln,liquefaction,FALSE
+-43.5967627,172.3824238,32,supermarket,New World Rolleston,liquefaction,FALSE
+-43.52016129,172.6569832,33,supermarket,New World Stanmore,liquefaction,TRUE
+-43.5426435,172.5233262,34,supermarket,PAK'nSAVE,liquefaction,FALSE
+-43.49285848,172.6089146,35,supermarket,Pak'nSave,liquefaction,FALSE
+-43.51282276,172.6932267,36,supermarket,Pak'nSave,liquefaction,TRUE
+-43.5310944,172.5961987,37,supermarket,Pak'nSave,liquefaction,FALSE
+-43.53900827,172.6383239,38,supermarket,Pak'nSave Moorhouse Avenue,liquefaction,FALSE
+-43.5401055,172.6053454,39,supermarket,Raeward Fresh,liquefaction,TRUE
+-43.4777997,172.5552277,40,supermarket,Reawood Fresh,liquefaction,FALSE
+-43.5694327,172.7599984,41,supermarket,Sumner Supervalue,liquefaction,TRUE
+-43.60288087,172.7215154,42,supermarket,SuperValue,liquefaction,FALSE
+-43.509513,172.5902803,43,supermarket,SuperValue,liquefaction,TRUE
+-43.53041974,172.6574869,44,supermarket,Supervalue,liquefaction,FALSE
+-43.38619393,172.6589884,45,supermarket,Countdown,liquefaction,FALSE
+-43.38240588,172.6589884,46,supermarket,New World,liquefaction,FALSE
+-43.5671816,172.6355346,47,medical_clinic,Cashmere Health & Physio,liquefaction,FALSE
+-43.302568,172.5916687,48,medical_clinic,Durham Health,liquefaction,FALSE
+-43.3020404,172.5938606,49,medical_clinic,Good Street Medical Centre,liquefaction,FALSE
+-43.381548,172.658214,50,medical_clinic,Kaiapoi Family Doctors,liquefaction,FALSE
+-43.3851513,172.6552188,51,medical_clinic,Kaiapoi Medical Centre,liquefaction,FALSE
+-43.3838471,172.6568487,52,medical_clinic,Kaye Buchan Kaiapoi,liquefaction,FALSE
+-43.7613679,172.2994522,53,medical_clinic,Leeston Medical Centre,liquefaction,FALSE
+-43.6404562,172.4852213,54,medical_clinic,Lincoln Medical,liquefaction,FALSE
+-43.6425505,172.4685995,55,medical_clinic,Lincoln University Student Health & Support,liquefaction,FALSE
+-43.3039901,172.5919674,56,medical_clinic,Medical Corner Doctors,liquefaction,FALSE
+-43.5263504,172.6386968,57,medical_clinic,Menzmedical,liquefaction,TRUE
+-43.5132281,172.6229239,58,medical_clinic,Merivale Village Medical Care,liquefaction,TRUE
+-43.553126,172.6640804,59,medical_clinic,Opawa Surgery,liquefaction,FALSE
+-43.4798067,172.6954698,60,medical_clinic,Parklands Medical Centre (Chch),liquefaction,TRUE
+-43.3140479,172.6976781,61,medical_clinic,Pegasus Medical Centre,liquefaction,FALSE
+-43.4743719,172.6260863,62,medical_clinic,Prestons Road Surgery,liquefaction,TRUE
+-43.3085385,172.5966653,63,medical_clinic,Rangiora Family Doctors,liquefaction,FALSE
+-43.5957078,172.3894715,64,medical_clinic,Rolleston Central Health,liquefaction,FALSE
+-43.5948428,172.3750787,65,medical_clinic,Rolleston Medical Centre,liquefaction,FALSE
+-43.5591296,172.702622,66,medical_clinic,Settlers Health Centre,liquefaction,FALSE
+-43.3164877,172.6003441,67,medical_clinic,Southside Health,liquefaction,FALSE
+-43.550862,172.6000633,68,medical_clinic,Village Health Lincoln Road,liquefaction,FALSE
+-43.5224537,172.3704577,69,medical_clinic,West Melton Medical Centre,liquefaction,FALSE
+-43.555845,172.5612426,70,medical_clinic,Wigram Health,liquefaction,FALSE
+-43.3234375,172.6652561,71,medical_clinic,Woodend Medical Centre,liquefaction,FALSE
+-43.5254823,172.6719958,72,medical_clinic,Woodham Road Healthcare,liquefaction,FALSE
+-43.52070256,172.6303589,73,medical_clinic,298 Youth Health,liquefaction,FALSE
+-43.54557559,172.5258579,74,medical_clinic,Amyes Road Medical Centre,liquefaction,FALSE
+-43.55709556,172.620348,75,medical_clinic,Barrington Medical Centre,liquefaction,TRUE
+-43.44520355,172.6333859,76,medical_clinic,Belfast Medical Centre,liquefaction,FALSE
+-43.44470655,172.6329439,77,medical_clinic,Belfast North Mediqual Doctors,liquefaction,TRUE
+-43.49018057,172.5880899,78,medical_clinic,Bishopdale Medical Centre,liquefaction,FALSE
+-43.50908257,172.5904849,79,medical_clinic,Bryndwr Medical Rooms,liquefaction,FALSE
+-43.49651957,172.5787619,80,medical_clinic,Burnside Medical Centre,liquefaction,FALSE
+-43.48045856,172.6032359,81,medical_clinic,Casebrook Surgery,liquefaction,TRUE
+-43.56681956,172.646938,82,medical_clinic,Cashmere Health,liquefaction,TRUE
+-43.56699856,172.629422,83,medical_clinic,Cashmere Medical Practice,liquefaction,FALSE
+-43.55626656,172.636678,84,medical_clinic,Christchurch South Health Centre,liquefaction,FALSE
+-43.50501855,172.6347199,85,medical_clinic,Cranford Street Medical Practice,liquefaction,FALSE
+-43.62646953,172.739929,86,medical_clinic,Diamond Harbour Surgery,liquefaction,FALSE
+-43.53301756,172.6283289,87,medical_clinic,Doctors on Cashel,liquefaction,FALSE
+-43.53046757,172.5928159,88,medical_clinic,Doctors on Riccarton,liquefaction,TRUE
+-43.51292058,172.5551999,89,medical_clinic,Dr Kathy Davey,liquefaction,FALSE
+-43.51292058,172.5551999,90,medical_clinic,Dr Susan Shand,liquefaction,FALSE
+-43.51656953,172.701178,91,medical_clinic,Eastcare Health,liquefaction,TRUE
+-43.51775557,172.5871119,92,medical_clinic,Fendalton Medical Centre,liquefaction,TRUE
+-43.54090255,172.660402,93,medical_clinic,Ferry Road Medical Centre,liquefaction,FALSE
+-43.55618954,172.697494,94,medical_clinic,Ferrymead Medical Centre,liquefaction,TRUE
+-43.50771957,172.5698549,95,medical_clinic,Grahams Road Medical Practice,liquefaction,FALSE
+-43.49870857,172.5867099,96,medical_clinic,Greers Road Medical Centre,liquefaction,FALSE
+-43.57433758,172.5682579,97,medical_clinic,Halswellhealth,liquefaction,FALSE
+-43.49117857,172.5952169,98,medical_clinic,Harewood Medical Centre,liquefaction,FALSE
+-43.53825755,172.642922,99,medical_clinic,Health Centre Ara Institute of Canterbury,liquefaction,TRUE
+-43.53660756,172.6364479,100,medical_clinic,Health and Sport Central,liquefaction,FALSE
+-43.53581859,172.5214049,101,medical_clinic,Hei Hei Health Centre,liquefaction,FALSE
+-43.55982355,172.657957,102,medical_clinic,Helios Integrative Medical Centre,liquefaction,FALSE
+-43.52922357,172.6052069,103,medical_clinic,High Street City Health,liquefaction,TRUE
+-43.55412657,172.5942419,104,medical_clinic,HillMed Health Centre,liquefaction,TRUE
+-43.56601557,172.604239,105,medical_clinic,Hoon Hay Medical Centre,liquefaction,FALSE
+-43.54441759,172.5287619,106,medical_clinic,Hornby Medical Centre,liquefaction,FALSE
+-43.51225957,172.5806319,107,medical_clinic,Ilam Medical Centre,liquefaction,FALSE
+-43.50211655,172.6333769,108,medical_clinic,Innes Road Medical Rooms,liquefaction,FALSE
+-43.51569257,172.5717529,109,medical_clinic,Inspire Health Medical Practice,liquefaction,FALSE
+-43.49784757,172.5727439,110,medical_clinic,Kendal Medical Centre,liquefaction,FALSE
+-43.53295855,172.655534,111,medical_clinic,Kingdom Clinic,liquefaction,FALSE
+-43.53321054,172.674028,112,medical_clinic,Linwood Medical Centre,liquefaction,FALSE
+-43.57815959,172.5462929,113,medical_clinic,Longhurst Health,liquefaction,FALSE
+-43.60346954,172.722625,114,medical_clinic,Lyttelton Health Centre,liquefaction,FALSE
+-43.49133856,172.6130309,115,medical_clinic,Main North Road Medical Centre,liquefaction,TRUE
+-43.49846755,172.6408549,116,medical_clinic,Mairehau Medical Centre,liquefaction,TRUE
+-43.51151956,172.6214979,117,medical_clinic,Mansfield Health Practice,liquefaction,FALSE
+-43.47488754,172.6592859,118,medical_clinic,Marshlands Family Health Centre,liquefaction,FALSE
+-43.52137956,172.6368109,119,medical_clinic,Menzmedical,liquefaction,TRUE
+-43.51014756,172.6202329,120,medical_clinic,Merivale Medical Practice,liquefaction,TRUE
+-43.54073156,172.63974,121,medical_clinic,Moorhouse Medical Centre,liquefaction,TRUE
+-43.55795353,172.722312,122,medical_clinic,Mt Pleasant Medical Centre,liquefaction,FALSE
+-43.50905653,172.727617,123,medical_clinic,New Brighton Health Care,liquefaction,FALSE
+-43.50980456,172.6067429,124,medical_clinic,Normans Road Surgery,liquefaction,TRUE
+-43.51776955,172.6541109,125,medical_clinic,North Avon Medical Centre,liquefaction,FALSE
+-43.47507056,172.6173119,126,medical_clinic,Northwood Medical Centre,liquefaction,FALSE
+-43.53841556,172.6304619,127,medical_clinic,Pacific Health Clinic,liquefaction,TRUE
+-43.50030656,172.6111929,128,medical_clinic,Papanui Medical Centre,liquefaction,TRUE
+-43.51534355,172.6378859,129,medical_clinic,Promed Doctors,liquefaction,TRUE
+-43.49499353,172.7111989,130,medical_clinic,QEII Medical Centre,liquefaction,TRUE
+-43.47786153,172.6959789,131,medical_clinic,Queenspark Healthcare,liquefaction,FALSE
+-43.56187953,172.738582,132,medical_clinic,Redcliffs Medical Centre,liquefaction,FALSE
+-43.47920956,172.6170389,133,medical_clinic,Redwood Clinic,liquefaction,TRUE
+-43.53172358,172.5717639,134,medical_clinic,Riccarton Clinic,liquefaction,FALSE
+-43.53291957,172.5990099,135,medical_clinic,Riccarton Medical Practice,liquefaction,TRUE
+-43.54828056,172.622099,136,medical_clinic,Selwyn Village Healthcare,liquefaction,FALSE
+-43.50711055,172.6625929,137,medical_clinic,Shirley Medical Centre,liquefaction,TRUE
+-43.50956856,172.6304629,138,medical_clinic,St Albans Medical Centre,liquefaction,TRUE
+-43.55915655,172.654557,139,medical_clinic,St Martins Medical Practice,liquefaction,TRUE
+-43.52859257,172.6022669,140,medical_clinic,Straven Medical,liquefaction,TRUE
+-43.56891552,172.75837,141,medical_clinic,Sumner Health Centre,liquefaction,FALSE
+-43.51058453,172.701306,142,medical_clinic,Te Rawhiti Family Care Centre,liquefaction,FALSE
+-43.55337561,172.4731009,143,medical_clinic,Templeton Medical,liquefaction,FALSE
+-43.53216456,172.6374769,144,medical_clinic,The Christchurch Doctors,liquefaction,FALSE
+-43.49494453,172.7096289,145,medical_clinic,Travis Medical Centre,liquefaction,TRUE
+-43.53217655,172.671399,146,medical_clinic,Union & Community Health Centre (Piki Te Ora),liquefaction,FALSE
+-43.52384857,172.5795009,147,medical_clinic,University of Canterbury Student Health Centre,liquefaction,FALSE
+-43.53133157,172.5778409,148,medical_clinic,Upper Riccarton Medical Centre,liquefaction,FALSE
+-43.55282957,172.5966139,149,medical_clinic,Village Health Lincoln Road,liquefaction,TRUE
+-43.55069855,172.646537,150,medical_clinic,Waltham Medical Centre,liquefaction,TRUE
+-43.55198158,172.5569569,151,medical_clinic,WeCare Health Wigram,liquefaction,FALSE
+-43.52537255,172.662356,152,medical_clinic,Woodham Road Medical,liquefaction,FALSE
+-43.52775358,172.5575659,153,medical_clinic,Yaldhurst Family Doctors,liquefaction,FALSE
+-43.602804,172.467945,154,primary_school,Broadfield School,liquefaction,FALSE
+-43.551181,172.656331,155,primary_school,TKKM o Waitaha,liquefaction,FALSE
+-43.546479,172.689238,156,primary_school,Tamariki School,liquefaction,TRUE
+-43.384361,172.654115,157,primary_school,St Patrick's School (Kaiapoi),liquefaction,FALSE
+-43.552887,172.659307,158,primary_school,St Mark's School (Christchurch),liquefaction,TRUE
+-43.534774,172.633065,159,primary_school,St Michael's Church School,liquefaction,FALSE
+-43.536311,172.596742,160,primary_school,Wharenui School,liquefaction,TRUE
+-43.523227,172.639261,161,primary_school,St Mary's School (Christchurch),liquefaction,FALSE
+-43.511239,172.604049,162,primary_school,St Patrick's School (Bryndwr),liquefaction,FALSE
+-43.504214,172.605282,163,primary_school,Waimairi School,liquefaction,FALSE
+-43.570608,172.403181,164,primary_school,Weedons School,liquefaction,FALSE
+-43.521443,172.369386,165,primary_school,West Melton School,liquefaction,FALSE
+-43.512146,172.570887,166,primary_school,Westburn School,liquefaction,TRUE
+-43.488673,172.614444,167,primary_school,St Joseph's School (Papanui),liquefaction,FALSE
+-43.565432,172.657232,168,primary_school,St Martins School,liquefaction,TRUE
+-43.559766,172.637698,169,primary_school,St Peter's School (Beckenham),liquefaction,TRUE
+-43.529758,172.59214,170,primary_school,St Teresa's School (Riccarton),liquefaction,FALSE
+-43.566305,172.636568,171,primary_school,Thorrington School,liquefaction,FALSE
+-43.51173,172.70486,172,primary_school,St James School (Aranui),liquefaction,FALSE
+-43.574868,172.762543,173,primary_school,Our Lady Star of the Sea School (Christchurch),liquefaction,FALSE
+-43.573098,172.759628,174,primary_school,Sumner School,liquefaction,TRUE
+-43.550162,172.472361,175,primary_school,Templeton School,liquefaction,FALSE
+-43.533484,172.525345,176,primary_school,St Bernadette's School (Hornby),liquefaction,FALSE
+-43.547858,172.61824,177,primary_school,Addington Te Kura Taumatua,liquefaction,FALSE
+-43.562252,172.587768,178,primary_school,Te KÃÂmanawa Rowley School,liquefaction,FALSE
+-43.561645,172.628537,179,primary_school,Somerfield Te Kura Wairepo,liquefaction,TRUE
+-43.547122,172.529047,180,primary_school,South Hornby School,liquefaction,FALSE
+-43.52622,172.733527,181,primary_school,South New Brighton School,liquefaction,FALSE
+-43.49871,172.641415,182,primary_school,Mairehau Primary School,liquefaction,FALSE
+-43.577074,172.513059,183,primary_school,Prebbleton School,liquefaction,FALSE
+-43.533363,172.564144,184,primary_school,Te KÃÂpehu Riccarton School,liquefaction,FALSE
+-43.517895,172.544704,185,primary_school,Russley School,liquefaction,FALSE
+-43.375957,172.663615,186,primary_school,Kaiapoi North School,liquefaction,FALSE
+-43.553946,172.551525,187,primary_school,Wigram Primary School - Te Piki KÃÂhu,liquefaction,FALSE
+-43.557575,172.597927,188,primary_school,Spreydon School,liquefaction,TRUE
+-43.513251,172.668112,189,primary_school,Banks Avenue School,liquefaction,FALSE
+-43.562877,172.645488,190,primary_school,Beckenham Te Kura o PÃÂ«roto,liquefaction,FALSE
+-43.453618,172.627302,191,primary_school,Belfast School,liquefaction,TRUE
+-43.512738,172.581782,192,primary_school,Burnside Primary School,liquefaction,TRUE
+-43.637105,172.487099,193,primary_school,Lincoln Primary School,liquefaction,FALSE
+-43.555662,172.66449,194,primary_school,Opawa School,liquefaction,FALSE
+-43.538707,172.522632,195,primary_school,Hornby Primary School,liquefaction,TRUE
+-43.493107,172.582123,196,primary_school,Isleworth School,liquefaction,FALSE
+-43.482458,172.587178,197,primary_school,Cotswold School,liquefaction,TRUE
+-43.524102,172.559497,198,primary_school,Avonhead School,liquefaction,FALSE
+-43.548989,172.648613,199,primary_school,Waltham School,liquefaction,TRUE
+-43.576418,172.632546,200,primary_school,Cashmere Primary Te Pae KererÃÂ«,liquefaction,FALSE
+-43.405997,172.623356,201,primary_school,Clarkville School,liquefaction,FALSE
+-43.529738,172.521344,202,primary_school,Gilberthorpe School,liquefaction,FALSE
+-43.579876,172.708878,203,primary_school,Heathcote Valley School,liquefaction,FALSE
+-43.663629,172.550066,204,primary_school,Tai Tapu School,liquefaction,FALSE
+-43.444597,172.660388,205,primary_school,Ouruhia Model School,liquefaction,FALSE
+-43.488025,172.619727,206,primary_school,Papanui School,liquefaction,FALSE
+-43.499655,172.619586,207,primary_school,Paparoa Street School,liquefaction,FALSE
+-43.556439,172.733609,208,primary_school,Te Raekura Redcliffs School,liquefaction,FALSE
+-43.473605,172.621954,209,primary_school,Redwood School (Christchurch),liquefaction,TRUE
+-43.644586,172.425734,210,primary_school,Springston School,liquefaction,FALSE
+-43.507131,172.629095,211,primary_school,St Albans Catholic School (Christchurch),liquefaction,TRUE
+-43.524848,172.675792,212,primary_school,WhÃÂ«tau School,liquefaction,FALSE
+-43.510497,172.558579,213,primary_school,Merrin School,liquefaction,FALSE
+-43.479365,172.614009,214,primary_school,Northcote School (Christchurch),liquefaction,FALSE
+-43.571583,172.56465,215,primary_school,Oaklands School,liquefaction,FALSE
+-43.370163,172.590554,216,primary_school,Ohoka School,liquefaction,FALSE
+-43.526413,172.579696,217,primary_school,Ilam School,liquefaction,FALSE
+-43.509154,172.576637,218,primary_school,Christ The King School (Burnside),liquefaction,TRUE
+-43.529647,172.648358,219,primary_school,Christchurch East School,liquefaction,FALSE
+-43.513814,172.614755,220,primary_school,Elmwood Normal School,liquefaction,FALSE
+-43.590655,172.569381,221,primary_school,Halswell School,liquefaction,FALSE
+-43.528058,172.628555,222,primary_school,The Cathedral Grammar School,liquefaction,TRUE
+-43.506368,172.615873,223,primary_school,St Andrew's College (Christchurch),liquefaction,FALSE
+-43.520222,172.654826,224,primary_school,Jean Seabrook Memorial School,liquefaction,FALSE
+-43.52931,172.672461,225,primary_school,Te Pa o Rakaihautu,liquefaction,FALSE
+-43.514761,172.696693,226,primary_school,Haeata Community Campus,liquefaction,FALSE
+-43.602344,172.723168,227,primary_school,Lyttelton Primary School,liquefaction,FALSE
+-43.499792,172.639393,228,primary_school,St Francis of Assisi Catholic School,liquefaction,FALSE
+-43.570862,172.537934,229,primary_school,Knights Stream School- Mingimingi Hautoa,liquefaction,FALSE
+-43.478668,172.588279,230,primary_school,Emmanuel Christian School,liquefaction,TRUE
+-43.555741,172.652801,231,primary_school,Hillview Christian School,liquefaction,FALSE
+-43.499023,172.611436,232,primary_school,Christchurch Adventist School,liquefaction,FALSE
+-43.622673,172.386021,233,primary_school,Lemonwood Grove School,liquefaction,FALSE
+-43.564588,172.614592,234,primary_school,TKKM o Te Whanau Tahi,liquefaction,FALSE
+-43.563771,172.571,235,primary_school,Aidanfield Christian School,liquefaction,FALSE
+-43.535939,172.635943,236,primary_school,Ao Tawhiti Unlimited Discovery,liquefaction,FALSE
+-43.545671,172.672639,237,primary_school,Te Waka Unua School,liquefaction,FALSE
+-43.488844,172.683844,238,primary_school,Waitakiri Primary School,liquefaction,FALSE
+-43.606888,172.355917,239,primary_school,West Rolleston Primary School,liquefaction,FALSE
+-43.519096,172.622159,240,primary_school,St Margaret's College,liquefaction,FALSE
+-43.608323,172.392912,241,primary_school,Rolleston Christian School,liquefaction,FALSE
+-43.58267,172.548458,242,primary_school,Seven Oaks School,liquefaction,TRUE
+-43.521889,172.589114,243,primary_school,Medbury Preparatory School,liquefaction,FALSE
+-43.500167,172.588282,244,primary_school,Wairakei School (Christchurch),liquefaction,FALSE
+-43.559634,172.611297,245,primary_school,Te Ara Koropiko West Spreydon School,liquefaction,FALSE
+-43.510194,172.502189,246,primary_school,Yaldhurst Model School,liquefaction,FALSE
+-43.369342,172.495566,247,primary_school,Swannanoa School,liquefaction,FALSE
+-43.546066,172.612757,248,primary_school,Sacred Heart School (Christchurch),liquefaction,FALSE
+-43.564788,172.60708,249,primary_school,Our Lady of the Assumption School (Chch),liquefaction,TRUE
+-43.536215,172.559125,250,primary_school,Our Lady of Victories,liquefaction,FALSE
+-43.4806,172.705631,251,primary_school,Parkview PÃÂrua,liquefaction,TRUE
+-43.473158,172.695985,252,primary_school,Queenspark School,liquefaction,FALSE
+-43.592491,172.381339,253,primary_school,Rolleston School,liquefaction,FALSE
+-43.494484,172.563148,254,primary_school,Te Ara Maurea Roydvale School,liquefaction,FALSE
+-43.507888,172.653152,255,primary_school,Shirley Primary School,liquefaction,TRUE
+-43.508774,172.634388,256,primary_school,St Albans School,liquefaction,TRUE
+-43.550383,172.685581,257,primary_school,St Anne's School (Woolston),liquefaction,FALSE
+-43.535284,172.67488,258,primary_school,Linwood Avenue School,liquefaction,FALSE
+-43.763797,172.795486,259,primary_school,Little River School,liquefaction,FALSE
+-43.472028,172.664748,260,primary_school,Marshland School,liquefaction,FALSE
+-43.562448,172.715927,261,primary_school,Mt Pleasant School,liquefaction,FALSE
+-43.505942,172.723723,262,primary_school,New Brighton Catholic School (Chch),liquefaction,FALSE
+-43.564866,172.606597,263,primary_school,Hoon Hay Te Kura KÃÂaka,liquefaction,TRUE
+-43.379062,172.651468,264,primary_school,Kaiapoi Borough School,liquefaction,FALSE
+-43.617669,172.532329,265,primary_school,Ladbrooks School,liquefaction,FALSE
+-43.554159,172.687455,266,primary_school,Ngutuawa School,liquefaction,FALSE
+-43.486649,172.596248,267,primary_school,Bishopdale School,liquefaction,FALSE
+-43.536557,172.687055,268,primary_school,Bromley School,liquefaction,FALSE
+-43.629962,172.726705,269,primary_school,Diamond Harbour School,liquefaction,FALSE
+-43.517081,172.591149,270,primary_school,Fendalton Open Air School,liquefaction,FALSE
+-43.623986,172.64999,271,primary_school,Governors Bay School,liquefaction,FALSE
+-43.479772,172.559446,272,primary_school,Harewood School,liquefaction,FALSE
+-43.560087,172.659135,273,primary_school,Rudolf Steiner School (Chch),liquefaction,TRUE
+-43.53625,172.57652,274,primary_school,Middleton Grange School,liquefaction,FALSE
+-43.606108,172.38121,275,primary_school,Clearview Primary,liquefaction,FALSE
+-43.510659,172.724993,276,primary_school,Nova Montessori School,liquefaction,FALSE
+-43.496105,172.717708,277,primary_school,RÃÂwhiti School,liquefaction,TRUE
+-43.611772,172.404307,278,primary_school,Te RÃÂhutu Whio (Proposed opening date: 2022-01-01),liquefaction,FALSE
+-43.648092,172.492975,279,primary_school,Ararira Springs Primary- Te Puna o Ararira,liquefaction,FALSE
+-43.516643,172.623012,280,primary_school,Selwyn House School,liquefaction,FALSE
+-43.5351605,172.5802564,0,supermarket,Big Chicken Supermarket,multi,TRUE
+-43.53274003,172.5730475,1,supermarket,Countdown,multi,TRUE
+-43.55682685,172.7025114,2,supermarket,Countdown,multi,FALSE
+-43.5387413,172.6417417,3,supermarket,Countdown,multi,TRUE
+-43.50676606,172.7299485,4,supermarket,Countdown,multi,TRUE
+-43.45900317,172.6250142,5,supermarket,Countdown,multi,FALSE
+-43.49152959,172.6117041,6,supermarket,Countdown,multi,TRUE
+-43.59418266,172.3866759,7,supermarket,Countdown,multi,FALSE
+-43.54274886,172.5269712,8,supermarket,Countdown,multi,TRUE
+-43.48986069,172.5477124,9,supermarket,Countdown,multi,TRUE
+-43.5056571,172.6645278,10,supermarket,Countdown,multi,TRUE
+-43.5111866,172.5572106,11,supermarket,Countdown,multi,TRUE
+-43.5324507,172.6755846,12,supermarket,Countdown,multi,TRUE
+-43.55331378,172.6355983,13,supermarket,Countdown Sydenham,multi,TRUE
+-43.51316108,172.6367287,14,supermarket,Edgeware FreshChoice,multi,TRUE
+-43.5232351,172.3704124,15,supermarket,Four Square,multi,FALSE
+-43.48134612,172.7060947,16,supermarket,Fresh Choice,multi,FALSE
+-43.5557083,172.6205318,17,supermarket,Fresh Choice,multi,TRUE
+-43.5340843,172.6378384,18,supermarket,Fresh Choice City Market,multi,TRUE
+-43.5128454,172.6213802,19,supermarket,Fresh Choice Supermarket,multi,TRUE
+-43.58063686,172.5659203,20,supermarket,New World,multi,FALSE
+-43.45963502,172.6223904,21,supermarket,New World,multi,TRUE
+-43.48845188,172.5872137,22,supermarket,New World,multi,FALSE
+-43.55753906,172.6547893,23,supermarket,New World,multi,TRUE
+-43.56242398,172.7390075,24,supermarket,New World,multi,FALSE
+-43.47515958,172.6620094,25,supermarket,New World,multi,FALSE
+-43.53870921,172.6331341,26,supermarket,New World,multi,TRUE
+-43.5179319,172.588375,27,supermarket,New World,multi,TRUE
+-43.5526955,172.5575428,28,supermarket,New World,multi,FALSE
+-43.5258837,172.5701643,29,supermarket,New World,multi,TRUE
+-43.5490378,172.6840966,30,supermarket,New World,multi,TRUE
+-43.64225793,172.4737121,31,supermarket,New World Lincoln,multi,FALSE
+-43.5967627,172.3824238,32,supermarket,New World Rolleston,multi,FALSE
+-43.52016129,172.6569832,33,supermarket,New World Stanmore,multi,TRUE
+-43.5426435,172.5233262,34,supermarket,PAK'nSAVE,multi,FALSE
+-43.49285848,172.6089146,35,supermarket,Pak'nSave,multi,TRUE
+-43.51282276,172.6932267,36,supermarket,Pak'nSave,multi,TRUE
+-43.5310944,172.5961987,37,supermarket,Pak'nSave,multi,FALSE
+-43.53900827,172.6383239,38,supermarket,Pak'nSave Moorhouse Avenue,multi,TRUE
+-43.5401055,172.6053454,39,supermarket,Raeward Fresh,multi,TRUE
+-43.4777997,172.5552277,40,supermarket,Reawood Fresh,multi,FALSE
+-43.5694327,172.7599984,41,supermarket,Sumner Supervalue,multi,FALSE
+-43.60288087,172.7215154,42,supermarket,SuperValue,multi,FALSE
+-43.509513,172.5902803,43,supermarket,SuperValue,multi,TRUE
+-43.53041974,172.6574869,44,supermarket,Supervalue,multi,TRUE
+-43.38619393,172.6589884,45,supermarket,Countdown,multi,FALSE
+-43.38240588,172.6589884,46,supermarket,New World,multi,TRUE
+-43.5671816,172.6355346,47,medical_clinic,Cashmere Health & Physio,multi,TRUE
+-43.302568,172.5916687,48,medical_clinic,Durham Health,multi,FALSE
+-43.3020404,172.5938606,49,medical_clinic,Good Street Medical Centre,multi,FALSE
+-43.381548,172.658214,50,medical_clinic,Kaiapoi Family Doctors,multi,FALSE
+-43.3851513,172.6552188,51,medical_clinic,Kaiapoi Medical Centre,multi,FALSE
+-43.3838471,172.6568487,52,medical_clinic,Kaye Buchan Kaiapoi,multi,TRUE
+-43.7613679,172.2994522,53,medical_clinic,Leeston Medical Centre,multi,FALSE
+-43.6404562,172.4852213,54,medical_clinic,Lincoln Medical,multi,FALSE
+-43.6425505,172.4685995,55,medical_clinic,Lincoln University Student Health & Support,multi,FALSE
+-43.3039901,172.5919674,56,medical_clinic,Medical Corner Doctors,multi,FALSE
+-43.5263504,172.6386968,57,medical_clinic,Menzmedical,multi,TRUE
+-43.5132281,172.6229239,58,medical_clinic,Merivale Village Medical Care,multi,TRUE
+-43.553126,172.6640804,59,medical_clinic,Opawa Surgery,multi,FALSE
+-43.4798067,172.6954698,60,medical_clinic,Parklands Medical Centre (Chch),multi,TRUE
+-43.3140479,172.6976781,61,medical_clinic,Pegasus Medical Centre,multi,FALSE
+-43.4743719,172.6260863,62,medical_clinic,Prestons Road Surgery,multi,TRUE
+-43.3085385,172.5966653,63,medical_clinic,Rangiora Family Doctors,multi,FALSE
+-43.5957078,172.3894715,64,medical_clinic,Rolleston Central Health,multi,FALSE
+-43.5948428,172.3750787,65,medical_clinic,Rolleston Medical Centre,multi,FALSE
+-43.5591296,172.702622,66,medical_clinic,Settlers Health Centre,multi,FALSE
+-43.3164877,172.6003441,67,medical_clinic,Southside Health,multi,FALSE
+-43.550862,172.6000633,68,medical_clinic,Village Health Lincoln Road,multi,TRUE
+-43.5224537,172.3704577,69,medical_clinic,West Melton Medical Centre,multi,FALSE
+-43.555845,172.5612426,70,medical_clinic,Wigram Health,multi,FALSE
+-43.3234375,172.6652561,71,medical_clinic,Woodend Medical Centre,multi,FALSE
+-43.5254823,172.6719958,72,medical_clinic,Woodham Road Healthcare,multi,TRUE
+-43.52070256,172.6303589,73,medical_clinic,298 Youth Health,multi,TRUE
+-43.54557559,172.5258579,74,medical_clinic,Amyes Road Medical Centre,multi,TRUE
+-43.55709556,172.620348,75,medical_clinic,Barrington Medical Centre,multi,TRUE
+-43.44520355,172.6333859,76,medical_clinic,Belfast Medical Centre,multi,TRUE
+-43.44470655,172.6329439,77,medical_clinic,Belfast North Mediqual Doctors,multi,TRUE
+-43.49018057,172.5880899,78,medical_clinic,Bishopdale Medical Centre,multi,TRUE
+-43.50908257,172.5904849,79,medical_clinic,Bryndwr Medical Rooms,multi,FALSE
+-43.49651957,172.5787619,80,medical_clinic,Burnside Medical Centre,multi,TRUE
+-43.48045856,172.6032359,81,medical_clinic,Casebrook Surgery,multi,TRUE
+-43.56681956,172.646938,82,medical_clinic,Cashmere Health,multi,TRUE
+-43.56699856,172.629422,83,medical_clinic,Cashmere Medical Practice,multi,TRUE
+-43.55626656,172.636678,84,medical_clinic,Christchurch South Health Centre,multi,FALSE
+-43.50501855,172.6347199,85,medical_clinic,Cranford Street Medical Practice,multi,FALSE
+-43.62646953,172.739929,86,medical_clinic,Diamond Harbour Surgery,multi,FALSE
+-43.53301756,172.6283289,87,medical_clinic,Doctors on Cashel,multi,FALSE
+-43.53046757,172.5928159,88,medical_clinic,Doctors on Riccarton,multi,TRUE
+-43.51292058,172.5551999,89,medical_clinic,Dr Kathy Davey,multi,TRUE
+-43.51292058,172.5551999,90,medical_clinic,Dr Susan Shand,multi,TRUE
+-43.51656953,172.701178,91,medical_clinic,Eastcare Health,multi,TRUE
+-43.51775557,172.5871119,92,medical_clinic,Fendalton Medical Centre,multi,TRUE
+-43.54090255,172.660402,93,medical_clinic,Ferry Road Medical Centre,multi,TRUE
+-43.55618954,172.697494,94,medical_clinic,Ferrymead Medical Centre,multi,FALSE
+-43.50771957,172.5698549,95,medical_clinic,Grahams Road Medical Practice,multi,FALSE
+-43.49870857,172.5867099,96,medical_clinic,Greers Road Medical Centre,multi,TRUE
+-43.57433758,172.5682579,97,medical_clinic,Halswellhealth,multi,TRUE
+-43.49117857,172.5952169,98,medical_clinic,Harewood Medical Centre,multi,TRUE
+-43.53825755,172.642922,99,medical_clinic,Health Centre Ara Institute of Canterbury,multi,TRUE
+-43.53660756,172.6364479,100,medical_clinic,Health and Sport Central,multi,FALSE
+-43.53581859,172.5214049,101,medical_clinic,Hei Hei Health Centre,multi,FALSE
+-43.55982355,172.657957,102,medical_clinic,Helios Integrative Medical Centre,multi,TRUE
+-43.52922357,172.6052069,103,medical_clinic,High Street City Health,multi,TRUE
+-43.55412657,172.5942419,104,medical_clinic,HillMed Health Centre,multi,TRUE
+-43.56601557,172.604239,105,medical_clinic,Hoon Hay Medical Centre,multi,TRUE
+-43.54441759,172.5287619,106,medical_clinic,Hornby Medical Centre,multi,FALSE
+-43.51225957,172.5806319,107,medical_clinic,Ilam Medical Centre,multi,TRUE
+-43.50211655,172.6333769,108,medical_clinic,Innes Road Medical Rooms,multi,TRUE
+-43.51569257,172.5717529,109,medical_clinic,Inspire Health Medical Practice,multi,TRUE
+-43.49784757,172.5727439,110,medical_clinic,Kendal Medical Centre,multi,TRUE
+-43.53295855,172.655534,111,medical_clinic,Kingdom Clinic,multi,TRUE
+-43.53321054,172.674028,112,medical_clinic,Linwood Medical Centre,multi,TRUE
+-43.57815959,172.5462929,113,medical_clinic,Longhurst Health,multi,FALSE
+-43.60346954,172.722625,114,medical_clinic,Lyttelton Health Centre,multi,FALSE
+-43.49133856,172.6130309,115,medical_clinic,Main North Road Medical Centre,multi,FALSE
+-43.49846755,172.6408549,116,medical_clinic,Mairehau Medical Centre,multi,TRUE
+-43.51151956,172.6214979,117,medical_clinic,Mansfield Health Practice,multi,TRUE
+-43.47488754,172.6592859,118,medical_clinic,Marshlands Family Health Centre,multi,FALSE
+-43.52137956,172.6368109,119,medical_clinic,Menzmedical,multi,TRUE
+-43.51014756,172.6202329,120,medical_clinic,Merivale Medical Practice,multi,TRUE
+-43.54073156,172.63974,121,medical_clinic,Moorhouse Medical Centre,multi,TRUE
+-43.55795353,172.722312,122,medical_clinic,Mt Pleasant Medical Centre,multi,TRUE
+-43.50905653,172.727617,123,medical_clinic,New Brighton Health Care,multi,FALSE
+-43.50980456,172.6067429,124,medical_clinic,Normans Road Surgery,multi,TRUE
+-43.51776955,172.6541109,125,medical_clinic,North Avon Medical Centre,multi,TRUE
+-43.47507056,172.6173119,126,medical_clinic,Northwood Medical Centre,multi,TRUE
+-43.53841556,172.6304619,127,medical_clinic,Pacific Health Clinic,multi,TRUE
+-43.50030656,172.6111929,128,medical_clinic,Papanui Medical Centre,multi,TRUE
+-43.51534355,172.6378859,129,medical_clinic,Promed Doctors,multi,TRUE
+-43.49499353,172.7111989,130,medical_clinic,QEII Medical Centre,multi,FALSE
+-43.47786153,172.6959789,131,medical_clinic,Queenspark Healthcare,multi,TRUE
+-43.56187953,172.738582,132,medical_clinic,Redcliffs Medical Centre,multi,FALSE
+-43.47920956,172.6170389,133,medical_clinic,Redwood Clinic,multi,TRUE
+-43.53172358,172.5717639,134,medical_clinic,Riccarton Clinic,multi,TRUE
+-43.53291957,172.5990099,135,medical_clinic,Riccarton Medical Practice,multi,TRUE
+-43.54828056,172.622099,136,medical_clinic,Selwyn Village Healthcare,multi,TRUE
+-43.50711055,172.6625929,137,medical_clinic,Shirley Medical Centre,multi,TRUE
+-43.50956856,172.6304629,138,medical_clinic,St Albans Medical Centre,multi,TRUE
+-43.55915655,172.654557,139,medical_clinic,St Martins Medical Practice,multi,TRUE
+-43.52859257,172.6022669,140,medical_clinic,Straven Medical,multi,TRUE
+-43.56891552,172.75837,141,medical_clinic,Sumner Health Centre,multi,FALSE
+-43.51058453,172.701306,142,medical_clinic,Te Rawhiti Family Care Centre,multi,TRUE
+-43.55337561,172.4731009,143,medical_clinic,Templeton Medical,multi,TRUE
+-43.53216456,172.6374769,144,medical_clinic,The Christchurch Doctors,multi,TRUE
+-43.49494453,172.7096289,145,medical_clinic,Travis Medical Centre,multi,FALSE
+-43.53217655,172.671399,146,medical_clinic,Union & Community Health Centre (Piki Te Ora),multi,TRUE
+-43.52384857,172.5795009,147,medical_clinic,University of Canterbury Student Health Centre,multi,TRUE
+-43.53133157,172.5778409,148,medical_clinic,Upper Riccarton Medical Centre,multi,TRUE
+-43.55282957,172.5966139,149,medical_clinic,Village Health Lincoln Road,multi,TRUE
+-43.55069855,172.646537,150,medical_clinic,Waltham Medical Centre,multi,TRUE
+-43.55198158,172.5569569,151,medical_clinic,WeCare Health Wigram,multi,TRUE
+-43.52537255,172.662356,152,medical_clinic,Woodham Road Medical,multi,TRUE
+-43.52775358,172.5575659,153,medical_clinic,Yaldhurst Family Doctors,multi,TRUE
+-43.602804,172.467945,154,primary_school,Broadfield School,multi,FALSE
+-43.551181,172.656331,155,primary_school,TKKM o Waitaha,multi,TRUE
+-43.546479,172.689238,156,primary_school,Tamariki School,multi,FALSE
+-43.384361,172.654115,157,primary_school,St Patrick's School (Kaiapoi),multi,FALSE
+-43.552887,172.659307,158,primary_school,St Mark's School (Christchurch),multi,TRUE
+-43.534774,172.633065,159,primary_school,St Michael's Church School,multi,TRUE
+-43.536311,172.596742,160,primary_school,Wharenui School,multi,TRUE
+-43.523227,172.639261,161,primary_school,St Mary's School (Christchurch),multi,TRUE
+-43.511239,172.604049,162,primary_school,St Patrick's School (Bryndwr),multi,FALSE
+-43.504214,172.605282,163,primary_school,Waimairi School,multi,TRUE
+-43.570608,172.403181,164,primary_school,Weedons School,multi,FALSE
+-43.521443,172.369386,165,primary_school,West Melton School,multi,FALSE
+-43.512146,172.570887,166,primary_school,Westburn School,multi,TRUE
+-43.488673,172.614444,167,primary_school,St Joseph's School (Papanui),multi,TRUE
+-43.565432,172.657232,168,primary_school,St Martins School,multi,TRUE
+-43.559766,172.637698,169,primary_school,St Peter's School (Beckenham),multi,TRUE
+-43.529758,172.59214,170,primary_school,St Teresa's School (Riccarton),multi,TRUE
+-43.566305,172.636568,171,primary_school,Thorrington School,multi,TRUE
+-43.51173,172.70486,172,primary_school,St James School (Aranui),multi,TRUE
+-43.574868,172.762543,173,primary_school,Our Lady Star of the Sea School (Christchurch),multi,FALSE
+-43.573098,172.759628,174,primary_school,Sumner School,multi,FALSE
+-43.550162,172.472361,175,primary_school,Templeton School,multi,TRUE
+-43.533484,172.525345,176,primary_school,St Bernadette's School (Hornby),multi,FALSE
+-43.547858,172.61824,177,primary_school,Addington Te Kura Taumatua,multi,TRUE
+-43.562252,172.587768,178,primary_school,Te KÃÂmanawa Rowley School,multi,TRUE
+-43.561645,172.628537,179,primary_school,Somerfield Te Kura Wairepo,multi,TRUE
+-43.547122,172.529047,180,primary_school,South Hornby School,multi,FALSE
+-43.52622,172.733527,181,primary_school,South New Brighton School,multi,TRUE
+-43.49871,172.641415,182,primary_school,Mairehau Primary School,multi,TRUE
+-43.577074,172.513059,183,primary_school,Prebbleton School,multi,FALSE
+-43.533363,172.564144,184,primary_school,Te KÃÂpehu Riccarton School,multi,FALSE
+-43.517895,172.544704,185,primary_school,Russley School,multi,FALSE
+-43.375957,172.663615,186,primary_school,Kaiapoi North School,multi,TRUE
+-43.553946,172.551525,187,primary_school,Wigram Primary School - Te Piki KÃÂhu,multi,TRUE
+-43.557575,172.597927,188,primary_school,Spreydon School,multi,TRUE
+-43.513251,172.668112,189,primary_school,Banks Avenue School,multi,FALSE
+-43.562877,172.645488,190,primary_school,Beckenham Te Kura o PÃÂ«roto,multi,TRUE
+-43.453618,172.627302,191,primary_school,Belfast School,multi,TRUE
+-43.512738,172.581782,192,primary_school,Burnside Primary School,multi,TRUE
+-43.637105,172.487099,193,primary_school,Lincoln Primary School,multi,FALSE
+-43.555662,172.66449,194,primary_school,Opawa School,multi,TRUE
+-43.538707,172.522632,195,primary_school,Hornby Primary School,multi,FALSE
+-43.493107,172.582123,196,primary_school,Isleworth School,multi,TRUE
+-43.482458,172.587178,197,primary_school,Cotswold School,multi,TRUE
+-43.524102,172.559497,198,primary_school,Avonhead School,multi,FALSE
+-43.548989,172.648613,199,primary_school,Waltham School,multi,FALSE
+-43.576418,172.632546,200,primary_school,Cashmere Primary Te Pae KererÃÂ«,multi,FALSE
+-43.405997,172.623356,201,primary_school,Clarkville School,multi,FALSE
+-43.529738,172.521344,202,primary_school,Gilberthorpe School,multi,FALSE
+-43.579876,172.708878,203,primary_school,Heathcote Valley School,multi,TRUE
+-43.663629,172.550066,204,primary_school,Tai Tapu School,multi,FALSE
+-43.444597,172.660388,205,primary_school,Ouruhia Model School,multi,TRUE
+-43.488025,172.619727,206,primary_school,Papanui School,multi,TRUE
+-43.499655,172.619586,207,primary_school,Paparoa Street School,multi,TRUE
+-43.556439,172.733609,208,primary_school,Te Raekura Redcliffs School,multi,FALSE
+-43.473605,172.621954,209,primary_school,Redwood School (Christchurch),multi,TRUE
+-43.644586,172.425734,210,primary_school,Springston School,multi,FALSE
+-43.507131,172.629095,211,primary_school,St Albans Catholic School (Christchurch),multi,TRUE
+-43.524848,172.675792,212,primary_school,WhÃÂ«tau School,multi,FALSE
+-43.510497,172.558579,213,primary_school,Merrin School,multi,TRUE
+-43.479365,172.614009,214,primary_school,Northcote School (Christchurch),multi,TRUE
+-43.571583,172.56465,215,primary_school,Oaklands School,multi,TRUE
+-43.370163,172.590554,216,primary_school,Ohoka School,multi,FALSE
+-43.526413,172.579696,217,primary_school,Ilam School,multi,TRUE
+-43.509154,172.576637,218,primary_school,Christ The King School (Burnside),multi,TRUE
+-43.529647,172.648358,219,primary_school,Christchurch East School,multi,TRUE
+-43.513814,172.614755,220,primary_school,Elmwood Normal School,multi,TRUE
+-43.590655,172.569381,221,primary_school,Halswell School,multi,TRUE
+-43.528058,172.628555,222,primary_school,The Cathedral Grammar School,multi,TRUE
+-43.506368,172.615873,223,primary_school,St Andrew's College (Christchurch),multi,TRUE
+-43.520222,172.654826,224,primary_school,Jean Seabrook Memorial School,multi,TRUE
+-43.52931,172.672461,225,primary_school,Te Pa o Rakaihautu,multi,TRUE
+-43.514761,172.696693,226,primary_school,Haeata Community Campus,multi,TRUE
+-43.602344,172.723168,227,primary_school,Lyttelton Primary School,multi,FALSE
+-43.499792,172.639393,228,primary_school,St Francis of Assisi Catholic School,multi,TRUE
+-43.570862,172.537934,229,primary_school,Knights Stream School- Mingimingi Hautoa,multi,FALSE
+-43.478668,172.588279,230,primary_school,Emmanuel Christian School,multi,TRUE
+-43.555741,172.652801,231,primary_school,Hillview Christian School,multi,TRUE
+-43.499023,172.611436,232,primary_school,Christchurch Adventist School,multi,TRUE
+-43.622673,172.386021,233,primary_school,Lemonwood Grove School,multi,FALSE
+-43.564588,172.614592,234,primary_school,TKKM o Te Whanau Tahi,multi,TRUE
+-43.563771,172.571,235,primary_school,Aidanfield Christian School,multi,TRUE
+-43.535939,172.635943,236,primary_school,Ao Tawhiti Unlimited Discovery,multi,TRUE
+-43.545671,172.672639,237,primary_school,Te Waka Unua School,multi,FALSE
+-43.488844,172.683844,238,primary_school,Waitakiri Primary School,multi,TRUE
+-43.606888,172.355917,239,primary_school,West Rolleston Primary School,multi,FALSE
+-43.519096,172.622159,240,primary_school,St Margaret's College,multi,TRUE
+-43.608323,172.392912,241,primary_school,Rolleston Christian School,multi,FALSE
+-43.58267,172.548458,242,primary_school,Seven Oaks School,multi,TRUE
+-43.521889,172.589114,243,primary_school,Medbury Preparatory School,multi,TRUE
+-43.500167,172.588282,244,primary_school,Wairakei School (Christchurch),multi,TRUE
+-43.559634,172.611297,245,primary_school,Te Ara Koropiko West Spreydon School,multi,TRUE
+-43.510194,172.502189,246,primary_school,Yaldhurst Model School,multi,TRUE
+-43.369342,172.495566,247,primary_school,Swannanoa School,multi,FALSE
+-43.546066,172.612757,248,primary_school,Sacred Heart School (Christchurch),multi,TRUE
+-43.564788,172.60708,249,primary_school,Our Lady of the Assumption School (Chch),multi,TRUE
+-43.536215,172.559125,250,primary_school,Our Lady of Victories,multi,TRUE
+-43.4806,172.705631,251,primary_school,Parkview PÃÂrua,multi,FALSE
+-43.473158,172.695985,252,primary_school,Queenspark School,multi,TRUE
+-43.592491,172.381339,253,primary_school,Rolleston School,multi,FALSE
+-43.494484,172.563148,254,primary_school,Te Ara Maurea Roydvale School,multi,FALSE
+-43.507888,172.653152,255,primary_school,Shirley Primary School,multi,TRUE
+-43.508774,172.634388,256,primary_school,St Albans School,multi,TRUE
+-43.550383,172.685581,257,primary_school,St Anne's School (Woolston),multi,TRUE
+-43.535284,172.67488,258,primary_school,Linwood Avenue School,multi,TRUE
+-43.763797,172.795486,259,primary_school,Little River School,multi,FALSE
+-43.472028,172.664748,260,primary_school,Marshland School,multi,FALSE
+-43.562448,172.715927,261,primary_school,Mt Pleasant School,multi,TRUE
+-43.505942,172.723723,262,primary_school,New Brighton Catholic School (Chch),multi,FALSE
+-43.564866,172.606597,263,primary_school,Hoon Hay Te Kura KÃÂaka,multi,TRUE
+-43.379062,172.651468,264,primary_school,Kaiapoi Borough School,multi,TRUE
+-43.617669,172.532329,265,primary_school,Ladbrooks School,multi,FALSE
+-43.554159,172.687455,266,primary_school,Ngutuawa School,multi,FALSE
+-43.486649,172.596248,267,primary_school,Bishopdale School,multi,TRUE
+-43.536557,172.687055,268,primary_school,Bromley School,multi,TRUE
+-43.629962,172.726705,269,primary_school,Diamond Harbour School,multi,FALSE
+-43.517081,172.591149,270,primary_school,Fendalton Open Air School,multi,FALSE
+-43.623986,172.64999,271,primary_school,Governors Bay School,multi,FALSE
+-43.479772,172.559446,272,primary_school,Harewood School,multi,TRUE
+-43.560087,172.659135,273,primary_school,Rudolf Steiner School (Chch),multi,TRUE
+-43.53625,172.57652,274,primary_school,Middleton Grange School,multi,TRUE
+-43.606108,172.38121,275,primary_school,Clearview Primary,multi,FALSE
+-43.510659,172.724993,276,primary_school,Nova Montessori School,multi,FALSE
+-43.496105,172.717708,277,primary_school,RÃÂwhiti School,multi,TRUE
+-43.611772,172.404307,278,primary_school,Te RÃÂhutu Whio (Proposed opening date: 2022-01-01),multi,FALSE
+-43.648092,172.492975,279,primary_school,Ararira Springs Primary- Te Puna o Ararira,multi,FALSE
+-43.516643,172.623012,280,primary_school,Selwyn House School,multi,TRUE
+-43.5351605,172.5802564,0,supermarket,Big Chicken Supermarket,tsunami,FALSE
+-43.53274003,172.5730475,1,supermarket,Countdown,tsunami,FALSE
+-43.55682685,172.7025114,2,supermarket,Countdown,tsunami,TRUE
+-43.5387413,172.6417417,3,supermarket,Countdown,tsunami,FALSE
+-43.50676606,172.7299485,4,supermarket,Countdown,tsunami,TRUE
+-43.45900317,172.6250142,5,supermarket,Countdown,tsunami,FALSE
+-43.49152959,172.6117041,6,supermarket,Countdown,tsunami,FALSE
+-43.59418266,172.3866759,7,supermarket,Countdown,tsunami,FALSE
+-43.54274886,172.5269712,8,supermarket,Countdown,tsunami,FALSE
+-43.48986069,172.5477124,9,supermarket,Countdown,tsunami,FALSE
+-43.5056571,172.6645278,10,supermarket,Countdown,tsunami,FALSE
+-43.5111866,172.5572106,11,supermarket,Countdown,tsunami,FALSE
+-43.5324507,172.6755846,12,supermarket,Countdown,tsunami,FALSE
+-43.55331378,172.6355983,13,supermarket,Countdown Sydenham,tsunami,FALSE
+-43.51316108,172.6367287,14,supermarket,Edgeware FreshChoice,tsunami,FALSE
+-43.5232351,172.3704124,15,supermarket,Four Square,tsunami,FALSE
+-43.48134612,172.7060947,16,supermarket,Fresh Choice,tsunami,TRUE
+-43.5557083,172.6205318,17,supermarket,Fresh Choice,tsunami,FALSE
+-43.5340843,172.6378384,18,supermarket,Fresh Choice City Market,tsunami,FALSE
+-43.5128454,172.6213802,19,supermarket,Fresh Choice Supermarket,tsunami,FALSE
+-43.58063686,172.5659203,20,supermarket,New World,tsunami,FALSE
+-43.45963502,172.6223904,21,supermarket,New World,tsunami,FALSE
+-43.48845188,172.5872137,22,supermarket,New World,tsunami,FALSE
+-43.55753906,172.6547893,23,supermarket,New World,tsunami,FALSE
+-43.56242398,172.7390075,24,supermarket,New World,tsunami,TRUE
+-43.47515958,172.6620094,25,supermarket,New World,tsunami,FALSE
+-43.53870921,172.6331341,26,supermarket,New World,tsunami,FALSE
+-43.5179319,172.588375,27,supermarket,New World,tsunami,FALSE
+-43.5526955,172.5575428,28,supermarket,New World,tsunami,FALSE
+-43.5258837,172.5701643,29,supermarket,New World,tsunami,FALSE
+-43.5490378,172.6840966,30,supermarket,New World,tsunami,TRUE
+-43.64225793,172.4737121,31,supermarket,New World Lincoln,tsunami,FALSE
+-43.5967627,172.3824238,32,supermarket,New World Rolleston,tsunami,FALSE
+-43.52016129,172.6569832,33,supermarket,New World Stanmore,tsunami,FALSE
+-43.5426435,172.5233262,34,supermarket,PAK'nSAVE,tsunami,FALSE
+-43.49285848,172.6089146,35,supermarket,Pak'nSave,tsunami,FALSE
+-43.51282276,172.6932267,36,supermarket,Pak'nSave,tsunami,FALSE
+-43.5310944,172.5961987,37,supermarket,Pak'nSave,tsunami,FALSE
+-43.53900827,172.6383239,38,supermarket,Pak'nSave Moorhouse Avenue,tsunami,FALSE
+-43.5401055,172.6053454,39,supermarket,Raeward Fresh,tsunami,FALSE
+-43.4777997,172.5552277,40,supermarket,Reawood Fresh,tsunami,FALSE
+-43.5694327,172.7599984,41,supermarket,Sumner Supervalue,tsunami,TRUE
+-43.60288087,172.7215154,42,supermarket,SuperValue,tsunami,FALSE
+-43.509513,172.5902803,43,supermarket,SuperValue,tsunami,FALSE
+-43.53041974,172.6574869,44,supermarket,Supervalue,tsunami,FALSE
+-43.38619393,172.6589884,45,supermarket,Countdown,tsunami,TRUE
+-43.38240588,172.6589884,46,supermarket,New World,tsunami,TRUE
+-43.5671816,172.6355346,47,medical_clinic,Cashmere Health & Physio,tsunami,FALSE
+-43.302568,172.5916687,48,medical_clinic,Durham Health,tsunami,FALSE
+-43.3020404,172.5938606,49,medical_clinic,Good Street Medical Centre,tsunami,FALSE
+-43.381548,172.658214,50,medical_clinic,Kaiapoi Family Doctors,tsunami,FALSE
+-43.3851513,172.6552188,51,medical_clinic,Kaiapoi Medical Centre,tsunami,FALSE
+-43.3838471,172.6568487,52,medical_clinic,Kaye Buchan Kaiapoi,tsunami,FALSE
+-43.7613679,172.2994522,53,medical_clinic,Leeston Medical Centre,tsunami,FALSE
+-43.6404562,172.4852213,54,medical_clinic,Lincoln Medical,tsunami,FALSE
+-43.6425505,172.4685995,55,medical_clinic,Lincoln University Student Health & Support,tsunami,FALSE
+-43.3039901,172.5919674,56,medical_clinic,Medical Corner Doctors,tsunami,FALSE
+-43.5263504,172.6386968,57,medical_clinic,Menzmedical,tsunami,FALSE
+-43.5132281,172.6229239,58,medical_clinic,Merivale Village Medical Care,tsunami,FALSE
+-43.553126,172.6640804,59,medical_clinic,Opawa Surgery,tsunami,FALSE
+-43.4798067,172.6954698,60,medical_clinic,Parklands Medical Centre (Chch),tsunami,TRUE
+-43.3140479,172.6976781,61,medical_clinic,Pegasus Medical Centre,tsunami,FALSE
+-43.4743719,172.6260863,62,medical_clinic,Prestons Road Surgery,tsunami,FALSE
+-43.3085385,172.5966653,63,medical_clinic,Rangiora Family Doctors,tsunami,FALSE
+-43.5957078,172.3894715,64,medical_clinic,Rolleston Central Health,tsunami,FALSE
+-43.5948428,172.3750787,65,medical_clinic,Rolleston Medical Centre,tsunami,FALSE
+-43.5591296,172.702622,66,medical_clinic,Settlers Health Centre,tsunami,TRUE
+-43.3164877,172.6003441,67,medical_clinic,Southside Health,tsunami,FALSE
+-43.550862,172.6000633,68,medical_clinic,Village Health Lincoln Road,tsunami,FALSE
+-43.5224537,172.3704577,69,medical_clinic,West Melton Medical Centre,tsunami,FALSE
+-43.555845,172.5612426,70,medical_clinic,Wigram Health,tsunami,FALSE
+-43.3234375,172.6652561,71,medical_clinic,Woodend Medical Centre,tsunami,FALSE
+-43.5254823,172.6719958,72,medical_clinic,Woodham Road Healthcare,tsunami,FALSE
+-43.52070256,172.6303589,73,medical_clinic,298 Youth Health,tsunami,FALSE
+-43.54557559,172.5258579,74,medical_clinic,Amyes Road Medical Centre,tsunami,FALSE
+-43.55709556,172.620348,75,medical_clinic,Barrington Medical Centre,tsunami,FALSE
+-43.44520355,172.6333859,76,medical_clinic,Belfast Medical Centre,tsunami,FALSE
+-43.44470655,172.6329439,77,medical_clinic,Belfast North Mediqual Doctors,tsunami,FALSE
+-43.49018057,172.5880899,78,medical_clinic,Bishopdale Medical Centre,tsunami,FALSE
+-43.50908257,172.5904849,79,medical_clinic,Bryndwr Medical Rooms,tsunami,FALSE
+-43.49651957,172.5787619,80,medical_clinic,Burnside Medical Centre,tsunami,FALSE
+-43.48045856,172.6032359,81,medical_clinic,Casebrook Surgery,tsunami,FALSE
+-43.56681956,172.646938,82,medical_clinic,Cashmere Health,tsunami,FALSE
+-43.56699856,172.629422,83,medical_clinic,Cashmere Medical Practice,tsunami,FALSE
+-43.55626656,172.636678,84,medical_clinic,Christchurch South Health Centre,tsunami,FALSE
+-43.50501855,172.6347199,85,medical_clinic,Cranford Street Medical Practice,tsunami,FALSE
+-43.62646953,172.739929,86,medical_clinic,Diamond Harbour Surgery,tsunami,FALSE
+-43.53301756,172.6283289,87,medical_clinic,Doctors on Cashel,tsunami,FALSE
+-43.53046757,172.5928159,88,medical_clinic,Doctors on Riccarton,tsunami,FALSE
+-43.51292058,172.5551999,89,medical_clinic,Dr Kathy Davey,tsunami,FALSE
+-43.51292058,172.5551999,90,medical_clinic,Dr Susan Shand,tsunami,FALSE
+-43.51656953,172.701178,91,medical_clinic,Eastcare Health,tsunami,FALSE
+-43.51775557,172.5871119,92,medical_clinic,Fendalton Medical Centre,tsunami,FALSE
+-43.54090255,172.660402,93,medical_clinic,Ferry Road Medical Centre,tsunami,FALSE
+-43.55618954,172.697494,94,medical_clinic,Ferrymead Medical Centre,tsunami,FALSE
+-43.50771957,172.5698549,95,medical_clinic,Grahams Road Medical Practice,tsunami,FALSE
+-43.49870857,172.5867099,96,medical_clinic,Greers Road Medical Centre,tsunami,FALSE
+-43.57433758,172.5682579,97,medical_clinic,Halswellhealth,tsunami,FALSE
+-43.49117857,172.5952169,98,medical_clinic,Harewood Medical Centre,tsunami,FALSE
+-43.53825755,172.642922,99,medical_clinic,Health Centre Ara Institute of Canterbury,tsunami,FALSE
+-43.53660756,172.6364479,100,medical_clinic,Health and Sport Central,tsunami,FALSE
+-43.53581859,172.5214049,101,medical_clinic,Hei Hei Health Centre,tsunami,FALSE
+-43.55982355,172.657957,102,medical_clinic,Helios Integrative Medical Centre,tsunami,FALSE
+-43.52922357,172.6052069,103,medical_clinic,High Street City Health,tsunami,FALSE
+-43.55412657,172.5942419,104,medical_clinic,HillMed Health Centre,tsunami,FALSE
+-43.56601557,172.604239,105,medical_clinic,Hoon Hay Medical Centre,tsunami,FALSE
+-43.54441759,172.5287619,106,medical_clinic,Hornby Medical Centre,tsunami,FALSE
+-43.51225957,172.5806319,107,medical_clinic,Ilam Medical Centre,tsunami,FALSE
+-43.50211655,172.6333769,108,medical_clinic,Innes Road Medical Rooms,tsunami,FALSE
+-43.51569257,172.5717529,109,medical_clinic,Inspire Health Medical Practice,tsunami,FALSE
+-43.49784757,172.5727439,110,medical_clinic,Kendal Medical Centre,tsunami,FALSE
+-43.53295855,172.655534,111,medical_clinic,Kingdom Clinic,tsunami,FALSE
+-43.53321054,172.674028,112,medical_clinic,Linwood Medical Centre,tsunami,FALSE
+-43.57815959,172.5462929,113,medical_clinic,Longhurst Health,tsunami,FALSE
+-43.60346954,172.722625,114,medical_clinic,Lyttelton Health Centre,tsunami,FALSE
+-43.49133856,172.6130309,115,medical_clinic,Main North Road Medical Centre,tsunami,FALSE
+-43.49846755,172.6408549,116,medical_clinic,Mairehau Medical Centre,tsunami,FALSE
+-43.51151956,172.6214979,117,medical_clinic,Mansfield Health Practice,tsunami,FALSE
+-43.47488754,172.6592859,118,medical_clinic,Marshlands Family Health Centre,tsunami,FALSE
+-43.52137956,172.6368109,119,medical_clinic,Menzmedical,tsunami,FALSE
+-43.51014756,172.6202329,120,medical_clinic,Merivale Medical Practice,tsunami,FALSE
+-43.54073156,172.63974,121,medical_clinic,Moorhouse Medical Centre,tsunami,FALSE
+-43.55795353,172.722312,122,medical_clinic,Mt Pleasant Medical Centre,tsunami,TRUE
+-43.50905653,172.727617,123,medical_clinic,New Brighton Health Care,tsunami,TRUE
+-43.50980456,172.6067429,124,medical_clinic,Normans Road Surgery,tsunami,FALSE
+-43.51776955,172.6541109,125,medical_clinic,North Avon Medical Centre,tsunami,FALSE
+-43.47507056,172.6173119,126,medical_clinic,Northwood Medical Centre,tsunami,FALSE
+-43.53841556,172.6304619,127,medical_clinic,Pacific Health Clinic,tsunami,FALSE
+-43.50030656,172.6111929,128,medical_clinic,Papanui Medical Centre,tsunami,FALSE
+-43.51534355,172.6378859,129,medical_clinic,Promed Doctors,tsunami,FALSE
+-43.49499353,172.7111989,130,medical_clinic,QEII Medical Centre,tsunami,TRUE
+-43.47786153,172.6959789,131,medical_clinic,Queenspark Healthcare,tsunami,FALSE
+-43.56187953,172.738582,132,medical_clinic,Redcliffs Medical Centre,tsunami,TRUE
+-43.47920956,172.6170389,133,medical_clinic,Redwood Clinic,tsunami,FALSE
+-43.53172358,172.5717639,134,medical_clinic,Riccarton Clinic,tsunami,FALSE
+-43.53291957,172.5990099,135,medical_clinic,Riccarton Medical Practice,tsunami,FALSE
+-43.54828056,172.622099,136,medical_clinic,Selwyn Village Healthcare,tsunami,FALSE
+-43.50711055,172.6625929,137,medical_clinic,Shirley Medical Centre,tsunami,FALSE
+-43.50956856,172.6304629,138,medical_clinic,St Albans Medical Centre,tsunami,FALSE
+-43.55915655,172.654557,139,medical_clinic,St Martins Medical Practice,tsunami,FALSE
+-43.52859257,172.6022669,140,medical_clinic,Straven Medical,tsunami,FALSE
+-43.56891552,172.75837,141,medical_clinic,Sumner Health Centre,tsunami,TRUE
+-43.51058453,172.701306,142,medical_clinic,Te Rawhiti Family Care Centre,tsunami,TRUE
+-43.55337561,172.4731009,143,medical_clinic,Templeton Medical,tsunami,FALSE
+-43.53216456,172.6374769,144,medical_clinic,The Christchurch Doctors,tsunami,FALSE
+-43.49494453,172.7096289,145,medical_clinic,Travis Medical Centre,tsunami,TRUE
+-43.53217655,172.671399,146,medical_clinic,Union & Community Health Centre (Piki Te Ora),tsunami,FALSE
+-43.52384857,172.5795009,147,medical_clinic,University of Canterbury Student Health Centre,tsunami,FALSE
+-43.53133157,172.5778409,148,medical_clinic,Upper Riccarton Medical Centre,tsunami,FALSE
+-43.55282957,172.5966139,149,medical_clinic,Village Health Lincoln Road,tsunami,FALSE
+-43.55069855,172.646537,150,medical_clinic,Waltham Medical Centre,tsunami,FALSE
+-43.55198158,172.5569569,151,medical_clinic,WeCare Health Wigram,tsunami,FALSE
+-43.52537255,172.662356,152,medical_clinic,Woodham Road Medical,tsunami,FALSE
+-43.52775358,172.5575659,153,medical_clinic,Yaldhurst Family Doctors,tsunami,FALSE
+-43.602804,172.467945,154,primary_school,Broadfield School,tsunami,FALSE
+-43.551181,172.656331,155,primary_school,TKKM o Waitaha,tsunami,FALSE
+-43.546479,172.689238,156,primary_school,Tamariki School,tsunami,TRUE
+-43.384361,172.654115,157,primary_school,St Patrick's School (Kaiapoi),tsunami,FALSE
+-43.552887,172.659307,158,primary_school,St Mark's School (Christchurch),tsunami,FALSE
+-43.534774,172.633065,159,primary_school,St Michael's Church School,tsunami,FALSE
+-43.536311,172.596742,160,primary_school,Wharenui School,tsunami,FALSE
+-43.523227,172.639261,161,primary_school,St Mary's School (Christchurch),tsunami,FALSE
+-43.511239,172.604049,162,primary_school,St Patrick's School (Bryndwr),tsunami,FALSE
+-43.504214,172.605282,163,primary_school,Waimairi School,tsunami,FALSE
+-43.570608,172.403181,164,primary_school,Weedons School,tsunami,FALSE
+-43.521443,172.369386,165,primary_school,West Melton School,tsunami,FALSE
+-43.512146,172.570887,166,primary_school,Westburn School,tsunami,FALSE
+-43.488673,172.614444,167,primary_school,St Joseph's School (Papanui),tsunami,FALSE
+-43.565432,172.657232,168,primary_school,St Martins School,tsunami,FALSE
+-43.559766,172.637698,169,primary_school,St Peter's School (Beckenham),tsunami,FALSE
+-43.529758,172.59214,170,primary_school,St Teresa's School (Riccarton),tsunami,FALSE
+-43.566305,172.636568,171,primary_school,Thorrington School,tsunami,FALSE
+-43.51173,172.70486,172,primary_school,St James School (Aranui),tsunami,TRUE
+-43.574868,172.762543,173,primary_school,Our Lady Star of the Sea School (Christchurch),tsunami,TRUE
+-43.573098,172.759628,174,primary_school,Sumner School,tsunami,TRUE
+-43.550162,172.472361,175,primary_school,Templeton School,tsunami,FALSE
+-43.533484,172.525345,176,primary_school,St Bernadette's School (Hornby),tsunami,FALSE
+-43.547858,172.61824,177,primary_school,Addington Te Kura Taumatua,tsunami,FALSE
+-43.562252,172.587768,178,primary_school,Te KÃÂmanawa Rowley School,tsunami,FALSE
+-43.561645,172.628537,179,primary_school,Somerfield Te Kura Wairepo,tsunami,FALSE
+-43.547122,172.529047,180,primary_school,South Hornby School,tsunami,FALSE
+-43.52622,172.733527,181,primary_school,South New Brighton School,tsunami,TRUE
+-43.49871,172.641415,182,primary_school,Mairehau Primary School,tsunami,FALSE
+-43.577074,172.513059,183,primary_school,Prebbleton School,tsunami,FALSE
+-43.533363,172.564144,184,primary_school,Te KÃÂpehu Riccarton School,tsunami,FALSE
+-43.517895,172.544704,185,primary_school,Russley School,tsunami,FALSE
+-43.375957,172.663615,186,primary_school,Kaiapoi North School,tsunami,TRUE
+-43.553946,172.551525,187,primary_school,Wigram Primary School - Te Piki KÃÂhu,tsunami,FALSE
+-43.557575,172.597927,188,primary_school,Spreydon School,tsunami,FALSE
+-43.513251,172.668112,189,primary_school,Banks Avenue School,tsunami,TRUE
+-43.562877,172.645488,190,primary_school,Beckenham Te Kura o PÃÂ«roto,tsunami,FALSE
+-43.453618,172.627302,191,primary_school,Belfast School,tsunami,FALSE
+-43.512738,172.581782,192,primary_school,Burnside Primary School,tsunami,FALSE
+-43.637105,172.487099,193,primary_school,Lincoln Primary School,tsunami,FALSE
+-43.555662,172.66449,194,primary_school,Opawa School,tsunami,FALSE
+-43.538707,172.522632,195,primary_school,Hornby Primary School,tsunami,FALSE
+-43.493107,172.582123,196,primary_school,Isleworth School,tsunami,FALSE
+-43.482458,172.587178,197,primary_school,Cotswold School,tsunami,FALSE
+-43.524102,172.559497,198,primary_school,Avonhead School,tsunami,FALSE
+-43.548989,172.648613,199,primary_school,Waltham School,tsunami,FALSE
+-43.576418,172.632546,200,primary_school,Cashmere Primary Te Pae KererÃÂ«,tsunami,FALSE
+-43.405997,172.623356,201,primary_school,Clarkville School,tsunami,FALSE
+-43.529738,172.521344,202,primary_school,Gilberthorpe School,tsunami,FALSE
+-43.579876,172.708878,203,primary_school,Heathcote Valley School,tsunami,FALSE
+-43.663629,172.550066,204,primary_school,Tai Tapu School,tsunami,FALSE
+-43.444597,172.660388,205,primary_school,Ouruhia Model School,tsunami,FALSE
+-43.488025,172.619727,206,primary_school,Papanui School,tsunami,FALSE
+-43.499655,172.619586,207,primary_school,Paparoa Street School,tsunami,FALSE
+-43.556439,172.733609,208,primary_school,Te Raekura Redcliffs School,tsunami,FALSE
+-43.473605,172.621954,209,primary_school,Redwood School (Christchurch),tsunami,FALSE
+-43.644586,172.425734,210,primary_school,Springston School,tsunami,FALSE
+-43.507131,172.629095,211,primary_school,St Albans Catholic School (Christchurch),tsunami,FALSE
+-43.524848,172.675792,212,primary_school,WhÃÂ«tau School,tsunami,FALSE
+-43.510497,172.558579,213,primary_school,Merrin School,tsunami,FALSE
+-43.479365,172.614009,214,primary_school,Northcote School (Christchurch),tsunami,FALSE
+-43.571583,172.56465,215,primary_school,Oaklands School,tsunami,FALSE
+-43.370163,172.590554,216,primary_school,Ohoka School,tsunami,FALSE
+-43.526413,172.579696,217,primary_school,Ilam School,tsunami,FALSE
+-43.509154,172.576637,218,primary_school,Christ The King School (Burnside),tsunami,FALSE
+-43.529647,172.648358,219,primary_school,Christchurch East School,tsunami,FALSE
+-43.513814,172.614755,220,primary_school,Elmwood Normal School,tsunami,FALSE
+-43.590655,172.569381,221,primary_school,Halswell School,tsunami,FALSE
+-43.528058,172.628555,222,primary_school,The Cathedral Grammar School,tsunami,FALSE
+-43.506368,172.615873,223,primary_school,St Andrew's College (Christchurch),tsunami,FALSE
+-43.520222,172.654826,224,primary_school,Jean Seabrook Memorial School,tsunami,FALSE
+-43.52931,172.672461,225,primary_school,Te Pa o Rakaihautu,tsunami,TRUE
+-43.514761,172.696693,226,primary_school,Haeata Community Campus,tsunami,FALSE
+-43.602344,172.723168,227,primary_school,Lyttelton Primary School,tsunami,FALSE
+-43.499792,172.639393,228,primary_school,St Francis of Assisi Catholic School,tsunami,FALSE
+-43.570862,172.537934,229,primary_school,Knights Stream School- Mingimingi Hautoa,tsunami,FALSE
+-43.478668,172.588279,230,primary_school,Emmanuel Christian School,tsunami,FALSE
+-43.555741,172.652801,231,primary_school,Hillview Christian School,tsunami,FALSE
+-43.499023,172.611436,232,primary_school,Christchurch Adventist School,tsunami,FALSE
+-43.622673,172.386021,233,primary_school,Lemonwood Grove School,tsunami,FALSE
+-43.564588,172.614592,234,primary_school,TKKM o Te Whanau Tahi,tsunami,FALSE
+-43.563771,172.571,235,primary_school,Aidanfield Christian School,tsunami,FALSE
+-43.535939,172.635943,236,primary_school,Ao Tawhiti Unlimited Discovery,tsunami,FALSE
+-43.545671,172.672639,237,primary_school,Te Waka Unua School,tsunami,FALSE
+-43.488844,172.683844,238,primary_school,Waitakiri Primary School,tsunami,FALSE
+-43.606888,172.355917,239,primary_school,West Rolleston Primary School,tsunami,FALSE
+-43.519096,172.622159,240,primary_school,St Margaret's College,tsunami,FALSE
+-43.608323,172.392912,241,primary_school,Rolleston Christian School,tsunami,FALSE
+-43.58267,172.548458,242,primary_school,Seven Oaks School,tsunami,FALSE
+-43.521889,172.589114,243,primary_school,Medbury Preparatory School,tsunami,FALSE
+-43.500167,172.588282,244,primary_school,Wairakei School (Christchurch),tsunami,FALSE
+-43.559634,172.611297,245,primary_school,Te Ara Koropiko West Spreydon School,tsunami,FALSE
+-43.510194,172.502189,246,primary_school,Yaldhurst Model School,tsunami,FALSE
+-43.369342,172.495566,247,primary_school,Swannanoa School,tsunami,FALSE
+-43.546066,172.612757,248,primary_school,Sacred Heart School (Christchurch),tsunami,FALSE
+-43.564788,172.60708,249,primary_school,Our Lady of the Assumption School (Chch),tsunami,FALSE
+-43.536215,172.559125,250,primary_school,Our Lady of Victories,tsunami,FALSE
+-43.4806,172.705631,251,primary_school,Parkview PÃÂrua,tsunami,TRUE
+-43.473158,172.695985,252,primary_school,Queenspark School,tsunami,TRUE
+-43.592491,172.381339,253,primary_school,Rolleston School,tsunami,FALSE
+-43.494484,172.563148,254,primary_school,Te Ara Maurea Roydvale School,tsunami,FALSE
+-43.507888,172.653152,255,primary_school,Shirley Primary School,tsunami,FALSE
+-43.508774,172.634388,256,primary_school,St Albans School,tsunami,FALSE
+-43.550383,172.685581,257,primary_school,St Anne's School (Woolston),tsunami,TRUE
+-43.535284,172.67488,258,primary_school,Linwood Avenue School,tsunami,FALSE
+-43.763797,172.795486,259,primary_school,Little River School,tsunami,FALSE
+-43.472028,172.664748,260,primary_school,Marshland School,tsunami,FALSE
+-43.562448,172.715927,261,primary_school,Mt Pleasant School,tsunami,FALSE
+-43.505942,172.723723,262,primary_school,New Brighton Catholic School (Chch),tsunami,TRUE
+-43.564866,172.606597,263,primary_school,Hoon Hay Te Kura KÃÂaka,tsunami,FALSE
+-43.379062,172.651468,264,primary_school,Kaiapoi Borough School,tsunami,TRUE
+-43.617669,172.532329,265,primary_school,Ladbrooks School,tsunami,FALSE
+-43.554159,172.687455,266,primary_school,Ngutuawa School,tsunami,TRUE
+-43.486649,172.596248,267,primary_school,Bishopdale School,tsunami,FALSE
+-43.536557,172.687055,268,primary_school,Bromley School,tsunami,FALSE
+-43.629962,172.726705,269,primary_school,Diamond Harbour School,tsunami,FALSE
+-43.517081,172.591149,270,primary_school,Fendalton Open Air School,tsunami,FALSE
+-43.623986,172.64999,271,primary_school,Governors Bay School,tsunami,FALSE
+-43.479772,172.559446,272,primary_school,Harewood School,tsunami,FALSE
+-43.560087,172.659135,273,primary_school,Rudolf Steiner School (Chch),tsunami,FALSE
+-43.53625,172.57652,274,primary_school,Middleton Grange School,tsunami,FALSE
+-43.606108,172.38121,275,primary_school,Clearview Primary,tsunami,FALSE
+-43.510659,172.724993,276,primary_school,Nova Montessori School,tsunami,TRUE
+-43.496105,172.717708,277,primary_school,RÃÂwhiti School,tsunami,FALSE
+-43.611772,172.404307,278,primary_school,Te RÃÂhutu Whio (Proposed opening date: 2022-01-01),tsunami,FALSE
+-43.648092,172.492975,279,primary_school,Ararira Springs Primary- Te Puna o Ararira,tsunami,FALSE
+-43.516643,172.623012,280,primary_school,Selwyn House School,tsunami,FALSE
